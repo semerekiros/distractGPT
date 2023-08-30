@@ -35,13 +35,18 @@ The *predictions-**model_name*** folder contains the predictions from each of th
 
 ### Pre-requisites ###
 
-> pip install -r requirements.txt 
-
+> pip install -r requirements.txt
 
 #### Train mt5 model from scratch ###
 
 <pre> sh run_mt5.sh
 </pre>
 
+#### To generate distractors using Zero-shot ChatGPT: run ###
+python zeroshot_chatgpt.py --subject "subject-name" --output_path  "output-folder-name"
 
+#### To generate distractors using Few-shot ChatGPT: run ###
+python fewshot_chatGPT.py --subject "subject-name" --output_path  "output-folder-name"
 
+#### To generate distractors using Static-Few-shot ChatGPT: run ###
+python static_fewshot_chatGPT.py --subject "subject-name" --output_path  "output-folder-name"
