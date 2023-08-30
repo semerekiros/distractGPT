@@ -31,7 +31,7 @@ The **test-data** folder contains all the subjects as JSON files. Each subject i
 
 ```
 ### Predictions from the different models ###
-predictions-**model_name** contains the predictions from each of the models. The models are **zero-shot**, **mt5**, **few-shot** and **few-shot-static**
+The *predictions-**model_name*** folder contains the predictions from each of the models. The models are **zero-shot**, **mt5**, **few-shot** and **few-shot-static**
 
 ### Pre-requisites ###
 
