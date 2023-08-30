@@ -1,0 +1,139 @@
+{
+    "qid": "cb64669b-7bd9-4e0e-9d76-de59b1fb9f6c",
+    "response": {
+        "Query": "In welke zee mondt de Schelde uit?",
+        "Result": [
+            {
+                "answer": "West-Vlaanderen",
+                "answer_length": 1,
+                "distractors": [
+                    "Henegouwen",
+                    "Oost-Vlaanderen",
+                    "Antwerpen"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Uit welke provincie komt Nino Bacelle vandaan ?",
+                "question_length": 13,
+                "score": 0.9631018109380286
+            },
+            {
+                "answer": "Firenze",
+                "answer_length": 1,
+                "distractors": [
+                    "Pisa",
+                    "Rome",
+                    "Siena"
+                ],
+                "language": "lb",
+                "question": "Waar bevinden zich de kunstgaleries Pitti en Uffizi ?",
+                "question_length": 9,
+                "score": 0.9471566478321443
+            },
+            {
+                "answer": "Luik",
+                "answer_length": 1,
+                "distractors": [
+                    "Aarlen",
+                    "Bergen",
+                    "Namen",
+                    "Waver"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan Welke provincie hoofdstad heeft dezelfde naam als de provincie ?",
+                "question_length": 15,
+                "score": 0.9465634326639404
+            },
+            {
+                "answer": "brugge",
+                "answer_length": 1,
+                "distractors": [
+                    "torhout",
+                    "kortrijk"
+                ],
+                "language": "nl",
+                "question": "noteer het juiste antwoord hogeschool West-Vlaanderen",
+                "question_length": 6,
+                "score": 0.9337153324776795
+            },
+            {
+                "answer": "koning Tyrsenos",
+                "answer_length": 2,
+                "distractors": [
+                    "de Tyrreense rivier",
+                    "Tyrrenie in het oosten",
+                    "Turkije"
+                ],
+                "language": "nl",
+                "question": "Vanwaar komt de benaming van de Tyrreense Zee ?",
+                "question_length": 9,
+                "score": 0.9261370172271111
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Noord-Amerika",
+                    "Zuid-Amerika",
+                    "Azie"
+                ],
+                "language": "nl",
+                "question": "In welk werelddeel ligt Congo ? Duid het juiste werelddeel aan .",
+                "question_length": 12,
+                "score": 0.9196710074361973
+            },
+            {
+                "answer": "Indische Oceaan",
+                "answer_length": 2,
+                "distractors": [
+                    "Atlantische Oceaan",
+                    "Australische Oceaan",
+                    "Grote Oceaan"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Je maakt een overtocht van Dar es Salaam naar Perth . Over welke oceaan vaar je dan ?",
+                "question_length": 25,
+                "score": 0.9177346057074397
+            },
+            {
+                "answer": "neen",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Vind je het antwoord van de onderstaande vraag in de tekst ? Waar staat de snelste achtbaan in Europa ?",
+                "question_length": 20,
+                "score": 0.9104940751813353
+            },
+            {
+                "answer": "Vlaams-Brabant",
+                "answer_length": 1,
+                "distractors": [
+                    "Henegouwen",
+                    "Waals-Brabant",
+                    "Luik"
+                ],
+                "language": "nl",
+                "question": "In welke provincie staat het vlagje ? Bekijk de kaart . Duid de juiste provincie aan .",
+                "question_length": 17,
+                "score": 0.9102489262326313
+            },
+            {
+                "answer": "Frankrijk en Nederland",
+                "answer_length": 3,
+                "distractors": [
+                    "Frankrijk en Duitsland",
+                    "Duitsland en Nederland",
+                    "Engeland en Nederland",
+                    "Nederland en Luxemburg",
+                    "Frankrijk en Luxemburg"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Aan welke twee landen grenst onze kuststreek ?",
+                "question_length": 14,
+                "score": 0.9100577732883798
+            }
+        ]
+    }
+}

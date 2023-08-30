@@ -1,0 +1,5 @@
+{
+    "qid": "0bbe4a5e-14bc-4c93-b8a6-63a89e7dae8c",
+    "input": "Select the right word . I 'm pretty ... . up tomorrow afternoon . Would Wednesday morning be all right ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. tied\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. signed\n2. going out\n3. is up\n4. in\n5. over\n6. with\n7. on\n8. at\n9. nowhere\n10. forgot"
+}

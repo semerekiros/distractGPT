@@ -1,0 +1,120 @@
+{
+    "qid": "9da29b19-6374-4ad2-9a2e-40a0cb28f1f3",
+    "response": {
+        "Query": "Poser sa candidature : choisissez le mot approprie een vacature",
+        "Result": [
+            {
+                "answer": "une vacance",
+                "answer_length": 2,
+                "distractors": [
+                    "une vacation"
+                ],
+                "language": "fr",
+                "question": "Poser sa candidature : choisissez le mot approprie een vacature",
+                "question_length": 10,
+                "score": 0.9972879071411707
+            },
+            {
+                "answer": "permis de conduire",
+                "answer_length": 3,
+                "distractors": [
+                    "permission de conduire"
+                ],
+                "language": "fr",
+                "question": "Poser sa candidature : choisissez le mot approprie rijbewijs",
+                "question_length": 9,
+                "score": 0.9947886749828501
+            },
+            {
+                "answer": "permis de conduire",
+                "answer_length": 3,
+                "distractors": [
+                    "permission de conduire"
+                ],
+                "language": "fr",
+                "question": "Les informations de mon CV : choisissez le mot approprie rijbewijs",
+                "question_length": 11,
+                "score": 0.9917342610333552
+            },
+            {
+                "answer": "une faculte d'adaptation",
+                "answer_length": 3,
+                "distractors": [
+                    "une faculte d'adoption"
+                ],
+                "language": "fr",
+                "question": "Poser sa candidature : choisissez le mot approprie aanpassingsvermogen",
+                "question_length": 9,
+                "score": 0.9869543991785318
+            },
+            {
+                "answer": "un manque",
+                "answer_length": 2,
+                "distractors": [
+                    "un defaut"
+                ],
+                "language": "fr",
+                "question": "Poser sa candidature : choisissez le mot approprie een tekort",
+                "question_length": 10,
+                "score": 0.9868101183819827
+            },
+            {
+                "answer": "une proposition",
+                "answer_length": 2,
+                "distractors": [
+                    "un conseil"
+                ],
+                "language": "fr",
+                "question": "Dans la phrase que vous allez entendre , exprime-t-on un conseil ou formule-t-on une proposition ? Pour voir le texte , cliquez sur le bouton ? ci-dessous .",
+                "question_length": 28,
+                "score": 0.9843688736847002
+            },
+            {
+                "answer": "un defaut",
+                "answer_length": 2,
+                "distractors": [
+                    "un manque"
+                ],
+                "language": "lb",
+                "question": "Poser sa candidature : choisissez le mot approprie een gebrek",
+                "question_length": 10,
+                "score": 0.984308591696949
+            },
+            {
+                "answer": "permis de conduire",
+                "answer_length": 3,
+                "distractors": [
+                    "brevet de conduite",
+                    "licence de roulage",
+                    "permis de roulage"
+                ],
+                "language": "fr",
+                "question": "Veuillez cocher la bonne reponse Quelle est l'expression manquante dans la phrase ci-dessous ? Les prevenus ont conduit un vehicule a moteur sur la voie publique sans etre titulaire du ... ... ... ... . ou du titre qui en tient lieu , exige pour la conduite de ce vehicule ( art.21 et 30 par.1-1* et 38 par.2 AR du 16.3.1968 ) .",
+                "question_length": 63,
+                "score": 0.9668779211922677
+            },
+            {
+                "answer": "une affaire",
+                "answer_length": 2,
+                "distractors": [
+                    "une liaison"
+                ],
+                "language": "fr",
+                "question": "Des mots qui se ressemblent : choisissez le mot approprie een zaak",
+                "question_length": 12,
+                "score": 0.9604339529418767
+            },
+            {
+                "answer": "une adaptation",
+                "answer_length": 2,
+                "distractors": [
+                    "une adoption"
+                ],
+                "language": "fr",
+                "question": "Des mots qui se ressemblent : choisissez le mot approprie aanpassing",
+                "question_length": 11,
+                "score": 0.9544349607981921
+            }
+        ]
+    }
+}

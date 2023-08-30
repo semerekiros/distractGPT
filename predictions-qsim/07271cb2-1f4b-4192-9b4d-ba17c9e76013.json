@@ -1,0 +1,134 @@
+{
+    "qid": "07271cb2-1f4b-4192-9b4d-ba17c9e76013",
+    "response": {
+        "Query": "Welke farao slaagde erin om Egypte na de eerste tusenperiode weer te verenigen en zo het middenrijk te starten?",
+        "Result": [
+            {
+                "answer": "Qin-dynastie",
+                "answer_length": 1,
+                "distractors": [
+                    "Tang dynastie",
+                    "Ming dynastie",
+                    "Han dynastie"
+                ],
+                "language": "nl",
+                "question": "6 . Welke dynastie regeerde eerst in China ?",
+                "question_length": 9,
+                "score": 0.9795956077028187
+            },
+            {
+                "answer": "Homeros",
+                "answer_length": 1,
+                "distractors": [
+                    "Aristoteles",
+                    "Plato",
+                    "Sophocles"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie zou de schrijver zijn van het beroemde werk over de Trojaanse oorlog , de Ilias ?",
+                "question_length": 24,
+                "score": 0.9793684809512186
+            },
+            {
+                "answer": "de grot van Spy ",
+                "answer_length": 4,
+                "distractors": [
+                    "de Cro-Magnon streek ",
+                    "de mijnen van Spiennes ",
+                    "Sprimont "
+                ],
+                "language": "nl",
+                "question": "De oudste menselijke resten in ons land werden teruggevonden in",
+                "question_length": 10,
+                "score": 0.9732686332694083
+            },
+            {
+                "answer": "Koning Albert I",
+                "answer_length": 3,
+                "distractors": [
+                    "Koning Albert II",
+                    "Koning Leopold",
+                    "Koning Willem"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie was de koning van Belgie tijdens de Grote Oorlog ?",
+                "question_length": 18,
+                "score": 0.9725713582523002
+            },
+            {
+                "answer": "Gorbatsjov",
+                "answer_length": 1,
+                "distractors": [
+                    "Brenzjnev",
+                    "Chroest s jvov",
+                    "Gagarin"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie was de leider in de USSR van 1985 tot 1991 toen het communisme in elkaar stortte ?",
+                "question_length": 25,
+                "score": 0.9691417045733215
+            },
+            {
+                "answer": "Constantijn",
+                "answer_length": 1,
+                "distractors": [
+                    "de vader van Constantijn",
+                    "de opvolger van Constantijn"
+                ],
+                "language": "nl",
+                "question": "Welke keizer maakt Constantinopel tot keizerlijke residentiestad ?",
+                "question_length": 8,
+                "score": 0.9668265819517521
+            },
+            {
+                "answer": "Sp.a",
+                "answer_length": 1,
+                "distractors": [
+                    "Open VLD",
+                    "CD `` V"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Tot welke politieke partij behoort de minister van onderwijs en vorming ?",
+                "question_length": 18,
+                "score": 0.9623269015198973
+            },
+            {
+                "answer": "neemt altijd maar toe",
+                "answer_length": 4,
+                "distractors": [
+                    "neemt altijd af",
+                    "blijft ongeveer gelijk"
+                ],
+                "language": "nl",
+                "question": "Maak je keuze uit de volgende antwoorden . Er is slechts een juist antwoord mogelijk . Veel succes ! De administratie in de economie",
+                "question_length": 24,
+                "score": 0.9605845949252237
+            },
+            {
+                "answer": "Marcus Aurelius",
+                "answer_length": 2,
+                "distractors": [
+                    "Constantijn",
+                    "Commodus"
+                ],
+                "language": "nl",
+                "question": "Welke keizer wordt de 'filosoof-keizer ' genoemd ?",
+                "question_length": 8,
+                "score": 0.9573420763138386
+            },
+            {
+                "answer": "Galilei",
+                "answer_length": 1,
+                "distractors": [
+                    "Confucius",
+                    "Copernicus",
+                    "Locke"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke filosoof kan je verbinden met deze tekst ? Hoewel hij reeds vroeg overtuigd was van het heliocentrische wereldbeeld , sprak hij zich pas in 1610 daarvoor uit in een boek , waarin hij bovengenoemde ontdekkingen beschreef . Dit gaf aanleiding tot de veroordeling van dit stelsel voor de Romeinse Inquisitie ( kerkelijke rechtbank ) . Na een proces moest hij de leer afzweren .",
+                "question_length": 72,
+                "score": 0.9558358127988636
+            }
+        ]
+    }
+}

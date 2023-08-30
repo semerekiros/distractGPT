@@ -1,0 +1,118 @@
+{
+    "qid": "93b14ef3-9764-4b09-aad5-42cc50804569",
+    "response": {
+        "Query": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Le mediateur americain a pu reconcilier les ... .. et obtenir en quelques jours un compromis acceptable .",
+        "Result": [
+            {
+                "answer": "parties",
+                "answer_length": 1,
+                "distractors": [
+                    "partis"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Le mediateur americain a pu reconcilier les ... .. et obtenir en quelques jours un compromis acceptable .",
+                "question_length": 34,
+                "score": 0.8924789131327561
+            },
+            {
+                "answer": "faire-part",
+                "answer_length": 1,
+                "distractors": [
+                    "annonces"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . De plus en plus , les annonces dans les journaux remplacent les ... .. de deces .",
+                "question_length": 33,
+                "score": 0.8464242291064282
+            },
+            {
+                "answer": "tri",
+                "answer_length": 1,
+                "distractors": [
+                    "triage"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . La poste envisage d'engager des interimaires pour alleger la levee et le ... .. du courrier entre Noel et Nouvel An .",
+                "question_length": 38,
+                "score": 0.8282421659819599
+            },
+            {
+                "answer": "progressif",
+                "answer_length": 1,
+                "distractors": [
+                    "progressiste"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Le developpement ... .. de son entreprise lui a permis d'engager plusieurs cadres .",
+                "question_length": 30,
+                "score": 0.8132820909080297
+            },
+            {
+                "answer": "les fondements",
+                "answer_length": 2,
+                "distractors": [
+                    "les fondations"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Ce groupement d'anarchistes n ' a qu'un seul objectif : saper ... .. de la democratie .",
+                "question_length": 33,
+                "score": 0.7945993608198294
+            },
+            {
+                "answer": "altitude",
+                "answer_length": 1,
+                "distractors": [
+                    "hauteur"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . C'est trois minutes apres le decollage , a une ... .. de 1600 metres , que l'avion a explose .",
+                "question_length": 36,
+                "score": 0.7432335258880152
+            },
+            {
+                "answer": "processus",
+                "answer_length": 1,
+                "distractors": [
+                    "proces"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Le ... .. de production a ete entierement robotise .",
+                "question_length": 26,
+                "score": 0.7283291307100441
+            },
+            {
+                "answer": "au jour le jour",
+                "answer_length": 4,
+                "distractors": [
+                    "de jour en jour"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . On dirait que nos voisins vivent ... .. , tellement ils sont gaspilleurs .",
+                "question_length": 30,
+                "score": 0.7248033687526094
+            },
+            {
+                "answer": "liberales",
+                "answer_length": 1,
+                "distractors": [
+                    "libres"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Malgre certaines reglementations nouvelles , les professions ... .. conservent beaucoup d'attrait .",
+                "question_length": 29,
+                "score": 0.6881481638423284
+            },
+            {
+                "answer": "magazine",
+                "answer_length": 1,
+                "distractors": [
+                    "magasin"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . La moitie des Francais lisent regulierement un ... .. .",
+                "question_length": 26,
+                "score": 0.6857011568151803
+            }
+        ]
+    }
+}

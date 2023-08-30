@@ -1,0 +1,5 @@
+{
+    "qid": "ad33b004-2c45-40ad-af38-24c482078adf",
+    "input": "Van welk land is Wenen de hoofdstad? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Oostenrijk\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. duitsland\n2. zuid-korea\n3. zuid-duitsland\n4. oostenrijk\n5. noorwegen\n6. wales\n7. frankrijk\n8. slovakije 9.\n9. vlaamse eilanden\n10. zweden"
+}

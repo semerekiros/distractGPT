@@ -1,0 +1,134 @@
+{
+    "qid": "a046fcfe-8981-4fb9-81f3-254004b319d2",
+    "response": {
+        "Query": "Hoeveel vluchten zijn er jaarlijks?",
+        "Result": [
+            {
+                "answer": "7",
+                "answer_length": 1,
+                "distractors": [
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "language": "nl",
+                "question": "Duid een antwoord aan ! neem je hb mavo hoeveel boeken van nieuwe mavo gaf de boeck uit ?",
+                "question_length": 19,
+                "score": 0.9527036220597638
+            },
+            {
+                "answer": "20.000",
+                "answer_length": 1,
+                "distractors": [
+                    "3500",
+                    "30.000",
+                    "10.000"
+                ],
+                "language": "nl",
+                "question": "Hoeveel banen schrapt dit bedrijf ?",
+                "question_length": 6,
+                "score": 0.9522714756905022
+            },
+            {
+                "answer": "10 000",
+                "answer_length": 2,
+                "distractors": [
+                    "10 0",
+                    "1 000",
+                    "100 000"
+                ],
+                "language": "nl",
+                "question": "In het regenwoud in Columbia valt ruimt 10 meter neerslag per jaar . Hoeveel liter is dat per m2 ?",
+                "question_length": 20,
+                "score": 0.9480691359160242
+            },
+            {
+                "answer": "50.000",
+                "answer_length": 1,
+                "distractors": [
+                    "5",
+                    "50",
+                    "500",
+                    "5.000"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Tijdens een onweersbui valt 10 mm regen op een voetbalveld met afmetingen 100 m bij 50 m. Hoeveel liter water is er op dat veld gevallen ?",
+                "question_length": 40,
+                "score": 0.9456565639625891
+            },
+            {
+                "answer": "ongeveer 420 000 ton",
+                "answer_length": 4,
+                "distractors": [
+                    "ongeveer 420 ton",
+                    "ongeveer 840 ton",
+                    "ongeveer 840 000 ton"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoeveel olijfolie produceerde Andalusie in het seizoen 2014/2015 ?",
+                "question_length": 16,
+                "score": 0.9358709458895655
+            },
+            {
+                "answer": "28",
+                "answer_length": 1,
+                "distractors": [
+                    "25",
+                    "26",
+                    "27"
+                ],
+                "language": "nl",
+                "question": "Met hoeveel stenen speel je domino ?",
+                "question_length": 7,
+                "score": 0.9207437392592026
+            },
+            {
+                "answer": "888",
+                "answer_length": 1,
+                "distractors": [
+                    "111",
+                    "444"
+                ],
+                "language": "nl",
+                "question": "Welk nummer bel je bij brand ?",
+                "question_length": 7,
+                "score": 0.9206610579474549
+            },
+            {
+                "answer": "meer dan 35 miljoen",
+                "answer_length": 4,
+                "distractors": [
+                    "meer dan 25 000"
+                ],
+                "language": "nl",
+                "question": "Lees en luister eerst naar het verhaal en kijk naar de foto . Hoe staat het in de tekst ? Kies het juiste antwoord . Hoeveel hamburgers worden er elke dag verkocht ?",
+                "question_length": 33,
+                "score": 0.919479461618899
+            },
+            {
+                "answer": "105",
+                "answer_length": 1,
+                "distractors": [
+                    "210",
+                    "147"
+                ],
+                "language": "nl",
+                "question": "... /3 punten Een Belgische onderneming met volledig recht op aftrek , laat een personenwagen van het bedrijf herstellen in Nederland na een ongeval . Kostprijs van de herstelling \u20ac 1.000,00 exclusief btw . De onderneming krijgt van de hersteller een correcte factuur . De auto wordt 70 % gebruikt voor prive verplaatsingen . Hoeveel btw mag in Belgie in aftrek worden gebracht ?",
+                "question_length": 64,
+                "score": 0.9175819435125634
+            },
+            {
+                "answer": "119",
+                "answer_length": 1,
+                "distractors": [
+                    "112",
+                    "115"
+                ],
+                "language": "fr",
+                "question": "Si vous avez des questions sur une possible maltraitance concernant un enfant dont vous vous occupez-vous , quel numero pouvez-vous composer pour demander des informations generales ? COCHEZ la bonne reponse .",
+                "question_length": 32,
+                "score": 0.9145821152361909
+            }
+        ]
+    }
+}

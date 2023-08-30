@@ -1,0 +1,134 @@
+{
+    "qid": "f4bedfa2-4601-4a1e-8c20-0c76fb032cdc",
+    "response": {
+        "Query": "1.4 When you ... ... ... ... ... ... Henry , tell him the truth .",
+        "Result": [
+            {
+                "answer": "worked",
+                "answer_length": 1,
+                "distractors": [
+                    "working",
+                    "will work",
+                    "works"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Today , Rita works in the garden . Yesterday , she ... in the house .",
+                "question_length": 21,
+                "score": 0.8822460651418862
+            },
+            {
+                "answer": "meet",
+                "answer_length": 1,
+                "distractors": [
+                    "met",
+                    "will meet",
+                    "would meet"
+                ],
+                "language": "en",
+                "question": "1.4 When you ... ... ... ... ... ... Henry , tell him the truth .",
+                "question_length": 16,
+                "score": 0.8754099249722705
+            },
+            {
+                "answer": "would",
+                "answer_length": 1,
+                "distractors": [
+                    "should",
+                    "was used to",
+                    "had been used to"
+                ],
+                "language": "en",
+                "question": "Last year , he ... stay at the office overnight",
+                "question_length": 10,
+                "score": 0.8605546265276274
+            },
+            {
+                "answer": "could n't have",
+                "answer_length": 3,
+                "distractors": [
+                    "ca n't have",
+                    "must n't have",
+                    "ca n't have been"
+                ],
+                "language": "en",
+                "question": "He ... already gone",
+                "question_length": 4,
+                "score": 0.8588304180689008
+            },
+            {
+                "answer": "were/would",
+                "answer_length": 1,
+                "distractors": [
+                    "would be/will",
+                    "be/should",
+                    "was/could"
+                ],
+                "language": "en",
+                "question": "If I ... you , I ... accept the offer",
+                "question_length": 10,
+                "score": 0.8481088641905763
+            },
+            {
+                "answer": "will do",
+                "answer_length": 2,
+                "distractors": [
+                    "are going to do",
+                    "do"
+                ],
+                "language": "en",
+                "question": "Read the text and complete by ticking the correct answers . 5",
+                "question_length": 12,
+                "score": 0.8418546268216915
+            },
+            {
+                "answer": "is n't",
+                "answer_length": 2,
+                "distractors": [
+                    "are n't"
+                ],
+                "language": "en",
+                "question": "Choose the correct verb form , singular or plural ? Three days __________ long enough for a good holiday .",
+                "question_length": 20,
+                "score": 0.8410893602831205
+            },
+            {
+                "answer": "meet",
+                "answer_length": 1,
+                "distractors": [
+                    "met",
+                    "will meet",
+                    "would meet"
+                ],
+                "language": "en",
+                "question": "4 . When you ... ... ... ... ... ... Henry , tell him the truth .",
+                "question_length": 17,
+                "score": 0.8399631808685963
+            },
+            {
+                "answer": "weighed",
+                "answer_length": 1,
+                "distractors": [
+                    "thought",
+                    "posed",
+                    "wondered"
+                ],
+                "language": "en",
+                "question": "She ... . her options carefully .",
+                "question_length": 7,
+                "score": 0.8352479560616133
+            },
+            {
+                "answer": "am going to do it",
+                "answer_length": 5,
+                "distractors": [
+                    "am doing it",
+                    "will do it"
+                ],
+                "language": "en",
+                "question": "Read the text and complete by ticking the correct answers . 2",
+                "question_length": 12,
+                "score": 0.8298016436710522
+            }
+        ]
+    }
+}

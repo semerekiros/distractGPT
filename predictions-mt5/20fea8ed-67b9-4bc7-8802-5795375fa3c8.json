@@ -1,0 +1,5 @@
+{
+    "qid": "20fea8ed-67b9-4bc7-8802-5795375fa3c8",
+    "input": "Choose the correct answer . Kies het correcte antwoord . He ... funny . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. is n't\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. isn't\n2. isn't to\n3. has always\n4. was not\n5. was even\n6. had not\n7. had never\n8. was only\n9. was\n10. wasn't"
+}

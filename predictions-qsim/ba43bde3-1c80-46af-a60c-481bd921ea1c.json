@@ -1,0 +1,128 @@
+{
+    "qid": "ba43bde3-1c80-46af-a60c-481bd921ea1c",
+    "response": {
+        "Query": "Personal pronoun Coche la bonne reponse . 1 . Oi , those are my records . Do n't touch ... !",
+        "Result": [
+            {
+                "answer": "them",
+                "answer_length": 1,
+                "distractors": [
+                    "they",
+                    "it"
+                ],
+                "language": "en",
+                "question": "Personal pronoun Coche la bonne reponse . 1 . Oi , those are my records . Do n't touch ... !",
+                "question_length": 21,
+                "score": 0.8510975154898145
+            },
+            {
+                "answer": "lignine",
+                "answer_length": 1,
+                "distractors": [
+                    "lignous",
+                    "ligneous"
+                ],
+                "language": "en",
+                "question": "what is NOT a synonym for 'woody ' ?",
+                "question_length": 9,
+                "score": 0.812035775652307
+            },
+            {
+                "answer": "her",
+                "answer_length": 1,
+                "distractors": [
+                    "him",
+                    "she"
+                ],
+                "language": "en",
+                "question": "Personal pronoun Coche la bonne reponse . 1 . Steve is not good at English either . He lied to Mary . He ca n't help ... .",
+                "question_length": 28,
+                "score": 0.7696977485625676
+            },
+            {
+                "answer": "open a Youtube account ",
+                "answer_length": 4,
+                "distractors": [
+                    "install Youtube on your iPad "
+                ],
+                "language": "en",
+                "question": "Scan the extracts from the iPad 2 user guide . Then tick the correct answer . When you want to use Youtube on your iPad the first thing you need to do is ...",
+                "question_length": 34,
+                "score": 0.7654864255500543
+            },
+            {
+                "answer": "them",
+                "answer_length": 1,
+                "distractors": [
+                    "they",
+                    "their",
+                    "you"
+                ],
+                "language": "en",
+                "question": "Choose the correct personal pronoun to replace what is underlined ! Kies het juiste persoonlijk voornaamwoord om de onderstreepte informatie te vervangen ! Choisissez le pronom persoonel qui remplace l'information soulignee ! I do n't trust Harry and Lilly .",
+                "question_length": 40,
+                "score": 0.7384527973605715
+            },
+            {
+                "answer": "spotless",
+                "answer_length": 1,
+                "distractors": [
+                    "messy",
+                    "disorganised"
+                ],
+                "language": "en",
+                "question": "Choose the correct word to complete the text . A Day in the Life of a Housewife Kim loves a clean house and she wants it to be ... .",
+                "question_length": 30,
+                "score": 0.709058942330806
+            },
+            {
+                "answer": "their",
+                "answer_length": 1,
+                "distractors": [
+                    "there",
+                    "they 're"
+                ],
+                "language": "en",
+                "question": "They have forgotten to brush ... teeth .",
+                "question_length": 8,
+                "score": 0.6886885237511354
+            },
+            {
+                "answer": "has an older brother ",
+                "answer_length": 4,
+                "distractors": [
+                    "is an only child ",
+                    "has a younger brother "
+                ],
+                "language": "en",
+                "question": "Listen to the extract of the audio book . Then choose the correct answer . Auden ...",
+                "question_length": 17,
+                "score": 0.6831827479220743
+            },
+            {
+                "answer": "it",
+                "answer_length": 1,
+                "distractors": [
+                    "its",
+                    "your"
+                ],
+                "language": "en",
+                "question": "Personal pronoun Coche la bonne reponse . 4 . Blue cheese is not that horrible . Just try ... .",
+                "question_length": 20,
+                "score": 0.681831445053981
+            },
+            {
+                "answer": "`` Everybody dance now ``",
+                "answer_length": 5,
+                "distractors": [
+                    "The sound of someone clapping",
+                    "Borat just hums "
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . What is Borat 's sound for the new age dance class ?",
+                "question_length": 17,
+                "score": 0.6651039028254236
+            }
+        ]
+    }
+}

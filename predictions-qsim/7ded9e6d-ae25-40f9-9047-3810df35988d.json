@@ -1,0 +1,131 @@
+{
+    "qid": "7ded9e6d-ae25-40f9-9047-3810df35988d",
+    "response": {
+        "Query": "Welke rivier mondt in Egypte uit in de Nijl?",
+        "Result": [
+            {
+                "answer": "in de eierstok",
+                "answer_length": 3,
+                "distractors": [
+                    "in de baarmoeder",
+                    "in de vagina",
+                    "in de eileider"
+                ],
+                "language": "nl",
+                "question": "Waar komt een zaadcel nooit terecht ?",
+                "question_length": 7,
+                "score": 0.8152245516522701
+            },
+            {
+                "answer": "thv de maag",
+                "answer_length": 3,
+                "distractors": [
+                    "thv het hart",
+                    "thv de anus",
+                    "thv de mond"
+                ],
+                "language": "nl",
+                "question": "Waar vindt men een eenlagig cylindrisch epitheel ?",
+                "question_length": 8,
+                "score": 0.7137569377363155
+            },
+            {
+                "answer": "III",
+                "answer_length": 1,
+                "distractors": [
+                    "I",
+                    "II",
+                    "IV"
+                ],
+                "language": "nl",
+                "question": "Boven je hoofd slinger je een massa M rond , die is vastgemaakt aan het touwtje OM . Het touw breekt plots op het ogenblik dat de massa zich op de plaats bevindt die de figuur aangeeft . Dan zal de massa wegvliegen volgens de richting :",
+                "question_length": 47,
+                "score": 0.6094878018657974
+            },
+            {
+                "answer": "La Ville eternelle",
+                "answer_length": 3,
+                "distractors": [
+                    "La ville des 7 collines",
+                    "La Ville Sainte",
+                    "Le nombril du monde"
+                ],
+                "language": "fr",
+                "question": "Comment appelle-t-on egalement la ville de Rome ?",
+                "question_length": 8,
+                "score": 0.5981264530253135
+            },
+            {
+                "answer": "human thumb",
+                "answer_length": 2,
+                "distractors": [
+                    "human hand",
+                    "human toe"
+                ],
+                "language": "en",
+                "question": "Read the text about Vampire bats . Then tick the correct answer . The body of a vampire bat is the same size as a ...",
+                "question_length": 26,
+                "score": 0.568859603578238
+            },
+            {
+                "answer": "dijbeen",
+                "answer_length": 1,
+                "distractors": [
+                    "borstbeen",
+                    "opperarmbeen",
+                    "scheenbeen"
+                ],
+                "language": "nl",
+                "question": "Wat is het langste been van ons skelet ?",
+                "question_length": 9,
+                "score": 0.5449115108691586
+            },
+            {
+                "answer": "lysosoom",
+                "answer_length": 1,
+                "distractors": [
+                    "celkern",
+                    "vacuole"
+                ],
+                "language": "nl",
+                "question": "Wat werd het laatst door de mens ontdekt ?",
+                "question_length": 9,
+                "score": 0.5230572748821536
+            },
+            {
+                "answer": "both mammals and insects",
+                "answer_length": 4,
+                "distractors": [
+                    "mammals only",
+                    "insects only"
+                ],
+                "language": "en",
+                "question": "the thorax is a part of the body of ...",
+                "question_length": 10,
+                "score": 0.5177290436659511
+            },
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "fout"
+                ],
+                "language": "en",
+                "question": "check MP4",
+                "question_length": 2,
+                "score": 0.4825217904151105
+            },
+            {
+                "answer": "In het noorden van Europa ",
+                "answer_length": 5,
+                "distractors": [
+                    "In het zuiden van Europa "
+                ],
+                "language": "nl",
+                "question": "Bekijk onderstaande figuur . Waar wordt de grootste oppervlakte beschenen door een bundel zonnestralen ?",
+                "question_length": 15,
+                "score": 0.41907118683616335
+            }
+        ]
+    }
+}

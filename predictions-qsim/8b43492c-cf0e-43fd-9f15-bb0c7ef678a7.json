@@ -1,0 +1,135 @@
+{
+    "qid": "8b43492c-cf0e-43fd-9f15-bb0c7ef678a7",
+    "response": {
+        "Query": "Hoelang wordt de eisprong door de noodpil uitgesteld?",
+        "Result": [
+            {
+                "answer": "10 seconden",
+                "answer_length": 2,
+                "distractors": [
+                    "5 seconden",
+                    "Tot de AED er is"
+                ],
+                "language": "nl",
+                "question": "Hoe lang moet de ademhaling gecontroleerd worden ?",
+                "question_length": 8,
+                "score": 0.9916341376653028
+            },
+            {
+                "answer": "2,5 minuut",
+                "answer_length": 2,
+                "distractors": [
+                    "1 minuut",
+                    "30 seconden",
+                    "10 seconden",
+                    "1,5 minuut"
+                ],
+                "language": "nl",
+                "question": "Chirurgische handontsmetting Hoe lang dient de chirurgische handontsmetting te duren ?",
+                "question_length": 11,
+                "score": 0.9897466571354607
+            },
+            {
+                "answer": "10 seconden",
+                "answer_length": 2,
+                "distractors": [
+                    "5 seconden",
+                    "Tot de AED er is"
+                ],
+                "language": "nl",
+                "question": "Nadat de luchtweg vrijgemaakt werd moet men kijken , voelen en luisteren naar de ademhaling . Hoe lang moet de ademhaling gecontroleerd worden vooraleer je volgende stappen mag ondernemen ? Duid het juiste antwoord aan .",
+                "question_length": 36,
+                "score": 0.9850095934973089
+            },
+            {
+                "answer": "5 minuten",
+                "answer_length": 2,
+                "distractors": [
+                    "10 minuten",
+                    "3 minuten",
+                    "15 minuten"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Hoe lang moet je minimaal de oogdouche gebruiken na het morsen van een cytostaticum in je ogen ?",
+                "question_length": 24,
+                "score": 0.9838000985109278
+            },
+            {
+                "answer": "10 sec",
+                "answer_length": 2,
+                "distractors": [
+                    "5 sec",
+                    "7 sec",
+                    "niet belangrijk"
+                ],
+                "language": "nl",
+                "question": "Hoe lang controleren we of de patient ademt ?",
+                "question_length": 9,
+                "score": 0.9812340252857258
+            },
+            {
+                "answer": "6 uren",
+                "answer_length": 2,
+                "distractors": [
+                    "4 uren",
+                    "2 uren",
+                    "30 minuten"
+                ],
+                "language": "nl",
+                "question": "Hoe lang mogen bloedplaatjes NIET geschud blijven ? Klik de juiste keuze aan .",
+                "question_length": 14,
+                "score": 0.9795237504831829
+            },
+            {
+                "answer": "10 tot 15 minuten",
+                "answer_length": 4,
+                "distractors": [
+                    "1 uur",
+                    "45 minuten",
+                    "30 minuten"
+                ],
+                "language": "nl",
+                "question": "Hoelang duurt een Cataract ingreep gemiddeld vanaf het moment van incisie ?",
+                "question_length": 12,
+                "score": 0.9784599170050746
+            },
+            {
+                "answer": "24u",
+                "answer_length": 1,
+                "distractors": [
+                    "12u",
+                    "48u"
+                ],
+                "language": "nl",
+                "question": "Hoe lang mag een bloedtrousse gebruikt worden ? Duid het correcte antwoord aan .",
+                "question_length": 14,
+                "score": 0.9774844471258898
+            },
+            {
+                "answer": "12 minuten",
+                "answer_length": 2,
+                "distractors": [
+                    "10 minuten",
+                    "15 minuten",
+                    "30 minuten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De Coopertest is waarschijnlijk de meest uitgevoerde uithoudingstest . Hoelang duurt deze test ?",
+                "question_length": 21,
+                "score": 0.9773280830518669
+            },
+            {
+                "answer": "1 minuut 30 seconden",
+                "answer_length": 4,
+                "distractors": [
+                    "30 seconden",
+                    "1 minuut"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Hoe lang moet je de handen en onderarmen ontsmetten bij een chirurgische handontsmetting met DAX Alcoliquid Pro ?",
+                "question_length": 24,
+                "score": 0.9772145973666936
+            }
+        ]
+    }
+}

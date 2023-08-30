@@ -1,0 +1,136 @@
+{
+    "qid": "486e7bb9-1682-48d4-829e-e2d15039d9fb",
+    "response": {
+        "Query": "Welke kunstvorm wordt er gebruikt om het verhaal over Hercules te vertellen?",
+        "Result": [
+            {
+                "answer": "Consultatie ",
+                "answer_length": 1,
+                "distractors": [
+                    "Observatie ",
+                    "Conversatie ",
+                    "Observatie en conversatie "
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk soort informatiebron gebruikt de lector in de volgende fictieve situatie : `` Tijdens je stage komt een lector je les observeren . Door omstandigheden geef je de les niet en de lector zoekt de mentor op om een gesprek te voeren . De mentor vertelt tegen de lector dat je een goede stagiair bent . De mentor heeft onvoldoende tijd om hier gedetailleerd op in te gaan . De mentor stelt voor dat hij een e-mail , met zijn waarnemingen van de les , stuurt naar de lector . De lector vult een feedbackfiche in op basis van zijn waarnemingen . '",
+                "question_length": 109,
+                "score": 0.9276074112736327
+            },
+            {
+                "answer": "teaser",
+                "answer_length": 1,
+                "distractors": [
+                    "herhaling",
+                    "productplacement",
+                    "viral marketing"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke presentatievorm van reclame is dit filmpje over het game 'Clash of clans ' een toepassing ? Vragen jullie je ook af wat er voorbij de horizon is ? Nee . Hoe zouden we daar kunnen komen ? Mmmm ... Heb jij enig idee , barbaar ? Aaaah ! Waarom nemen we niet de boot ? Alles goed ? ONTDEK WAT ER VOORBIJ DE HORIZON LIGT UPDATE BINNENKORT BESCHIKBAAR",
+                "question_length": 77,
+                "score": 0.8731269555538803
+            },
+            {
+                "answer": "teaser",
+                "answer_length": 1,
+                "distractors": [
+                    "herhaling",
+                    "productplacement",
+                    "viral marketing"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke reclametruc is dit filmpje over het game 'Clash of clans ' een toepassing ? Vragen jullie je ook af wat er voorbij de horizon is ? Nee . Hoe zouden we daar kunnen komen ? Mmmm ... Heb jij enig idee , barbaar ? Aaaah ! Waarom nemen we niet de boot ? Alles goed ? ONTDEK WAT ER VOORBIJ DE HORIZON LIGT UPDATE BINNENKORT BESCHIKBAAR",
+                "question_length": 75,
+                "score": 0.7997339274347154
+            },
+            {
+                "answer": "productplacement",
+                "answer_length": 1,
+                "distractors": [
+                    "billboarding",
+                    "close-up",
+                    "viral marketing"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees het artikel . Welke presentatievorm van reclame is weggelaten op de lijn ? 'Niet correct en ongeloofwaardig ' De Standaard , 15 Okt . 2013 De nieuwe Een-krimi De Ridder haalde zondagavond vlot 1,4 miljoen kijkers , maar advocaten zijn niet te spreken over de manier waarop hun beroep wordt voorgesteld in de serie . Benjamin Praet De kritiek op de houterige dialogen en opzichtige pruiken inAlbert II is nog niet koud of opvolgerDe Ridder , dat sinds deze week op zondagavond te zien is op Een , krijgt de wind van voren . Daarin staat de jonge , ambitieuze Helena De Ridder ( Clara Cleymans ) centraal , die haar baan als advocate opgeeft om openbaar aanklager te worden . Hoewel de scenaristen van de krimiserie advies kregen van twee magistraten van het Gentse parket , vinden advocaten dat hun beroep ongeloofwaardig wordt voorgesteld in de reeks . Nolf staat niet alleen . Ook meester Bart Vosten heeft zich 'geergerd aan de aflevering ' . 'Het klopt juridisch niet . Getuigen beinvloeden , dat gebeurt bij ons nooit . Voor je het weet , zit je zelf in de beklaagdenbank . En een onderzoeksrechter die plots een verklaring uit zijn boekentas haalt en die doodleuk bij het dossier voegt , dat is toch helemaal te gek ? ' , zegt hij . Ook de prominente bijrol van automerk BMW , een weinig subtiel staaltje _______________________ , is veel kijkers niet ontgaan . Advocaat Mark Huygen hekelt dan ook 'de voorstelling dat advocatenkantoren op bergen cash zitten ' . 'Een cabrio , van BMW uiteraard , wordt zonder meer op een blauwe maandag ter beschikking gesteld van een nieuwe medewerker , pal voor de deur . Met welke wagens rijden de oudere vennoten dan wel ? ' , zegt hij . De VRT wil er niet veel over kwijt en houdt het op 'een fictiereeks waarin we een dramatisch verhaal brengen ' . De kijker lijkt er zijn routine op zondagavond alleszins niet voor aan te passen : de eerste aflevering haalde vlot 1,4 miljoen kijkers . Benjamin Praet \u25a0",
+                "question_length": 358,
+                "score": 0.7686042423441523
+            },
+            {
+                "answer": "close-up",
+                "answer_length": 1,
+                "distractors": [
+                    "totaalshot",
+                    "medium shot",
+                    "extreme close-up"
+                ],
+                "language": "nl",
+                "question": "Welk camerastandpunt werd hier gebruikt ?",
+                "question_length": 6,
+                "score": 0.7147268327391195
+            },
+            {
+                "answer": "groepsgevoel",
+                "answer_length": 1,
+                "distractors": [
+                    "herhaling",
+                    "inspelen op waarden",
+                    "veralgemening"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke propagandatechniek wordt gebruikt in dit voorbeeld ? Je land heeft JOU nodig ! Ik wil JOU in het Amerikaanse leger !",
+                "question_length": 29,
+                "score": 0.6531725392339485
+            },
+            {
+                "answer": "inspelen op waarden",
+                "answer_length": 3,
+                "distractors": [
+                    "demoniseren",
+                    "gebruik van stereotypen",
+                    "zwart/wit-voorstelling"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke propagandatechniek wordt gebruikt in dit voorbeeld ? Truth= waarheid Peace= vrede Erdogan= president van Turkije Dank u president Erdogan om de Syrische vluchtelingen te beschermen .",
+                "question_length": 34,
+                "score": 0.6055001892213038
+            },
+            {
+                "answer": "productplacement",
+                "answer_length": 1,
+                "distractors": [
+                    "close-up",
+                    "fotoshop",
+                    "teaser"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke reclametruc zijn deze afbeeldingen van tv-series een toepassing ?",
+                "question_length": 18,
+                "score": 0.5393093754975152
+            },
+            {
+                "answer": "opsommend verband",
+                "answer_length": 2,
+                "distractors": [
+                    "vergelijkend verband",
+                    "chronologisch verband"
+                ],
+                "language": "nl",
+                "question": "Welk verband drukt het vetgedrukte signaalwoord uit ? Wie heeft er het langst in de gevangenis gezeten ? De top-3 van mensen die het langst in de gevangenis hebben gezeten , bestaat volledig uit Amerikanen . De eerste is Paul Geidel ( 1894-1987 ) . Hij pleegde in 1911 een roofmoord . Hij belandde in de cel en kwam pas vrij in 1980 . Hij had 68 jaar en 245 dagen gevangen gezeten . De tweede gevangene is William Heirens ( 1928-2012 ) . Hij vermoordde vlak na WO II 3 mensen . Hij zat sinds 5 september 1946 in het gevang en dreigde Geidel in 2015 voorbij te gaan als langstzittende gevangene . Die eer bleef hem bespaard toen hij in 2012 overleed . Ten slotte is er Richard Honeck ( 1879-1976 ) . Hij werd veroordeeld voor de moord op een voormalige schoolvriend . Hij zat in de gevangenis van 1899 tot 1963 : een periode van 64 jaar en 1 maand .",
+                "question_length": 165,
+                "score": 0.5192738108449165
+            },
+            {
+                "answer": "opsommend verband",
+                "answer_length": 2,
+                "distractors": [
+                    "vergelijkend verband",
+                    "chronologisch verband"
+                ],
+                "language": "nl",
+                "question": "Welk verband drukt het onderstreepte signaalwoord uit ? Wie heeft er het langst in de gevangenis gezeten ? De top-3 van mensen die het langst in de gevangenis hebben gezeten , bestaat volledig uit Amerikanen . De eerste is Paul Geidel ( 1894-1987 ) . Hij pleegde in 1911 een roofmoord . Hij belandde in de cel en kwam pas vrij in 1980 . Hij had 68 jaar en 245 dagen gevangen gezeten . De tweede gevangene is William Heirens ( 1928-2012 ) . Hij vermoordde vlak na WO II 3 mensen . Hij zat sinds 5 september 1946 in het gevang en dreigde Geidel in 2015 voorbij te gaan als langstzittende gevangene . Die eer bleef hem bespaard toen hij in 2012 overleed . Ten slotte is er Richard Honeck ( 1879-1976 ) . Hij werd veroordeeld voor de moord op een voormalige schoolvriend . Hij zat in de gevangenis van 1899 tot 1963 : een periode van 64 jaar en 1 maand .",
+                "question_length": 165,
+                "score": 0.49797842842630313
+            }
+        ]
+    }
+}

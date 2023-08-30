@@ -1,0 +1,136 @@
+{
+    "qid": "1c60d9a4-1394-4784-902f-17996c897987",
+    "response": {
+        "Query": "Welk gas komt er vrij bij de fotosynthese?",
+        "Result": [
+            {
+                "answer": "methaangas",
+                "answer_length": 1,
+                "distractors": [
+                    "zuurstof gas",
+                    "cyaangas",
+                    "waterstofgas"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat gas veroorzaakt de blauwe kleur van Neptunus ?",
+                "question_length": 16,
+                "score": 0.6717074717545496
+            },
+            {
+                "answer": "waterdamp",
+                "answer_length": 1,
+                "distractors": [
+                    "methaan",
+                    "koolstofdioxide",
+                    "ozon"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Het broeikaseffect is in de eerste plaats een natuurlijk verschijnsel . Een aantal natuurlijke gassen absorberen warmte die de aarde uitstraalt . Welk natuurlijk broeikasgas komt het meeste voor in de atmosfeer ?",
+                "question_length": 40,
+                "score": 0.6432030722156128
+            },
+            {
+                "answer": "Koolmonoxide ( CO )",
+                "answer_length": 4,
+                "distractors": [
+                    "Stikstof ( N )",
+                    "Koolstofdioxide ( CO2 )"
+                ],
+                "language": "nl",
+                "question": "Welk giftig gas wordt er gevormd bij een onvolledige verbranding van aardgas ?",
+                "question_length": 13,
+                "score": 0.5875410613627756
+            },
+            {
+                "answer": "transportweefsel",
+                "answer_length": 1,
+                "distractors": [
+                    "stengelweefsel",
+                    "wortelweefsel",
+                    "sapweefsel"
+                ],
+                "language": "nl",
+                "question": "Welk weefsel zorgt ervoor dat water en opgeloste stoffen tot in de top van de stengel komen ?",
+                "question_length": 18,
+                "score": 0.5739624221335614
+            },
+            {
+                "answer": "waterdamp",
+                "answer_length": 1,
+                "distractors": [
+                    "stikstofgas",
+                    "zuurstofgas",
+                    "koolstofdioxide",
+                    "andere gassen"
+                ],
+                "language": "nl",
+                "question": "Vliegtuigen laten dikwijls sporen na in de lucht . Het zijn condensatiestrepen die bestaan uit vloeistofdruppeltjes van een bepaald bestanddeel van lucht . Welk bestanddeel ? Duid het juiste antwoord aan .",
+                "question_length": 32,
+                "score": 0.49622147297078684
+            },
+            {
+                "answer": "... methaan ",
+                "answer_length": 2,
+                "distractors": [
+                    "... butaan ",
+                    "... koolstofdioxide "
+                ],
+                "language": "nl",
+                "question": "De brandbare koolwaterstof die het hoofdbestanddeel van aardgas vormt is ...",
+                "question_length": 11,
+                "score": 0.4821940013176362
+            },
+            {
+                "answer": "methaan",
+                "answer_length": 1,
+                "distractors": [
+                    "butaan",
+                    "koolstofdioxide"
+                ],
+                "language": "nl",
+                "question": "De brandbare koolwaterstof die het hoofdbestanddeel van aardgas vormt is :",
+                "question_length": 11,
+                "score": 0.4607902655150433
+            },
+            {
+                "answer": "stikstof",
+                "answer_length": 1,
+                "distractors": [
+                    "koolstofdioxide",
+                    "koolstofmonoxide",
+                    "zuurstof"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Speel het fragment af door op de play-knop te drukken . Welk gas kan bij diepzeeduiken voor complicaties zorgen ?",
+                "question_length": 27,
+                "score": 0.42385748760066716
+            },
+            {
+                "answer": "een zout en koolstofdioxide",
+                "answer_length": 4,
+                "distractors": [
+                    "een geneutraliseerd zuur en water",
+                    "een zout en water",
+                    "een geneutraliseerd zuur en koolstofdioxide"
+                ],
+                "language": "nl",
+                "question": "Om kalkaanslag te verwijderen , worden zure reinigingsmiddelen gebruikt . Wat zijn de restproducten bij de behandeling van calciumcarbonaat met het zuur waterstofchloride ?",
+                "question_length": 24,
+                "score": 0.2989239098931319
+            },
+            {
+                "answer": "stikstof",
+                "answer_length": 1,
+                "distractors": [
+                    "koolstofdioxide",
+                    "koolstofmonoxide",
+                    "zuurstof"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Speel het fragment af door op de play-knop te drukken . Welk gas kan bij diepzeeduiken voor complicaties zorgen :",
+                "question_length": 27,
+                "score": 0.25822448215541494
+            }
+        ]
+    }
+}

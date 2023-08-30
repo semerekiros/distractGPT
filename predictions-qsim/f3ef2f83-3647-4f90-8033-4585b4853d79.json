@@ -1,0 +1,137 @@
+{
+    "qid": "f3ef2f83-3647-4f90-8033-4585b4853d79",
+    "response": {
+        "Query": "Hoe groot is de hoek tussen de evenaar en de aardas?",
+        "Result": [
+            {
+                "answer": "0 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "5 degrees",
+                    "10 degrees"
+                ],
+                "language": "nl",
+                "question": "Wat is standaard de inclinatiehoek van een ledverlichtingstoestel ?",
+                "question_length": 9,
+                "score": 0.7771580987893391
+            },
+            {
+                "answer": "45 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "30 degrees",
+                    "60 degrees",
+                    "90 degrees"
+                ],
+                "language": "nl",
+                "question": "Vul aan . Als je een Cavaliereperspectief maakt van een balk dan moet je de ribben loodrecht op het vlak van de tekening onder een hoek tekenen met grootte ... .",
+                "question_length": 31,
+                "score": 0.7080920881619343
+            },
+            {
+                "answer": "120 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "Willekeurige hoek",
+                    "90 degrees"
+                ],
+                "language": "nl",
+                "question": "Vanaf welke hoek mag men een lijnophanging gebruiken in plaats van eindklemmen op BAXB kabel ?",
+                "question_length": 16,
+                "score": 0.6906174168542992
+            },
+            {
+                "answer": "Aucune des reponses n'est correcte",
+                "answer_length": 5,
+                "distractors": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "Toutes les reponses sont correctes",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Dans le triangle rectangle suivant quel est l'angle droit ?",
+                "question_length": 10,
+                "score": 0.5835890880858702
+            },
+            {
+                "answer": "0 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "5 degrees",
+                    "10 degrees"
+                ],
+                "language": "nl",
+                "question": "Wat is de standaard inclinatiehoek ten opzichte van de rijweg van een ledverlichtingstoestel ?",
+                "question_length": 14,
+                "score": 0.5575664047007299
+            },
+            {
+                "answer": "37,70 cm",
+                "answer_length": 2,
+                "distractors": [
+                    "18,85 cm",
+                    "113,10 cm"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Bereken de omtrek van een cirkel met een straal van 6 cm .",
+                "question_length": 19,
+                "score": 0.5572451339112585
+            },
+            {
+                "answer": "120 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "Willekeurige hoek",
+                    "90 degrees"
+                ],
+                "language": "nl",
+                "question": "Vanaf welke hoek mag je een lijnophanging gebruiken in plaats van eindklemmen op BAXB kabel ?",
+                "question_length": 16,
+                "score": 0.554751596102047
+            },
+            {
+                "answer": "225 mm",
+                "answer_length": 2,
+                "distractors": [
+                    "225 cm",
+                    "255 mm",
+                    "255 cm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de lengte van de afgebeelde lat ?",
+                "question_length": 16,
+                "score": 0.5510513197240031
+            },
+            {
+                "answer": "75 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "60 degrees",
+                    "70 degrees",
+                    "80 degrees",
+                    "90 degrees"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Welke hoek maakt de uurwijzer en de minutenwijzer als het half vier is ?",
+                "question_length": 27,
+                "score": 0.5452497903490559
+            },
+            {
+                "answer": "5,2 . 10-4 m",
+                "answer_length": 4,
+                "distractors": [
+                    "1,4 . 10-4 m",
+                    "2,8 . 10-4 m",
+                    "10 . 10-4 m"
+                ],
+                "language": "nl",
+                "question": "Een lichtstraal reflecteert aan de bovenkant van een glasvezel ( n = 1,55 ) met een diameter van 1,4 . 10-4 m zodat de hoek alfa gelijk is aan 14,5 degrees . De afstand l tussen twee opeenvolgende reflecties van de lichtstraal is gelijk aan :",
+                "question_length": 46,
+                "score": 0.5088862552049804
+            }
+        ]
+    }
+}

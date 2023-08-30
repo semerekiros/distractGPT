@@ -1,0 +1,138 @@
+{
+    "qid": "abf54891-7931-4f36-bcce-a5eee7780dbb",
+    "response": {
+        "Query": "Welk deel van de hersenen is belangrijk voor een koorddanser?",
+        "Result": [
+            {
+                "answer": "middenrif",
+                "answer_length": 1,
+                "distractors": [
+                    "hartzakje",
+                    "onderste longlob van de linkerlong",
+                    "onderste longlob van de rechterlong"
+                ],
+                "language": "nl",
+                "question": "Welk orgaan is aangeduid door de groene pijl ?",
+                "question_length": 9,
+                "score": 0.930203580950714
+            },
+            {
+                "answer": "rond de longblaasjes",
+                "answer_length": 3,
+                "distractors": [
+                    "rond de longtakjes",
+                    "rond de longtakken",
+                    "rond de luchtpijp"
+                ],
+                "language": "nl",
+                "question": "Waarrond bevinden zich haarvaten voor de gasuitwisseling ( zuurstofgas in het bloed en koolstofdioxide uit het bloed ) ?",
+                "question_length": 19,
+                "score": 0.884251274500895
+            },
+            {
+                "answer": "longblaasje",
+                "answer_length": 1,
+                "distractors": [
+                    "luchtpijptak",
+                    "luchtpijp",
+                    "longtak"
+                ],
+                "language": "nl",
+                "question": "In welk gedeelte van de longen gebeurt de stofwisseling ?",
+                "question_length": 10,
+                "score": 0.8246262783490613
+            },
+            {
+                "answer": "pancreas en linkernier",
+                "answer_length": 3,
+                "distractors": [
+                    "galblaas en pancreas",
+                    "galblaas en rechternier",
+                    "pancreas en rechternier"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk organen worden aangeduid met nummers 9 en 26 in de figuur ?",
+                "question_length": 20,
+                "score": 0.7796418746998274
+            },
+            {
+                "answer": "urineleider en urineblaas",
+                "answer_length": 3,
+                "distractors": [
+                    "urinebuis en urineblaas",
+                    "nierslagader en endeldarm",
+                    "nierader en endeldarm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk organen worden aangeduid met de nummers 28 en 29 in de figuur ?",
+                "question_length": 21,
+                "score": 0.7361299785513392
+            },
+            {
+                "answer": "beloningscentrum",
+                "answer_length": 1,
+                "distractors": [
+                    "besturingscentrum",
+                    "denkcentrum",
+                    "lustcentrum"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op welk deel van de hersenen werkt chips bij het experiment met de rat ?",
+                "question_length": 22,
+                "score": 0.7294131137217971
+            },
+            {
+                "answer": "urineblaas en urinebuis",
+                "answer_length": 3,
+                "distractors": [
+                    "endeldarm en urineleider",
+                    "galblaas en endeldarm",
+                    "endeldarm en vagina"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk organen worden aangeduid met de nummers 29 en 30 in de figuur ?",
+                "question_length": 21,
+                "score": 0.7252231850212236
+            },
+            {
+                "answer": "een long",
+                "answer_length": 2,
+                "distractors": [
+                    "de hersenen",
+                    "de lever",
+                    "een nier"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord , er is maar een antwoord mogelijk . Iemand wordt door een gifslang in de hand gebeten . Het slangengif verspreidt zich via de bloedvaten . Welk van de onderstaande organen zal het eerst door het gif worden bereikt ?",
+                "question_length": 44,
+                "score": 0.708442889969989
+            },
+            {
+                "answer": "hersenstam",
+                "answer_length": 1,
+                "distractors": [
+                    "grote hersenen",
+                    "kleine hersenen",
+                    "ruggenmerg"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk deel van het zenuwstelsel zorgt voor het in stand houden van de onbewuste ademhaling ?",
+                "question_length": 23,
+                "score": 0.704496668904856
+            },
+            {
+                "answer": "slokdarm en luchtpijp",
+                "answer_length": 3,
+                "distractors": [
+                    "longtak en luchtpijp",
+                    "luchtpijp en luchtpijptak",
+                    "slokdarm en longtak"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk organen worden aangeduid met de nummers 6 en 20 in de figuur ?",
+                "question_length": 21,
+                "score": 0.684547470491238
+            }
+        ]
+    }
+}

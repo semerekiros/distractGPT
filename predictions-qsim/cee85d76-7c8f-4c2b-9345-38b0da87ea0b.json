@@ -1,0 +1,139 @@
+{
+    "qid": "cee85d76-7c8f-4c2b-9345-38b0da87ea0b",
+    "response": {
+        "Query": "Welke materiaal gebruikten de Kelten voor het vervaardigen van werktuigen en wapens, zoals dit slagzwaard?",
+        "Result": [
+            {
+                "answer": "Luikse wafel - suikerwafel",
+                "answer_length": 4,
+                "distractors": [
+                    "Brusselse wafel",
+                    "Pannenkoek met suiker",
+                    "Speculaas"
+                ],
+                "language": "en",
+                "question": "Please identify the following pastry/cookie What is this ?",
+                "question_length": 9,
+                "score": 0.9347700060396457
+            },
+            {
+                "answer": "steenkool",
+                "answer_length": 1,
+                "distractors": [
+                    "Afrika",
+                    "aardolie",
+                    "de aarde"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wat wordt bedoeld met het zwarte goud ?",
+                "question_length": 21,
+                "score": 0.9297233096484723
+            },
+            {
+                "answer": "Babytaal",
+                "answer_length": 1,
+                "distractors": [
+                    "Onverstaanbare taal",
+                    "Moedertaal",
+                    "Luid gesproken taal"
+                ],
+                "language": "af",
+                "question": "Wat is motherese ?",
+                "question_length": 4,
+                "score": 0.9209407936208872
+            },
+            {
+                "answer": "een bankschroef",
+                "answer_length": 2,
+                "distractors": [
+                    "een lijmklem",
+                    "een griptang",
+                    "een werkbank"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk materiaal wordt hier afgebeeld ?",
+                "question_length": 13,
+                "score": 0.9193032314357645
+            },
+            {
+                "answer": "een gestorven danseres ",
+                "answer_length": 3,
+                "distractors": [
+                    "een bekende zangeres ",
+                    "een gulle sponsor ",
+                    "een lieve verzorgster "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Het olifantje kreeg de naam Pina , naar ... .",
+                "question_length": 17,
+                "score": 0.916347339435617
+            },
+            {
+                "answer": "Schraper gemaakt met de klingtechniek ",
+                "answer_length": 5,
+                "distractors": [
+                    "",
+                    "Symmetrische vuistbijl ( bifaces )",
+                    "Speerpunt gemaakt met de levalloistechniek"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk van de steentijdgereedschappen behoort bij de Homo Sapiens ?",
+                "question_length": 17,
+                "score": 0.9028606659956794
+            },
+            {
+                "answer": "porselein",
+                "answer_length": 1,
+                "distractors": [
+                    "keramiek",
+                    "wol",
+                    "katoen"
+                ],
+                "language": "fr",
+                "question": "Ecoute . Choisis le materiel ou la couleur que tu entends .",
+                "question_length": 12,
+                "score": 0.8949736426118775
+            },
+            {
+                "answer": "boxing",
+                "answer_length": 1,
+                "distractors": [
+                    "tennis",
+                    "swimming",
+                    "karate",
+                    "skating",
+                    "hockey"
+                ],
+                "language": "en",
+                "question": "Choose the correct sport .",
+                "question_length": 5,
+                "score": 0.8865060010587505
+            },
+            {
+                "answer": "Rode pil",
+                "answer_length": 2,
+                "distractors": [
+                    "blauwe pil",
+                    "geen pil"
+                ],
+                "language": "nl",
+                "question": "Wat is het juiste pilleken ? klik het juiste pilleken aan",
+                "question_length": 11,
+                "score": 0.8826873481753904
+            },
+            {
+                "answer": "it 's unknown",
+                "answer_length": 3,
+                "distractors": [
+                    "stress",
+                    "food",
+                    "allergy or intolerance"
+                ],
+                "language": "en",
+                "question": "What is the cause of IBS ?",
+                "question_length": 7,
+                "score": 0.8800373567295338
+            }
+        ]
+    }
+}

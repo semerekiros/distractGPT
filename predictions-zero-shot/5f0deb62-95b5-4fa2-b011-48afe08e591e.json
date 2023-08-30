@@ -1,0 +1,5 @@
+{
+    "qid": "5f0deb62-95b5-4fa2-b011-48afe08e591e",
+    "input": "vraag: Wat is de hoogte van de Feldberg?\nantwoord: 1493 m\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. 1245 m\n2. 1612 m\n3. 1378 m\n4. 1789 m\n5. 1521 m\n6. 1310 m\n7. 1437 m\n8. 1680 m\n9. 1564 m\n10. 1923 m\n11. 1199 m\n12. 1356 m\n13. 1468 m\n14. 1712 m\n15. 1825 m\n16. 1234 m\n17. 1576 m\n18. 1987 m\n19. 1402 m\n20. 1638 m"
+}

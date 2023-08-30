@@ -1,0 +1,519 @@
+[
+    {
+        "question": "36 . They do n't speak English and can not make ... ... ... ... ... ..understood .",
+        "answer": "themselves",
+        "language": "nl",
+        "distractors": [
+            "them",
+            "us",
+            "you"
+        ],
+        "qid": "c2273645-72b4-490d-b37a-c7aa2e5b2eab"
+    },
+    {
+        "question": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? The question of the supervisors is interesting .",
+        "answer": "the supervisors ' question",
+        "language": "nl",
+        "distractors": [
+            "the supervisors 's questions",
+            "the supervisor 's question",
+            "the supervisors ' questions"
+        ],
+        "qid": "edffe58d-feae-48fa-981c-a2511893d8a9"
+    },
+    {
+        "question": "Choose the correct answer . Did you like the ... ending ?",
+        "answer": "book 's",
+        "language": "nl",
+        "distractors": [
+            "book",
+            "books"
+        ],
+        "qid": "9526948f-31a7-4079-a447-7517b6314d9c"
+    },
+    {
+        "question": "Choose the opposite of the word in bold . I have some money to make an investment .",
+        "answer": "disinvestment",
+        "language": "nl",
+        "distractors": [
+            "purchase",
+            "share",
+            "saving"
+        ],
+        "qid": "61497d8a-c60a-4b43-9462-dff9d7b7950f"
+    },
+    {
+        "question": "Linking sentences Choisis . Use ... to give several options .",
+        "answer": "or",
+        "language": "nl",
+        "distractors": [
+            "and",
+            "but",
+            "so"
+        ],
+        "qid": "1664acd4-bc4f-4d07-85ae-f8a0d83c2b6a"
+    },
+    {
+        "question": "Who are we talking about ? Tick the right answer . Hi . My name is Greg . Julie is the daughter of my sister . Julie has to call me ...",
+        "answer": "Uncle",
+        "language": "nl",
+        "distractors": [
+            "Father",
+            "Aunt",
+            "Grandfather",
+            "Brother"
+        ],
+        "qid": "d479e0b3-ea8a-43a7-b7a4-f4c3c9dfc23f"
+    },
+    {
+        "question": "Determination to keep trying to do something difficult is called ... ... ... ... ... .",
+        "answer": "perseverance",
+        "language": "nl",
+        "distractors": [
+            "loyalty",
+            "retention",
+            "satisfaction"
+        ],
+        "qid": "27c23567-7595-4b30-b8ff-6ac53ac4c84c"
+    },
+    {
+        "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you allow .",
+        "answer": "would",
+        "language": "nl",
+        "distractors": [
+            "do",
+            "should",
+            "have to"
+        ],
+        "qid": "1f160f68-451c-46f8-8533-5d9981fe314c"
+    },
+    {
+        "question": "1.47 How do I get to the airport from here ? Do n't worry , I ... ... ... ... you .",
+        "answer": "'ll show",
+        "language": "nl",
+        "distractors": [
+            "show",
+            "am showing",
+            "'m going to"
+        ],
+        "qid": "35152b6f-9d87-4323-ab4f-10442ac370fb"
+    },
+    {
+        "question": "Choose the appropriate response . How do you do ?",
+        "answer": "How do you do ?",
+        "language": "nl",
+        "distractors": [
+            "Fine , thank you",
+            "How are you ?"
+        ],
+        "qid": "d7280b33-6158-4a42-8636-395243cdbd44"
+    },
+    {
+        "question": "to shrink is ...",
+        "answer": "to contract",
+        "language": "nl",
+        "distractors": [
+            "to expand",
+            "to boost"
+        ],
+        "qid": "5e80a098-3255-4bbc-84a7-0ed6e2a43aa8"
+    },
+    {
+        "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you offer .",
+        "answer": "would",
+        "language": "nl",
+        "distractors": [
+            "do",
+            "should",
+            "have to"
+        ],
+        "qid": "1a6b27c4-2337-48b6-a051-3259f9bea546"
+    },
+    {
+        "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Although the CEO has been accused of corruption , he is still refusing to _______________ .",
+        "answer": "step down",
+        "language": "nl",
+        "distractors": [
+            "wind down",
+            "trade in",
+            "rule out",
+            "I do n't know"
+        ],
+        "qid": "26b75306-4579-4c92-ac7f-821a16efe13b"
+    },
+    {
+        "question": "to remove buds from a plant is ...",
+        "answer": "to disbud",
+        "language": "nl",
+        "distractors": [
+            "to entbud",
+            "to withbud"
+        ],
+        "qid": "2e0c6712-8a6f-4dec-bee7-6503b3d7a832"
+    },
+    {
+        "question": "Choose the appropriate conjugation to express something completed in the future ! By this time next month we ... .. the designs .",
+        "answer": "will have finished",
+        "language": "nl",
+        "distractors": [
+            "are finishing",
+            "will finish",
+            "go to finish"
+        ],
+        "qid": "f4008728-c89f-453a-9020-bb3a40aeb128"
+    },
+    {
+        "question": "2 . The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours",
+        "answer": "has been working for",
+        "language": "nl",
+        "distractors": [
+            "has been working since",
+            "is working for",
+            "had been working since"
+        ],
+        "qid": "6f42d9ea-be4c-44b6-9a47-41df1828d57c"
+    },
+    {
+        "question": "when something is indispensable , ...",
+        "answer": "it 's essential",
+        "language": "nl",
+        "distractors": [
+            "it 's hard to find",
+            "it 's very expensive"
+        ],
+        "qid": "f5c3cc1b-9d81-439d-ab56-0f9521e74872"
+    },
+    {
+        "question": "The Council discussed a proposal for a common corporate tax base in the EU , aimed ... the administrative burden",
+        "answer": "at reducing",
+        "language": "nl",
+        "distractors": [
+            "to raising",
+            "for cutting down",
+            "at turning down"
+        ],
+        "qid": "f3a884b9-d5ee-413a-9ec5-36f251748275"
+    },
+    {
+        "question": "Personal pronoun Coche la bonne reponse . 1 . Oi , those are my records . Do n't touch ... !",
+        "answer": "them",
+        "language": "nl",
+        "distractors": [
+            "they",
+            "it"
+        ],
+        "qid": "ba43bde3-1c80-46af-a60c-481bd921ea1c"
+    },
+    {
+        "question": "1.4 When you ... ... ... ... ... ... Henry , tell him the truth .",
+        "answer": "meet",
+        "language": "nl",
+        "distractors": [
+            "met",
+            "will meet",
+            "would meet"
+        ],
+        "qid": "f4bedfa2-4601-4a1e-8c20-0c76fb032cdc"
+    },
+    {
+        "question": "Choose the appropriate conjugation ! I ... .. in marketing before I joined my present company .",
+        "answer": "had already worked",
+        "language": "nl",
+        "distractors": [
+            "already worked",
+            "am already working",
+            "was already working"
+        ],
+        "qid": "b39df1eb-2a30-403d-b9db-f123b97647af"
+    },
+    {
+        "question": "Choose the opposite of the word in bold . He bought a beautiful tailor-made suit .",
+        "answer": "ready-to-wear",
+        "language": "nl",
+        "distractors": [
+            "well-sized",
+            "expensive",
+            "fitted"
+        ],
+        "qid": "645aa592-931f-4885-ba14-03d9c4a5c4f8"
+    },
+    {
+        "question": "Choose the correct answer . Kies het correcte antwoord . He ... funny .",
+        "answer": "is n't",
+        "language": "nl",
+        "distractors": [
+            "are n't",
+            "am not"
+        ],
+        "qid": "20fea8ed-67b9-4bc7-8802-5795375fa3c8"
+    },
+    {
+        "question": "Choose the right word . There is a lot of ... .. on this line .",
+        "answer": "interference",
+        "language": "nl",
+        "distractors": [
+            "problems",
+            "disturbance",
+            "noises"
+        ],
+        "qid": "abfb2d71-1642-456f-a80b-29ce3b1db032"
+    },
+    {
+        "question": "Because of huge protests the Minister finally decided to ... the bill",
+        "answer": "scrap",
+        "language": "nl",
+        "distractors": [
+            "supersede",
+            "cancel",
+            "push back"
+        ],
+        "qid": "a1d74b01-7c04-4aab-89fd-585f9a26cd0d"
+    },
+    {
+        "question": "2.50 How do you ... ... ... ... if a journalist or other writer is telling the truth ?",
+        "answer": "find out",
+        "language": "nl",
+        "distractors": [
+            "carry on",
+            "think back",
+            "speak out"
+        ],
+        "qid": "121d4efd-f866-4ef2-8bee-6598d80a25db"
+    },
+    {
+        "question": "His successor , ... ... ... ... ... ... ... ... appointment was announced last month , is a very different kind of person .",
+        "answer": "whose",
+        "language": "nl",
+        "distractors": [
+            "who",
+            "whom",
+            "which"
+        ],
+        "qid": "961bfccc-ceeb-4b43-919f-a8839db0291f"
+    },
+    {
+        "question": "They were badly ... ... ... ... ..in the accident .",
+        "answer": "injured",
+        "language": "nl",
+        "distractors": [
+            "broken",
+            "wounded",
+            "illness"
+        ],
+        "qid": "9c522258-cb5e-47e6-9819-485bf1fa3c1c"
+    },
+    {
+        "question": "... .. number did you want ?",
+        "answer": "What",
+        "language": "nl",
+        "distractors": [
+            "Whose",
+            "Which",
+            "What person 's"
+        ],
+        "qid": "e938d1e5-1390-46d1-b2f1-7304c5003982"
+    },
+    {
+        "question": "combustion is a synonym for ...",
+        "answer": "burning",
+        "language": "nl",
+        "distractors": [
+            "respiration",
+            "breathing"
+        ],
+        "qid": "465a3c9d-8450-409e-a608-3561a6917d5f"
+    },
+    {
+        "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The next train to Aberdeen _______________ at 2pm .",
+        "answer": "leaves",
+        "language": "nl",
+        "distractors": [
+            "leaving",
+            "leave",
+            "be leaving",
+            "I do n't know"
+        ],
+        "qid": "e1f1837e-2304-43cc-948e-bd6009d217b9"
+    },
+    {
+        "question": "Choose the right form . We ca n't buy ... fresh fruit in this shop . They only have tinned and canned food .",
+        "answer": "any",
+        "language": "nl",
+        "distractors": [
+            "some"
+        ],
+        "qid": "abc0390c-10f9-4f75-97db-31582b58928a"
+    },
+    {
+        "question": "Choose the correct form . Fixed costs ... by more than 10 per cent in the last five years , and there is no indication they will level off .",
+        "answer": "have risen",
+        "language": "nl",
+        "distractors": [
+            "have been rising",
+            "rose",
+            "were rising"
+        ],
+        "qid": "6dfc6d8e-31ac-450a-b44f-142692fd5d02"
+    },
+    {
+        "question": "I read ... ... ... book and listened to ... ... ... ... ..music .",
+        "answer": "a , some",
+        "language": "nl",
+        "distractors": [
+            "the , any",
+            "these , the",
+            "the , many"
+        ],
+        "qid": "d46ad73b-93bd-4653-92e7-3683f58cb260"
+    },
+    {
+        "question": "1.43 The children ... ... ... ..for ten minutes .",
+        "answer": "have been fighting",
+        "language": "nl",
+        "distractors": [
+            "are fighting",
+            "will be fighting",
+            "wo n't be fighting"
+        ],
+        "qid": "08888787-3680-49d7-a03a-e2fc71229f06"
+    },
+    {
+        "question": "Complete la phrase suivante en choisissant le mode et le temps qui conviennent . My sister will call you when she ____________ close to arriving .",
+        "answer": "is",
+        "language": "nl",
+        "distractors": [
+            "was",
+            "will be"
+        ],
+        "qid": "b6155655-ab70-4039-932f-8fe6664638bf"
+    },
+    {
+        "question": "132 . The first white explorer ... ... ... ... ... ... ... ... ... . the far north of Australia was Ludwig Leichhardt , who was awarded the prize for geographic discovery by the Paris Geographical Society in 1847 , along with the French explorer Rochet d'Hericourt .",
+        "answer": "to reach",
+        "language": "nl",
+        "distractors": [
+            "that he reached",
+            "reached",
+            "reaching it"
+        ],
+        "qid": "c23fc2a5-c22e-48cf-8efb-283de3559906"
+    },
+    {
+        "question": "Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ?",
+        "answer": "below",
+        "language": "nl",
+        "distractors": [
+            "underneath",
+            "behind"
+        ],
+        "qid": "cb5d8464-a6f5-4ad3-8a62-43acdd6bd7ad"
+    },
+    {
+        "question": "43 . The children ... ... ... ..for ten minutes .",
+        "answer": "have been fighting",
+        "language": "nl",
+        "distractors": [
+            "are fighting",
+            "will be fighting",
+            "wo n't be fighting"
+        ],
+        "qid": "b3b7a1d2-da1d-4261-83dc-95956f87cc51"
+    },
+    {
+        "question": "This is some introduction Another introduction",
+        "answer": "Choice 1",
+        "language": "nl",
+        "distractors": [
+            "Choice 2"
+        ],
+        "qid": "28194dcf-c136-4b1b-9133-543f0a59ae0b"
+    },
+    {
+        "question": "1.15 ... ... ..do you call this machine ?",
+        "answer": "What",
+        "language": "nl",
+        "distractors": [
+            "Which",
+            "How",
+            "Which name"
+        ],
+        "qid": "f2690fe7-5784-4686-9f9c-4d032be7ac89"
+    },
+    {
+        "question": "Which time indication expresses the PAST ? Welke tijdsaanduiding geeft het VERLEDEN aan ? Quelle indication de temps indique le PASSE ?",
+        "answer": "last week",
+        "language": "nl",
+        "distractors": [
+            "next month",
+            "at the moment",
+            "every day"
+        ],
+        "qid": "c12c4e63-14f6-47d3-a410-e6ed3c0f46e8"
+    },
+    {
+        "question": "what 's 'Bourgogne ' in English ?",
+        "answer": "Burgundy",
+        "language": "nl",
+        "distractors": [
+            "Bourgondy",
+            "Bourgundy"
+        ],
+        "qid": "2ececec4-51de-4580-8262-3d03dadadbe7"
+    },
+    {
+        "question": "Choose the opposite of the word in bold . He is the creditor . We owe money to him .",
+        "answer": "debtor",
+        "language": "nl",
+        "distractors": [
+            "debit",
+            "debate",
+            "decay"
+        ],
+        "qid": "60b96181-3bfa-46bc-a382-d1d0f5b0d268"
+    },
+    {
+        "question": "Select the right word . I 'm pretty ... . up tomorrow afternoon . Would Wednesday morning be all right ?",
+        "answer": "tied",
+        "language": "nl",
+        "distractors": [
+            "taken",
+            "busy",
+            "fixed"
+        ],
+        "qid": "0bbe4a5e-14bc-4c93-b8a6-63a89e7dae8c"
+    },
+    {
+        "question": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! Go ... .",
+        "answer": "straight ahead ",
+        "language": "nl",
+        "distractors": [
+            "ahead",
+            "on",
+            "ahead on"
+        ],
+        "qid": "69b2bc69-2c21-4094-bcc7-c2a512e274e4"
+    },
+    {
+        "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . I would like to _______________ our meeting to this Wednesday rather than next week , if that 's alright with you .",
+        "answer": "back up",
+        "language": "nl",
+        "distractors": [
+            "cross off",
+            "carry out",
+            "bring forward",
+            "I do n't know"
+        ],
+        "qid": "c140538b-6683-4b35-b1c2-d52e73898b1f"
+    },
+    {
+        "question": "Complete with the right idiom ( Moni Arora ) In this age of rising electric bills everyone is _________ the pinch . Unfortunately , too many people think that rising utility cost is just a fact of life that can not be changed .",
+        "answer": "feeling",
+        "language": "nl",
+        "distractors": [
+            "sweating",
+            "getting",
+            "hearing"
+        ],
+        "qid": "9f80961b-397c-4542-b0b9-cb6180ccdfa4"
+    }
+]

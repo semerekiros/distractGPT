@@ -1,0 +1,133 @@
+{
+    "qid": "5d5fc67c-385b-4719-ae71-35918e5e3526",
+    "response": {
+        "Query": "Welke reflexen zijn ongewild?",
+        "Result": [
+            {
+                "answer": "ontwikkelingsstoornis",
+                "answer_length": 1,
+                "distractors": [
+                    "onwikkelingstoornis"
+                ],
+                "language": "nl",
+                "question": "Welke schrijfwijze is correct ? In dit naslagwerk staat informatie over kinderen met een ...",
+                "question_length": 15,
+                "score": 0.9291422178968552
+            },
+            {
+                "answer": "Zoet",
+                "answer_length": 1,
+                "distractors": [
+                    "Zuur",
+                    "Zout",
+                    "Bitter"
+                ],
+                "language": "nl",
+                "question": "Meerkeuze oefening . Welke indruk geeft alcohol in de mond :",
+                "question_length": 11,
+                "score": 0.9209716193867785
+            },
+            {
+                "answer": "Temperatuur is niet belangrijk",
+                "answer_length": 4,
+                "distractors": [
+                    "Extremen kunnen harmonieren",
+                    "Bereidingswijze is cruciaal",
+                    "Elegantie voor kracht"
+                ],
+                "language": "nl",
+                "question": "Meerkeuze oefening . Wijn en gerecht ; welke stelling is fout :",
+                "question_length": 12,
+                "score": 0.9173139817647838
+            },
+            {
+                "answer": "neen",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Kan bij dit klimatogram een hardbladige vegetatie voorkomen ?",
+                "question_length": 9,
+                "score": 0.9160080695594434
+            },
+            {
+                "answer": "Staying on but building options",
+                "answer_length": 5,
+                "distractors": [
+                    "Searching on by beloved organization",
+                    "Staying on by bummed organization",
+                    "Searching on but building options"
+                ],
+                "language": "en",
+                "question": "Waarvoor staat SOBBO ?",
+                "question_length": 4,
+                "score": 0.8634501868292486
+            },
+            {
+                "answer": "auxilia",
+                "answer_length": 1,
+                "distractors": [
+                    "ingentia",
+                    "felicia",
+                    "fortia",
+                    "facilia",
+                    "ferocia"
+                ],
+                "language": "nl",
+                "question": "Welke vorm hoort niet thuis in het rijtje ?",
+                "question_length": 9,
+                "score": 0.8596982667358846
+            },
+            {
+                "answer": "une forme trapue",
+                "answer_length": 3,
+                "distractors": [
+                    "une forme allongee",
+                    "une forme courte"
+                ],
+                "language": "fr",
+                "question": "een gedrongen ( lichaams ) vorm ?",
+                "question_length": 7,
+                "score": 0.8541154319618564
+            },
+            {
+                "answer": "intonatie",
+                "answer_length": 1,
+                "distractors": [
+                    "articulatie",
+                    "volume",
+                    "tempo"
+                ],
+                "language": "nl",
+                "question": "Welk aspect van je stem gebruik je in deze situatie ? De Rode Kruismedewerker probeert je iets te verkopen voor het goede doel .",
+                "question_length": 24,
+                "score": 0.8355829509579292
+            },
+            {
+                "answer": "b",
+                "answer_length": 1,
+                "distractors": [
+                    "a",
+                    "oe"
+                ],
+                "language": "nl",
+                "question": "Welke klank is een consonant ?",
+                "question_length": 6,
+                "score": 0.8032280519899484
+            },
+            {
+                "answer": "Altijd opstaand",
+                "answer_length": 2,
+                "distractors": [
+                    "Altijd liggend",
+                    "Liggend maar eens geopend opstaand"
+                ],
+                "language": "nl",
+                "question": "Meerkeuze oefening . Distillaten bewaar je best :",
+                "question_length": 8,
+                "score": 0.8028761362542525
+            }
+        ]
+    }
+}

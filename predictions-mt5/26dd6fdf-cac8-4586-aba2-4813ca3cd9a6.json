@@ -1,0 +1,5 @@
+{
+    "qid": "26dd6fdf-cac8-4586-aba2-4813ca3cd9a6",
+    "input": "Welk is een onderdeel van het oor? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. trommelvlies\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. spiervlies\n2. oorkrans\n3. maagvlies\n4. navelkolom\n5. longvlies\n6. rugrand\n7. darmvlies\n8. ohren\n9. hoornvlies\n10. oogholte"
+}

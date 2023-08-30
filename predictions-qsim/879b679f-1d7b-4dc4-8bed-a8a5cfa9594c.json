@@ -1,0 +1,136 @@
+{
+    "qid": "879b679f-1d7b-4dc4-8bed-a8a5cfa9594c",
+    "response": {
+        "Query": "Tot welk milieu behoort het bloed?",
+        "Result": [
+            {
+                "answer": "performance kunst",
+                "answer_length": 2,
+                "distractors": [
+                    "etnische kunst",
+                    "installatiekunst",
+                    "propagandakunst"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bekijk het filmpje opgenomen in het MOMA in 2010 . Je ziet Marina Abramovic die haar vroegere geliefde Ulah ontmoet . Tot welke kunstdiscipline behoort dit filmpje ?",
+                "question_length": 35,
+                "score": 0.8018385404940026
+            },
+            {
+                "answer": "klooster",
+                "answer_length": 1,
+                "distractors": [
+                    "dier",
+                    "heuvel",
+                    "waterloop"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar verwijst het onderstreepte deel van het toponiem 'Waas munster ' oorspronkelijk naar ?",
+                "question_length": 21,
+                "score": 0.7834850268736187
+            },
+            {
+                "answer": "een satirisch kunstenaar",
+                "answer_length": 3,
+                "distractors": [
+                    "een commercieel kunstenaar",
+                    "een kunstenaar die vooral na-aapt",
+                    "een revolutionair kunstenaar"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk soort kunstenaar is Banksy ?",
+                "question_length": 13,
+                "score": 0.7337098501346315
+            },
+            {
+                "answer": "performance kunst",
+                "answer_length": 2,
+                "distractors": [
+                    "etnische kunst",
+                    "installatiekunst",
+                    "propagandakunst"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bekijk het filmpje opgenomen in 2015 . Je ziet Marlo Johnson . Tot welke kunstdiscipline behoort dit filmpje ?",
+                "question_length": 26,
+                "score": 0.6638052506281967
+            },
+            {
+                "answer": "zelfportret",
+                "answer_length": 1,
+                "distractors": [
+                    "genrestuk",
+                    "landschapskunst",
+                    "stilleven"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk genre binnen de schilderkunst herken je op dit kunstwerk van Frida Kahlo ?",
+                "question_length": 21,
+                "score": 0.5156317558106093
+            },
+            {
+                "answer": "metafoor",
+                "answer_length": 1,
+                "distractors": [
+                    "metoniem",
+                    "personificatie",
+                    "vergelijking"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . 'De jonge wolf ' is een ...",
+                "question_length": 14,
+                "score": 0.4882220647409974
+            },
+            {
+                "answer": "Germaanse namen",
+                "answer_length": 2,
+                "distractors": [
+                    "heiligennamen",
+                    "namen uit de klassieke oudheid",
+                    "oudtestamentische namen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke voornamen hebben de langste traditie in ons taalgebied ?",
+                "question_length": 17,
+                "score": 0.4652649729757635
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Mars",
+                    "Pluton",
+                    "Venus"
+                ],
+                "language": "fr",
+                "question": "A quelle planete appartiennent les lunes Io , Ganymede et Hades ?",
+                "question_length": 12,
+                "score": 0.42494364694855363
+            },
+            {
+                "answer": "plateau",
+                "answer_length": 1,
+                "distractors": [
+                    "verdict",
+                    "piege"
+                ],
+                "language": "fr",
+                "question": "Utilisez le mot qui convient dans la phrase . Vendredi soir , deux saxophones ont ete voles sur le ... de Belgium 's got talent .",
+                "question_length": 26,
+                "score": 0.37747003298421594
+            },
+            {
+                "answer": "hamstergedrag",
+                "answer_length": 1,
+                "distractors": [
+                    "baltsgedrag",
+                    "territoriaal gedrag"
+                ],
+                "language": "nl",
+                "question": "Hoe noemen we het aanleggen van een voedselvoorraad voor de winter ?",
+                "question_length": 12,
+                "score": 0.3734048677061307
+            }
+        ]
+    }
+}

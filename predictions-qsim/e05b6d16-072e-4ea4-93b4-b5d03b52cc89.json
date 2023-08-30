@@ -1,0 +1,137 @@
+{
+    "qid": "e05b6d16-072e-4ea4-93b4-b5d03b52cc89",
+    "response": {
+        "Query": "Welk volk nam in 30 v.C. de macht over in Egypte?",
+        "Result": [
+            {
+                "answer": "Julius Caesar",
+                "answer_length": 2,
+                "distractors": [
+                    "Winston Churchill",
+                    "Lodewijk XIV",
+                    "Keizer Augustus",
+                    "Aristoteles",
+                    "Barack Obama"
+                ],
+                "language": "nl",
+                "question": "Wie sprak er als eerste over de 'Belgen ' ? Duid het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.9881105480228775
+            },
+            {
+                "answer": "Prinsdom",
+                "answer_length": 1,
+                "distractors": [
+                    "Graafschap",
+                    "Hertogdom",
+                    "Koninkrijk"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke staatsvorm heeft Liechtenstein ?",
+                "question_length": 12,
+                "score": 0.9785399417571372
+            },
+            {
+                "answer": "Het Romeinse Rijk",
+                "answer_length": 3,
+                "distractors": [
+                    "Het Myceense Rijk",
+                    "Het Egyptische Rijk",
+                    "Het Perzische Rijk"
+                ],
+                "language": "nl",
+                "question": "Door welk opkomend rijk werden uiteindelijk alle hellenistische rijken opgeslorpt ?",
+                "question_length": 11,
+                "score": 0.9758887999899114
+            },
+            {
+                "answer": "Ierland , Schotland , Frankrijk",
+                "answer_length": 5,
+                "distractors": [
+                    "Belgie , Frankrijk , Turkije",
+                    "Spanje , Ierland , Denemarken",
+                    "Oostenrijk , Zwitserland , Ierland",
+                    "Schotland , Frankrijk , Belgie"
+                ],
+                "language": "nl",
+                "question": "Bekijk de kaart en beantwoord de vraag . In welke drie landen spreekt men vandaag nog steeds Keltisch ?",
+                "question_length": 19,
+                "score": 0.9736978062256131
+            },
+            {
+                "answer": "Diets",
+                "answer_length": 1,
+                "distractors": [
+                    "Doets",
+                    "Duits"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wat is de Middelnederlandse naam voor volkstaal ?",
+                "question_length": 14,
+                "score": 0.9658856447285487
+            },
+            {
+                "answer": "Nederlands",
+                "answer_length": 1,
+                "distractors": [
+                    "Frans",
+                    "Grieks"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . In welke taal was de Statenbijbel geschreven ?",
+                "question_length": 14,
+                "score": 0.964937461071802
+            },
+            {
+                "answer": "Odysseus",
+                "answer_length": 1,
+                "distractors": [
+                    "Eurylochus",
+                    "Mercurius"
+                ],
+                "language": "la",
+                "question": "Wie wordt er bedoeld met `` dux Graecorum '' ? ( r.1 ) Circa gaudet quod dux Graecorum adest et : 'Nonne tu quoque ' , inquit , 'porcus pulcher fieris vis ? ' Sed Mercurii herba [ kruid ] eum servat . Itaque Circa irata ministris dicit : 'Quis est iste [ die ] vir mirus ? Quare porcus non fit ? ' Ulixes autem iterum clamat : 'Libera amicos meos . ' Tandem , post multa Ulixis verba severa [ streng ] , Circa stabuli [ stal ] portam aperit et Graecos liberat .",
+                "question_length": 96,
+                "score": 0.9582746915205306
+            },
+            {
+                "answer": "in mei '40",
+                "answer_length": 3,
+                "distractors": [
+                    "in mei '39",
+                    "in september '39",
+                    "in september '40"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In Belgie startte de Tweede Wereldoorlog",
+                "question_length": 13,
+                "score": 0.9554207496526439
+            },
+            {
+                "answer": "Plichtethiek",
+                "answer_length": 1,
+                "distractors": [
+                    "Gevolgenethiek",
+                    "Deugdethiek"
+                ],
+                "language": "nl",
+                "question": "Tot welk terrein behoort dit probleem met zijn oplossing ? Kies de juiste vorm van ethiek .",
+                "question_length": 17,
+                "score": 0.9519730019775213
+            },
+            {
+                "answer": "ouders",
+                "answer_length": 1,
+                "distractors": [
+                    "kinderen",
+                    "leerkrachten",
+                    "tieners"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Voor wie is deze tekst vooral geschreven ?",
+                "question_length": 15,
+                "score": 0.9495652949512144
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "61497d8a-c60a-4b43-9462-dff9d7b7950f",
+    "input": "Choose the opposite of the word in bold . I have some money to make an investment . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. disinvestment\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. investment\n2. debt\n3. underinvestment\n4. reinvesting\n5. new development\n6. invest in new equipment\n7. present asset\n8. purchased machine 10.\n9. inversion\n10. acquisition"
+}

@@ -1,0 +1,126 @@
+{
+    "qid": "63568939-6e84-4e1f-a132-d69f429ead3c",
+    "response": {
+        "Query": "Indique la bonne reaction . Duid de juiste reactie aan . Tu veux m'aider , Ben ?",
+        "Result": [
+            {
+                "answer": "Avec plaisir ",
+                "answer_length": 2,
+                "distractors": [
+                    "Ca doit etre super ",
+                    "Mon Dieu "
+                ],
+                "language": "fr",
+                "question": "Indique la bonne reaction . Duid de juiste reactie aan . Tu veux m'aider , Ben ?",
+                "question_length": 17,
+                "score": 0.9982828471620016
+            },
+            {
+                "answer": "Je ne sais pas ",
+                "answer_length": 4,
+                "distractors": [
+                    "Je ne suis pas certaine ",
+                    "Peut-etre "
+                ],
+                "language": "fr",
+                "question": "Comment reagir a la question suivante si on hesite ? Choisissez la bonne reponse . Pour vous aider , Franel vous propose ici une fiche pratique . Quand viendra-t-il ?",
+                "question_length": 30,
+                "score": 0.991627178694328
+            },
+            {
+                "answer": "Julien , comme papa ",
+                "answer_length": 4,
+                "distractors": [
+                    "La Belgique ",
+                    "Tres sympathique "
+                ],
+                "language": "fr",
+                "question": "Indique la bonne reponse . Duid het goede antwoord aan . Tu t'appelles comment ?",
+                "question_length": 15,
+                "score": 0.9887559715951304
+            },
+            {
+                "answer": "Mais oui ! Bien sur ",
+                "answer_length": 5,
+                "distractors": [
+                    "David ",
+                    "Oui , ca va bien "
+                ],
+                "language": "fr",
+                "question": "Choisissez la reponse correcte . Tu le connais ?",
+                "question_length": 9,
+                "score": 0.9821587501730938
+            },
+            {
+                "answer": "Je ne suis pas convaincu ",
+                "answer_length": 5,
+                "distractors": [
+                    "Vous etes sur ?",
+                    "Vous avez toujours raison ",
+                    "Je le sais bien ",
+                    "Vous croyez ? "
+                ],
+                "language": "fr",
+                "question": "Comment reagir a l'enonce suivant si on hesite ? Choisissez la bonne reponse . Pour vous aider , Franel vous propose ici une fiche pratique . J'espere qu'il arrivera a l'heure !",
+                "question_length": 32,
+                "score": 0.9751695221213507
+            },
+            {
+                "answer": "C'est le frere de Julie ",
+                "answer_length": 5,
+                "distractors": [
+                    "Il s'appelle comment ?",
+                    "A bientot "
+                ],
+                "language": "fr",
+                "question": "Choisissez la reponse correcte . C'est qui ?",
+                "question_length": 8,
+                "score": 0.9750114353618196
+            },
+            {
+                "answer": "Avec plaisir ",
+                "answer_length": 2,
+                "distractors": [
+                    "De rien "
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne replique . Je pourrais vous demander quelque chose ?",
+                "question_length": 12,
+                "score": 0.9730076101157151
+            },
+            {
+                "answer": "Je m'appelle Caroline ",
+                "answer_length": 3,
+                "distractors": [
+                    "Ca va "
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Tu t'appelles comment ?",
+                "question_length": 10,
+                "score": 0.971536085904523
+            },
+            {
+                "answer": "Je me fais des soucis ",
+                "answer_length": 5,
+                "distractors": [
+                    "Je m'en fiche "
+                ],
+                "language": "fr",
+                "question": "Que dites-vous dans les cas suivants ? Cochez la bonne reponse . Ton ami ne repond plus a tes messages . Tu n'arretes pas d ' y penser .",
+                "question_length": 29,
+                "score": 0.9707424846674225
+            },
+            {
+                "answer": "Elle s'appelle comment ?",
+                "answer_length": 4,
+                "distractors": [
+                    "Il s'appelle comment ?"
+                ],
+                "language": "nl",
+                "question": "Je wilt er meer over weten ? Stel de juiste vraag . Julien a une soeur .",
+                "question_length": 17,
+                "score": 0.9608328522612978
+            }
+        ]
+    }
+}

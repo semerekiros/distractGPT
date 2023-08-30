@@ -1,0 +1,5 @@
+{
+    "qid": "7a12809a-4f5f-43df-b63a-c7b1f8416e34",
+    "input": "Welke van deze soa\u2019s kan met antibiotica worden behandeld? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. chlamydia\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. gonorrhoea\n2. asthma\n3. morfine\n4. polycytopenie\n5. alvleesklier\n6. diarree\n7. furula\n8. enterobacteriaceae\n9. hepatitis\n10. herpesvirus"
+}

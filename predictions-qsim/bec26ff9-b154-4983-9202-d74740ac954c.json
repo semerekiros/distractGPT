@@ -1,0 +1,132 @@
+{
+    "qid": "bec26ff9-b154-4983-9202-d74740ac954c",
+    "response": {
+        "Query": "Van welk land is Lissabon de hoofdstad?",
+        "Result": [
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Verenigde Staten"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord In welk land wordt er met de euro betaald ?",
+                "question_length": 14,
+                "score": 0.9667792106129676
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Verenigde staten"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord In welk land kan je betalen met de euro ?",
+                "question_length": 14,
+                "score": 0.9659539016564164
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Canada",
+                    "Rusland"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . In welk land wordt met de euro betaald ?",
+                "question_length": 14,
+                "score": 0.9636448284872418
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Verenigde Staten"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . In welk land betaalt men met de euro ?",
+                "question_length": 15,
+                "score": 0.9634870203186792
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "USA"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord In welk land wordt met de euro gewerkt ?",
+                "question_length": 13,
+                "score": 0.9633635124349414
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Japan"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord ! In welk land kan er met de euro betaald worden ?",
+                "question_length": 16,
+                "score": 0.9608565400578846
+            },
+            {
+                "answer": "Zwitserland",
+                "answer_length": 1,
+                "distractors": [
+                    "Belgie",
+                    "Griekenland",
+                    "Zweden"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk van deze landen wordt vernoemd in het clipje ?",
+                "question_length": 17,
+                "score": 0.9580851383976914
+            },
+            {
+                "answer": "Zweden",
+                "answer_length": 1,
+                "distractors": [
+                    "Brazilie",
+                    "Duitsland",
+                    "Belgie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk land is het inkomen het meest gelijkmatig verdeeld over de verschillende bevolkingsgroepen ?",
+                "question_length": 22,
+                "score": 0.9575781210078623
+            },
+            {
+                "answer": "Met Egypte",
+                "answer_length": 2,
+                "distractors": [
+                    "Met Afrika",
+                    "Met Europa",
+                    "Met Italie"
+                ],
+                "language": "nl",
+                "question": "Met welk gebied kwam het rijk van Ptolemaios overeen ?",
+                "question_length": 10,
+                "score": 0.9529449284244752
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Japan",
+                    "Noorwegen"
+                ],
+                "language": "nl",
+                "question": "Omcirkel het juiste antwoord In welk land betalen we met Euro ?",
+                "question_length": 12,
+                "score": 0.9516181911130659
+            }
+        ]
+    }
+}

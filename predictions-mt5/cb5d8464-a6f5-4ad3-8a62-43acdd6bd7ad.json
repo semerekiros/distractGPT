@@ -1,0 +1,5 @@
+{
+    "qid": "cb5d8464-a6f5-4ad3-8a62-43acdd6bd7ad",
+    "input": "Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. below\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. above\n2. ahead\n3. below\n4. over\n5. at\n6. in the top\n7. on the left\n8. out of the right\n9. up\n10. upper"
+}

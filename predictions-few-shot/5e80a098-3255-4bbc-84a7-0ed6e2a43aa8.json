@@ -1,0 +1,5 @@
+{
+    "qid": "5e80a098-3255-4bbc-84a7-0ed6e2a43aa8",
+    "input": "question: to shrink is ...\nanswer: to contract\nIncorrect answers: \n1. to expand\n2. to boost\n\nquestion: to cut crops is ...\nanswer: to mow\nIncorrect answers: \n1. to harvest\n2. to lift\n\nquestion: to enhance is ...\nanswer: to boost\nIncorrect answers: \n1. to slow down\n2. to hinder\n\nquestion: to invigorate is ...\nanswer: to strengthen\nIncorrect answers: \n1. to use in a preparation\n2. to remove from a preparation\n\nquestion: 'vasopressin ' is ...\nanswer: ADH\nIncorrect answers: \n1. antidigestive hormone\n2. antidiabetic hormone\n\nquestion: : to shrink is ...\nanswer: : to contract\n\nGenerate 20 incorrect answers: ",
+    "response": "\n\n1. to expand\n2. to stretch\n3. to enlarge\n4. to widen\n5. to blow up\n6. to inflate\n7. to grow\n8. to bloat\n9. to swell\n10. to fatten\n11. to multiply\n12. to increase\n13. to escalate\n14. to surge\n15. to rise\n16. to extend\n17. to spread\n18. to develop\n19. to progress\n20. to advance"
+}

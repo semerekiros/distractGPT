@@ -1,0 +1,5 @@
+{
+    "qid": "08507f53-5a25-4778-95ad-b98327dedd9a",
+    "input": "vraag: Hoe groot is de oogbol ongeveer?\nantwoord: 25 mm\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. 15 mm\n2. 30 mm\n3. 10 mm\n4. 20 mm\n5. 22 mm\n6. 18 mm\n7. 27 mm\n8. 23 mm\n9. 21 mm\n10. 24 mm\n11. 28 mm\n12. 16 mm\n13. 26 mm\n14. 29 mm\n15. 17 mm\n16. 12 mm\n17. 19 mm\n18. 14 mm\n19. 13 mm\n20. 11 mm"
+}

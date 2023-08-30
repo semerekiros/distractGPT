@@ -1,0 +1,5 @@
+{
+    "qid": "85939ee8-cb11-4357-a2b0-19da20f056c5",
+    "input": "Choisis . C'est passe compose , present ou future proche ? Je vais chercher un cadeau pour l'anniversaire de Magali . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. futur proche\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. passe compose\n2. present\n3. presente\n4. passif\n5. passe faux\n6. passe recent\n7. futur simple\n8. passe imper\n9. pass composer\n10. pass-compose"
+}

@@ -1,0 +1,135 @@
+{
+    "qid": "b07a14cd-c4e8-4cdc-b28a-4bd0a98253a5",
+    "response": {
+        "Query": "Xerxes leidde zijn troepen opnieuw langs Thraci\u00eb naar het Griekse vasteland. Waar werd de eerste grote slag geleverd?",
+        "Result": [
+            {
+                "answer": "Aalst",
+                "answer_length": 1,
+                "distractors": [
+                    "Brugge",
+                    "Hasselt",
+                    "Antwerpen"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Belgische onderneming , gevestigd te Brugge , verkoopt goederen aan een andere Belgische onderneming , gevestigd te Hasselt . De goederen bevinden zich in een opslagplaats te Aalst en worden vervoerd naar een winkel van de koper te Antwerpen . Wat is de plaats van de levering van goederen ?",
+                "question_length": 57,
+                "score": 0.990243955705851
+            },
+            {
+                "answer": "Oostende",
+                "answer_length": 1,
+                "distractors": [
+                    "De Panne",
+                    "Nieuwpoort",
+                    "Knokke"
+                ],
+                "language": "nl",
+                "question": "Maak een keuze . De KATHO Innovatietweedaagse gaat dit jaar door in :",
+                "question_length": 13,
+                "score": 0.9852032767780584
+            },
+            {
+                "answer": "3",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "language": "nl",
+                "question": "De film speelt zich af in Halluin , vlak bij de Belgische grens . Waar ligt Halluin op de kaart ? kies het juiste nummer .",
+                "question_length": 26,
+                "score": 0.9845948436882653
+            },
+            {
+                "answer": "Brabant",
+                "answer_length": 1,
+                "distractors": [
+                    "Henegouwen",
+                    "Limburg",
+                    "Luxemburg"
+                ],
+                "language": "nl",
+                "question": "Bekijk de kaart grondig en klik daarna het juiste antwoord aan . Welk grondgebied verwierf Filips de Goede in 1430 ?",
+                "question_length": 21,
+                "score": 0.9800700071872217
+            },
+            {
+                "answer": "neen",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Vind je het antwoord van de onderstaande vraag in de tekst ? Waar staat de snelste achtbaan in Europa ?",
+                "question_length": 20,
+                "score": 0.9774502409112311
+            },
+            {
+                "answer": "in Denemarken",
+                "answer_length": 2,
+                "distractors": [
+                    "in Engeland",
+                    "in Noorwegen",
+                    "in Zweden"
+                ],
+                "language": "nl",
+                "question": "Waar woonde Shakespeare 's Hamlet ?",
+                "question_length": 6,
+                "score": 0.972698611167966
+            },
+            {
+                "answer": "Oostende",
+                "answer_length": 1,
+                "distractors": [
+                    "De Panne",
+                    "Nieuwpoort",
+                    "Knokke"
+                ],
+                "language": "nl",
+                "question": "Maak een keuze . De VIVES Innovatietweedaagse gaat dit jaar door in :",
+                "question_length": 13,
+                "score": 0.9714350354959443
+            },
+            {
+                "answer": "De opslagplaats in Nederland",
+                "answer_length": 4,
+                "distractors": [
+                    "De eerste Belgische onderneming",
+                    "De tweede Belgische onderneming"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een eerste Belgische onderneming verkoopt goederen aan een tweede Belgische onderneming . De goederen bevinden zich in een opslagplaats in Nederland en worden aldaar ter beschikking gesteld van de koper . Wat is de plaats van de levering van goederen ?",
+                "question_length": 47,
+                "score": 0.9698519653159773
+            },
+            {
+                "answer": "Zwevegem",
+                "answer_length": 1,
+                "distractors": [
+                    "Veurne",
+                    "Kasterlee",
+                    "Riemst"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op de blogsite www.seniorennet.be bracht de auteur een bijdrage over dialectologie . Bij de onderstaande dialectkaart schreef hij : `` Een beeld van de dialectiek voor 'Schommel ' . Bij ons is dat 'renne ' ... '' Waar woont die auteur dan ?",
+                "question_length": 50,
+                "score": 0.969292688473448
+            },
+            {
+                "answer": "Gent",
+                "answer_length": 1,
+                "distractors": [
+                    "Bij de Nederlandse aannemer",
+                    "Brussel"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Nederlandse aannemer vervangt voor rekening van een Belgische onderneming die gevestigd is in Brussel , het dak van een fabriekshal , gelegen in het havengebied van Gent . Wat is de plaats van de prestatie van diensten ?",
+                "question_length": 45,
+                "score": 0.9688581047321023
+            }
+        ]
+    }
+}

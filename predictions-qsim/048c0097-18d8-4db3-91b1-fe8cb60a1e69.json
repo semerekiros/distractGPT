@@ -1,0 +1,127 @@
+{
+    "qid": "048c0097-18d8-4db3-91b1-fe8cb60a1e69",
+    "response": {
+        "Query": "De evenaar is het nulpunt van de breedtelijnen. Wat is dan de breedteligging van de evenaar?",
+        "Result": [
+            {
+                "answer": "aan het gemaakte werkstuk ",
+                "answer_length": 4,
+                "distractors": [
+                    "op de tekening "
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord . De werkelijke maat meet men",
+                "question_length": 10,
+                "score": 0.893835125656455
+            },
+            {
+                "answer": "De veer opent de klep ",
+                "answer_length": 5,
+                "distractors": [
+                    "De veer sluit de klep "
+                ],
+                "language": "nl",
+                "question": "Zal de hoofdveer de klep van een veergestuurde regelaar openen of sluiten ?",
+                "question_length": 13,
+                "score": 0.8661976485998152
+            },
+            {
+                "answer": "0,6666 ",
+                "answer_length": 1,
+                "distractors": [
+                    "2,3333 ",
+                    "0,3333 ",
+                    "0,6767 ",
+                    "0,4444 "
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . De decimale ontwikkeling van de breuk twee derde is :",
+                "question_length": 23,
+                "score": 0.865860162179798
+            },
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Waar"
+                ],
+                "language": "nl",
+                "question": "De lis van Henle bevat een eenlagig kubisch epitheel .",
+                "question_length": 10,
+                "score": 0.8424061669496414
+            },
+            {
+                "answer": "oneindig veel symmetriassen",
+                "answer_length": 3,
+                "distractors": [
+                    "geen symmetrieassen",
+                    "precies een symmetrieas",
+                    "precies twee symmetrieassen"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . De figuur gevormd door twee evenwijdige rechten heeft ... .",
+                "question_length": 16,
+                "score": 0.7024492573551111
+            },
+            {
+                "answer": "vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "faux"
+                ],
+                "language": "nl",
+                "question": "Men meldt een spoorverandering .",
+                "question_length": 5,
+                "score": 0.6650067067435156
+            },
+            {
+                "answer": "Niet waar",
+                "answer_length": 2,
+                "distractors": [
+                    "Waar"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Op het schriftelijk examen wiskunde kennis , zal verwacht worden je antwoord te verklaren ( in woorden of met een tekening ) . Een rechthoek met 2 even lange zijden is een vierkant .",
+                "question_length": 39,
+                "score": 0.6589155353111623
+            },
+            {
+                "answer": "7,677 m + 5,224 m",
+                "answer_length": 5,
+                "distractors": [
+                    "56,21 m + 4,32 m",
+                    "578 m + 1,346 m",
+                    "3,450 m + 1,10 m"
+                ],
+                "language": "nl",
+                "question": "Twee lengten worden samengeteld . Het resultaat met het meeste beduidende cijfers is :",
+                "question_length": 14,
+                "score": 0.6404881030531961
+            },
+            {
+                "answer": "Stabiliteit van de knie",
+                "answer_length": 4,
+                "distractors": [
+                    "Beweegelijkheid in de benen",
+                    "Warmte- en zenuwgeleiding"
+                ],
+                "language": "nl",
+                "question": "De voorste kruisband ( VKB ) is een gewrichtsband midden in de knie die het bovenbeen aan het onderbeen verbindt . Wat is de functie van de voorste kruisband ? Duid het juiste antwoord aan .",
+                "question_length": 36,
+                "score": 0.6098863835350073
+            },
+            {
+                "answer": "6 9",
+                "answer_length": 2,
+                "distractors": [
+                    "6x",
+                    "( x-9 )"
+                ],
+                "language": "nl",
+                "question": "Noteer met wiskundige symbolen . Duid het juiste antwoord aan . 9 minder dan het zesvoud van x",
+                "question_length": 18,
+                "score": 0.5553534786363428
+            }
+        ]
+    }
+}

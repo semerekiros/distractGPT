@@ -1,0 +1,136 @@
+{
+    "qid": "465a3c9d-8450-409e-a608-3561a6917d5f",
+    "response": {
+        "Query": "combustion is a synonym for ...",
+        "Result": [
+            {
+                "answer": "burning",
+                "answer_length": 1,
+                "distractors": [
+                    "respiration",
+                    "breathing"
+                ],
+                "language": "en",
+                "question": "combustion is a synonym for ...",
+                "question_length": 6,
+                "score": 0.6699785682922331
+            },
+            {
+                "answer": "mixture",
+                "answer_length": 1,
+                "distractors": [
+                    "friend",
+                    "enemy",
+                    "wing",
+                    "",
+                    ""
+                ],
+                "language": "en",
+                "question": "Choose the right answer . PRECIOUS EARTHS A group of commodities called `` rare earths '' are gaining importance as competing industrial giants are fighting for them . These elements are used to manufacture sophisticated products , such as flat-screen monitors , electric car batteries , wind turbines , and aerospace alloys . Today a collision around those commidities has seen prices rocket and countries go the extra mile to acquire these elements , sometimes even at excruciating cost . What is a synonym for `` alloy '' ?",
+                "question_length": 89,
+                "score": 0.6499521339799905
+            },
+            {
+                "answer": "market",
+                "answer_length": 1,
+                "distractors": [
+                    "country",
+                    "threat",
+                    "concern"
+                ],
+                "language": "en",
+                "question": "Choose the right option . China is a growing ... for the things the EU produces best .",
+                "question_length": 18,
+                "score": 0.5748575300255806
+            },
+            {
+                "answer": "easier",
+                "answer_length": 1,
+                "distractors": [
+                    "more easy",
+                    "easyer",
+                    "the easiest"
+                ],
+                "language": "en",
+                "question": "Choose the correct word ! Kies het juiste woord ! Choisissez le bon mot ! The comparative of EASY is ...",
+                "question_length": 21,
+                "score": 0.557600052735991
+            },
+            {
+                "answer": "goods",
+                "answer_length": 1,
+                "distractors": [
+                    "ease",
+                    "facilities",
+                    "plant"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . PRECIOUS EARTHS A group of commodities called `` rare earths '' are gaining importance as competing industrial giants are fighting for them . These elements are used to manufacture sophisticated products , such as flat-screen monitors , electric car batteries , wind turbines , and aerospace alloys . Today a collision around those commidities has seen prices rocket and countries go the extra mile to acquire these elements , sometimes even at excruciating cost . What is a synonym for `` commodity '' ?",
+                "question_length": 89,
+                "score": 0.5503309131924111
+            },
+            {
+                "answer": "windfall",
+                "answer_length": 1,
+                "distractors": [
+                    "boom",
+                    "beam",
+                    "thrive"
+                ],
+                "language": "en",
+                "question": "The company profited from a tax refund which was a ...",
+                "question_length": 11,
+                "score": 0.5405474537226523
+            },
+            {
+                "answer": "meet",
+                "answer_length": 1,
+                "distractors": [
+                    "shake",
+                    "run",
+                    "tie"
+                ],
+                "language": "en",
+                "question": "Complete with the right idiom ( Rick Elkins ) Over half of our customers bring in aluminum cans . It 's a way for some people to help make ends ... .",
+                "question_length": 32,
+                "score": 0.5042506290790701
+            },
+            {
+                "answer": "chervil",
+                "answer_length": 1,
+                "distractors": [
+                    "chervel",
+                    "charvil"
+                ],
+                "language": "en",
+                "question": "'kervel ' is in English ...",
+                "question_length": 6,
+                "score": 0.4882568429959223
+            },
+            {
+                "answer": "flat",
+                "answer_length": 1,
+                "distractors": [
+                    "hazardous",
+                    "urban"
+                ],
+                "language": "en",
+                "question": "Regarde la photo et coche la bonne reponse . The roof of their house is ...",
+                "question_length": 16,
+                "score": 0.4804385965335345
+            },
+            {
+                "answer": "mile",
+                "answer_length": 1,
+                "distractors": [
+                    "meter",
+                    "yard"
+                ],
+                "language": "en",
+                "question": "Complete with the right idiom ( Lea Klock ) We go the extra ... . If we do n't have it here , we go running to get it .",
+                "question_length": 30,
+                "score": 0.46582207878389287
+            }
+        ]
+    }
+}

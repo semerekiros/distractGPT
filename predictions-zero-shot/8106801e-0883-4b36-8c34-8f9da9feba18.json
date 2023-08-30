@@ -1,0 +1,5 @@
+{
+    "qid": "8106801e-0883-4b36-8c34-8f9da9feba18",
+    "input": "question: Personne n'________________ reserve cette chambre d'hotel .\nr\u00e9pondre: aurait\n\nG\u00e9n\u00e9rez 20 r\u00e9ponses plausibles mais intrins\u00e8quement incorrectes : ",
+    "response": "\n\n1. ne voudrait\n2. ne pourrait\n3. ne devrait\n4. ne penserait\n5. ne d\u00e9sirerait\n6. ne choisira\n7. ne r\u00e9servera\n8. ne louera\n9. ne prendra\n10. ne demandera\n11. ne proposera\n12. ne sugg\u00e9rera\n13. ne s\u00e9lectionnera\n14. ne retiendra\n15. ne commandera\n16. ne cherchera\n17. ne passera\n18. ne paiera\n19. ne visitera\n20. ne consid\u00e9rera"
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "1a76f718-2448-4623-bf2f-6ca3926d44dd",
+    "input": "'degager ' un arome signifie ... </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. le repandre\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. l'eau\n2. l'epice\n3. le repasser\n4. le vin\n5. la tartine\n6. toutes les reponses sont correctes\n7. les crevettes\n8. aucune des reponses n'est correcte\n9. toutes les les reponses\n10. le rasoir"
+}

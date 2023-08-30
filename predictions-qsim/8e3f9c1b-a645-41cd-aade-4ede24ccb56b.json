@@ -1,0 +1,131 @@
+{
+    "qid": "8e3f9c1b-a645-41cd-aade-4ede24ccb56b",
+    "response": {
+        "Query": "Cochez la bonne reponse . [ lang=en ] Tick off the correct answer . [ /lang ] [ lang=nl ] Duid het juiste anwoord aan . [ /lang ] Madame Temouche , Nous vous signalons que le bateau avec vos marchandises est arrive au port de Dakar . Nous avons le plaisir de vous annoncer qu'il s'agit d'une livraison de coton de qualite superieure . Bien cordialement , Maurice Guadelien Qu'est-ce que Madame Temouche a achete ?",
+        "Result": [
+            {
+                "answer": "du coton",
+                "answer_length": 2,
+                "distractors": [
+                    "un bateau",
+                    "une livraison",
+                    "un port"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne reponse . [ lang=en ] Tick off the correct answer . [ /lang ] [ lang=nl ] Duid het juiste anwoord aan . [ /lang ] Madame Temouche , Nous vous signalons que le bateau avec vos marchandises est arrive au port de Dakar . Nous avons le plaisir de vous annoncer qu'il s'agit d'une livraison de coton de qualite superieure . Bien cordialement , Maurice Guadelien Qu'est-ce que Madame Temouche a achete ?",
+                "question_length": 77,
+                "score": 0.9873105819654711
+            },
+            {
+                "answer": "du coton",
+                "answer_length": 2,
+                "distractors": [
+                    "un bateau",
+                    "une livraison",
+                    "un port"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne reponse . Tick off the correct answer . Madame Temouche , nous vous signalons que le bateau avec vos marchandises est arrive au port de Dakar . Nous avons le plaisir de vous annoncer qu'il s'agit d'une livraison de coton de qualite superieure . Bien cordialement , Maurice Guadelien Qu'est-ce que Madame Temouche a achete ?",
+                "question_length": 59,
+                "score": 0.975679829832808
+            },
+            {
+                "answer": "Aucune des reponses n'est correcte",
+                "answer_length": 5,
+                "distractors": [
+                    "Toutes les reponses sont correctes",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Laquelle de ces affirmations sur le Vatican est vraie ?",
+                "question_length": 10,
+                "score": 0.9536721712159263
+            },
+            {
+                "answer": "Enfant Libre - Enfant Adapte",
+                "answer_length": 5,
+                "distractors": [
+                    "Enfant Creatif - Enfant Insoumis",
+                    "Enfant Libere - Enfant Prisonnier"
+                ],
+                "language": "fr",
+                "question": "Dans le courant d'une journee , je peux avoir envie de plaisanter et ressentir la necessite de faire parfaitement mon travail ; j'exprime ainsi mon ...",
+                "question_length": 26,
+                "score": 0.9390334856679714
+            },
+            {
+                "answer": "2 evenements",
+                "answer_length": 2,
+                "distractors": [
+                    "Une conference",
+                    "1 evenement"
+                ],
+                "language": "fr",
+                "question": "Qu-a propose la SJDF ?",
+                "question_length": 5,
+                "score": 0.9317181760640583
+            },
+            {
+                "answer": "a la billetterie",
+                "answer_length": 3,
+                "distractors": [
+                    "au magasin",
+                    "a la caisse",
+                    "sur Internet"
+                ],
+                "language": "fr",
+                "question": "Quel mot pourrait remplacer le mot en gras ? Il faut acheter les tickets au distributeur .",
+                "question_length": 17,
+                "score": 0.9259869559373475
+            },
+            {
+                "answer": "Docteur",
+                "answer_length": 1,
+                "distractors": [
+                    "Veterinaire",
+                    "Avocat"
+                ],
+                "language": "fr",
+                "question": "Quelle est la profession de Michel Paccard ?",
+                "question_length": 8,
+                "score": 0.9199252438560138
+            },
+            {
+                "answer": "Choix 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Choix 2",
+                    "Choix 3"
+                ],
+                "language": "fr",
+                "question": "Aves quels facteurs de risque",
+                "question_length": 5,
+                "score": 0.9175895761783022
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "L'auteur aime flaner sur les marches pour trouver des ingredients ?",
+                "question_length": 11,
+                "score": 0.9169013401029086
+            },
+            {
+                "answer": "Choix 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Choix 2",
+                    "Choix 3",
+                    "Choix 4"
+                ],
+                "language": "lt",
+                "question": "tdtytyu",
+                "question_length": 1,
+                "score": 0.9127355490241912
+            }
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "qid": "35152b6f-9d87-4323-ab4f-10442ac370fb",
+    "response": {
+        "Query": "1.47 How do I get to the airport from here ? Do n't worry , I ... ... ... ... you .",
+        "Result": [
+            {
+                "answer": "'ll show",
+                "answer_length": 2,
+                "distractors": [
+                    "show",
+                    "am showing",
+                    "'m going to"
+                ],
+                "language": "en",
+                "question": "1.47 How do I get to the airport from here ? Do n't worry , I ... ... ... ... you .",
+                "question_length": 22,
+                "score": 0.8045816107796038
+            },
+            {
+                "answer": "'ll show",
+                "answer_length": 2,
+                "distractors": [
+                    "show",
+                    "am showing",
+                    "'m going to"
+                ],
+                "language": "en",
+                "question": "47 . How do I get to the airport from here ? Do n't worry , I ... ... ... ... you .",
+                "question_length": 23,
+                "score": 0.776323345725159
+            },
+            {
+                "answer": "He 's always phoning me",
+                "answer_length": 5,
+                "distractors": [
+                    "He might phone me"
+                ],
+                "language": "en",
+                "question": "Choose the correct synonym . Choisissez le synonyme correct . Kies de juiste synoniem . He will phone me just when I 'm busy !",
+                "question_length": 25,
+                "score": 0.6497942415798381
+            },
+            {
+                "answer": "would you go",
+                "answer_length": 3,
+                "distractors": [
+                    "will you go",
+                    "you went",
+                    "have you gone"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Where ... if you won the lottery ?",
+                "question_length": 13,
+                "score": 0.6487908052190549
+            },
+            {
+                "answer": "At",
+                "answer_length": 1,
+                "distractors": [
+                    "Go straight on",
+                    "On",
+                    "To"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! ... the traffic lights turn left .",
+                "question_length": 22,
+                "score": 0.6460367043732975
+            },
+            {
+                "answer": "back",
+                "answer_length": 1,
+                "distractors": [
+                    "off",
+                    "out",
+                    "up"
+                ],
+                "language": "en",
+                "question": "Complete the sentence ! We 've had some problems with our suppliers that set us ... .. at least two weeks .",
+                "question_length": 22,
+                "score": 0.6260471142034495
+            },
+            {
+                "answer": "lie",
+                "answer_length": 1,
+                "distractors": [
+                    "ly",
+                    "lay"
+                ],
+                "language": "fr",
+                "question": "Health problems Lis le dialogue , puis reponds aux questions . Please ... down here .",
+                "question_length": 16,
+                "score": 0.6246183005244154
+            },
+            {
+                "answer": "so he did",
+                "answer_length": 3,
+                "distractors": [
+                    "then did he",
+                    "so did he",
+                    "he did that"
+                ],
+                "language": "en",
+                "question": "He said he would achieve his plan and ...",
+                "question_length": 9,
+                "score": 0.6211370239616248
+            },
+            {
+                "answer": "so that I could",
+                "answer_length": 4,
+                "distractors": [
+                    "so as I could",
+                    "in order that I",
+                    "for I could"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Choisissez la reponse correcte . Kies het juiste antwoord . I left for work early ... avoid the morning rush hour .",
+                "question_length": 27,
+                "score": 0.6140982293279547
+            },
+            {
+                "answer": "am/have",
+                "answer_length": 1,
+                "distractors": [
+                    "is/has",
+                    "have/am",
+                    "has/are"
+                ],
+                "language": "en",
+                "question": "Choose the correct verbs ! I ( ... ) a manager . I ( ... ) a team of 7 people .",
+                "question_length": 22,
+                "score": 0.6138046954453724
+            }
+        ]
+    }
+}

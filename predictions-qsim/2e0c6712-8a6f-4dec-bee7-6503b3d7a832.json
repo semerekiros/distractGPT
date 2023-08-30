@@ -1,0 +1,128 @@
+{
+    "qid": "2e0c6712-8a6f-4dec-bee7-6503b3d7a832",
+    "response": {
+        "Query": "to remove buds from a plant is ...",
+        "Result": [
+            {
+                "answer": "limp",
+                "answer_length": 1,
+                "distractors": [
+                    "inflexible",
+                    "unbendable"
+                ],
+                "language": "en",
+                "question": "what 's WRONG ? Something rigid is ...",
+                "question_length": 8,
+                "score": 0.684213105688307
+            },
+            {
+                "answer": "to disbud",
+                "answer_length": 2,
+                "distractors": [
+                    "to entbud",
+                    "to withbud"
+                ],
+                "language": "en",
+                "question": "to remove buds from a plant is ...",
+                "question_length": 8,
+                "score": 0.6489125373690258
+            },
+            {
+                "answer": "they are agressive microbes",
+                "answer_length": 4,
+                "distractors": [
+                    "they are fungi",
+                    "they feed on dead matter"
+                ],
+                "language": "en",
+                "question": "what is WRONG about saprobes ?",
+                "question_length": 6,
+                "score": 0.6325493748424844
+            },
+            {
+                "answer": "a graft to a scion",
+                "answer_length": 5,
+                "distractors": [
+                    "a scion to a stock",
+                    "a graft to a rootstock"
+                ],
+                "language": "en",
+                "question": "what is NOT true ? Budding is joining ...",
+                "question_length": 9,
+                "score": 0.5644356669908517
+            },
+            {
+                "answer": "a boar",
+                "answer_length": 2,
+                "distractors": [
+                    "a male turkey",
+                    "a male deer"
+                ],
+                "language": "en",
+                "question": "what is NOT a stag ?",
+                "question_length": 6,
+                "score": 0.4678064178610375
+            },
+            {
+                "answer": "Depolarization",
+                "answer_length": 1,
+                "distractors": [
+                    "Cracking",
+                    "Change in the focal zone",
+                    "Additional sidelobes"
+                ],
+                "language": "en",
+                "question": "What happens to a transducer if it is heat-sterilized ?",
+                "question_length": 10,
+                "score": 0.465390889993358
+            },
+            {
+                "answer": "to jump",
+                "answer_length": 2,
+                "distractors": [
+                    "to whisk",
+                    "to beat"
+                ],
+                "language": "en",
+                "question": "which is NOT a synonym for to whip ?",
+                "question_length": 9,
+                "score": 0.37493117217949884
+            },
+            {
+                "answer": "limp",
+                "answer_length": 1,
+                "distractors": [
+                    "pimp",
+                    "slimp"
+                ],
+                "language": "en",
+                "question": "what is the opposite of 'upright ' ?",
+                "question_length": 8,
+                "score": 0.37310076871088893
+            },
+            {
+                "answer": "afforestation",
+                "answer_length": 1,
+                "distractors": [
+                    "deforestation",
+                    "reforestation"
+                ],
+                "language": "en",
+                "question": "transforming an area into forest is ...",
+                "question_length": 7,
+                "score": 0.3381093964920298
+            },
+            {
+                "answer": "after cross-pollination",
+                "answer_length": 2,
+                "distractors": [
+                    "before cross-pollination"
+                ],
+                "language": "en",
+                "question": "cross-fertilization takes place ...",
+                "question_length": 4,
+                "score": 0.31736170544136905
+            }
+        ]
+    }
+}

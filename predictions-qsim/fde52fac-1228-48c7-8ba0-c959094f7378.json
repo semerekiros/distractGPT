@@ -1,0 +1,140 @@
+{
+    "qid": "fde52fac-1228-48c7-8ba0-c959094f7378",
+    "response": {
+        "Query": "Wie was de oppergod van het Grieks?",
+        "Result": [
+            {
+                "answer": "Clovis",
+                "answer_length": 1,
+                "distractors": [
+                    "Karel V",
+                    "Karel de Grote",
+                    "Napoleon"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke politieke leider beschouwde zich NIET als een opvolger van de Romeinse keizers ?",
+                "question_length": 21,
+                "score": 0.9921278673659192
+            },
+            {
+                "answer": "Julius Caesar",
+                "answer_length": 2,
+                "distractors": [
+                    "Winston Churchill",
+                    "Lodewijk XIV",
+                    "Keizer Augustus",
+                    "Aristoteles",
+                    "Barack Obama"
+                ],
+                "language": "nl",
+                "question": "Wie sprak er als eerste over de 'Belgen ' ? Duid het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.9770942376326127
+            },
+            {
+                "answer": "Alexander de Grote",
+                "answer_length": 3,
+                "distractors": [
+                    "Julius Caesar",
+                    "Xerxes",
+                    "Pericles",
+                    "Homeros",
+                    "Philippus van Macedonie"
+                ],
+                "language": "nl",
+                "question": "Duid aan wie het Perzisch Rijk heeft veroverd .",
+                "question_length": 9,
+                "score": 0.9756487755086788
+            },
+            {
+                "answer": "Benito Mussolini",
+                "answer_length": 2,
+                "distractors": [
+                    "Fidel Castro",
+                    "Pablo Escobar",
+                    "Julius Caesar"
+                ],
+                "language": "it",
+                "question": "4 . Wie had de bijnaam Il Duce ?",
+                "question_length": 9,
+                "score": 0.9566331060993526
+            },
+            {
+                "answer": "Karel V",
+                "answer_length": 2,
+                "distractors": [
+                    "Frans I",
+                    "Hendrik VIII",
+                    "Lodewijk XIV"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Aan welke vorst uit de 16e eeuw is deze brief van Jakob Fugger gericht ? 'Uwe keizerlijke majesteit weet ongetwijfeld hoe ik tot nu toe altijd bereid ben geweest om in alle onderdanigheid het huis van Habsburg te dienen . Om aan Uwe Keizerlijke Majesteit de kroon van het Heilig Roomse Rijk te bezorgen , hebben wij een belangrijke som geld voorgeschoten om de gunst van de keurvorsten te winnen . Het is ook algemeen bekend dat Uwe Keizerlijke Majesteit zonder mijn hulp deze kroon niet had kunnen verwerven . Daarbij heb ik niet gekeken naar mijn eigen voordeel . Want als ik mij had afgekeerd van het Huis van Habsburg en Frankrijk had willen steunen , dan had ik veel geld en goederen verworven . '",
+                "question_length": 134,
+                "score": 0.9496113916102086
+            },
+            {
+                "answer": "Gorbatsjov",
+                "answer_length": 1,
+                "distractors": [
+                    "Brenzjnev",
+                    "Chroest s jvov",
+                    "Gagarin"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie was de leider in de USSR van 1985 tot 1991 toen het communisme in elkaar stortte ?",
+                "question_length": 25,
+                "score": 0.9472445467911954
+            },
+            {
+                "answer": "Karel V",
+                "answer_length": 2,
+                "distractors": [
+                    "Karel de Grote",
+                    "Karel de Kale",
+                    "Karel Martel"
+                ],
+                "language": "nl",
+                "question": "Wie kon zeggen \u201c in mijn rijk gaat de zon nooit onder \u201d ? Er is slechts 1 juist antwoord . Let op : giscorrectie ( juist=+2 , fout=-1 , geen antwoord=0 ) Klik indien nodig op reset ( rechtsboven ) om je antwoord te wissen .",
+                "question_length": 47,
+                "score": 0.9227459109633526
+            },
+            {
+                "answer": "Jan Baptist David",
+                "answer_length": 3,
+                "distractors": [
+                    "Guido Gezelle",
+                    "Hendrik Conscience"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wie is een van de stichters van de Vlaamse Beweging ?",
+                "question_length": 17,
+                "score": 0.9124156329813095
+            },
+            {
+                "answer": "Plato",
+                "answer_length": 1,
+                "distractors": [
+                    "Aristoteles",
+                    "Homeros",
+                    "Sophocles"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie was een Grieks filosoof en schrijver ? Hij was ook de bekendste leerling van Socrates .",
+                "question_length": 24,
+                "score": 0.9082354027649628
+            },
+            {
+                "answer": "Nederlandse Taalunie",
+                "answer_length": 2,
+                "distractors": [
+                    "Simon Stevin",
+                    "Matthias de Vries"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Door wie werd het Groene Boekje opgericht ?",
+                "question_length": 14,
+                "score": 0.9010213043884092
+            }
+        ]
+    }
+}

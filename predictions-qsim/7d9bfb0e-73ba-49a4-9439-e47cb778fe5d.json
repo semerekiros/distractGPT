@@ -1,0 +1,133 @@
+{
+    "qid": "7d9bfb0e-73ba-49a4-9439-e47cb778fe5d",
+    "response": {
+        "Query": "Completez la phrase en pointille . Pourquoi me posez-vous toutes ces questions ? Je vous ai deja dit ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .",
+        "Result": [
+            {
+                "answer": "si je m'explique bien",
+                "answer_length": 4,
+                "distractors": [
+                    "que j'explique bien",
+                    "si j'explicite bien"
+                ],
+                "language": "fr",
+                "question": "Ecoutez la replique suivante et completez la phrase en pointille . Voila pour ce que j'avais a dire . Je ne sais pas ... ... ... ... ... ... ... ... ... .",
+                "question_length": 33,
+                "score": 0.9492111449166958
+            },
+            {
+                "answer": "de quoi ecrire",
+                "answer_length": 3,
+                "distractors": [
+                    "quelque chose a ecrire",
+                    "a ecrire"
+                ],
+                "language": "fr",
+                "question": "Ecoutez l'echange suivant et completez la phrase en pointille . A : J'aimerais laisser un message . B : Un instant , s'il vous plait . Je prends ... ... ... ... ... ... ...",
+                "question_length": 35,
+                "score": 0.9459559637127688
+            },
+            {
+                "answer": "que je n'en savais rien",
+                "answer_length": 5,
+                "distractors": [
+                    "que je n'en saurai rien",
+                    "si je n'en savais rien",
+                    "si je n'en saurai rien"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase en pointille . Pourquoi me posez-vous toutes ces questions ? Je vous ai deja dit ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .",
+                "question_length": 34,
+                "score": 0.9338132648244983
+            },
+            {
+                "answer": "si tu preferes",
+                "answer_length": 3,
+                "distractors": [
+                    "si tu preferais",
+                    "que tu preferais",
+                    "que tu preferes"
+                ],
+                "language": "fr",
+                "question": "Ecoutez l'echange suivant et completez la phrase en pointille . A : Est-ce que tu peux repeter ta question ? B : je te demande ... ... ... ... ... ... ... ... .. rester ou partir tout de suite .",
+                "question_length": 41,
+                "score": 0.9088276835183439
+            },
+            {
+                "answer": "ce que",
+                "answer_length": 2,
+                "distractors": [
+                    "ce que",
+                    "ce qui",
+                    "ce qui"
+                ],
+                "language": "fr",
+                "question": "Choisis entre 'ce que ' et 'ce qui ' et complete la phrase . Tu as entendu ... j'ai dit ?",
+                "question_length": 21,
+                "score": 0.8446245624258617
+            },
+            {
+                "answer": "Pourriez-vous",
+                "answer_length": 1,
+                "distractors": [
+                    "Puis-je",
+                    "Pourrais-je",
+                    "Je souhaiterais"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante en indiquant la formule adequate . ... .. m'indiquer la route a suivre pour me rendre a l'hotel du pont ?",
+                "question_length": 25,
+                "score": 0.8307425841248584
+            },
+            {
+                "answer": "au sujet du",
+                "answer_length": 3,
+                "distractors": [
+                    "le sujet de",
+                    "a sujet du"
+                ],
+                "language": "fr",
+                "question": "Ecoutez l'echange suivant et completez la phrase en pointille . A : Societe Demarais , bonjour ! Que puis-je pour vous ? B : Bonjour , madame Lereux a l'appareil . Je vous appelle ... ... ... ... ... ... ... ... ... ... projet de fusion .",
+                "question_length": 48,
+                "score": 0.818150488905721
+            },
+            {
+                "answer": "A qui ai-je l'honneur ?",
+                "answer_length": 5,
+                "distractors": [
+                    "A qui j'ai l'honneur ?",
+                    "A quelle heure ?"
+                ],
+                "language": "fr",
+                "question": "Ecoutez l'echange suivant et completez la phrase . A : Je voudrais parler a monsieur Tienpont ? B : ... ... ... ... ... ... ... ... ... ... ... ? A : Je suis madame Rollebin .",
+                "question_length": 38,
+                "score": 0.8061995385398095
+            },
+            {
+                "answer": "bien que",
+                "answer_length": 2,
+                "distractors": [
+                    "pourtant",
+                    "pour que",
+                    "tellement"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse qui convient . Parmi les quatre propositions , laquelle peut-on utiliser pour completer la phrase ? Ils ont vendu beaucoup d'ordinateurs ... les prix aient augmente .",
+                "question_length": 30,
+                "score": 0.797453056271764
+            },
+            {
+                "answer": "utile a sa famille",
+                "answer_length": 4,
+                "distractors": [
+                    "utile envers sa famille",
+                    "utile de sa famille"
+                ],
+                "language": "fr",
+                "question": "Voici des groupes adjectivaux qui contiennent un groupe prepositionnel . Choisissez la bonne preposition . Quelle preposition faut-il employer apres l'adjectif utile ?",
+                "question_length": 23,
+                "score": 0.7933646651524066
+            }
+        ]
+    }
+}

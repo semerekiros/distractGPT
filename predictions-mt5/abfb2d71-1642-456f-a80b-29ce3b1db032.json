@@ -1,0 +1,5 @@
+{
+    "qid": "abfb2d71-1642-456f-a80b-29ce3b1db032",
+    "input": "Choose the right word . There is a lot of ... .. on this line . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. interference\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. interference\n2. clash\n3. decrease\n4. distortion\n5. displacement\n6. diversion\n7. contraction\n8. conflict\n9. inhibition\n10. interference 11"
+}

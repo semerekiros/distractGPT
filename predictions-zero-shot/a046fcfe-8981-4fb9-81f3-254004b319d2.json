@@ -1,0 +1,5 @@
+{
+    "qid": "a046fcfe-8981-4fb9-81f3-254004b319d2",
+    "input": "vraag: Hoeveel vluchten zijn er jaarlijks?\nantwoord: 40 miljoen\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. 50 miljoen\n2. 30 miljoen\n3. 25 miljoen\n4. 60 miljoen\n5. 20 miljoen\n6. 15 miljoen\n7. 10 miljoen\n8. 5 miljoen\n9. 100 miljoen\n10. 200 miljoen\n11. 1 miljoen\n12. 2 miljoen\n13. 3 miljoen\n14. 4 miljoen\n15. 6 miljoen\n16. 7 miljoen\n17. 8 miljoen\n18. 9 miljoen\n19. 12 miljoen\n20. 18 miljoen"
+}

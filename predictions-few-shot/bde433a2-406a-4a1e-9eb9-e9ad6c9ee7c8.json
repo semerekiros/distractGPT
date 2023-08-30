@@ -1,0 +1,5 @@
+{
+    "qid": "bde433a2-406a-4a1e-9eb9-e9ad6c9ee7c8",
+    "input": "vraag: Wie is onze CRA ?\nantwoord: Dr Denaeghel\nonjuiste antwoorden: \n1. Dr Boonen\n2. Dr Maenhout\n\nvraag: Klik het juiste antwoord aan . Waar staat BA voor ?\nantwoord: Burgerlijke Aansprakelijkheid\nonjuiste antwoorden: \n1. Bestuurlijke Aansprakelijkheid\n2. Bestuurlijke Afhankelijkheid\n\nvraag: Met wie ga je koken ?\nantwoord: JEBROER\nonjuiste antwoorden: \n1. Je zus\n2. Jezus\n\nvraag: Duid het juiste antwoord aan . Wie nam deze foto ?\nantwoord: Vlaming\nonjuiste antwoorden: \n1. Waal\n2. Nederlander\n3. Noor\n4. Duitser\n\nvraag: Welk dier is een zoogdier ?\nantwoord: de mens\nonjuiste antwoorden: \n1. goudvis\n2. slang\n\nvraag: : Welk dier heeft geen klauwen?\nantwoord: : het konijn\n\nGenereer 20 onjuiste antwoorden: ",
+    "response": "\n\n1. De olifant\n2. De tijger\n3. De leeuw\n4. De beer\n5. De krokodil\n6. De gorilla\n7. De haai\n8. De adelaar\n9. De walvis\n10. De schildpad\n11. De mier\n12. De kameel\n13. De neushoorn\n14. De vleermuis\n15. De ezel\n16. De papegaai\n17. De giraffe\n18. De kangoeroe\n19. De luiaard\n20. De jaguar"
+}

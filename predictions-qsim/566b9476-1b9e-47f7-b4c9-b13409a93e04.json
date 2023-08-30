@@ -1,0 +1,137 @@
+{
+    "qid": "566b9476-1b9e-47f7-b4c9-b13409a93e04",
+    "response": {
+        "Query": "Welke twee rivieren vloeit samen met de Schelde in Gent?",
+        "Result": [
+            {
+                "answer": "Wolken",
+                "answer_length": 1,
+                "distractors": [
+                    "Akkerland",
+                    "Woestijn",
+                    "Zeeen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk oppervlak weerkaatst het meest inkomend zonlicht ?",
+                "question_length": 15,
+                "score": 0.9071034099152494
+            },
+            {
+                "answer": "vermeerdering van de celademhaling",
+                "answer_length": 4,
+                "distractors": [
+                    "afname van de spieractiviteit",
+                    "verhoging van de zweetproductie"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord , er is maar een antwoord mogelijk . Een schaars geklede volwassen persoon gaat vanuit een ruimte met een temperatuur van 20 degrees C een koelcel binnen met een temperatuur van 0 degrees C. Wat zal het directe gevolg van deze temperatuursverandering voor hem zijn ?",
+                "question_length": 50,
+                "score": 0.9064283269417099
+            },
+            {
+                "answer": "2,5 liter",
+                "answer_length": 2,
+                "distractors": [
+                    "1 liter",
+                    "1,5 liter",
+                    "2 liter"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de DAH van vocht ?",
+                "question_length": 14,
+                "score": 0.8395849893583599
+            },
+            {
+                "answer": "21 % zuurstof",
+                "answer_length": 3,
+                "distractors": [
+                    "7 % zuurstof",
+                    "80 % zuurstof"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . De lucht die men inademt bevat ongeveer :",
+                "question_length": 13,
+                "score": 0.7562594342513418
+            },
+            {
+                "answer": "het noorden",
+                "answer_length": 2,
+                "distractors": [
+                    "het oosten",
+                    "het zuiden",
+                    "het westen"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . In welke windstreek staat de zon nooit ?",
+                "question_length": 21,
+                "score": 0.701581266028022
+            },
+            {
+                "answer": "Latijns-Amerika",
+                "answer_length": 1,
+                "distractors": [
+                    "Azie",
+                    "Europa",
+                    "Afrika",
+                    "Noord-Amerika"
+                ],
+                "language": "nl",
+                "question": "Waar is de verstedelijkingsgraad het hoogst ?",
+                "question_length": 7,
+                "score": 0.6770011770597918
+            },
+            {
+                "answer": "Toscane",
+                "answer_length": 1,
+                "distractors": [
+                    "Umbrie",
+                    "Vlaanderen",
+                    "Rome"
+                ],
+                "language": "nl",
+                "question": "Hoe heet het gebied van de Etrusken vandaag ?",
+                "question_length": 9,
+                "score": 0.6759378546807134
+            },
+            {
+                "answer": "-9 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "0 degrees",
+                    "-2 degrees",
+                    "-6 degrees"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Je gaat voor een paar dagen naar Straatsburg . Wat is de temperatuur daar vandaag ?",
+                "question_length": 23,
+                "score": 0.6640486891622581
+            },
+            {
+                "answer": "-6 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "0 degrees",
+                    "-2 degrees",
+                    "-9 degrees"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Je gaat voor een paar dagen naar Parijs . Wat is de temperatuur daar vandaag ?",
+                "question_length": 23,
+                "score": 0.6529536628571772
+            },
+            {
+                "answer": "0 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "-2 degrees",
+                    "-6 degrees",
+                    "-9 degrees"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Je gaat voor een paar dagen naar Bordeaux . Wat is de temperatuur daar vandaag ?",
+                "question_length": 23,
+                "score": 0.6508297734359182
+            }
+        ]
+    }
+}

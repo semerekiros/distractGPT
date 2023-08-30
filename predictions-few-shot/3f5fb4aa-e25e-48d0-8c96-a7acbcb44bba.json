@@ -1,0 +1,5 @@
+{
+    "qid": "3f5fb4aa-e25e-48d0-8c96-a7acbcb44bba",
+    "input": "vraag: l'abdomen chez les insectes ?\nantwoord: het achterlijf\nonjuiste antwoorden: \n1. de buik\n2. het borststuk\n\nvraag: Welke spier in ons lichaam is dwarsgestreept en toch onwillekeurig ?\nantwoord: de hartspier\nonjuiste antwoorden: \n1. de tongspier\n2. de ademhalingsspieren\n\nvraag: 2 points Des crevasses sont des :\nantwoord: fissures\nonjuiste antwoorden: \n1. ampoules\n2. ulceres\n\nvraag: le neerlandais pour 'ovaire ' n'est PAS ...\nantwoord: eileider\nonjuiste antwoorden: \n1. eierstok\n2. ovarium\n\nvraag: quel animal est dote de caroncules ?\nantwoord: le dindon\nonjuiste antwoorden: \n1. le cygne\n2. le taureau\n\nvraag: : Welke van deze klieren is een endocriene klier?\nantwoord: : schildklier\n\nGenereer 20 onjuiste antwoorden: ",
+    "response": "\n\n1. speekselklier\n2. zweetklier\n3. traanklier\n4. talgklier\n5. lever\n6. nier\n7. maag\n8. pancreas\n9. galblaas\n10. blindedarm\n11. appendix\n12. dikke darm\n13. dunne darm\n14. keelklier\n15. lymfeklier\n16. hypofyse\n17. hypothalamus\n18. bijnier\n19. alvleesklier\n20. zwezerik"
+}

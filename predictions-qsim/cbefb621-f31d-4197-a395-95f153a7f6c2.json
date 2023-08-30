@@ -1,0 +1,132 @@
+{
+    "qid": "cbefb621-f31d-4197-a395-95f153a7f6c2",
+    "response": {
+        "Query": "Wat heeft een bosmuis niet?",
+        "Result": [
+            {
+                "answer": "muilezel",
+                "answer_length": 1,
+                "distractors": [
+                    "ezelhengst",
+                    "muildier"
+                ],
+                "language": "nl",
+                "question": "le bardot en neerlandais ?",
+                "question_length": 5,
+                "score": 0.876254207389274
+            },
+            {
+                "answer": "een voorwerp",
+                "answer_length": 2,
+                "distractors": [
+                    "een mengsel",
+                    "een suikerdeeltje",
+                    "een stof"
+                ],
+                "language": "nl",
+                "question": "Wat is een suikerklontje ?",
+                "question_length": 5,
+                "score": 0.7860449624548668
+            },
+            {
+                "answer": "Alcohol",
+                "answer_length": 1,
+                "distractors": [
+                    "Zoetheid",
+                    "Aciditeit",
+                    "Houtindruk"
+                ],
+                "language": "nl",
+                "question": "Meerkeuze oefening . Een warm of branderig gevoel in de mond komt van de ... :",
+                "question_length": 16,
+                "score": 0.7824523646201006
+            },
+            {
+                "answer": "spoelwater",
+                "answer_length": 1,
+                "distractors": [
+                    "afwaswater",
+                    "rioolwater"
+                ],
+                "language": "en",
+                "question": "'washing-down water ' in Dutch ?",
+                "question_length": 6,
+                "score": 0.7534213462517345
+            },
+            {
+                "answer": "rechternier",
+                "answer_length": 1,
+                "distractors": [
+                    "milt",
+                    "linkerlong",
+                    "linkernier"
+                ],
+                "language": "nl",
+                "question": "Welk orgaan is aangeduid door de blauwe pijl ?",
+                "question_length": 9,
+                "score": 0.7381440413437416
+            },
+            {
+                "answer": "bijnier",
+                "answer_length": 1,
+                "distractors": [
+                    "adrenalineklier",
+                    "talgklier"
+                ],
+                "language": "en",
+                "question": "adrenal gland in Dutch ?",
+                "question_length": 5,
+                "score": 0.7306359633255594
+            },
+            {
+                "answer": "raapzaad",
+                "answer_length": 1,
+                "distractors": [
+                    "koolzaad",
+                    "lijnzaad"
+                ],
+                "language": "nl",
+                "question": "la navette en neerlandais ?",
+                "question_length": 5,
+                "score": 0.7082383860555138
+            },
+            {
+                "answer": "urinebuis",
+                "answer_length": 1,
+                "distractors": [
+                    "eierstok",
+                    "vagina",
+                    "urineleider"
+                ],
+                "language": "nl",
+                "question": "Welk orgaantje van het mannelijk konijn behoort zowel tot het uitscheidingsstelsel als het voortplantingsstelsel ?",
+                "question_length": 15,
+                "score": 0.6916579092016527
+            },
+            {
+                "answer": "Nederland",
+                "answer_length": 1,
+                "distractors": [
+                    "Noorse olievelden",
+                    "Quatar en Abu Dhabi"
+                ],
+                "language": "nl",
+                "question": "Het laagcalorisch aardgas op onze distributienetten is afkomstig van :",
+                "question_length": 10,
+                "score": 0.6811254594594301
+            },
+            {
+                "answer": "gemalen krijt",
+                "answer_length": 2,
+                "distractors": [
+                    "grondkalk",
+                    "gemalen kalk"
+                ],
+                "language": "nl",
+                "question": "ground chalk is in Dutch ...",
+                "question_length": 6,
+                "score": 0.6566767737319577
+            }
+        ]
+    }
+}

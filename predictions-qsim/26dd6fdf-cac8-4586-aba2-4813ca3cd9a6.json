@@ -1,0 +1,131 @@
+{
+    "qid": "26dd6fdf-cac8-4586-aba2-4813ca3cd9a6",
+    "response": {
+        "Query": "Welk is een onderdeel van het oor?",
+        "Result": [
+            {
+                "answer": "longtakje",
+                "answer_length": 1,
+                "distractors": [
+                    "luchtpijptakje",
+                    "luchtpijptak",
+                    "longtak"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waarmee is een longzakje rechtstreeks verbonden ?",
+                "question_length": 18,
+                "score": 0.9088704212314747
+            },
+            {
+                "answer": "Als beveiliging tegen verliesstromen ",
+                "answer_length": 4,
+                "distractors": [
+                    "Als beveiliging tegen kortsluiting ",
+                    "Als beveiliging tegen overbelasting "
+                ],
+                "language": "nl",
+                "question": "Waarvoor gebruiken we de differentieelschakelaar ?",
+                "question_length": 6,
+                "score": 0.8979892393145782
+            },
+            {
+                "answer": "Heterotrofie",
+                "answer_length": 1,
+                "distractors": [
+                    "Autotrofie",
+                    "Parasitisme",
+                    "Symbiose"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat vindt er plaats op de afbeelding ?",
+                "question_length": 19,
+                "score": 0.8530023569641793
+            },
+            {
+                "answer": "Organisatorische maatregel",
+                "answer_length": 2,
+                "distractors": [
+                    "Bouwkundige maatregel",
+                    "Elektrische/elektronische maatregel"
+                ],
+                "language": "nl",
+                "question": "kies het juiste antwoord Pictogrammen zijn een ...",
+                "question_length": 8,
+                "score": 0.8414754107157489
+            },
+            {
+                "answer": "Ze gebruiken elektriciteit ",
+                "answer_length": 3,
+                "distractors": [
+                    "Ze gebruiken een telefoon "
+                ],
+                "language": "nl",
+                "question": "Luister naar het filmpje . Klik het juiste antwoord aan . Hoe communiceren de bacterien met elkaar ?",
+                "question_length": 18,
+                "score": 0.8369859371380499
+            },
+            {
+                "answer": "Agressie",
+                "answer_length": 1,
+                "distractors": [
+                    "Onrustigheid",
+                    "Desorientatie"
+                ],
+                "language": "nl",
+                "question": "Welke situatie is een indicatie voor fysieke fixatie ?",
+                "question_length": 9,
+                "score": 0.806070401722068
+            },
+            {
+                "answer": "De reactiekamer",
+                "answer_length": 2,
+                "distractors": [
+                    "De barcode"
+                ],
+                "language": "nl",
+                "question": "Wat mag je niet aanraken bij het inzetten van een cartridge ? Duid het correcte antwoord aan .",
+                "question_length": 18,
+                "score": 0.7648535601709836
+            },
+            {
+                "answer": "micro-organismen",
+                "answer_length": 1,
+                "distractors": [
+                    "macro-organismen",
+                    "mini-organismen",
+                    "mega-organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Hoe noem je organismen die zo klein zijn dat je ze alleen onder de microscoop zichtbaar kan maken ?",
+                "question_length": 25,
+                "score": 0.757746522657772
+            },
+            {
+                "answer": "dierlijk orgaan",
+                "answer_length": 2,
+                "distractors": [
+                    "dierlijk stelsel",
+                    "dierlijke cel",
+                    "dierlijk weefsel"
+                ],
+                "language": "nl",
+                "question": "Vul aan . Het longtakje is een ...",
+                "question_length": 8,
+                "score": 0.7340388272057838
+            },
+            {
+                "answer": "dorsale hoorn",
+                "answer_length": 2,
+                "distractors": [
+                    "dorsale wortel",
+                    "spinaal ganglion",
+                    "hersenzenuw"
+                ],
+                "language": "nl",
+                "question": "9 Welke structuur behoort niet tot het perifeer zenuwstelsel ?",
+                "question_length": 10,
+                "score": 0.7305016897546686
+            }
+        ]
+    }
+}

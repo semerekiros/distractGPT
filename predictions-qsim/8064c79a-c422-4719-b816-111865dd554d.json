@@ -1,0 +1,142 @@
+{
+    "qid": "8064c79a-c422-4719-b816-111865dd554d",
+    "response": {
+        "Query": "Hoe snel kon het snelste commerci\u00eble vliegtuig ooit vliegen?",
+        "Result": [
+            {
+                "answer": "2002",
+                "answer_length": 1,
+                "distractors": [
+                    "2000",
+                    "2001",
+                    "2003"
+                ],
+                "language": "nl",
+                "question": "Nog een opwarmertje : Remedus is ontstaan in het jaar ...",
+                "question_length": 11,
+                "score": 0.9735361302989245
+            },
+            {
+                "answer": "12,88 metres",
+                "answer_length": 2,
+                "distractors": [
+                    "10,66 metres",
+                    "11,77 metres"
+                ],
+                "language": "fr",
+                "question": "Le percement du tunnel du mont Blanc a demande 900 jours de travail . Il a une longueur de 11,6 km . Quelle est la longueur moyenne de la portion de tunnel percee chaque jour ?",
+                "question_length": 36,
+                "score": 0.9501803425713898
+            },
+            {
+                "answer": "1261 mm",
+                "answer_length": 2,
+                "distractors": [
+                    "13,8 mm",
+                    "69 mm"
+                ],
+                "language": "nl",
+                "question": "Bekijk onderstaand klimatogram . Hoeveel bedraagt de jaarneerslag ?",
+                "question_length": 9,
+                "score": 0.9468472044700964
+            },
+            {
+                "answer": "Databasefunctie",
+                "answer_length": 1,
+                "distractors": [
+                    "Draaitabel",
+                    "Uitgebreide filter",
+                    "Aangepaste filter",
+                    "Functie ( geen databasefunctie )"
+                ],
+                "language": "nl",
+                "question": "Hoeveel animatiefilms heeft Isabella ?",
+                "question_length": 5,
+                "score": 0.9033348755727938
+            },
+            {
+                "answer": "2001",
+                "answer_length": 1,
+                "distractors": [
+                    "1991",
+                    "1995",
+                    "1997",
+                    "2000"
+                ],
+                "language": "de",
+                "question": "Horen Sie und wahlen Sie die korrekte Antwort . Ein Mitarbeiter der Abteilung Market Data & Analytics , der seit einigen Jahren bei der Deutschen Borse arbeitet , skizziert seinen Werdegang und antwortet auf die Frage , warum er sich letztendlich fur diesen Arbeitgeber entschieden hat .",
+                "question_length": 47,
+                "score": 0.8851146256783999
+            },
+            {
+                "answer": "Lyon ",
+                "answer_length": 1,
+                "distractors": [
+                    "Paris ",
+                    "Lille ",
+                    "Bordeaux "
+                ],
+                "language": "fr",
+                "question": "Indique la bonne reponse . Les premiers bateaux-mouches ont ete construits a ...",
+                "question_length": 13,
+                "score": 0.8719417818874144
+            },
+            {
+                "answer": "Databasefunctie",
+                "answer_length": 1,
+                "distractors": [
+                    "Draaitabel",
+                    "Uitgebreide filter",
+                    "Aangepaste filter",
+                    "Functie ( geen databasefunctie )"
+                ],
+                "language": "nl",
+                "question": "We willen een filmmarathon organiseren voor Halloween . Hoeveel minuten duren alle horrorfilms samen ?",
+                "question_length": 15,
+                "score": 0.8672155701462579
+            },
+            {
+                "answer": "280 min",
+                "answer_length": 2,
+                "distractors": [
+                    "4,5 h",
+                    "2,33 h",
+                    "240 min"
+                ],
+                "language": "fr",
+                "question": "Un pieton parcourt 9 km en 2 h. A la meme allure , combien de temps mettra-t-il pour parcourir 21 km ?",
+                "question_length": 22,
+                "score": 0.8645170690581724
+            },
+            {
+                "answer": "16 %",
+                "answer_length": 2,
+                "distractors": [
+                    "15 %",
+                    "50 %",
+                    "20 %",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "CALCUL Martine est en vacances . Elle s'achete un souvenir en solde a -30 % . Elle soupconne malgre tout le vendeur d'avoir gonfle le prix de 20 % avant . Si Martine a raison , de combien est reellement la baisse de prix ?",
+                "question_length": 45,
+                "score": 0.8556008590191142
+            },
+            {
+                "answer": "45 km",
+                "answer_length": 2,
+                "distractors": [
+                    "5 km",
+                    "20 km",
+                    "100 km"
+                ],
+                "language": "nl",
+                "question": "Hoe ver is het in werkelijkheid tussen Leuven en Hasselt ? Duid de juiste afstand aan .",
+                "question_length": 17,
+                "score": 0.8374760536700373
+            }
+        ]
+    }
+}

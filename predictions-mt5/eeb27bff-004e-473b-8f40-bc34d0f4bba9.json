@@ -1,0 +1,5 @@
+{
+    "qid": "eeb27bff-004e-473b-8f40-bc34d0f4bba9",
+    "input": "Duid aan in welke voedingsmiddelen uit de tabel eiwitten het hoofdbestanddeel zijn. </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Pizza Mozzarella e pesto van Oetker\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. pasta e pesto\n2. aardappelen\n3. poedersuiker\n4. pasta\n5. kaas\n6. frietjes\n7. gemengde eiwitten\n8. koolhydraten\n9. pizza e pesto\n10. eetker"
+}

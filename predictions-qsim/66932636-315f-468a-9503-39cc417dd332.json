@@ -1,0 +1,128 @@
+{
+    "qid": "66932636-315f-468a-9503-39cc417dd332",
+    "response": {
+        "Query": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . ... .. j'avais ete au courant des negociations preparant le rachat de l'entreprise par les salaries , on aurait pu m'accuser de delit d'initie .",
+        "Result": [
+            {
+                "answer": "Si",
+                "answer_length": 1,
+                "distractors": [
+                    "Quand"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . ... .. j'avais ete au courant des negociations preparant le rachat de l'entreprise par les salaries , on aurait pu m'accuser de delit d'initie .",
+                "question_length": 41,
+                "score": 0.9606924889547611
+            },
+            {
+                "answer": "J'attire votre attention",
+                "answer_length": 3,
+                "distractors": [
+                    "Je vous propose",
+                    "Veuillez faire attention",
+                    "Je confirme par la presente"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse qui convient . Veuillez completer la phrase suivante . ... .. sur les prix tres avantageux de cette offre qui reste valable jusqu'au 25 fevrier prochain .",
+                "question_length": 30,
+                "score": 0.9231847654384443
+            },
+            {
+                "answer": "pour memoire",
+                "answer_length": 2,
+                "distractors": [
+                    "pour la forme",
+                    "pour solde de tout compte",
+                    "pour la bonne cause"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase . Le decompte mentionne , ... . , les frais de procedure . Ceux-ci ne vous seront pas portes en compte .",
+                "question_length": 25,
+                "score": 0.9150568284748588
+            },
+            {
+                "answer": "de savoir s '",
+                "answer_length": 4,
+                "distractors": [
+                    "s '"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Il reste la question ... .. il ne faut pas plutot niveler les salaires .",
+                "question_length": 31,
+                "score": 0.913540455291934
+            },
+            {
+                "answer": "Il nous serait utile",
+                "answer_length": 4,
+                "distractors": [
+                    "Nous souhaiterions",
+                    "Nous aimerions",
+                    "Nous desirerions"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse correcte . Choisissez la formule qui convient pour introduire cette phrase : ... d'obtenir des informations supplementaires .",
+                "question_length": 21,
+                "score": 0.9068395959111402
+            },
+            {
+                "answer": "en ce moment",
+                "answer_length": 3,
+                "distractors": [
+                    "a ce moment"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Il n ' y a pas beaucoup de promeneurs ... .. . C'est normal par un temps pareil .",
+                "question_length": 35,
+                "score": 0.9044373925235475
+            },
+            {
+                "answer": "un ultime delai",
+                "answer_length": 3,
+                "distractors": [
+                    "une derniere duree",
+                    "une ultime date",
+                    "un dernier moment"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse correcte . Malgre une relance , votre client n ' a toujours pas paye sa facture . Vous lui envoyez une nouvelle lettre de rappel . Choisissez l'expression qui convient pour completer la phrase suivante : Nous sommes contraints de vous fixer ... de quinze jours pour le paiement de la facture n degrees 276 .",
+                "question_length": 59,
+                "score": 0.9035105242135717
+            },
+            {
+                "answer": "En se mettant",
+                "answer_length": 3,
+                "distractors": [
+                    "Se mettant"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . ... .. a sangloter , elle a essaye de l'attendrir .",
+                "question_length": 27,
+                "score": 0.8957849037099124
+            },
+            {
+                "answer": "cependant",
+                "answer_length": 1,
+                "distractors": [
+                    "par consequent",
+                    "notamment",
+                    "en revanche"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse correcte . Parmi les quatre propositions , choisissez le mot qui convient pour completer la phrase suivante : Il avait ete convenu que la passation des actes auraient lieu au debut du mois d'avril , ... aucune date n ' a encore ete fixee .",
+                "question_length": 48,
+                "score": 0.8909277290917185
+            },
+            {
+                "answer": "Bref",
+                "answer_length": 1,
+                "distractors": [
+                    "Tout court"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Il m ' a dit qu'il etait deborde , qu'il avait enormement de rendez-vous ce jour-la , qu'il avait plein de problemes a resoudre . ... .. , il n ' a pas voulu me recevoir .",
+                "question_length": 53,
+                "score": 0.882104567589972
+            }
+        ]
+    }
+}

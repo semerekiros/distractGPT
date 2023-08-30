@@ -1,0 +1,135 @@
+{
+    "qid": "128cd5b4-b5f2-4b5e-8367-bea3bf4dcfbf",
+    "response": {
+        "Query": "Van welk land is Amsterdam de hoofdstad?",
+        "Result": [
+            {
+                "answer": "Turkije",
+                "answer_length": 1,
+                "distractors": [
+                    "Griekenland",
+                    "Belgie",
+                    "Bulgarije"
+                ],
+                "language": "nl",
+                "question": "Waar werd Sint-Nicolaas geboren ? Bekijk het filmpje . Duid het juiste antwoord aan .",
+                "question_length": 15,
+                "score": 0.9602261087175583
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Spanje",
+                    "Griekenland",
+                    "Portugal"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Welk Europees land staat afgebeeld ?",
+                "question_length": 19,
+                "score": 0.9587603010503788
+            },
+            {
+                "answer": "Oekraine",
+                "answer_length": 1,
+                "distractors": [
+                    "Rusland",
+                    "Australie"
+                ],
+                "language": "en",
+                "question": "4 . Welk land won Eurosong 2016 ?",
+                "question_length": 8,
+                "score": 0.9544869061600207
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "USA"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord In welk land wordt met de euro gewerkt ?",
+                "question_length": 13,
+                "score": 0.9496109567283706
+            },
+            {
+                "answer": "Egypte",
+                "answer_length": 1,
+                "distractors": [
+                    "India",
+                    "Indonesie",
+                    "Spanje"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Onderstaand kaartje toont de uitstoot van organische stoffen in het oppervlakte water per land . Hoe meer organische stoffen het water bevat , hoe moelijker het is om er schoon drinkwater van te maken . In welk land zal de winning van schoon drinkwater uit oppervlaktewater het moeilijkst zijn ?",
+                "question_length": 57,
+                "score": 0.9493546194000472
+            },
+            {
+                "answer": "Zweden",
+                "answer_length": 1,
+                "distractors": [
+                    "Brazilie",
+                    "Duitsland",
+                    "Belgie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk land is het inkomen het meest gelijkmatig verdeeld over de verschillende bevolkingsgroepen ?",
+                "question_length": 22,
+                "score": 0.9487742982219397
+            },
+            {
+                "answer": "Letland",
+                "answer_length": 1,
+                "distractors": [
+                    "Bulgarije",
+                    "Noorwegen",
+                    "Portugal"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk Europees land is de kloof tussen arm en rijk het grootst ?",
+                "question_length": 21,
+                "score": 0.9486902059262491
+            },
+            {
+                "answer": "Spanje",
+                "answer_length": 1,
+                "distractors": [
+                    "Belgie",
+                    "Italie",
+                    "Polen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op het Congres van Wenen ontstonden nieuwe landen of werden nieuwe grenzen vastgelegd . Welk hedendaags Europees land bestond al op het Congres van Wenen ?",
+                "question_length": 33,
+                "score": 0.9481794685613357
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Verenigde Staten"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . In welk land betaalt men met de euro ?",
+                "question_length": 15,
+                "score": 0.9479898673108436
+            },
+            {
+                "answer": "Ijsland",
+                "answer_length": 1,
+                "distractors": [
+                    "Denemarken",
+                    "Finland",
+                    "Zweden"
+                ],
+                "language": "nl",
+                "question": "Welk land zit NIET in de Noordse Raad ?",
+                "question_length": 9,
+                "score": 0.9471896363672208
+            }
+        ]
+    }
+}

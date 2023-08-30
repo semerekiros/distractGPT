@@ -1,0 +1,135 @@
+{
+    "qid": "e9db47a4-baa2-49fc-a6d6-be3c8d3e3739",
+    "response": {
+        "Query": "Devinettes . Qui suis-je ? Mettez une croix . Je suis un nombre pair et j'ai trois chiffres .",
+        "Result": [
+            {
+                "answer": "820",
+                "answer_length": 1,
+                "distractors": [
+                    "111",
+                    "78",
+                    "569",
+                    "66",
+                    "1540"
+                ],
+                "language": "fr",
+                "question": "Devinettes . Qui suis-je ? Mettez une croix . Je suis un nombre pair et j'ai trois chiffres .",
+                "question_length": 19,
+                "score": 0.975734176650835
+            },
+            {
+                "answer": "LOUISE",
+                "answer_length": 1,
+                "distractors": [
+                    "JUSTINE",
+                    "MAXIME",
+                    "GILLES"
+                ],
+                "language": "fr",
+                "question": "Mettez une croix dans la bonne colonne .",
+                "question_length": 8,
+                "score": 0.9533602899606783
+            },
+            {
+                "answer": "4000",
+                "answer_length": 1,
+                "distractors": [
+                    "25",
+                    "TC",
+                    "sa"
+                ],
+                "language": "en",
+                "question": "Cochez la bonne reponse . Tick off the correct answer . Quel est le code postal de Liege ?",
+                "question_length": 19,
+                "score": 0.7895371234759164
+            },
+            {
+                "answer": "Je suis autonome",
+                "answer_length": 3,
+                "distractors": [
+                    "Je fais avec aide",
+                    "J'ai des notions",
+                    "Je ne sais pas faire"
+                ],
+                "language": "fr",
+                "question": "Quand un nouvel AF arrive sur le poste , je le recois en entretien et lui explique ce que j'attends de lui en m'appuyant sur les manuels existants ( MSTO 06000 + 06001 + 06002 )",
+                "question_length": 36,
+                "score": 0.770857484690634
+            },
+            {
+                "answer": "4000",
+                "answer_length": 1,
+                "distractors": [
+                    "25",
+                    "TC",
+                    "sa"
+                ],
+                "language": "en",
+                "question": "Cochez la bonne reponse . [ lang=en ] Tick off the correct answer . [ /lang ] [ lang=nl ] Duid het juiste anwoord aan . [ /lang ] Quel est le code postal de Liege ?",
+                "question_length": 37,
+                "score": 0.7548844918990848
+            },
+            {
+                "answer": "le sommet du mont Blanc ",
+                "answer_length": 5,
+                "distractors": [
+                    "le sommut du mont Saint-Michel ",
+                    "le sommet du mont Ventoux "
+                ],
+                "language": "fr",
+                "question": "Indiquez la reponse correcte . Le point le plus haut de la France est ...",
+                "question_length": 15,
+                "score": 0.7531101950879103
+            },
+            {
+                "answer": "la population cible du produit",
+                "answer_length": 5,
+                "distractors": [
+                    "les atouts du produit",
+                    "les ventes escomptees"
+                ],
+                "language": "fr",
+                "question": "Ecoutez le plan suivant et indiquez le premier point qui sera aborde dans la presentation .",
+                "question_length": 16,
+                "score": 0.7271932704347904
+            },
+            {
+                "answer": "une",
+                "answer_length": 1,
+                "distractors": [
+                    "un"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ambulance",
+                "question_length": 5,
+                "score": 0.6907195907980884
+            },
+            {
+                "answer": "le printemps",
+                "answer_length": 2,
+                "distractors": [
+                    "l'hiver",
+                    "l'ete"
+                ],
+                "language": "fr",
+                "question": "Choisissez De lente",
+                "question_length": 3,
+                "score": 0.6416893128846906
+            },
+            {
+                "answer": ", ,",
+                "answer_length": 2,
+                "distractors": [
+                    "o e",
+                    "c )",
+                    ","
+                ],
+                "language": "pt",
+                "question": "1. o e ( 2 ) ?",
+                "question_length": 7,
+                "score": 0.6282876488223087
+            }
+        ]
+    }
+}

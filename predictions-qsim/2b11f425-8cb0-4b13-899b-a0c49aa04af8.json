@@ -1,0 +1,139 @@
+{
+    "qid": "2b11f425-8cb0-4b13-899b-a0c49aa04af8",
+    "response": {
+        "Query": "Ecoute les phrases . Indique le temps du passe que tu reconnais .",
+        "Result": [
+            {
+                "answer": "passe recent",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "imparfait"
+                ],
+                "language": "fr",
+                "question": "Ecoute les phrases . Indique le temps du passe que tu reconnais .",
+                "question_length": 13,
+                "score": 0.9819626103623555
+            },
+            {
+                "answer": "futur simple",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "indicatif present",
+                    "imparfait",
+                    "plus-que-parfait",
+                    "conditionnel present"
+                ],
+                "language": "fr",
+                "question": "Ecoutez les phrases . Quel temps entendez-vous ? Cochez .",
+                "question_length": 10,
+                "score": 0.9515587387808491
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "indicatif present",
+                    "imperatif",
+                    "verbe conjuge + infinitif"
+                ],
+                "language": "fr",
+                "question": "Indique le temps utilise dans la phrase . Mes parents y sont alles , il y a trois ans .",
+                "question_length": 20,
+                "score": 0.9486252391499779
+            },
+            {
+                "answer": "indicatif present",
+                "answer_length": 2,
+                "distractors": [
+                    "imparfait",
+                    "futur simple"
+                ],
+                "language": "nl",
+                "question": "Le verbe est a quel temps ? Coche la bonne case . In welke tijd staat het werkwoord ? Kruis het juiste vakje aan . Tu prends aussi des pansements ?",
+                "question_length": 31,
+                "score": 0.9466818802541528
+            },
+            {
+                "answer": "imparfait",
+                "answer_length": 1,
+                "distractors": [
+                    "passe recent",
+                    "passe compose"
+                ],
+                "language": "fr",
+                "question": "Ecoutez les phrases . Vous reconnaissez quels temps au passe ? Cochez .",
+                "question_length": 13,
+                "score": 0.9447475189201688
+            },
+            {
+                "answer": "imperatif",
+                "answer_length": 1,
+                "distractors": [
+                    "indicatif present",
+                    "passe compose",
+                    "verbe conjugue + infinitif"
+                ],
+                "language": "fr",
+                "question": "Indique le temps utilise dans la phrase . Prends-en plusieurs !",
+                "question_length": 11,
+                "score": 0.9377208204519776
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "imparfait",
+                    "passe recent",
+                    "indicatif present",
+                    "conditionnel present",
+                    "futur simple"
+                ],
+                "language": "fr",
+                "question": "Le verbe se trouve dans quel temps ? Nous avons regarde un film ensemble .",
+                "question_length": 15,
+                "score": 0.9373268536872046
+            },
+            {
+                "answer": "imperatif",
+                "answer_length": 1,
+                "distractors": [
+                    "indicatif present",
+                    "passe compose",
+                    "verbe conjugue + infinitif"
+                ],
+                "language": "fr",
+                "question": "Indique le temps utilise dans la phrase . N'en mangeons pas !",
+                "question_length": 12,
+                "score": 0.9317850760602441
+            },
+            {
+                "answer": "futur simple",
+                "answer_length": 2,
+                "distractors": [
+                    "indicatif present",
+                    "conditionnel present"
+                ],
+                "language": "fr",
+                "question": "Ecoute et lis les phrases enregistrees . Coche le temps ou le mode employe . Alors , les jumeaux naitront pendant leur voyage en Italie ?",
+                "question_length": 26,
+                "score": 0.9277525359260943
+            },
+            {
+                "answer": "passe recent",
+                "answer_length": 2,
+                "distractors": [
+                    "indicatif present",
+                    "futur proche",
+                    "passe compose",
+                    "imparfait"
+                ],
+                "language": "fr",
+                "question": "Lis les phrases . Tu reconnais les temps ? Mets une croix . Tine vient de nettoyer le garage de la maison .",
+                "question_length": 23,
+                "score": 0.9277328715186887
+            }
+        ]
+    }
+}

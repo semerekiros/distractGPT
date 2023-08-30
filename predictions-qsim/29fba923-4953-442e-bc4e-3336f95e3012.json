@@ -1,0 +1,134 @@
+{
+    "qid": "29fba923-4953-442e-bc4e-3336f95e3012",
+    "response": {
+        "Query": "Welke inwoners zijn niet blij met de plannen van Ethiopi\u00eb?",
+        "Result": [
+            {
+                "answer": "Azie",
+                "answer_length": 1,
+                "distractors": [
+                    "Rusland",
+                    "Europa",
+                    "Noord-Amerika"
+                ],
+                "language": "nl",
+                "question": "Waar groeit de bevolking van steden het snelst ?",
+                "question_length": 9,
+                "score": 0.9810921423445148
+            },
+            {
+                "answer": "Belgie",
+                "answer_length": 1,
+                "distractors": [
+                    "Nederland",
+                    "Finland",
+                    "Letland"
+                ],
+                "language": "nl",
+                "question": "Welk land is dit in gebarentaal ?",
+                "question_length": 7,
+                "score": 0.9698309853879967
+            },
+            {
+                "answer": "Ijsland",
+                "answer_length": 1,
+                "distractors": [
+                    "Denemarken",
+                    "Finland",
+                    "Zweden"
+                ],
+                "language": "nl",
+                "question": "Welk land zit NIET in de Noordse Raad ?",
+                "question_length": 9,
+                "score": 0.9692836377811048
+            },
+            {
+                "answer": "Spanje",
+                "answer_length": 1,
+                "distractors": [
+                    "Duitsland",
+                    "Nederland",
+                    "Rusland"
+                ],
+                "language": "nl",
+                "question": "Welk team werd in 2008 Europees kampioen voetbal ?",
+                "question_length": 9,
+                "score": 0.968720189150917
+            },
+            {
+                "answer": "Naar Amerika en Engeland ",
+                "answer_length": 4,
+                "distractors": [
+                    "Naar Spanje en Italie ",
+                    "Naar Nederland en Duitsland ",
+                    "Naar Zweden en Denemarken "
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Naar welke landen exporteert Nino Bacelle zijn producten ? video",
+                "question_length": 15,
+                "score": 0.9643219930533802
+            },
+            {
+                "answer": "VS",
+                "answer_length": 1,
+                "distractors": [
+                    "Japan",
+                    "Frankrijk"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord In welk land word met de euro betaald",
+                "question_length": 12,
+                "score": 0.961484203881112
+            },
+            {
+                "answer": "Brussel",
+                "answer_length": 1,
+                "distractors": [
+                    "Keuze 2"
+                ],
+                "language": "nl",
+                "question": "Duid je juiste hoofdstad aan .",
+                "question_length": 6,
+                "score": 0.9568972299456496
+            },
+            {
+                "answer": "Oekraine",
+                "answer_length": 1,
+                "distractors": [
+                    "Rusland",
+                    "Australie"
+                ],
+                "language": "en",
+                "question": "4 . Welk land won Eurosong 2016 ?",
+                "question_length": 8,
+                "score": 0.9560908147434755
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Verenigde Staten"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . In welk land betaalt men met de euro ?",
+                "question_length": 15,
+                "score": 0.9535375950584479
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Nederland",
+                    "Spanje",
+                    "Engeland",
+                    "Ierland"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Uit welk land is er amper belangstelling voor Nino Bacelles bier ?",
+                "question_length": 17,
+                "score": 0.9529580086454552
+            }
+        ]
+    }
+}

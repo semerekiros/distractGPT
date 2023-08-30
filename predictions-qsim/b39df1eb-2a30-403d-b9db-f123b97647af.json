@@ -1,0 +1,141 @@
+{
+    "qid": "b39df1eb-2a30-403d-b9db-f123b97647af",
+    "response": {
+        "Query": "Choose the appropriate conjugation ! I ... .. in marketing before I joined my present company .",
+        "Result": [
+            {
+                "answer": "had already worked",
+                "answer_length": 3,
+                "distractors": [
+                    "already worked",
+                    "am already working",
+                    "was already working"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation ! I ... .. in marketing before I joined my present company .",
+                "question_length": 17,
+                "score": 0.9209745957078297
+            },
+            {
+                "answer": "had already worked",
+                "answer_length": 3,
+                "distractors": [
+                    "already worked",
+                    "am already working",
+                    "was already working",
+                    "already had worked"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation ! Mind the position of already ! I ... .. in marketing before I joined my present company .",
+                "question_length": 23,
+                "score": 0.873059298695958
+            },
+            {
+                "answer": "are going to open",
+                "answer_length": 4,
+                "distractors": [
+                    "opened",
+                    "will open",
+                    "are opening",
+                    "have opened"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation to express an intention . Kies de vervoeging die zegt wat we van plan zijn . Choisissez la conjugaison qui exprime une intention . a subsidiary = a company that is owned or controlled by another larger company We ... a subsidiary in Manchester .",
+                "question_length": 49,
+                "score": 0.633652427840963
+            },
+            {
+                "answer": "are going to open",
+                "answer_length": 4,
+                "distractors": [
+                    "will be opening",
+                    "will open",
+                    "are opening",
+                    "have opened"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation to express an intention . We ... .. a subsidiary in Manchester .",
+                "question_length": 17,
+                "score": 0.5794508172032558
+            },
+            {
+                "answer": "effect",
+                "answer_length": 1,
+                "distractors": [
+                    "affect",
+                    "effected",
+                    "affected"
+                ],
+                "language": "en",
+                "question": "Choose the correct word to complete the following sentence : The speaker said that her organization wanted to _________ a major change in the party 's platform .",
+                "question_length": 28,
+                "score": 0.44508847326615086
+            },
+            {
+                "answer": "are launching",
+                "answer_length": 2,
+                "distractors": [
+                    "are going to launch",
+                    "will launch",
+                    "have launched"
+                ],
+                "language": "en",
+                "question": "Choose the conjugation that expresses an arranged future . Welke zin drukt uit dat `` alle regelingen getroffen zijn '' ? Choisissez la forme qui exprime que tout est deja arrange . We ... our new model on the trade fair in Paris next week .",
+                "question_length": 46,
+                "score": 0.41694321315811983
+            },
+            {
+                "answer": "will go",
+                "answer_length": 2,
+                "distractors": [
+                    "am going to go",
+                    "am going",
+                    "will going"
+                ],
+                "language": "en",
+                "question": "Choose the conjugation that expresses a decision at the moment of speaking . Kies de vervoeging die `` een beslissing hier en nu '' uitdrukt . Choisissez la conjugaison qui exprime une decision prise au moment ou on parle . John has arrived , Melanie . - OK , I ... to the reception to meet him .",
+                "question_length": 58,
+                "score": 0.2584073691293419
+            },
+            {
+                "answer": "are launching",
+                "answer_length": 2,
+                "distractors": [
+                    "are going to launch",
+                    "will launch",
+                    "have been launching"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation to express a fixed arrangement in the future . We ___________ our new model at next week 's trade fair in Paris .",
+                "question_length": 27,
+                "score": 0.14693671382338727
+            },
+            {
+                "answer": "are increasing / increase",
+                "answer_length": 4,
+                "distractors": [
+                    "are increasing / are increasing",
+                    "increase / increase",
+                    "increase / are increasing"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation of the verb 'to increase ' . This time we the dollar prices immediately because of the big change in the exchange rate , although normally we prices only once a year .",
+                "question_length": 37,
+                "score": 0.14058482861833474
+            },
+            {
+                "answer": "are increasing / increase",
+                "answer_length": 4,
+                "distractors": [
+                    "are increasing / are increasing",
+                    "increase / increase",
+                    "increase / are increasing"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation of the verb TO INCREASE ! This time we ... .. the dollar prices immediately because of the big change in the exchange rate , although normally we ... .. prices only once a year .",
+                "question_length": 40,
+                "score": 0.11754760046296808
+            }
+        ]
+    }
+}

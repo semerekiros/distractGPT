@@ -1,0 +1,4031 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "biology.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "0",
+            "question": "Hoe loopt een impuls via een motorisch neuron via de ruggenmergzenuw naar een de effector?",
+            "answers": "via de ventrale wortel",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "via de dorsale wortel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5aeef1d1-155a-4f6f-9f4a-79ae2176efce",
+                    "distractor": "Via een geheime ondergrondse tunnel.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "a5c6976e-9d5b-43f4-91a3-cf351fb7d11e",
+                    "distractor": "Door middel van een magische spreuk.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "dc96b356-646c-478c-99d5-711d180726e3",
+                    "distractor": "Via een draadloos netwerk.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "e420d183-3aab-4d4e-abb9-f44275aa1f4e",
+                    "distractor": "Via de bloedbaan.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "5b6ac2ef-ec0c-4fd7-8272-68be8e4d5fc0",
+                    "distractor": "Door te teleporteren.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "4eb0d504-e588-463c-99aa-fbb77d3f1cf0",
+                    "distractor": "Via een uitgebreid systeem van hamsters die in wielen rennen.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "6ed8b560-2bf8-4338-afb8-54df7b0fa511",
+                    "distractor": "Via een lopende band.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "62fc7ac7-9ae7-4af1-81c5-96380b35fb69",
+                    "distractor": "Door middel van een serie brieven die van het neuron naar de effector worden gestuurd.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "2373821d-a094-41ea-a1d8-537df7be6c73",
+                    "distractor": "Via een ingewikkeld netwerk van kabels en stekkers.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "107550e0-59a9-4a0a-b7b2-2aef9b374001",
+                    "distractor": "Door middel van telekinese.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1",
+            "question": "Welk voedingsmiddel gaat stinken wanneer het bederft?",
+            "answers": "vlees",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "suiker",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "citroen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fc67057b-e960-4eca-b0bd-c5d12f85ab45",
+                    "distractor": "Brood",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "5309e75c-e7f9-4398-bec0-b59682ef3425",
+                    "distractor": "Bananen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "1132a419-248d-49ad-9ac9-7fd7812669f7",
+                    "distractor": "Kaas",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "af8695fc-febe-4e48-b709-075301e03430",
+                    "distractor": "Yoghurt",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "c62463cf-f4cb-4acd-ad26-93661c31b9b8",
+                    "distractor": "Komkommer",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "f4836ef2-8be5-4cec-85fc-7e7aaeaba006",
+                    "distractor": "Appels",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f1aa8067-5834-4d0b-8881-2c652d150f1c",
+                    "distractor": "Eieren",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "3bf6ea57-554d-4c45-b79b-bb29f30899b3",
+                    "distractor": "Wortels",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "74d8f777-73f3-4cda-ad42-91b0afa7712a",
+                    "distractor": "Pasta",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "5cf2ba7f-b1d4-4cce-9186-9e92dc29ec4b",
+                    "distractor": "Boter",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2",
+            "question": "Welke pati\u00ebnten krijgen soms het hormoon insuline kunstmatig toegediend?",
+            "answers": "suikerziektepati\u00ebnten",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "multiple-sclerose-pati\u00ebnten",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "epilepsiepati\u00ebnten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a6d823fa-e67d-4652-8b41-b9c0c5a67008",
+                    "distractor": "Pati\u00ebnten met een hoge bloeddruk",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "0c25595a-4b90-45d5-9c06-6b2ac9b9543b",
+                    "distractor": "Pati\u00ebnten met artritis",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "675c7e9e-2083-4063-a01c-2b54f4ca32fb",
+                    "distractor": "Pati\u00ebnten met een schildklierprobleem",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "50e68006-ee89-498e-9b8d-c0023d640f60",
+                    "distractor": "Pati\u00ebnten met een nierinfectie",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "ad1f1ef4-7e32-43b7-a76b-27e0173f1363",
+                    "distractor": "Pati\u00ebnten met hoge cholesterol",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "8943647c-62c1-4ec9-a3c4-bba80de6fdb0",
+                    "distractor": "Pati\u00ebnten met slaapapneu",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "d6b2905e-056a-4f80-8eea-3d41f8fe3e9c",
+                    "distractor": "Pati\u00ebnten met een ooginfectie",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "24d2ea9c-a68c-43f8-b434-18e4a15354d4",
+                    "distractor": "Pati\u00ebnten met een gebroken been",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "7133daaf-84cb-462a-98b3-86003c47dd80",
+                    "distractor": "Pati\u00ebnten met een huidallergie",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "a691607e-5424-40ee-be14-e05ea89bef7d",
+                    "distractor": "Pati\u00ebnten met een hartinfarct",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3",
+            "question": "Welk van deze dieren kan ultrasone geluiden horen?",
+            "answers": "dolfijn",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "haai",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "kat",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6b5fd3be-88fd-4e91-a1de-b77926718636",
+                    "distractor": "Krokodil",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "4914942e-c14a-43b7-a392-21fb37435caf",
+                    "distractor": "Goudvis",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "8f0396e6-a237-4c87-88dc-14d398dd9fb1",
+                    "distractor": "Schildpad",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "2ce8e9a8-6bbe-48dc-af70-8445fe006d04",
+                    "distractor": "Gorilla",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "4bfbbde3-ba64-4f00-a6ed-78d96ef0d918",
+                    "distractor": "Nijlpaard",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "af650037-a2f1-47f3-9f6e-3eb4f87b9397",
+                    "distractor": "Olifant",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "7f44bcfb-e8b6-4453-a11e-a6e061e08434",
+                    "distractor": "Giraffe",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "94cd4acc-8546-4d95-a4c4-a03d786e282e",
+                    "distractor": "Haai",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6ac1cfb2-b83e-4bba-8bcc-b3771402187a",
+                    "distractor": "Koe",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "5c972121-92c2-4f2f-adc6-9718ef837286",
+                    "distractor": "Leeuw",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4",
+            "question": "Langs welk deel verdampen planten water?",
+            "answers": "blad",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "stengel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "wortel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3c979224-975f-4249-8e00-a9b2a22aa3a2",
+                    "distractor": "Wortel",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "235fb372-5bf0-48d0-be0e-60a49ed10d6d",
+                    "distractor": "Stengel",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "e595c907-440d-4be8-a695-76a1ad0aba54",
+                    "distractor": "Bloem",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "994ccbff-ee22-4e05-a385-ca255ddfa480",
+                    "distractor": "Vrucht",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "33ada753-b7ef-408d-877b-14ed77820ad3",
+                    "distractor": "Stam",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "44fc0629-7120-4787-bcf2-505467964f09",
+                    "distractor": "Zaad",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "3801ec3d-1993-4155-9104-a4ce2d034840",
+                    "distractor": "Wortelhaar",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "67f965a2-2ffe-4c27-b4d6-bd03d4b720d3",
+                    "distractor": "Kelkblad",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "1a95cc58-f48e-42d7-b2ad-7ed67f6cbad5",
+                    "distractor": "Bladsteel",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "b00dce02-a1cd-4c22-870e-e4474b9a3c61",
+                    "distractor": "Steelblad",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5",
+            "question": "Hoe groot is de oogbol ongeveer?",
+            "answers": "25 mm",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "20 mm",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "30 mm",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "adcf182e-6d03-427b-84da-b1cda29cc5de",
+                    "distractor": "15 mm",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "fbe2250b-a101-4aec-bb94-20f74acbbad9",
+                    "distractor": "30 mm",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "31c396db-78b8-4002-9f8f-22529999a968",
+                    "distractor": "10 mm",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "06845a96-c5cc-4682-bc79-1e60e7bd3692",
+                    "distractor": "20 mm",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "1e2f8344-4d12-4b3a-b27b-9fd554bd1097",
+                    "distractor": "22 mm",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "fdf6cb69-c417-44fb-b292-cef38263143b",
+                    "distractor": "18 mm",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "045b5eac-0647-415e-8cbb-8555176f72a8",
+                    "distractor": "27 mm",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "74648272-afdf-4283-bd32-194fdc8d3b34",
+                    "distractor": "23 mm",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a71fee2d-53ea-4ed1-b7df-49ae1c9dd17f",
+                    "distractor": "21 mm",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "b10345b7-8c54-499c-aa84-d8dfe7931de9",
+                    "distractor": "24 mm",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6",
+            "question": "Welk deel van de hersenen is belangrijk voor een koorddanser?",
+            "answers": "kleine hersenen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "centrum van Wernicke",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "hypothalamus",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4d99d538-9b5c-4089-b915-c62c245e3cee",
+                    "distractor": "De neus",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "a52ca777-8cc1-44e7-a5a0-d3787e409a2a",
+                    "distractor": "De grote teen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "98e77c8f-cd4c-4966-ad79-0c96faf81c6c",
+                    "distractor": "De milt",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "f7e680c9-13df-4a61-8a20-ce43765dd19e",
+                    "distractor": "De elleboog",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "a1cea96b-329b-42a9-b245-84bf4ce730be",
+                    "distractor": "De alvleesklier",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "3f6a25ba-cb66-4f40-88d4-14265ea592e5",
+                    "distractor": "De navel",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "5e4a11c7-5774-416e-b64e-0745d2ea9433",
+                    "distractor": "De keel",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "801bbc4e-a3a1-47a0-81a0-101aa173325b",
+                    "distractor": "De blinde darm",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "eeb79f20-4f6a-4946-980d-3215b379feed",
+                    "distractor": "De knie",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "22114fbc-6b43-4c19-9098-3d1266e9fc55",
+                    "distractor": "De lever",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7",
+            "question": "Het wordt aangeraden om de puistjes nog niet uit te knijpen wanneer ze nog niet \u2018rijp\u2019 zijn, en het niet met de blote vingers te doen maar met een papiertje ertussen. Waarom?",
+            "answers": "Er kunnen anders nieuwe infecties ontstaan.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Je krijgt dan puistjes op je vingers.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De pus in de puistjes is giftig.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "0e6ea503-36f8-4c57-ac80-f910dcdb2dc7",
+                    "distractor": "Omdat het juist goed is om de bacteri\u00ebn te verspreiden over je gezicht.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "7cae8884-50f4-4a43-bbb3-3cafa9cfc58d",
+                    "distractor": "Omdat het helpt om de pori\u00ebn beter te reinigen als je er hard op drukt.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "e36f901e-9ced-46bc-ba7c-232e92c8d46d",
+                    "distractor": "Omdat het de kans op littekens verkleint als je de puistjes uitknijpt wanneer ze nog klein zijn.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "eb1c790f-9f93-4445-8a7c-701ff7b6099b",
+                    "distractor": "Omdat het beter is om het met je nagels te doen, zodat je beter grip hebt.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "20b91cc8-2bc2-49df-8d25-0c37e39f3fb0",
+                    "distractor": "Omdat het de doorbloeding van de huid verbetert als je de puistjes uitknijpt.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "107f70f6-41fb-4621-8fdc-f0363b104fa2",
+                    "distractor": "Omdat het een goede manier is om de overtollige olie uit je huid te krijgen.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a15cd1a3-a99a-4fd1-b5de-9def4ac8527c",
+                    "distractor": "Omdat het een effectieve manier is om van puistjes af te komen.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "bab1082f-f27c-4766-84d5-e711f106aad8",
+                    "distractor": "Omdat het goed is om je handen te gebruiken in plaats van een papiertje, zodat je meer controle hebt.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "cafd97a5-2a8f-41e1-8073-a6c4106524ae",
+                    "distractor": "Omdat het de huid sneller doet genezen.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "fb93075f-785c-4147-ab37-247793cd63fe",
+                    "distractor": "Omdat het beter is om het met tandpasta te doen in plaats van een papiertje.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8",
+            "question": "Hoe heten de klieren die de ogen vochtig houden?",
+            "answers": "traanklieren",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "speekselklieren",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "talgklieren",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7a98c7af-54b2-48cb-8973-9a20b47dbc5c",
+                    "distractor": "Oogklieren",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "184b53e3-ab15-4cb7-8fd4-5cb1192c736d",
+                    "distractor": "Smoorklieren",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "a2b7f3b6-ed04-4b9c-917b-f75553d9479b",
+                    "distractor": "Olieklieren",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "49306735-9980-42d8-b378-71b9512e7cb7",
+                    "distractor": "Neusklieren",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "edeae5a5-43f0-43e0-9738-d2db766309aa",
+                    "distractor": "Wenkbrauwklieren",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "a4266d87-94b1-4d70-aa33-75849562dab1",
+                    "distractor": "Hoornvliesklieren",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "3332910e-8349-4026-b9bb-c2f8f21f677d",
+                    "distractor": "Netvliesklieren",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e87315ea-7a74-450d-8b22-5b72e4a86585",
+                    "distractor": "Lensklieren",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "b33934bc-17a1-4434-8ea6-c253877fb1fa",
+                    "distractor": "Wimperklieren",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "9eab3cf8-9850-4a86-bb50-d28f681ab51e",
+                    "distractor": "Oogbalholteklieren",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9",
+            "question": "Vanuit de oogzenuw lopen er ook zenuwen naar de iris. Wat is het nut hiervan?",
+            "answers": "De irisspieren hebben zenuwen nodig om te kunnen werken.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Als je zenuwachtig bent, knipper je met je ogen.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De iris moet je goed kunnen voelen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "255a0a12-08fa-4724-969b-38ba5e0647b3",
+                    "distractor": "De zenuwen naar de iris zijn eigenlijk overbodig en hebben geen specifiek nut.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "752f34a1-5a94-4a31-8f6c-2cc6d54a5c06",
+                    "distractor": "De zenuwen naar de iris helpen bij het horen van geluiden.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "7ed0f8da-8bc7-4a2c-a22d-9aae489c7d27",
+                    "distractor": "De zenuwen naar de iris geven informatie door over de smaak van voedsel.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "71e27323-353a-4d27-b945-644b45f99317",
+                    "distractor": "De zenuwen naar de iris zorgen ervoor dat de haren op ons lichaam rechtop gaan staan.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "bcad573d-31d5-4425-8f3a-948a895e6b09",
+                    "distractor": "De zenuwen naar de iris sturen signalen naar onze voeten om te bewegen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "a654868f-19ba-4590-bf9e-306e1e85f66f",
+                    "distractor": "De zenuwen naar de iris zorgen ervoor dat onze huidskleur verandert.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b6210b57-dd23-493c-bde0-ccf8c2a334ee",
+                    "distractor": "De zenuwen naar de iris helpen ons om te ruiken.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "eee21d40-521b-47b2-87b7-add2debff34d",
+                    "distractor": "De zenuwen naar de iris helpen bij het reguleren van onze lichaamstemperatuur.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "345c6645-590c-4240-8f69-579aecfcd9e8",
+                    "distractor": "De zenuwen naar de iris helpen ons om te zien in het donker.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "18ec1e53-f36e-4bba-b8a4-5fb88e7d54ac",
+                    "distractor": "De zenuwen naar de iris helpen bij de spijsvertering.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "10",
+            "question": "Wat is de functie van de zweetklieren?",
+            "answers": "de lichaamstemperatuur regelen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "anderen laten ruiken dat je er bent",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "ervoor zorgen dat de huid niet uitdroogt",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "897d8e22-c597-4b49-ba4b-2afd404a843f",
+                    "distractor": "Zweetklieren produceren speeksel om de mond vochtig te houden.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "31808e1b-1972-4374-bc94-e5c765667a39",
+                    "distractor": "Zweetklieren zijn verantwoordelijk voor het reguleren van het slaap-waakritme.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "5f2f9efc-66ea-4418-b281-f0c4b7f2baf0",
+                    "distractor": "De belangrijkste functie van zweetklieren is het versterken van het immuunsysteem.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "b4efaba9-f69b-4ed0-8853-e1d1b31b36b3",
+                    "distractor": "Zweetklieren helpen bij het filteren van giftige stoffen uit het bloed.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "b8785c25-7de5-4ef7-9591-ffd3bd79c0fe",
+                    "distractor": "Zweetklieren produceren hormonen die betrokken zijn bij de stofwisseling.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "afeb5b00-e235-4eee-bc64-7700d32ff4ea",
+                    "distractor": "Zweetklieren zijn verantwoordelijk voor de kleur van de huid.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "9d46daa2-7692-4a53-a19e-efcc22f2d642",
+                    "distractor": "Zweetklieren produceren een stof die de hersenfunctie verbetert.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "8f0fa487-576e-450a-bd54-f4636792a7eb",
+                    "distractor": "Zweetklieren zorgen voor de aanmaak van vitamine D in het lichaam.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "caa20fd1-bd4c-4baa-b854-18714b874b23",
+                    "distractor": "Zweetklieren dragen bij aan het reguleren van de hartslag.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "63f5029f-4b68-4a90-861b-76f596f870b2",
+                    "distractor": "Zweetklieren produceren feromonen die aantrekkelijk zijn voor anderen.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "11",
+            "question": "Langs waar verdampt het water bij planten het meest?",
+            "answers": "blad",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "stengel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "wortel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ea963e9d-6cee-4ed6-87d7-3dbba040b7ad",
+                    "distractor": "Wortels",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "4aafe4cf-7d1b-415d-894a-ac03ff08daca",
+                    "distractor": "Stengels",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "bdbf2e5e-c047-4c5a-a686-633c0107a5e4",
+                    "distractor": "Bloemen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "af5f2e69-c7e6-4685-9c61-7ab3fd872370",
+                    "distractor": "Vruchten",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "fca46901-9219-4554-b09c-c56a7d8040da",
+                    "distractor": "Schors",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "ca535454-e920-4b31-baf8-20557c25b2e1",
+                    "distractor": "Takken",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "0152f09e-0d03-4247-a2fd-8265a752aebb",
+                    "distractor": "Zaden",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "aa3c8846-734f-4aae-8e46-4ac47b890f4a",
+                    "distractor": "Knoppen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "03b820ed-5ba4-4518-9f0b-6e65aa762d11",
+                    "distractor": "Bladstelen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "09f9f65c-526f-42b1-9361-64a413b5e74f",
+                    "distractor": "Stam",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "12",
+            "question": "Wat is een ander woord voor de iris, de gekleurde vlek in het midden van het oog?",
+            "answers": "regenboogvlies",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "tornadovlies",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fa26518e-5b7e-4843-a5f2-c9ef638401db",
+                    "distractor": "Oogbolhoop",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "355cae73-f163-4383-a7ac-9e5e61bf8cfe",
+                    "distractor": "Netvliesplek",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "856871fc-5442-44f8-80e2-e188918735ab",
+                    "distractor": "Gezichtspupil",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "bfd2df5f-87fd-4a1c-a458-9a334ec20283",
+                    "distractor": "Oogcirkel",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "c7fca66b-d741-42a2-8154-41c3ff4a6353",
+                    "distractor": "Zichtcentrum",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "fcb24994-f028-4d83-ac81-292936a42b44",
+                    "distractor": "Kleuroogschijf",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a9b7dad4-42ec-43f8-8708-7357b4f042a8",
+                    "distractor": "Irisvlek",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "df3b8c00-1fa1-4e17-a4a8-6c991d1c2670",
+                    "distractor": "Pupilring",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "fe7e986b-3082-4f55-a3de-f89618bffb6e",
+                    "distractor": "Oogschijfje",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "f3dada2c-dbfd-4eeb-a2a8-ab37e70ee097",
+                    "distractor": "Gezichtsiris",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "13",
+            "question": "Waarom heeft de vos een tapetum lucidum?",
+            "answers": "Omdat het een nachtdier is.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Omdat het een roofdier is.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Omdat het een sluw dier is.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1dfa1a39-6a6d-4d1b-b91e-1c7ee12cf0c0",
+                    "distractor": "Omdat de vos er graag fancy uit wil zien.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "bb3e24e3-9a53-40d5-b242-7e17c8ad63d3",
+                    "distractor": "Om beter te kunnen zien in de regen.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "94d0d87e-07e1-4d0b-a432-61f840190dc7",
+                    "distractor": "Omdat het deel uitmaakt van het vosse-DNA.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "17382c3c-4da8-4d52-b3a3-de0f77f29754",
+                    "distractor": "Omdat de vos anders niet kan communiceren met andere dieren.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "6935057b-ffe2-483b-96ff-cf337ea14b5c",
+                    "distractor": "Om beter te kunnen horen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "6bdf0c6c-9c12-45d2-adf9-a6b5c160313d",
+                    "distractor": "Zodat de vos kan glinsteren in de zon.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "0cb73096-6f0a-4636-b74d-4504d00a16ac",
+                    "distractor": "Omdat de vos anders geen vacht zou hebben.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "9c57daf5-ebc0-4faa-954d-c150324a160a",
+                    "distractor": "Om de vos te beschermen tegen schadelijke straling.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "aaf6e1ae-48af-4545-a959-6a466a9ed54e",
+                    "distractor": "Omdat de vos anders niet zou kunnen rennen.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "5dad6dc5-7092-4715-945c-c733a3ff60c5",
+                    "distractor": "Omdat het de vos helpt bij het oplossen van wiskundige vraagstukken.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "14",
+            "question": "Wat gaat er bij sclerosepati\u00ebnten langzaam verloren in het zenuwstelsel?",
+            "answers": "De myelineschede",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De celkernen van de neuronen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De dendrieten",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "De eindknopjes van de axonen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "84f3a06f-d3ee-4d38-af1a-c4ac3600b0f8",
+                    "distractor": "De cerebellumfunctie",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "2ecdcc68-83b6-4665-b583-239b608bcf1f",
+                    "distractor": "De hersencellen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "65dd7031-dcf0-4a01-803d-3ae5eb9ea70f",
+                    "distractor": "De synapsen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "91471614-b182-43e2-947b-346560bc901b",
+                    "distractor": "De grijze stof",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d203680a-e0af-498e-b7d2-c42b5d953533",
+                    "distractor": "De witte stof",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "7d273e6c-2300-4b89-ab0a-d0d75bdec9c1",
+                    "distractor": "De axonen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "17819a1e-75f3-4961-be07-6275d9f9563e",
+                    "distractor": "De neurotransmitters",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "edd068f0-f1c8-45b9-8ad0-c03a6d06a85c",
+                    "distractor": "De zenuwcellen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "d8e5226a-dbca-48d6-931d-2ad2e92b348c",
+                    "distractor": "De dendrieten",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "cc7c86cb-28bd-4c2f-adef-0894bcdfcd2e",
+                    "distractor": "De gliacellen",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "15",
+            "question": "Waarvan is de hypofyse een aanhangsel?",
+            "answers": "van de hersenen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "van de maag",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "van de nieren",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d42065eb-9971-4e92-9b09-09618c031059",
+                    "distractor": "Van de lever",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "195eaf96-5ba3-4201-8daf-184c3c5f8c9e",
+                    "distractor": "Van de nieren",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "97926962-0e8e-48b6-83e2-641d283e8ae4",
+                    "distractor": "Van de darmen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6da0c620-449e-4aef-8dda-b3aea1ef2eac",
+                    "distractor": "Van de longen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "f43e9375-02c9-4d9d-9143-9ddbd32320a5",
+                    "distractor": "Van de milt",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "1fa9b57d-5490-4b9a-a02a-6541a37805a9",
+                    "distractor": "Van het hart",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b98a9f31-ce59-4139-8e48-37f63b71320f",
+                    "distractor": "Van de alvleesklier",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "059411f5-9926-4627-91b8-6c4e6475590b",
+                    "distractor": "Van de huid",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "52f084ec-fbfe-4e17-87ed-278af4270ee8",
+                    "distractor": "Van de ogen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "e3032e81-a657-4199-ab74-5114be023ace",
+                    "distractor": "Van de neus",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "16",
+            "question": "Welke van deze klieren heeft een afvoerbuis?",
+            "answers": "talgklier",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bijnier",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "schildklier",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "93f90c50-8c38-4069-a1db-0aaa7ad6b9a5",
+                    "distractor": "De hartklier",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "b8ae342f-7dc4-461d-b945-99a48de5077c",
+                    "distractor": "De zweetklier",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "32500275-e1a4-4cc3-8cd2-ee48895ad1db",
+                    "distractor": "De traanklier",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "148f8645-6d2a-438b-ae7b-fabbf64ff6f8",
+                    "distractor": "De hypofyse",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d5f75651-4070-40db-b2df-a66ba8157f10",
+                    "distractor": "De epifyse",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "7baed10a-f7e8-47d2-a80e-e0c8360e9784",
+                    "distractor": "De miltklier",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "d2f1c7e2-0560-45d0-918d-417b187d2d38",
+                    "distractor": "De speekselklier",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "5c7d437a-f854-44f3-af51-1aefafd518e8",
+                    "distractor": "De thymusklier",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "77024673-1dd9-43b1-9560-82d97b0342f4",
+                    "distractor": "De lymfeklier",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "9543a1bf-9f55-4220-afb2-6a13dcdfbfc7",
+                    "distractor": "De schildklier",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "17",
+            "question": "Wat is het nut van zweetklieren?",
+            "answers": "afkoelen van het lichaam",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "verbetering van de spierwerking",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "verwijderen van overtollig lichaamsvocht",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "990563b3-8205-4f54-947d-f8197b91ae40",
+                    "distractor": "Het is een reservoir voor reservevocht in geval van uitdroging.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f6a8145b-e6e9-4eeb-8cb2-e29d1079f00b",
+                    "distractor": "Om geur te cre\u00ebren die andere mensen aantrekkelijk vinden.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "0c3a6cf9-f803-4cef-a093-030348448afb",
+                    "distractor": "Om een \u200b\u200bglanzende huid te behouden.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "01072bd7-005a-468f-ad7a-7647ad490676",
+                    "distractor": "Om het lichaam te helpen bij het opnemen van vitamines en mineralen.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "bf2add89-383a-423b-b020-d4f1f72d6355",
+                    "distractor": "Om de huid te beschermen tegen schade door UV-stralen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "47b14d38-c8ce-4ca4-809b-ab9e67fef3e0",
+                    "distractor": "Om de huid te hydrateren.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "14f16478-6b51-458f-90e5-cfcdaf711c4d",
+                    "distractor": "Om voedingsstoffen aan de huid af te geven.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d6a33b70-86ca-4c20-b92a-b497e834f134",
+                    "distractor": "Om het immuunsysteem te versterken.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "d2c28258-f350-479c-b6fe-ac9c1538b5ac",
+                    "distractor": "Om de kleur van de huid te be\u00efnvloeden.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "2e904e5b-4d1b-431f-a93c-b9f8222ccaf5",
+                    "distractor": "Om te helpen bij het reguleren van de bloeddruk.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "18",
+            "question": "Welke organen registreren de draaibewegingen van het hoofd?",
+            "answers": "de ampullaorganen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de statolietorganen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "18347930-c639-4773-bc81-d39884f5815f",
+                    "distractor": "De nieren",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e354aed5-91f3-4f90-a75e-84773169df93",
+                    "distractor": "De lever",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "14888da6-880a-44a9-872b-9af7c3f01262",
+                    "distractor": "De longen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "0577a2df-3dd9-4b66-8d66-89fae72f12f0",
+                    "distractor": "De maag",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "b29b13f8-d959-4164-8cf3-4dbf576c82b6",
+                    "distractor": "De dunne darm",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "67933b3a-6308-4019-9344-50f30e28bae2",
+                    "distractor": "De dikke darm",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "c8c22da3-b748-416e-a01d-6060100663a8",
+                    "distractor": "De milt",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b4acbf32-28d8-4a38-aa8a-046c16d84da4",
+                    "distractor": "De galblaas",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "29e6ebab-0536-4817-bcbe-b2e0d5d88766",
+                    "distractor": "De pancreas",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "2dae4b78-6a1d-455b-8186-eeab87af7aa6",
+                    "distractor": "De blaas",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "19",
+            "question": "Wat wordt uitgedrukt in decibel?",
+            "answers": "geluidssterkte",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "toonhoogte",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9bc76618-9667-4776-9f07-6f42a8457180",
+                    "distractor": "De kleur van een object",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "076506c8-e743-4c93-9e59-8b95eab0cffd",
+                    "distractor": "De temperatuur van een vloeistof",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "7e2816a0-ed8c-4573-9f97-31c45d2ecaba",
+                    "distractor": "De luchtvochtigheid",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "5b1474fb-1112-4f97-ad30-30620084570a",
+                    "distractor": "De geurintensiteit",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0ce6a45d-baa5-432e-991e-40c489fec793",
+                    "distractor": "De textuur van een oppervlak",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "1c7156e4-a82a-40a9-8f75-3b13e069cd0e",
+                    "distractor": "De grootte van een object",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "9fe003d0-6e1f-4352-8159-3df1b44b175a",
+                    "distractor": "De smaak van voedsel",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "bdab5416-3c88-4a27-a4b4-f2a0ef4727c7",
+                    "distractor": "De helderheid van een beeldscherm",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c1510056-0636-4730-b9a4-de7c7c074a95",
+                    "distractor": "De snelheid van een voertuig",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "5f34d92b-9027-4bc6-8962-11e9a3c27b3e",
+                    "distractor": "De dichtheid van een vloeistof",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "20",
+            "question": "Welk is een onderdeel van het oor?",
+            "answers": "trommelvlies",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "netvlies",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "maagdenvlies",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6680b2a5-1af8-4705-a11b-7a7b676e17ec",
+                    "distractor": "Elleboog",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "8cbe95aa-13ea-4120-a210-d7f7f28ccc4f",
+                    "distractor": "Tonsil",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "2e733b0b-0acb-4046-b7b7-79bd6ec62c6e",
+                    "distractor": "Lever",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "7ccbe233-75dc-4329-8fe4-7969d27a519b",
+                    "distractor": "Knieschijf",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "ed7556b9-204e-4944-9677-ee4411be9681",
+                    "distractor": "Hart",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "2d641bed-1892-49e3-9262-5d8ea9a78d99",
+                    "distractor": "Nier",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "c2bee216-8387-425a-b95d-2aa641a0ef13",
+                    "distractor": "Ankle",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b7528aae-7dad-42e8-b9eb-f2190f94ea56",
+                    "distractor": "Oogbal",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "ef4296f3-2ceb-45f0-95b4-7740f209055e",
+                    "distractor": "Tandvlees",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "95170b73-63c7-46d1-aac6-99245c68596b",
+                    "distractor": "Neusgat",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "21",
+            "question": "Welke van deze klieren is een endocriene klier?",
+            "answers": "schildklier",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "speekselklier",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "traanklier",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a2391e68-a7e0-4e10-8227-67cb77ce37b8",
+                    "distractor": "alvleesklier",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "71d594b1-2962-41be-9f31-62f00d89101c",
+                    "distractor": "speekselklier",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "4944cb35-aa8e-41b3-a524-55734b942b92",
+                    "distractor": "zweetklier",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "957b0b0b-67d8-4d51-940f-ec8f8d4e878a",
+                    "distractor": "traanklier",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "be0529fe-22db-4e31-ae36-784dbd9fa938",
+                    "distractor": "prostaatklier",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "02019cbe-ac1d-4f2b-96aa-1e01d67967cd",
+                    "distractor": "talgklier",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "70cb01f0-e03c-47d9-9267-f98c5645fb2e",
+                    "distractor": "zoutklier",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d5c68816-87ce-43f6-b158-1d0ab9dadd3e",
+                    "distractor": "lymfeklier",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "35ef4d54-5c43-4635-82dd-ba5aaaa69b5c",
+                    "distractor": "melkklier",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "96726a7f-6909-459e-a0a0-2c28cb5229fb",
+                    "distractor": "lever",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "22",
+            "question": "Welke van deze organen is verbonden met de zwervende zenuw?",
+            "answers": "hart",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "nier",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "milt",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "blaas",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c643691d-85a0-4e65-9e6e-2af697a62cb9",
+                    "distractor": "Longen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "8a9e6149-06e1-4489-9706-b3908d86703b",
+                    "distractor": "Lever",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "2b096da4-7803-4716-96ee-2c1aee3ba5c0",
+                    "distractor": "Nieren",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "9d1b0aeb-6f3d-4eb6-a341-7a4dc97cf930",
+                    "distractor": "Darmen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0058568e-7d64-4a21-b966-cb8848a209cb",
+                    "distractor": "Milt",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "28c39f6a-a486-4d77-b360-13a00b52f526",
+                    "distractor": "Galblaas",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "44bfde86-bf04-4909-a1a4-accc0641cb19",
+                    "distractor": "Alvleesklier",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "f2d22cc3-9f74-4a05-a99b-0fc7d0ba861a",
+                    "distractor": "Maag",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "e40aa892-8cc4-4a61-8de8-69449fa0bc4d",
+                    "distractor": "Blaas",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "46594751-0e2b-49d0-87e7-3af0569c68a9",
+                    "distractor": "Prostaat",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "23",
+            "question": "Welke zijn op langere termijn mogelijke symptomen van diabetes?",
+            "answers": "ongevoeligheid in de voet ### aantasten van de myelineschede ### blindheid ### uitvallen van de nierfunctie  ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "haaruitval",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "bloedarmoede",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "slaapwandelen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fbbe0a7a-99a2-4523-a6b9-0c74643a4b03",
+                    "distractor": "Verhoogde haargroei op de handen en voeten",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "1f6f476c-f228-4a8d-96a4-e2298a5d2fc2",
+                    "distractor": "Verhoogde eetlust en gewichtstoename",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "789b004f-f103-40a6-b5da-7730f10f699b",
+                    "distractor": "Verminderde libido",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "35641cc1-5f1c-4104-890b-39a1805ebb0b",
+                    "distractor": "Overmatig zweten",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "c306a918-1139-46e7-86bc-04039cd6b554",
+                    "distractor": "Moeilijkheden met spraak en taal",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "6fe3fc7a-7fad-40d8-ad74-0894efb5a5cb",
+                    "distractor": "Verkleuring van de huid",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "92877005-effc-40fd-a266-01f7c7a3b06d",
+                    "distractor": "Verhoogde gevoeligheid voor zonlicht",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "1d3d1a65-1928-41ba-8b0b-99223f200e3a",
+                    "distractor": "Geheugenverlies",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "d80cd731-b0d9-4cdd-8dda-136059b4be94",
+                    "distractor": "Verstoorde spijsvertering",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "e489fcd4-7856-460a-ab8d-ba9a3a342114",
+                    "distractor": "Onverklaarbare jeuk over het hele lichaam",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "24",
+            "question": "Welke receptoren bevinden zich in de halfcirkelvormige kanalen?",
+            "answers": "evenwichtsreceptoren",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "geluidsreceptoren",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "fotoreceptoren",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1ca83c52-c69a-42b2-8aa6-c21027d974ba",
+                    "distractor": "Geur receptoren",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "1d0d4bba-77b9-4399-a2eb-0051dcc81511",
+                    "distractor": "Tast receptoren",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "11eb729c-6658-4a95-a2c1-0c09399f51b9",
+                    "distractor": "Gehoor receptoren",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "71a4d8a2-b4da-4b24-9a87-f59bc7433f49",
+                    "distractor": "Pijn receptoren",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "71cc7431-a242-4b23-aa9b-0ff95fc931ab",
+                    "distractor": "Druk receptoren",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "c1ab3747-301d-4629-8148-860f3bdc0c50",
+                    "distractor": "Licht receptoren",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "215c12e1-cc76-4acf-8350-6f6175d81ac4",
+                    "distractor": "Warmte receptoren",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "92b412bf-1e9d-4a01-8fe5-9bfecbd91206",
+                    "distractor": "Koude receptoren",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "4bbc48ee-be64-4af5-8467-9558df23b0a4",
+                    "distractor": "Smaak receptoren",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "6e574657-ba74-4c40-bcb6-523be9bb6877",
+                    "distractor": "Spier receptoren",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "25",
+            "question": "Welk vaatweefsel zorgt voor opwaarts transport?",
+            "answers": "houtweefsel",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bastweefsel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c9f0686a-26be-47c7-a284-65b83f393388",
+                    "distractor": "Bastweefsel",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "0ca5c429-c0fa-41ef-a53c-a6de3cceb6a5",
+                    "distractor": "Xyleemweefsel",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "e84fc0c3-f8d0-449c-ac12-cf2579a5455a",
+                    "distractor": "Fijnsparrenweefsel",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "08fa6b7a-a212-42bf-835b-c7afd36c196c",
+                    "distractor": "Bladweefsel",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "2067af38-8321-414b-a872-ed50c46592f7",
+                    "distractor": "Wortelweefsel",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "c906fb1c-033f-478c-a477-83fd821bce5d",
+                    "distractor": "Schorsweefsel",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "05d57079-730d-4f75-a9ae-d85c4b3cd11d",
+                    "distractor": "Vezelweefsel",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "ef19466b-597a-489f-80db-031e71a5150e",
+                    "distractor": "Spierweefsel",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "294174fe-1c98-428b-bbac-b9f25d49d238",
+                    "distractor": "Huidweefsel",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "f5b8411a-c6e8-4aac-a73e-0f95756b58a8",
+                    "distractor": "Vetweefsel",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "26",
+            "question": "Langs welk deel nemen planten water en opgeloste stoffen op uit de bodem?",
+            "answers": "wortel",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "stengel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "blad",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7e3601ea-bf17-4595-9cd1-40176aae7ef6",
+                    "distractor": "Stam",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "331a08e3-95a9-4f20-a587-3fbcf5a80c75",
+                    "distractor": "Bladeren",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "0891e097-ccd8-4f8a-a98e-6ec484c86cf5",
+                    "distractor": "Bloem",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "900a3fbe-919a-4e47-90b4-eb86aeab2ae3",
+                    "distractor": "Vrucht",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d32519ae-6e3e-4f6c-9388-86ac04f82733",
+                    "distractor": "Schors",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "713939c5-6868-4fe9-9092-d4534687cb3b",
+                    "distractor": "Wortelharen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a0887e9c-6f64-481d-97af-eed904da923d",
+                    "distractor": "Bladstelen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "6c55fed4-385f-4698-99f0-aa77652ffdea",
+                    "distractor": "Bloemstengel",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "174b21eb-dd5c-4e2a-9e1f-70960680b15a",
+                    "distractor": "Zaadhuid",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "c068e84b-f710-49b4-b4f6-88134632a6fd",
+                    "distractor": "Kelkbladeren",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "27",
+            "question": "Tot welk milieu behoort het bloed?",
+            "answers": "inwendig",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "uitwendig",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "44db2b7b-79db-436b-818f-31554327fd4f",
+                    "distractor": "Het bloed behoort tot het milieu van de hersenen.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "64a884af-6d43-4694-806b-66e3598c3ffb",
+                    "distractor": "Het bloed behoort tot het milieu van de longen.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "63e31d5a-5dc0-4b6b-af0a-e4aedefe61c5",
+                    "distractor": "Het bloed behoort tot het milieu van de botten.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "43ccb13b-f34a-441a-b1ef-dd780122fea9",
+                    "distractor": "Het bloed behoort tot het milieu van de huid.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "cf10d416-f1fe-45ee-a8d2-82533ac36dfb",
+                    "distractor": "Het bloed behoort tot het milieu van de ogen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "51a1af88-c466-4da2-8502-de30f5ed0042",
+                    "distractor": "Het bloed behoort tot het milieu van de maag.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "05110667-ec69-4b2b-b272-7250d6d7a4e8",
+                    "distractor": "Het bloed behoort tot het milieu van de neus.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "cfc8fa31-4a8d-401e-9a06-f80d630447ba",
+                    "distractor": "Het bloed behoort tot het milieu van de nieren.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "266f6e6c-9324-4391-8967-14c30d0e7a65",
+                    "distractor": "Het bloed behoort tot het milieu van de blaas.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "54cea437-4f20-4277-b74d-65d24c7ad25a",
+                    "distractor": "Het bloed behoort tot het milieu van de lever.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "28",
+            "question": "Van welke soort kegeltjes hebben we er ongeveer 3,2 miljoen?",
+            "answers": "rood",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "groen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "blauw",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c8655598-0bce-4177-9096-b9e6313c3150",
+                    "distractor": "Groene",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "86f238b4-6dc1-4821-a77a-e50aabe19a32",
+                    "distractor": "Blauwe",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "f2cb217f-897f-4f85-86cd-71617833bce7",
+                    "distractor": "Gele",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "8731cc78-b3fb-4357-a0f6-ae6a584b8f25",
+                    "distractor": "Paarse",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "9c1d4f82-520c-42e9-a7a7-e2896702a12c",
+                    "distractor": "Oranje",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "57f25782-641b-4183-8da4-fcd87c16840c",
+                    "distractor": "Zwarte",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f8bf25db-4d21-4072-ad78-4cc945669cca",
+                    "distractor": "Witte",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e3f47c2d-fbeb-4ad4-b348-2cb2df7e61fe",
+                    "distractor": "Grijze",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5fd61687-da8f-42c9-8523-a735085eb2c7",
+                    "distractor": "Bruine",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "8a8245df-b007-4495-8564-6300bc5326c7",
+                    "distractor": "Roze",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "29",
+            "question": "Welke geneesmiddel is verslavend?",
+            "answers": "Temesta",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Dafalgan",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Penicilline",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Aspirine",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ecb696d1-5074-4793-8518-30cdd9a8da10",
+                    "distractor": "Paracetamol",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "71fc38a4-3190-4107-a973-5dbc83ee5c27",
+                    "distractor": "Ibuprofen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "494a5970-b0c1-47c4-b6d0-70b99682b81b",
+                    "distractor": "Aspirine",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "082e12a7-63f6-4901-bfed-392c3640fff8",
+                    "distractor": "Vitamine C",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "eb6ca2b5-a504-4d36-8f5c-bc97da578a3a",
+                    "distractor": "Antibiotica",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "922dfeb8-7e52-4b56-b1b0-03ed1bf84d7e",
+                    "distractor": "Insuline",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "827b3414-29db-4153-a149-4727a8405239",
+                    "distractor": "Antihistaminica",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c966b504-7771-4836-8a66-258891da8389",
+                    "distractor": "Vitamine D",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c6b83780-cefb-4c9b-a509-3fc2dc829409",
+                    "distractor": "Probiotica",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "1a1f129a-de2e-4150-befb-75ec56421f36",
+                    "distractor": "Maagzuurremmers",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "30",
+            "question": "Langs welke vaten wordt glucose naar de wortels getransporteerd?",
+            "answers": "zeefvaten",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "houtvaten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2c34765a-f588-472e-9325-0ce945a7c47b",
+                    "distractor": "Luchtpijpvaten",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "d13704fe-704c-4e16-ab5d-2e992c6fb279",
+                    "distractor": "Oogaderen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b8e144c8-9a60-4003-9607-7e5ef298cc3a",
+                    "distractor": "Nierbekkenvaten",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "a84809e6-db4b-4ff4-83f0-243ba89e7c55",
+                    "distractor": "Galwegen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "a93073da-abeb-46d9-bd38-bf9e895407bb",
+                    "distractor": "Longslagaders",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "585eff07-24a5-4780-9db9-74ab686c7006",
+                    "distractor": "Middenrifvenen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "7850be57-515f-463c-a80b-49dbd89cecd5",
+                    "distractor": "Tandwortelvaten",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b9637be8-54b4-4488-8d5b-db8788373682",
+                    "distractor": "Hersenventrikels",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "d24bbe4c-ee10-4290-a4f9-eac06534463f",
+                    "distractor": "Aorta",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "acf5a3f7-6295-4b2c-810b-e952ef1803d5",
+                    "distractor": "Hartkamers",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "31",
+            "question": "Welke reflexen zijn ongewild?",
+            "answers": "niezen ### speekselafscheiding bij honger",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "een bal wegtrappen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "je neus snuiten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "8ab7799b-789e-436f-a154-cfcf9150aa05",
+                    "distractor": "Ademen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "49fb9252-ae0a-4fef-ae43-2c744c1d5d26",
+                    "distractor": "Knipperen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "28f9b680-8a5c-46cb-8b9e-0555018a4d81",
+                    "distractor": "Hoesten",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "8792ad19-26f7-4175-8a45-8b83aa561177",
+                    "distractor": "Blozen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "1e39e776-a3b8-4a71-bfad-c1b9fb8d5f6a",
+                    "distractor": "Hikken",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "d9290992-aa4d-4a66-8107-27c71ed798b7",
+                    "distractor": "Gapen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "287700b9-4312-42f0-8713-7ab8b108575c",
+                    "distractor": "Bloeddruk verandering",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d19b039a-7424-4c57-ad65-097eeac96b0c",
+                    "distractor": "Hartslag",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "f63dcf9b-b1fa-4a39-9e75-de1fed1c3985",
+                    "distractor": "Spiersamentrekkingen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "236da0bc-f2fa-409a-83e1-69e395e7ce0a",
+                    "distractor": "Pilomotorische reflex (huid rillingen)",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "32",
+            "question": "Welk hormoon wordt aangemaakt in de teelbal?",
+            "answers": "testosteron",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "adrenaline",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "progesteron",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "38180b5e-0f65-420a-a7a3-b39045211091",
+                    "distractor": "Oestrogeen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "1ff5da9f-6531-4333-8105-cf43029441fc",
+                    "distractor": "Adrenaline",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "bf3b63b6-8435-4768-8a75-7dc98efcc9f3",
+                    "distractor": "Serotonine",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "14073bb0-a026-4bd2-a48b-a56aa8b7b546",
+                    "distractor": "Insuline",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "3beced41-3738-423e-abd8-3c70ff8a8d79",
+                    "distractor": "Groeihormoon",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "3ddd3cbf-7cb3-45b4-ad15-1ca76e384ed5",
+                    "distractor": "Melatonine",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "474cf999-54ad-4ec2-8bf2-17c928122cfb",
+                    "distractor": "Endorfine",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "3e362ab9-71e0-4ddd-ab27-a69a01df8a10",
+                    "distractor": "Cortisol",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "4646b8e5-d9cc-4255-ac46-c42ddda1a6f4",
+                    "distractor": "Dopamine",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "56f18dae-47f6-4340-a0d5-1061ff930da1",
+                    "distractor": "Progesteron",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "33",
+            "question": "Wat zit er in het netvlies van het oog, waarmee je kleuren waarneemt?",
+            "answers": "kegeltjes",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bolletjes",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "cilindertjes",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5cdcd9c5-e9c7-47d2-a049-b9817efd8984",
+                    "distractor": "Bloedvaten",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "cd5e1395-9a78-4810-85db-467a2c9de7d0",
+                    "distractor": "Water",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "55e7c462-3c5a-4637-ac8e-b33c160d59f6",
+                    "distractor": "Zenuwcellen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "c96abb76-2e13-4322-84d1-5762541c800d",
+                    "distractor": "Vlekken",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "dca4e85b-1adb-462a-9586-c97f534dd673",
+                    "distractor": "Slijm",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "9ddf1bba-7c63-4d3a-8626-b7afa2ff3328",
+                    "distractor": "Vetten",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a4350f0b-e774-449e-af1a-b5321a65e0ce",
+                    "distractor": "Kristallen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "aea00e50-7234-4eb8-8c88-f0d8f8b4b3c1",
+                    "distractor": "Haartjes",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "d07540ef-847c-4eb6-bee9-9d8cebfa5357",
+                    "distractor": "Botdeeltjes",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "faca903f-52b9-47d2-ab69-c754657622fd",
+                    "distractor": "Eiwitten",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "34",
+            "question": "Wat zit het dichtst bij de bladschijf?",
+            "answers": "bladvoet",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bladschede",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4c1768a7-b8e2-40f7-8ec6-99cc09691e0d",
+                    "distractor": "Bladstengel",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "61a955e3-7ac8-4600-8a31-b37db68adb8c",
+                    "distractor": "Bladsteel",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "38036c49-18f7-496f-8bdf-ab84e4627ee7",
+                    "distractor": "Bladnerf",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "90d1fdf8-ee77-4deb-a06b-87922ba8b729",
+                    "distractor": "Bladwortel",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "a5ced1a3-11a8-4ac8-b19f-a42abe25c846",
+                    "distractor": "Bladknop",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "bd6c4a28-684f-44b4-9628-bc6f21b925e4",
+                    "distractor": "Bladhaar",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "ec7db8b4-27a1-46c0-921b-c2e245dda3d5",
+                    "distractor": "Bladtak",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "0f796f68-6290-43f4-9f6c-f04773c2f609",
+                    "distractor": "Bladpunt",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a6fee8bb-63c5-456c-a8bf-925ac8e47f7f",
+                    "distractor": "Bladscheur",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "4ebd3ae5-c44e-4805-ae2a-a6afcf08a971",
+                    "distractor": "Bladvorm",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "35",
+            "question": "Hoe verspreidt een depolarisatie zich?",
+            "answers": "Van het axon richting dendriet van de aansluitende zenuwcel.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Van een dendriet richting axon van de aansluitende zenuwcel.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "cc2e93cc-1b41-4639-91eb-5d99fac9fcae",
+                    "distractor": "Via de bloedbaan",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "5b06a4f9-02ae-4cb6-b6da-bc8b594571c8",
+                    "distractor": "Via de lymfeklieren",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b806f13d-46a6-41a4-94b6-b3bcbdc7abb1",
+                    "distractor": "Via de zweetklieren",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "2037cc64-5615-41d8-b63c-65bcd6478b73",
+                    "distractor": "Via de luchtwegen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "b77c227d-22b3-499a-bb50-935910538e25",
+                    "distractor": "Via de voedselbrij in de maag",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "993066e3-98f7-45c7-83ae-4e798fa0a6cc",
+                    "distractor": "Via de huidpori\u00ebn",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "16f693c0-854f-4500-83e0-d94653dfff72",
+                    "distractor": "Via de oren",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "ee5de03f-92bf-4513-96e6-9f3f478a64b4",
+                    "distractor": "Via de ogen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "76c3990b-65f2-4336-9bfb-53cb3cbcd4b0",
+                    "distractor": "Via de neusgaten",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "aa7e124f-1763-4fe4-b004-423c0573d967",
+                    "distractor": "Via de mondholte",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "36",
+            "question": "Welke drank is de meest gebruikte drug op aarde?",
+            "answers": "koffie",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "water",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "fruitsap",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "melk",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "52e0f49f-1384-45da-9afd-e8d613681395",
+                    "distractor": "Cola",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "6810da16-4ca1-4320-bbd0-7303c71a0b2d",
+                    "distractor": "Thee",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "4c23f4bb-4d25-48ba-aaac-efd6d657081a",
+                    "distractor": "Bier",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "aaa655cd-192b-4d74-aa48-190d37a48872",
+                    "distractor": "Water",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "e96105fd-e6b0-4d85-b433-5a6f27eb755d",
+                    "distractor": "Wijn",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "c6181e75-f9b0-4f0c-b427-742741e05a10",
+                    "distractor": "Melk",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "d2345007-4b41-448c-abb9-429e12f7d7bd",
+                    "distractor": "Jus d'orange",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "2733be25-4387-481c-b516-f42d638763af",
+                    "distractor": "Red Bull",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5c5f8e23-b24b-4fea-b26a-c1e6bc1368ef",
+                    "distractor": "Whiskey",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "fa3f3221-2a1c-4f61-bc24-259dc7064462",
+                    "distractor": "Coca-Cola",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "37",
+            "question": "Welke neuronen bevinden zich nooit in onze ledematen?",
+            "answers": "schakelneuronen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "motorische neuronen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "sensorische neuronen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2f7eecbe-4d52-453d-8b22-16523fb4e464",
+                    "distractor": "Bewegingsneuronen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "229d768e-0207-43ac-bcb6-0f4a543ecd64",
+                    "distractor": "Gevoelsneuronen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "eaeead8a-b00f-46af-aff2-28e80c9b599d",
+                    "distractor": "Spiegelneuronen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "713ac755-3f61-462c-a834-e9ce7a1b2417",
+                    "distractor": "Interneuronen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "e612f1df-b97e-4a08-9f28-a4db5703b79a",
+                    "distractor": "Sensorische neuronen",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "3a2f3e2c-03f4-4d46-b749-97e501704b81",
+                    "distractor": "Motorische neuronen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4df534a2-1cd3-4fa5-902e-55f47946fc35",
+                    "distractor": "Pyramidecellen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "304b8e8d-623a-402a-a0d3-d5e00e20f3bd",
+                    "distractor": "Bipolaire cellen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "fd8d00fe-2dcc-4f75-b403-3dc3fc9cbc15",
+                    "distractor": "Purkinjecellen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "bd253fd7-ad64-4e40-9a7d-ec6302355b2a",
+                    "distractor": "Granulecellen",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "38",
+            "question": "Welke van deze verdovende drugs heeft ook een hallucinogene werking?",
+            "answers": "cannabis (wiet)",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "code\u00efne",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "morfine",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "hero\u00efne",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "alcohol",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fd5b53ae-5f19-4fe4-a9d8-4a98c1407433",
+                    "distractor": "Paracetamol",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "80542595-ba48-4429-9bee-ac7974edbcc7",
+                    "distractor": "Ibuprofen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "e61b6f8f-02dc-4958-860c-74420db294ae",
+                    "distractor": "Cafe\u00efne",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "c674c538-52e8-40ac-8879-30a9e1565d80",
+                    "distractor": "Nicotine",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "2162d3b0-f5e2-42cb-abfd-ac549560a544",
+                    "distractor": "Alcohol",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "668ce566-5bb9-466c-ae46-0fd0f06c20e9",
+                    "distractor": "Hero\u00efne",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4f68ff7c-174d-44a6-8a2d-376996d8c22e",
+                    "distractor": "Coca\u00efne",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b18f7f43-2760-4b79-98dd-2aa9d262df21",
+                    "distractor": "LSD",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "4610ab2c-faa0-470d-9589-3bfb6465bee2",
+                    "distractor": "XTC",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "c40416aa-9cd2-4b60-80e4-ef85cd814b09",
+                    "distractor": "Methamphetamine",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "39",
+            "question": "Waar ligt je schildklier?",
+            "answers": "in je hals",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "in je buikholte",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "in je hersenen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e1e8f3f6-d933-458f-bf9d-e047e559d203",
+                    "distractor": "In je neus",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "80df854f-bfae-4ef2-91a5-58b604485d97",
+                    "distractor": "In je buik",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "ab1e6206-7bff-4962-a43c-64b6a8a7dd7f",
+                    "distractor": "In je knie",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d527a4e9-b05d-4c5f-a179-93dd1e71e99e",
+                    "distractor": "In je voet",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "e0922f48-505f-4d3c-9b7f-ca59c91e2ea1",
+                    "distractor": "In je elleboog",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "2bc682dd-03b3-4a60-94a2-0cf4c9283221",
+                    "distractor": "In je hand",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "72e78e55-b371-46a5-9efd-1aede547b270",
+                    "distractor": "In je bil",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "8425ffa0-093d-42e9-b556-96c424ad1e4c",
+                    "distractor": "In je schouder",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "01487063-dbed-4600-b26c-2e4b4d17964e",
+                    "distractor": "In je rug",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "3fa44227-d9ea-43db-8b1a-8d7fad990b07",
+                    "distractor": "In je mond",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "40",
+            "question": "Van welke plant gebruiken we nog de wortel als voedingsmiddel?",
+            "answers": "Rode biet",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Witlof",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Sla",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "66638918-1103-442d-bc3b-d80edd4fe20b",
+                    "distractor": "Ananas",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "883c3d3c-ac87-48d3-b116-8bb7e58be5e6",
+                    "distractor": "Kokosnoot",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "614eb3c9-65f5-4c80-b851-436e446dad6d",
+                    "distractor": "Druiven",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "8374687a-e1e6-4da0-9f05-f5457380ba40",
+                    "distractor": "Kool",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "aba3f683-da5e-46fb-be94-27d91836f18e",
+                    "distractor": "Spinazie",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "2d16edcb-67dd-402c-b1ab-68ecf771639d",
+                    "distractor": "Broccoli",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "7ef291fa-ec3f-463d-81a6-d19cd4f025d8",
+                    "distractor": "Aardappelen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "4f988ce0-c07f-4ec4-83af-f9f5a7b17809",
+                    "distractor": "Appels",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "878b22f8-dbd3-4ddc-96bf-99000c06ebd5",
+                    "distractor": "Wortelen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "55015dd9-d531-4674-9ebe-fb13be647baf",
+                    "distractor": "Uien",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "41",
+            "question": "Welk gas komt er vrij bij de fotosynthese?",
+            "answers": "zuurstofgas ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "koolstofdioxide",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b5809283-0c77-4cb1-a83f-6ff1351a058f",
+                    "distractor": "Koolstofmonoxide",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "ac76be48-55bd-4df1-b290-4f578fe648f3",
+                    "distractor": "Stikstofgas",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "6b870d0b-ef0f-431b-aab7-c163bbb5da0c",
+                    "distractor": "Methaangas",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "ea353be1-12d2-4d40-b0d2-2b18c2b6863d",
+                    "distractor": "Waterstofgas",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "c389038e-0b86-4beb-9434-c5cc5fc825d1",
+                    "distractor": "Chloorgas",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "4738cbb7-b388-4e8b-8f64-8c0733508b24",
+                    "distractor": "Ozongas",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a8fb1e8a-9c49-4d62-9c99-a89baf536cc5",
+                    "distractor": "Zwavelgas",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "db463533-25e7-4e57-baf0-e1a6ef548d93",
+                    "distractor": "Neon gas",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "0f140213-a008-4abe-84a1-5069d6d4e584",
+                    "distractor": "Heliumgas",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "86d6b335-19f2-4c5c-8205-a37a5f157ac8",
+                    "distractor": "Argongas",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "42",
+            "question": "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de motorische hersenschors. In welke hersenhemisfeer?",
+            "answers": "de rechter hersenhemisfeer",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de linker hersenhemisfeer",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "bcc5e5b3-1f02-4e44-b6a1-2fb0bc4ef9b1",
+                    "distractor": "De linker hersenhemisfeer",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "14e69313-b779-4227-a108-c4744edf3f3b",
+                    "distractor": "Geen van beide hersenhelften, het komt vanuit het ruggenmerg",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "a7aea16a-82a0-4531-9b77-3794aff330ae",
+                    "distractor": "De occipitale hersenkwab",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "87a97399-9d4f-4ff3-9762-e09b1ebd6d57",
+                    "distractor": "De temporale hersenkwab",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "5eb32f80-2c0c-4ffc-bdbc-5c43215964df",
+                    "distractor": "De frontale hersenkwab",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "767a2983-476c-4a2d-a07f-ce073e343cc5",
+                    "distractor": "De pari\u00ebtale hersenkwab",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "024100fa-c62d-460b-999b-bf902fd08c29",
+                    "distractor": "De limbische hersenkwab",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "303b3117-1dff-46f6-ada4-330cbaa2b4fc",
+                    "distractor": "De hersenstam",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "28c169b4-c2e9-4cf8-a417-62671c576295",
+                    "distractor": "Het cerebellum",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "37e4dd2f-8318-40f2-b401-47c7650e915c",
+                    "distractor": "De hypothalamus",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "43",
+            "question": "Hoeveel mensen zijn er wereldwijd met gehoorschade?",
+            "answers": "450 miljoen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "600 miljoen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "950 miljoen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7faaf263-2571-4d22-9e29-bb9e38e9e902",
+                    "distractor": "700 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "00f39af9-bb23-4779-8a73-3b3a48a1e1ca",
+                    "distractor": "200 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "cd7bd6f8-6f94-4ca4-ba0b-68334a8a1886",
+                    "distractor": "1 miljard",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "9c40c992-253b-4b83-8c5d-2f6a7c06355c",
+                    "distractor": "250 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0a172591-f7c8-4069-a16b-a4812f1b04a8",
+                    "distractor": "800 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "5612a25c-db24-434b-82fc-f896e86e3657",
+                    "distractor": "50 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "725dfd2e-2dd1-4d49-b793-c1de1dc628e4",
+                    "distractor": "350 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d836beac-e93a-40b7-890b-25238d71e2c0",
+                    "distractor": "600 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a331f536-8fdd-4574-9a3e-c5db3f0e209a",
+                    "distractor": "150 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "6059be3d-509c-4b5f-96fe-0bd187d245c1",
+                    "distractor": "900 miljoen",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "44",
+            "question": "Welke bloemen zijn in een veld altijd naar dezelfde richting gekeerd?",
+            "answers": "zonnebloemen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "boterbloemen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "paardenbloemen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b9d1ad22-2f0e-4aca-80b8-c0e6fad8282e",
+                    "distractor": "Rozen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "3d188404-e384-47aa-9b00-fc4dcbcd00d0",
+                    "distractor": "Tulpen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "34e92988-1065-4501-b76b-7ae706e03aad",
+                    "distractor": "Lavendel",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "4085cf03-b8fc-4f23-8102-0542b5b59774",
+                    "distractor": "Narcissen",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "578643b2-e53f-48be-951f-934c8a0cb6ef",
+                    "distractor": "Paardenbloemen",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "d51d533d-bbc5-4055-8458-ae3ec9853010",
+                    "distractor": "Anjers",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4694a094-3264-47bf-ab70-d13dbde1656f",
+                    "distractor": "Irissen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e92d3349-102c-4d60-a61f-51f3d647eb9e",
+                    "distractor": "Sneeuwklokjes",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6f05355a-3b3e-40c0-9b41-09f179eacbcf",
+                    "distractor": "Madeliefjes",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "3b80c466-25d4-4ca0-9cc7-c91038346abd",
+                    "distractor": "Lupines",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "45",
+            "question": "Wat is het effect van het plantenhormoon ethyleen?",
+            "answers": "De rijping bevorderen.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De celgroei bevorderen.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De celdeling bevorderen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4177a0f8-9041-42fc-be11-b7646c8e5068",
+                    "distractor": "Ethyleen veroorzaakt wortelrot bij planten.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "ffa8dbb2-2096-4526-8aac-1696f700d60f",
+                    "distractor": "Ethyleen maakt planten giftig voor dieren.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "7ce31c5a-77fd-4722-9dfb-963cd7e170ea",
+                    "distractor": "Ethyleen vermindert de fotosynthese van planten.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "0727d77a-8669-45a9-9c90-af513a5b52aa",
+                    "distractor": "Ethyleen leidt tot verkleuring van de bladeren van planten.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "df014c3c-32da-4d38-977e-fdad32f5361d",
+                    "distractor": "Ethyleen veroorzaakt planten om te verwelken en af \u200b\u200bte sterven.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "22218b54-8811-4065-8e25-731c0cbf2d18",
+                    "distractor": "Ethyleen vertraagt \u200b\u200bde groei van planten.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f33373ef-0ab9-4ca3-bf5f-4a83e6646ae6",
+                    "distractor": "Ethyleen verhoogt het gehalte aan toxische stoffen in planten.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "7af059b7-8e3c-475d-a3d5-b619ce8ac24a",
+                    "distractor": "Ethyleen vermindert de smaak en voedingswaarde van fruit.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "31a5cbe7-9aa2-4aa3-8a7f-10a637ddc297",
+                    "distractor": "Ethyleen veroorzaakt onvruchtbaarheid bij planten.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "2a40c598-9635-4500-b88c-3d404eef187c",
+                    "distractor": "Ethyleen verhoogt de kans op ziekten en plagen in planten.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "46",
+            "question": "Sommige drugs zijn verdovend, andere zijn stimulerend en geven de gebruiker een kick. Welke van deze drugs zijn stimulerend?",
+            "answers": "speed ### coca\u00efne",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "morfine",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "alcohol",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ef3fd1c8-7960-4952-8901-702e86fcd6e0",
+                    "distractor": "Koffie",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "0f2b6eeb-619c-46c4-af16-eae3ca177ff8",
+                    "distractor": "Vitamine C pillen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "633e0234-78e6-40ed-9deb-cecdca7f33b0",
+                    "distractor": "Pepermuntjes",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6f5dbb0a-2dfc-4053-841e-ba7ac45b25be",
+                    "distractor": "Aspirine",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "72740bc8-edcb-4636-8c5d-62aba6feb7de",
+                    "distractor": "Water",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "e0b1e42d-3452-44b0-8b44-080bf00d95bf",
+                    "distractor": "Muntthee",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b05d1585-408f-48eb-9208-11b6822b295a",
+                    "distractor": "Gemberthee",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d8006885-d9d8-4b0b-bc2e-8a44b5c82eab",
+                    "distractor": "Olijfolie",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "22579e32-60e4-42f0-bc30-8eb674b65009",
+                    "distractor": "Oregano",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "3509aed1-2683-45f7-bfeb-b8c93ec9cadc",
+                    "distractor": "Kamillethee",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "47",
+            "question": "Welke toets op een piano wordt in de top van het slakkenhuis waargenomen?",
+            "answers": "de uiterst linkse",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de uiterst rechtse",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "855a6198-9680-4c5e-95a9-5dc9eeaac6cf",
+                    "distractor": "De toets met het cijfer '7' erop.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "796ccc51-bf64-49fb-93bd-75eaf8df1060",
+                    "distractor": "De toets met de letter 'Z' erop.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "33c5a80e-7f6c-499f-a18a-8e11ade48cd4",
+                    "distractor": "De toets met een afbeelding van een zon erop.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "53159454-9eb6-4b66-be2c-764e26666088",
+                    "distractor": "De toets met de kleur roze.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "752c2546-3082-4734-ba5b-a50813489993",
+                    "distractor": "De toets met een smileygezicht erop.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "0951b246-070c-4bc0-955a-c85cbb41bc48",
+                    "distractor": "De toets met een pijl naar beneden erop.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "311bbd39-8db7-430b-8400-e5fc12bd88fc",
+                    "distractor": "De toets met een afbeelding van een hond erop.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "52dc560c-edff-45e6-bd32-32eb4f1966ee",
+                    "distractor": "De toets met de letter 'Q' erop.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6aed2f2e-af34-4b96-ac1a-7cf0f5745e0e",
+                    "distractor": "De toets met een bloem erop.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "96832ae9-6d27-4b2b-85ab-995bb436b65c",
+                    "distractor": "De toets met een golfpatroon erop.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "48",
+            "question": "Welke drugs is het gevaarlijkst?",
+            "answers": "hero\u00efne",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "wiet",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "speed",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "20d8eaea-8837-47fe-a093-e7a5ca41684d",
+                    "distractor": "Aspirine",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f443eb69-f0d9-41c7-82e5-34e37387ac24",
+                    "distractor": "Cafe\u00efne",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "284d3c1a-0c57-4275-b063-cd1a75cfe598",
+                    "distractor": "Vitamine C",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "48ede06a-d6fe-4c6e-b46d-925876b94061",
+                    "distractor": "Melatonine",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "dd19d543-c134-4d0b-82aa-a0595c6e824d",
+                    "distractor": "Ibuprofen",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "49b29489-58f8-40c2-a828-c0f06c68557e",
+                    "distractor": "Kamillethee",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "58c22495-da87-4b57-97ef-7fc58148cd14",
+                    "distractor": "Acupunctuur",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "918ab65e-0365-46f2-abba-f97377923a5b",
+                    "distractor": "Zonnebloempitten",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "8663bbcf-cb6f-4d51-ae82-c85b33fa7625",
+                    "distractor": "Gemberwortel",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "256a1518-ea43-4223-accb-d6741b3d3736",
+                    "distractor": "Magnesiumsupplementen",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "49",
+            "question": "Welke organismen kunnen meningitis veroorzaken?",
+            "answers": "bacteri\u00ebn ### virussen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "wormen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "vlooien",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1b0ebdc2-a931-4060-a49e-b9194b8d63cb",
+                    "distractor": "Schimmels",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "a033a9c9-3fd1-48fe-8a12-fda1f2b80143",
+                    "distractor": "Protozoa",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "63461a8c-c51b-40a2-8333-6df8ec7e1e46",
+                    "distractor": "Insecten",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "03a755b5-b30b-41bd-81c2-64244f4dca6b",
+                    "distractor": "Vogels",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "f4d09c6f-a3e8-4d11-a9e9-3f8c561dc59f",
+                    "distractor": "Zoogdieren",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "9a23962b-b8a8-46be-aaf1-bb78c35295fc",
+                    "distractor": "Wormen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4b53b080-cbc0-4585-9d96-fb83d4b06fd5",
+                    "distractor": "Vissen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c0f8f112-78df-4097-9c1c-ea0b56cad2e3",
+                    "distractor": "Amfibie\u00ebn",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "638c4b64-c8f5-45fa-8d51-22e5db8c5e25",
+                    "distractor": "Reptielen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "e01178b7-01bd-48aa-bce3-a67a9f165cf6",
+                    "distractor": "Planten",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

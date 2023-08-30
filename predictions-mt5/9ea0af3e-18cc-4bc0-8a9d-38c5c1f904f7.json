@@ -1,0 +1,5 @@
+{
+    "qid": "9ea0af3e-18cc-4bc0-8a9d-38c5c1f904f7",
+    "input": "le nom d'un insecte sauteur ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. la sauterelle\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. le sauter\n2. l'eau\n3. la pomme\n4. le saveur\n5. toutes les reponses sont correctes\n6. aucune des reponses n'est correcte\n7. aucune des\n8. la choute\n9. le rocher\n10. la cire"
+}

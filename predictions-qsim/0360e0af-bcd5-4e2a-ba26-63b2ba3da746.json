@@ -1,0 +1,135 @@
+{
+    "qid": "0360e0af-bcd5-4e2a-ba26-63b2ba3da746",
+    "response": {
+        "Query": "Choisissez le synonyme du premier mot dans la liste suivante : courtoisie",
+        "Result": [
+            {
+                "answer": "dubitatif",
+                "answer_length": 1,
+                "distractors": [
+                    "intensif",
+                    "deplaisant",
+                    "conteste"
+                ],
+                "language": "fr",
+                "question": "Choisissez le synonyme du premier mot dans la liste suivante : sceptique",
+                "question_length": 12,
+                "score": 0.6355485182837091
+            },
+            {
+                "answer": "galanterie",
+                "answer_length": 1,
+                "distractors": [
+                    "tranquillite",
+                    "disponibilite",
+                    "proprete"
+                ],
+                "language": "fr",
+                "question": "Choisissez le synonyme du premier mot dans la liste suivante : courtoisie",
+                "question_length": 12,
+                "score": 0.6338091996688584
+            },
+            {
+                "answer": "dubitatif",
+                "answer_length": 1,
+                "distractors": [
+                    "intensif",
+                    "deplaisant",
+                    "conteste"
+                ],
+                "language": "fr",
+                "question": "Quel est le synonyme du mot `` sceptique '' ?",
+                "question_length": 10,
+                "score": 0.5987138507169115
+            },
+            {
+                "answer": "pharmacien",
+                "answer_length": 1,
+                "distractors": [
+                    "recoltant de miel",
+                    "brocanteur",
+                    "bibliothecaire"
+                ],
+                "language": "fr",
+                "question": "Quel est le synonyme du mot `` apothicaire '' ?",
+                "question_length": 10,
+                "score": 0.42682089963845943
+            },
+            {
+                "answer": "publier",
+                "answer_length": 1,
+                "distractors": [
+                    "abroger",
+                    "promouvoir",
+                    "enoncer"
+                ],
+                "language": "fr",
+                "question": "Quel est le synonyme du mot `` promulguer '' ?",
+                "question_length": 10,
+                "score": 0.3597562457630841
+            },
+            {
+                "answer": "interdire",
+                "answer_length": 1,
+                "distractors": [
+                    "interdiction",
+                    "montrer",
+                    "mettre en avant"
+                ],
+                "language": "fr",
+                "question": "Quel est le synonyme du mot `` prohiber '' ?",
+                "question_length": 10,
+                "score": 0.2833071079237323
+            },
+            {
+                "answer": "comptes",
+                "answer_length": 1,
+                "distractors": [
+                    "calculs",
+                    "choix",
+                    "moments"
+                ],
+                "language": "fr",
+                "question": "Completez l'expression . Je prefere payer tout de suite mon du : les bons ... font les bons amis .",
+                "question_length": 20,
+                "score": 0.26581933067797225
+            },
+            {
+                "answer": "pharmacien",
+                "answer_length": 1,
+                "distractors": [
+                    "recoltant de miel",
+                    "brocanteur",
+                    "bibliothecaire"
+                ],
+                "language": "fr",
+                "question": "Choisissez le synonyme du premier mot dans la liste suivante : apothicaire",
+                "question_length": 12,
+                "score": 0.24935809226066888
+            },
+            {
+                "answer": "lunettes",
+                "answer_length": 1,
+                "distractors": [
+                    "vetements",
+                    "gants"
+                ],
+                "language": "fr",
+                "question": "Completez logiquement les phrases . Indiquez le mot qui convient . J'ai recu de la poussiere dans les yeux . J'ai oublie de porter des ... de protection .",
+                "question_length": 29,
+                "score": 0.24533423355450448
+            },
+            {
+                "answer": "sur",
+                "answer_length": 1,
+                "distractors": [
+                    "sur"
+                ],
+                "language": "fr",
+                "question": "Choisissez l'orthographe qui correspond au sens de l'adjectif . Ce n'est vraiment pas un placement _____ .",
+                "question_length": 17,
+                "score": 0.21580528817525907
+            }
+        ]
+    }
+}

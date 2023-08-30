@@ -1,0 +1,5 @@
+{
+    "qid": "064e9091-164a-473f-a283-8d8a6b65c348",
+    "input": "vraag: Vraag 1 multiple choice test - wat is de hoofdstad van Nederland ?\nantwoord: Amsterdam\nonjuiste antwoorden: \n1. Rotterdam\n2. Den Haag\n\nvraag: Maak uw keuze . Wat is de hoofstad van Frankrijk ?\nantwoord: Parijs\nonjuiste antwoorden: \n1. Madrid\n2. Lissabon\n\nvraag: De hoofdstad van Frankriijk is\nantwoord: Parijs\nonjuiste antwoorden: \n1. Lille\n2. Lyons\n3. Bordeaux\n\nvraag: What is the capital of France ?\nantwoord: Paris\nonjuiste antwoorden: \n1. Lille\n2. Toulouse\n3. Bordeaux\n\nvraag: Kies je antwoord uit volgende mogelijkheden Wat is de hoofdstad van Frankrijk ?\nantwoord: Parijs\nonjuiste antwoorden: \n1. Karijs\n2. Harijs\n\nvraag: : Wat is de hoofdstad van Duitsland?\nantwoord: : Berlijn\n\nGenereer 20 onjuiste antwoorden: ",
+    "response": "\n\n1. M\u00fcnchen\n2. Frankfurt\n3. Hamburg\n4. Keulen\n5. Stuttgart\n6. Hannover\n7. Dresden\n8. Leipzig\n9. N\u00fcrnberg\n10. Bremen\n11. Bonn\n12. Mannheim\n13. Essen\n14. D\u00fcsseldorf\n15. Dortmund\n16. Kiel\n17. Augsburg\n18. Wuppertal\n19. Magdeburg\n20. Saarbr\u00fccken"
+}

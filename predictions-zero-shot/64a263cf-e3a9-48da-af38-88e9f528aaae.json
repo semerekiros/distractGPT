@@ -1,0 +1,5 @@
+{
+    "qid": "64a263cf-e3a9-48da-af38-88e9f528aaae",
+    "input": "vraag: Welke Belgische steden hebben een luchthaven?\nantwoord 1: Zaventem\nantwoord 2: Antwerpen\nantwoord 3: Charleroi\nantwoord 4: Oostende\nantwoord 5: Luik\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Gent\n2. Brugge\n3. Leuven\n4. Brussel-Noord\n5. Aalst\n6. Hasselt\n7. Kortrijk\n8. Mechelen\n9. Namen\n10. Bergen\n11. Doornik\n12. Turnhout\n13. Roeselare\n14. Sint-Niklaas\n15. Dendermonde\n16. Maaseik\n17. Genk\n18. Ieper\n19. Veurne\n20. Geraardsbergen"
+}

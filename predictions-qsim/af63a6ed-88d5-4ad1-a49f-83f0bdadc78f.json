@@ -1,0 +1,131 @@
+{
+    "qid": "af63a6ed-88d5-4ad1-a49f-83f0bdadc78f",
+    "response": {
+        "Query": "Welke van deze klieren heeft een afvoerbuis?",
+        "Result": [
+            {
+                "answer": "het achterlijf",
+                "answer_length": 2,
+                "distractors": [
+                    "de buik",
+                    "het borststuk"
+                ],
+                "language": "nl",
+                "question": "l'abdomen chez les insectes ?",
+                "question_length": 5,
+                "score": 0.7166642302355846
+            },
+            {
+                "answer": "Witte bloedlichaampjes",
+                "answer_length": 2,
+                "distractors": [
+                    "Rode bloedlichaampjes",
+                    "Zwarte bloedlichaampjes"
+                ],
+                "language": "nl",
+                "question": "Wie gaat er aan de slag om de bacterien in de wond op te ruimen ? Bekijk het filmpje . Duid het juiste antwoord aan .",
+                "question_length": 26,
+                "score": 0.7107420317314551
+            },
+            {
+                "answer": "het achterlijf",
+                "answer_length": 2,
+                "distractors": [
+                    "de buik",
+                    "het borststuk"
+                ],
+                "language": "nl",
+                "question": "the abdomen in insects is in Dutch ...",
+                "question_length": 8,
+                "score": 0.5991845393033294
+            },
+            {
+                "answer": "Hugo Lloris ( Frankrijk )",
+                "answer_length": 5,
+                "distractors": [
+                    "Thibaut Courtois ( Belgie )"
+                ],
+                "language": "nl",
+                "question": "Welke keeper is verkozen tot beste keeper van het WK 2018 ?",
+                "question_length": 12,
+                "score": 0.5667463900129909
+            },
+            {
+                "answer": "Kuitspier",
+                "answer_length": 1,
+                "distractors": [
+                    "Dijspier",
+                    "Voetspier",
+                    "Scheenspier"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Van welke spier maakt de achillespees deel uit ?",
+                "question_length": 20,
+                "score": 0.5291897050818155
+            },
+            {
+                "answer": "dierlijk orgaan",
+                "answer_length": 2,
+                "distractors": [
+                    "dierlijke weefsels",
+                    "dierlijke cellen",
+                    "dierlijke stelsels"
+                ],
+                "language": "nl",
+                "question": "Tot welke groep behoren de triceps ?",
+                "question_length": 7,
+                "score": 0.49287017876687284
+            },
+            {
+                "answer": "kwal",
+                "answer_length": 1,
+                "distractors": [
+                    "inktvis",
+                    "zeepaardje",
+                    "garnaal"
+                ],
+                "language": "nl",
+                "question": "hoe heet het zeedier op de foto bekijk de foto en het filmpje duid het juiste antwoord aan",
+                "question_length": 18,
+                "score": 0.48932906677812027
+            },
+            {
+                "answer": "De rode slang ",
+                "answer_length": 3,
+                "distractors": [
+                    "De blauwe slang ",
+                    "Je mag dit vrij kiezen "
+                ],
+                "language": "nl",
+                "question": "Welke slang koppel je aan op de acetyleenfles ?",
+                "question_length": 9,
+                "score": 0.48233846187957985
+            },
+            {
+                "answer": "de hartspier",
+                "answer_length": 2,
+                "distractors": [
+                    "de tongspier",
+                    "de ademhalingsspieren"
+                ],
+                "language": "nl",
+                "question": "Welke spier in ons lichaam is dwarsgestreept en toch onwillekeurig ?",
+                "question_length": 11,
+                "score": 0.47507443401387134
+            },
+            {
+                "answer": "longblaasje",
+                "answer_length": 1,
+                "distractors": [
+                    "luchtpijptak",
+                    "luchtpijp",
+                    "longtak"
+                ],
+                "language": "nl",
+                "question": "In welk gedeelte van de longen gebeurt de stofwisseling ?",
+                "question_length": 10,
+                "score": 0.35940091851324046
+            }
+        ]
+    }
+}

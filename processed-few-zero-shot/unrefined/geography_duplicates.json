@@ -1,0 +1,2720 @@
+{
+    "0": {
+        "Europa": [
+            "02447d4c-277a-4016-aff8-1e6efcf9eb54",
+            "ec6c5525-fa32-4e9f-befa-ba13fdd105cb"
+        ],
+        "Zuid-Amerika": [
+            "87ad7433-4c21-41cf-8206-8cbb164244a2",
+            "04f3307f-e612-4c07-aebd-debf1ac3b70f"
+        ],
+        "Afrika": [
+            "14f7a76d-8f31-4f55-94b5-18babeffd31b",
+            "5f8d5748-f3b6-4bd3-9eb8-fdf11095e323"
+        ],
+        "Antarctica": [
+            "c5a64bc1-11a1-4e72-bfe6-6497d1995544"
+        ],
+        "Australi\u00eb": [
+            "ec6b2161-fb1d-4783-b9c5-8096a304be8c"
+        ],
+        "Noordpoolgebied": [
+            "1da9408d-fee0-4188-ade8-881eab5705e6"
+        ],
+        "Zuidpoolgebied": [
+            "f792e978-ddc0-4ea1-9d57-11781976530f",
+            "b9cd7fc5-48e0-459f-a108-3dc820a9230f"
+        ],
+        "Midden-Oosten": [
+            "5977135c-2e73-4264-a90c-f39efeb57b2e",
+            "b407f449-1f15-4f5e-bc53-caa04e6ac6f4"
+        ],
+        "Caribisch gebied": [
+            "c63b9ac7-25a2-44f1-963b-2a5ca25b7355",
+            "f406e62f-b40c-4436-becb-11325e1476e3"
+        ],
+        "Zuidoost-Azi\u00eb": [
+            "cc818bfa-b593-4abf-ac9b-ae39e6fbd45f"
+        ],
+        "Oceani\u00eb": [
+            "48223823-8895-4d1b-bf4e-c86acfbbcbc0"
+        ],
+        "Antartica": [
+            "689f2a39-c984-46db-b398-094e4784c475"
+        ],
+        "Noord-Amerika": [
+            "d1d0dba2-56de-4f43-8187-fa6c8fed643c"
+        ],
+        "Groenland": [
+            "cc3cfa22-cc99-4df4-b6cf-b211187bcd23"
+        ]
+    },
+    "1": {
+        "Belgi\u00eb": [
+            "b1b94d48-49b8-40f1-a1bf-792136824132",
+            "b471d23c-c013-4a21-9fcf-3e87aebbc87d"
+        ],
+        "Zwitserland": [
+            "bba864f6-71f2-4c62-a1c7-fda6d8bfc697",
+            "a0a986d8-ffec-4abf-ac14-47b94091f735"
+        ],
+        "Denemarken": [
+            "f602b2af-2cf5-4d6e-9823-7338db4f4550",
+            "926daaa8-3ec6-482f-a123-7aa77a6c0936"
+        ],
+        "Zweden": [
+            "002ea340-aa58-42fa-a01e-c9f2ee34bdef",
+            "6c32dbe3-617a-415c-b6fa-0aa34cd7b7e0"
+        ],
+        "Noorwegen": [
+            "ae3a3abc-c356-41b4-8970-ff6cb6585947",
+            "127d7809-38ba-4fa2-8959-e784cdcebdf2"
+        ],
+        "Finland": [
+            "7acbe316-a9cd-4933-b574-14f36f57607d",
+            "124ab6a2-28fb-4db6-a907-a9c5c92ed237"
+        ],
+        "Oostenrijk": [
+            "a812316b-6425-48a5-8c09-73e1da03f0db",
+            "c07a5398-5878-4ed8-a440-9a77d46963fd"
+        ],
+        "Luxemburg": [
+            "c0b0fb75-a373-47eb-a93d-fd42867633b9",
+            "9f12b61f-6e89-4978-8725-ddee01748534"
+        ],
+        "IJsland": [
+            "b8da070e-9a59-4235-b0bf-f7eeceac687b"
+        ],
+        "Griekenland": [
+            "ce15a0d9-2572-4015-8723-2ed919372b2e"
+        ],
+        "Ierland": [
+            "27d3a868-634d-4966-9753-d21b55a66f34"
+        ],
+        "Tsjechi\u00eb": [
+            "bc8af78e-8a30-4a60-969e-fcacbb3e8d7e"
+        ]
+    },
+    "2": {
+        "Azi\u00eb": [
+            "8cee9fba-b3c2-4fd2-a037-176c074bdaea",
+            "b586bd35-2960-4578-913b-496a0a160517"
+        ],
+        "Europa": [
+            "40a836c9-4ea2-492e-8e78-0a5e44dfca35",
+            "56220a16-e227-4465-940e-f6243726d2dd"
+        ],
+        "Noord-Amerika": [
+            "6862eb43-1857-40dc-b437-bbe276a1a429",
+            "ba009709-605e-4ef8-8514-e577693635a9"
+        ],
+        "Zuid-Amerika": [
+            "a0d2cfff-07ec-4034-b7de-0fc6defef9fe",
+            "201c7fd8-f229-4403-ba6c-c21c19f57d3b"
+        ],
+        "Antarctica": [
+            "ae2f0b2c-d4b2-4c11-8c3d-d5ffb849f913",
+            "b7e83470-dd28-4321-9d68-3fdf96ae6325"
+        ],
+        "Oceani\u00eb": [
+            "813a171b-eaae-47bb-bbcf-8b6e8db2512f",
+            "67cacc4b-d5ad-44d2-bfd0-958e5c409797"
+        ],
+        "Midden-Oosten": [
+            "85fda8cc-7f8c-4cfc-81ba-1a9d7d51ecaf",
+            "fb6f71a6-97a2-4316-8411-5126e2c2aee5"
+        ],
+        "Caribisch gebied": [
+            "06a3c40c-7060-4bed-84f7-fecff7be8c9c",
+            "21a27337-090f-4fa5-871d-4d26f66fc49a"
+        ],
+        "Noordpoolgebied": [
+            "22e79c7d-0612-42bf-9fea-c6716872e5ef"
+        ],
+        "Zuidpoolgebied": [
+            "550563bf-b88d-4f3a-ac95-ed20856b6f94"
+        ],
+        "Australi\u00eb": [
+            "b682c4c2-3e51-467d-aaa5-a28ae923dc1c"
+        ],
+        "Polynesi\u00eb": [
+            "df1845bf-973f-458c-a223-ace1087029fb"
+        ]
+    },
+    "3": {
+        "Alpenregio": [
+            "39882e5b-ede5-4380-8580-8f14985fd702"
+        ],
+        "Tundra-gebied": [
+            "a5786adb-8a20-4a30-9419-df8cba85b879"
+        ],
+        "Sahara-woestijn": [
+            "562d11d6-6bc0-4bb6-a86e-0ccce0997e64"
+        ],
+        "Subarctisch Canada": [
+            "b0f01dcb-ab7d-4fab-9420-8f524107ab04"
+        ],
+        "Japanse archipel": [
+            "fade6de8-c20c-4f0e-8654-5fbc69d824a5"
+        ],
+        "Siberische toendra": [
+            "cf6c32c1-5a81-4028-ba9c-582b17e1f652"
+        ],
+        "Patagoni\u00eb in Argentini\u00eb": [
+            "254923ed-e5d0-4e07-bcf2-0a4c6568ec69"
+        ],
+        "Hawa\u00efaanse eilanden": [
+            "45d3b496-1e91-4b0e-80fb-7b4a94e77a0b"
+        ],
+        "Middellandse Zeekust van Spanje": [
+            "20c55f2f-661f-48fc-a2f9-1cc162defca6"
+        ],
+        "De Andes": [
+            "17a58b4b-7c22-45fe-bcc6-241fd6498ea7"
+        ],
+        "Ieper ligt in de regio Midden-Friesland.": [
+            "f29d7973-63e8-426e-a5c8-a98a47ace42a"
+        ],
+        "Het is onderdeel van de Ardennen.": [
+            "edee1aee-d1ec-48f8-85bf-494ba92addbc"
+        ],
+        "Ieper is gelegen in de Zwitserse Alpen.": [
+            "be76f461-9163-4618-becd-c4286a20a7d9"
+        ],
+        "Het behoort tot de zuidelijke kust van Portugal.": [
+            "e82f052f-961d-44a5-b5ed-31263f180815"
+        ],
+        "Ieper ligt in de buurt van de Schotse Hooglanden.": [
+            "448ed8c7-ead3-4a33-8d03-e21594cae9ba"
+        ],
+        "Het maakt deel uit van het Ierse platteland.": [
+            "f8cb390e-f0ab-44dd-8d89-54e025df2e9b"
+        ],
+        "Ieper is een stad in het noordwesten van Australi\u00eb.": [
+            "1d2da073-fe09-48d1-8dba-33162d9202cb"
+        ],
+        "Het hoort bij de regio's van de Pyrenee\u00ebn.": [
+            "6ec34b15-4d29-4bc7-9582-22ae8a8453a3"
+        ],
+        "Ieper is onderdeel van het noordelijke Duitse laagland.": [
+            "cb0d476c-ab59-4399-989a-4036f5b9d4cb"
+        ],
+        "Het is gelegen in de buurt van de kust van Californi\u00eb.": [
+            "7a821fb2-cbe6-49f8-accb-ff657ecb3082"
+        ]
+    },
+    "4": {
+        "winter": [
+            "54e489f4-eaef-4b8b-9c5f-863179fd4de9",
+            "c8253f46-15b3-4048-8f23-ef2fc8bfe474"
+        ],
+        "herfst": [
+            "13288224-e772-4d30-86bd-f53c1a67aa3b",
+            "4ae128eb-548b-455f-adc4-74b2eb5d180b"
+        ],
+        "lente": [
+            "a73055ba-d403-429e-8366-207df21f0b3a",
+            "45d4433b-2aad-41ac-b0d2-874732f6f840"
+        ],
+        "lente/herfst overgangsperiode": [
+            "15a05c68-aab5-46a7-9d80-8682e82464e6"
+        ],
+        "regenseizoen": [
+            "370e044f-88f9-481c-bee7-c245e7485ad3",
+            "abe5b7df-c775-4df8-8a9e-81d6a347d871"
+        ],
+        "sneeuwseizoen": [
+            "cdb39cf9-8a54-467a-8c15-81ff0e1e7223",
+            "36a4b331-8b44-4d00-9da3-c11c8a0b57a1"
+        ],
+        "tornado-seizoen": [
+            "28c8f64b-9b24-4fb7-8737-202f763d5f6f",
+            "bb634f3b-c3e3-4e02-a25f-d2d75c969a32"
+        ],
+        "orkaanseizoen": [
+            "8d862ab4-ce39-41b0-bfd4-1dde120e47ba",
+            "fc5eaa9f-5c7a-45df-81a1-065613dd465d"
+        ],
+        "droog seizoen": [
+            "90d01e21-ea52-400c-afed-1198147f15b4",
+            "f3b8255c-4761-4495-9d37-954e8e18dacf"
+        ],
+        "smog seizoen": [
+            "77115088-3abb-4480-986b-1b14e8df719c"
+        ],
+        "hagelseizoen": [
+            "e652a21d-5045-466f-8d62-e2f71c403835"
+        ],
+        "hittegolf seizoen": [
+            "75d30226-f342-45f4-91a6-ebe7b08fca0b"
+        ]
+    },
+    "5": {
+        "per provincie": [
+            "c7466779-93aa-497c-832f-8d7c64ee1345"
+        ],
+        "per regio": [
+            "d506f473-9aa4-4b26-b93f-fcc405075c64"
+        ],
+        "per stad": [
+            "eea57f49-9fbf-493c-853d-d467c135aa4e"
+        ],
+        "per wijk": [
+            "52e958f2-da40-4f70-94ab-465cba5dd011"
+        ],
+        "per straat": [
+            "508b89d4-28bf-4e6b-9e5d-6b3900adcdaf"
+        ],
+        "per land": [
+            "e0feaa63-a45c-4653-83bd-e1a0a2938dd8"
+        ],
+        "per continent": [
+            "e1274ffc-f616-44d7-b5ed-9e6298958ce7"
+        ],
+        "per industrie": [
+            "d846c8df-ba6a-49dd-8ac3-3af162987b4c"
+        ],
+        "per technologie": [
+            "ea6a83d6-cee7-414e-93e7-62e5d7bd6be0"
+        ],
+        "per sport": [
+            "c01ef450-d31b-4826-b1bb-9eca289fd4bd"
+        ],
+        "Per individuele plant": [
+            "da8f4a7e-d05b-4d8c-84f3-e62c46459b89"
+        ],
+        "Per atoom in de bodem": [
+            "8fa1bb46-97b8-46d2-977a-288b9a40ba2e"
+        ],
+        "Per dag van het jaar": [
+            "b2e6d72c-bda3-4a1b-aa98-b090f09cadd2"
+        ],
+        "Per grassprietje": [
+            "9e1d42ac-a9fe-4949-9092-3c8e5d2f668c"
+        ],
+        "Per regendruppel": [
+            "b485da0e-9f9a-42a1-85c4-43d4eb4227b4"
+        ],
+        "Per insect in het gebied": [
+            "3a5992a1-3cf0-4fc6-b456-82196aebf727"
+        ],
+        "Per persoon die ooit op het land heeft gewerkt": [
+            "ed5466ab-798a-427f-8a2e-1f3de8cae2f1"
+        ],
+        "Per kilometer aan irrigatiekanalen": [
+            "2581fcb8-cd17-45c3-9b9c-cc94097d2e79"
+        ],
+        "Per dier dat ooit op het land heeft geleefd": [
+            "2d22b793-0ace-400b-aab8-23fe35444ae3"
+        ],
+        "Per uur aan zonlicht dat op het land valt": [
+            "5a80ed05-4aac-447f-975a-60f48e84b00f"
+        ]
+    },
+    "6": {
+        "Europa": [
+            "d17d9815-4240-4827-a046-5f8916911801",
+            "af153021-7cb1-4f26-a23b-32414c57d401"
+        ],
+        "Zuid-Amerika": [
+            "9d8c6fe9-b401-4a14-8642-26f25693d8af",
+            "abc3e3a5-5fdc-4809-a71a-ccf89fa040ce"
+        ],
+        "Azi\u00eb": [
+            "dcc2d8f5-9cbd-4819-9ccb-8fd7483ad266",
+            "4691cb90-e6e4-4392-a6b9-cad6d8f84aeb"
+        ],
+        "Oceani\u00eb": [
+            "a5ec1afd-a50e-4a6b-81c5-8fb1697eb552",
+            "0cad12e3-4460-43a9-9907-436d100bf94d"
+        ],
+        "Antarctica": [
+            "06699d91-5f96-4b15-8db9-3e3826e30be1",
+            "66488bee-7eb2-40ce-8070-3f9ffd56a960"
+        ],
+        "Noord-Amerika": [
+            "396be86b-b617-453d-a2bc-1f7810bb1fe8",
+            "cef31f75-b64a-4e6a-bfe1-b4a4dc840183"
+        ],
+        "Midden-Oosten": [
+            "bfd06171-0b18-417c-bc0b-36e37a551f4d",
+            "3472f743-f9b4-4809-b74a-2ceb873a0f5d"
+        ],
+        "Caribisch gebied": [
+            "89c5ed7a-b310-49b2-8d55-67135026d4fd"
+        ],
+        "Groenland": [
+            "43100916-ec9c-4dc5-81f5-8de7afb1638f",
+            "c21c732b-cdca-410a-a672-f2be9a33dcef"
+        ],
+        "Arctisch gebied": [
+            "82cac7bd-95f0-418c-bcfd-fd98be13223a"
+        ],
+        "Australi\u00eb": [
+            "17d0eae1-8054-4924-ac85-17504437bca9"
+        ],
+        "Zuidpoolgebied": [
+            "4c0f57fc-3bbf-49bb-9cf2-62465e49beed"
+        ]
+    },
+    "7": {
+        "E19": [
+            "a887709c-f76d-427f-9b04-c5bc1e214cba"
+        ],
+        "E17": [
+            "9ee0a4ac-3c47-435e-9d87-07acfc7ca5b5"
+        ],
+        "E42": [
+            "00f7d4c9-ee28-4d31-9af3-8973467ab5b8",
+            "34419e55-2390-4060-91d9-8a34fad2a2ac"
+        ],
+        "E313": [
+            "36b8da2a-18b5-40e7-8d33-aae093dbcdae",
+            "3926d13e-eb45-40a1-88c0-9887eeb2ff6e"
+        ],
+        "E403": [
+            "69502a38-ec9a-434f-b3d6-0ee73d9f1733"
+        ],
+        "E429": [
+            "3148fd4d-a447-441c-8f59-f8454281f7b4",
+            "5fa92eb4-79d5-4f6c-b608-c022e35ff40c"
+        ],
+        "E314": [
+            "e40517e4-4a8a-432a-9c01-fea12e34a6fc"
+        ],
+        "E420": [
+            "9339ca48-f225-4c84-a12c-c05aafe64f77"
+        ],
+        "A8": [
+            "eb9b70ae-5b53-42cc-918e-66aee7afe0d3"
+        ],
+        "A16": [
+            "6bebe5ed-6773-448e-9196-9d61812d4737"
+        ],
+        "E25": [
+            "4493cac5-6ee7-4389-95e4-86fecceb25fc"
+        ],
+        "A10": [
+            "b441f7af-3414-4b66-8702-0b3e1af61e2c"
+        ],
+        "E50": [
+            "76667f00-ec6a-4a11-b96a-c7756df595bd"
+        ],
+        "A12": [
+            "91faaba3-e449-4f18-9388-a7db72a5ac5a"
+        ],
+        "E20": [
+            "aec05316-34af-43c4-b2fe-268052ddf9cb"
+        ],
+        "A7": [
+            "9a509d82-e462-4d3f-930a-d695bff33984"
+        ],
+        "E30": [
+            "c3e8bbf0-fcc3-4e0a-8069-9c37f1fad0a5"
+        ]
+    },
+    "8": {
+        "90\u00b0": [
+            "8ab476cb-7d0e-459c-9676-d8843541a5fa",
+            "f1c4ff22-ec34-4282-abf0-1cc0baba2fd0"
+        ],
+        "45\u00b0": [
+            "3a847f1e-6bf4-4b21-8e84-bd4051cd2bc8",
+            "ca4e083e-d53e-4e78-8c27-f8818c6017d1"
+        ],
+        "180\u00b0": [
+            "1ff89f8b-983c-4e1e-b1cd-120bbd60ddb3",
+            "7feece11-2de4-40fa-80a6-84b0fe520eac"
+        ],
+        "270\u00b0": [
+            "9ed95dde-5bf0-428d-92bf-f6edf2b02162"
+        ],
+        "30\u00b0": [
+            "82ae5f55-f39f-492e-ba16-e42e0d62f1a3",
+            "e99d0258-847d-4c73-8bbb-af15ee54a01a"
+        ],
+        "-90\u00b0": [
+            "7447ce9e-af26-443c-8d3e-872ae239df6f"
+        ],
+        "60\u00b0": [
+            "909abee4-3eea-4a25-bc14-a8e79a85d674",
+            "822f4932-6d84-46a5-a59f-3ab459c5045a"
+        ],
+        "120\u00b0": [
+            "a7109cf4-4fc3-4197-9d50-06e6d012b7ac"
+        ],
+        "360\u00b0": [
+            "cbd5caff-4d71-46ec-9154-0561bc325bef"
+        ],
+        "-180\u00b0": [
+            "46a4fec3-ca83-446a-8a31-8d767d2e14c7"
+        ],
+        "-10\u00b0": [
+            "ef45f211-0f3b-48e8-9859-638ab3879861"
+        ],
+        "75\u00b0": [
+            "4b0d01a5-c61a-4267-8d14-081e55d6f3f0"
+        ],
+        "10\u00b0": [
+            "9cf71359-c428-406a-b6d0-cbecd698156f"
+        ],
+        "20\u00b0": [
+            "a1751847-1c1e-4c15-88ad-7036f313fc3d"
+        ],
+        "15\u00b0": [
+            "0306ab97-4957-443b-8e0f-8bd2e408af26"
+        ]
+    },
+    "9": {
+        "Europa": [
+            "d001b17e-ffb2-4dac-b042-ecd1a626a8b9",
+            "1c444a37-6d27-4584-bb96-7353bf3566d4"
+        ],
+        "Afrika": [
+            "34f1eeb3-6929-460c-a202-2d69eea43146",
+            "f7c6c5c8-062b-495a-8903-7bbdc3a13a94"
+        ],
+        "Azi\u00eb": [
+            "84aa21af-6a9f-4bed-9879-33c4e4b94163",
+            "805215ed-9310-43ee-9317-d687d375f467"
+        ],
+        "Australi\u00eb": [
+            "486e055a-1250-4a36-8c93-8f9435f635d1"
+        ],
+        "Antarctica": [
+            "dc5c6094-06d6-4e21-980b-b8e6e677bef7",
+            "61079d41-70d3-4705-b52c-4fcaa987627a"
+        ],
+        "Midden-Oosten": [
+            "d7aa3987-ea02-4327-9cba-aede8e65cf18"
+        ],
+        "Noordpoolgebied": [
+            "b4615ea6-cf1c-407d-86d4-c54a88af71bd"
+        ],
+        "Zuidpoolgebied": [
+            "269ebaea-5b7d-48a9-95b1-e0c27646b49d"
+        ],
+        "Oost-Europa": [
+            "6fbfd0da-ee0d-4b82-aa6c-e55af4818edd"
+        ],
+        "Centraal-Amerika": [
+            "5e5deb81-1011-40ee-887f-c2ceacbc4a1f"
+        ],
+        "Oceani\u00eb": [
+            "ef554719-8343-4937-9be5-f89ebd3c8d74"
+        ],
+        "Arctica": [
+            "063e3f53-063a-4df0-b9d7-d3010ec26dea"
+        ],
+        "Atlantica": [
+            "0893460e-d640-4d7b-95d6-0835de10bcbe"
+        ],
+        "Euramerika": [
+            "82b2096e-8d94-4b0b-9c63-054dba6909b5"
+        ],
+        "Afro-Eurazi\u00eb": [
+            "20820d0f-f52e-430c-8580-f3d85d2736d1"
+        ],
+        "Afro-Amerika": [
+            "d08f8300-917f-44e9-af0a-96ffc83f4994"
+        ]
+    },
+    "10": {
+        "Tropisch regenwoud": [
+            "cc54a2a3-7f2e-4709-81ad-31bb264abd39"
+        ],
+        "Woestijn": [
+            "d3da84e1-e7d5-4ad7-bed1-02d99f99d555"
+        ],
+        "IJsland": [
+            "dbb7a497-0ae5-4e13-b8ff-e6a8c66c25da"
+        ],
+        "Poolcirkel": [
+            "978d4be2-0d24-40c6-bb98-6b15941d5f51"
+        ],
+        "Himalaya": [
+            "3aa71e0f-3369-459f-85f1-ee7e3b91075d"
+        ],
+        "Amazonegebied": [
+            "4bc485ed-2eb1-4f5f-aec0-bef8e9f90017"
+        ],
+        "Sahara": [
+            "6f3e66cf-1fe2-41ea-aacc-260267df97d9"
+        ],
+        "Groenland": [
+            "addc9a67-0093-4d05-80bf-cacdfe5d11b1"
+        ],
+        "Caribisch gebied": [
+            "b8a22c63-5e35-40df-84ad-ae8ee94fd33b"
+        ],
+        "Australi\u00eb": [
+            "959abf5c-1d13-4a2f-8470-b92564f61603"
+        ],
+        "Sint-Niklaas ligt in de regio West-Vlaanderen.": [
+            "a13d32e9-f68d-4de3-9d51-5b5022767482"
+        ],
+        "Sint-Niklaas valt onder de provincie Namen.": [
+            "db2b99fc-20bf-4c82-9120-7da649084854"
+        ],
+        "Sint-Niklaas is onderdeel van de Ardennen.": [
+            "722cc481-e291-4912-b5a5-409b8b5160df"
+        ],
+        "Sint-Niklaas hoort bij de provincie Antwerpen.": [
+            "bc747600-3d53-46c3-83d9-c3c8039d532e"
+        ],
+        "Sint-Niklaas ligt in de regio Walloni\u00eb.": [
+            "314a3e10-159c-4331-b667-31f94b9df6d0"
+        ],
+        "Sint-Niklaas behoort tot de regio Limburg.": [
+            "a5ecea2e-b9a2-46ca-84bc-39444e3ff627"
+        ],
+        "Sint-Niklaas valt onder de provincie Luik.": [
+            "5771212f-2b92-4663-aa9e-5cc472c4fabe"
+        ],
+        "Sint-Niklaas is onderdeel van de Vlaamse Ardennen.": [
+            "a860fb25-3e62-496d-adfa-a2c3f9fa1afa"
+        ],
+        "Sint-Niklaas hoort bij de regio Brussel-Hoofdstad.": [
+            "ea374968-a3f7-45a4-bfd9-ed05bb8f3fd8"
+        ],
+        "Sint-Niklaas behoort tot de provincie Luxemburg.": [
+            "15f89b5a-bc67-423b-b56d-6bd9f0668406"
+        ]
+    },
+    "11": {
+        "Alpen": [
+            "14b347a6-9c01-4c63-8628-e20047d0098a"
+        ],
+        "Woestijngebieden": [
+            "2c2aac17-72eb-4f8b-ae57-1ece5bfc4e70"
+        ],
+        "Toendra": [
+            "35e23931-ae07-483e-ba36-56ab258809a5"
+        ],
+        "Himalaya": [
+            "7af05aa5-e03a-45bf-bc4b-0364c8676a84"
+        ],
+        "Zuidpoolgebied": [
+            "58359edf-48f8-4a69-9da6-ce0eb924bc5d"
+        ],
+        "Caribisch gebied": [
+            "c738db5c-f371-4c99-a24f-bcf3f0c41d58"
+        ],
+        "Patagoni\u00eb": [
+            "211c9322-ee19-4b34-b920-f62500eed315"
+        ],
+        "Zuidoost-Azi\u00eb": [
+            "3f72b3a8-3315-4388-b359-a94f5be60f55"
+        ],
+        "Sahelregio": [
+            "91908274-53aa-436c-98a2-629b2ae2a1f1"
+        ],
+        "De Balkan": [
+            "dcf158b7-ab0e-4530-b7bb-6667669a8b4e"
+        ],
+        "De Alpen": [
+            "e56f7426-6b8f-4820-be81-a64479158713"
+        ],
+        "De Canadese Rockies": [
+            "e06ead12-fd23-49e2-890c-bd012f0940fa"
+        ],
+        "De Amazone-regenwoud": [
+            "ce932fa5-411b-423d-8ed1-4ef04ed57cc3"
+        ],
+        "De Sahara-woestijn": [
+            "5cabffea-45e4-4c10-83c1-5ee67b7a8f2f"
+        ],
+        "Het Himalaya-gebergte": [
+            "285ff6a6-6f35-449b-99d1-2471dca6f51d"
+        ],
+        "De Australische outback": [
+            "0ea20da9-0797-4ddd-8beb-865f4314dd78"
+        ],
+        "Het Caribisch gebied": [
+            "b01ca31b-a1ea-44a1-9339-d3ecbd4e4c64"
+        ],
+        "De Noordpool": [
+            "13bf4f36-7f14-4cb4-9a79-5a1fe5269699"
+        ],
+        "Het Andesgebergte": [
+            "41bbaa83-74bb-4830-9da3-6cf36811b03b"
+        ],
+        "De Middellandse Zee": [
+            "9aa207ae-27c5-4b9a-b1a4-dfaa79728121"
+        ]
+    },
+    "12": {
+        "180 degrees": [
+            "5bb38313-766b-4db1-938f-a96fe74717c2"
+        ],
+        "45 degrees": [
+            "a6f199cc-c14a-4ae8-8dcf-5f06d87e6963"
+        ],
+        "270 degrees": [
+            "3bb3930f-0793-4ba3-86a3-9be0a564ec9c"
+        ],
+        "60 degrees": [
+            "44cd86b5-9f3d-4810-9102-7dc8024bb67d"
+        ],
+        "120 degrees": [
+            "79997153-78e5-4169-9c3e-08c68a33be63"
+        ],
+        "30 degrees": [
+            "2edc4716-31bc-4f7b-baff-13213d12fa19"
+        ],
+        "10 degrees": [
+            "b831c0ba-e41f-4363-b663-3bb84c465cb4"
+        ],
+        "75 degrees": [
+            "a7fc894d-d829-4174-a781-adaa8f1b76c3"
+        ],
+        "150 degrees": [
+            "aaed0e17-cb17-480a-8200-7960c4da3fcb"
+        ],
+        "100 degrees": [
+            "9ecd6219-6a80-4fac-8b99-f27eb79feb40"
+        ],
+        "60\u00b0": [
+            "237a1309-37e0-4fc0-9b25-5a4649b6ee0c"
+        ],
+        "45\u00b0": [
+            "9bd4f3d9-80f9-4c9a-947e-7269946979a9"
+        ],
+        "120\u00b0": [
+            "68759fbe-fe1d-4cdc-a69a-c3c2e8fd6348"
+        ],
+        "30\u00b0": [
+            "aef0e15f-aaf6-4a7f-b863-7dea862a009d"
+        ],
+        "80\u00b0": [
+            "c5daf2c4-972a-4b06-ba60-92ed2fe9290d"
+        ],
+        "70\u00b0": [
+            "3e6be6fb-8ee3-4292-b625-d7d164f418fa"
+        ],
+        "100\u00b0": [
+            "949bd3fa-d6ad-4b61-9991-f63342d055e5"
+        ],
+        "150\u00b0": [
+            "e654e87e-f878-469a-a5d3-8ec36e1d93f6"
+        ],
+        "20\u00b0": [
+            "d0b57d17-f598-4970-b0ea-e517099cdded"
+        ],
+        "110\u00b0": [
+            "c7940059-2066-4d02-a0f0-5bcec5747745"
+        ]
+    },
+    "13": {
+        "de uitmonding": [
+            "8046270f-4971-4f5a-8867-ec062e3d8708"
+        ],
+        "de delta": [
+            "3e313dca-d8f7-4527-91a9-ff09cc344480"
+        ],
+        "de waterval": [
+            "18d5c808-2145-48ea-9699-e9e830953109"
+        ],
+        "het reservoir": [
+            "50e00f48-1635-44e2-9199-11125fd07c92"
+        ],
+        "de oever": [
+            "49cc7c8a-49eb-4ac3-a42d-d59cec40a0fd"
+        ],
+        "de stuw": [
+            "9a767a43-6b0e-4d4b-a654-4225263861a8"
+        ],
+        "de dam": [
+            "f07e5db2-fb21-4774-9c4e-17db5df27d00"
+        ],
+        "de sluis": [
+            "42ae8966-e343-45d0-b7a7-ae1cff3a37b2"
+        ],
+        "de kanalisatie": [
+            "37da4a18-5656-4917-9e0b-f47757fda7c7"
+        ],
+        "de riviermond": [
+            "2935c618-5a76-4b5d-bec0-8002bcf4d251"
+        ],
+        "De start": [
+            "5e463aeb-de58-4f61-9d77-d4fd1cdc669b"
+        ],
+        "Het beginpunt": [
+            "0d0e80cc-a2a4-4f06-9dbf-80e60fc0656b"
+        ],
+        "De grondlegging": [
+            "b3bc9f3f-c7e0-428b-b6ef-c9a79b19898c"
+        ],
+        "De initi\u00eble stroming": [
+            "1616bcd7-781a-49e3-99de-7401dfcc0487"
+        ],
+        "De oorsprong": [
+            "a2268b7a-3cc4-49ed-9781-d53e5c5c324d"
+        ],
+        "Het uiteinde": [
+            "62073375-b6b6-4f5f-8fd4-10d1b1d91ccd"
+        ],
+        "De afvoer": [
+            "281cae2c-6486-41ff-9c9d-5d379c0c8bb0"
+        ],
+        "De waterval": [
+            "af4a9c52-48c4-4d80-b8d8-1e777f7b5ce1"
+        ],
+        "De uitloop": [
+            "31c3234e-928e-4e01-9abb-9a20ecfdf3e9"
+        ],
+        "De delta": [
+            "0ee72b15-677f-4d5e-b32c-ca002f287e0b"
+        ]
+    },
+    "14": {
+        "Itali\u00eb": [
+            "5b3881d1-4b2f-48cc-a51d-9b05e8bfed39",
+            "1025d20b-0c9a-4542-867e-7e8cd13ba20a"
+        ],
+        "Portugal": [
+            "28e7f0ac-87e1-4d87-aad2-d2382a49f80e"
+        ],
+        "Kroati\u00eb": [
+            "719917c9-50de-4cb3-afdb-384290506f1c"
+        ],
+        "Hongarije": [
+            "259e969a-a38d-48df-bf48-c4023f052a6d"
+        ],
+        "Noorwegen": [
+            "b270cf1c-3653-4ac8-b60f-a6ab46c48f29"
+        ],
+        "Spanje": [
+            "8bb7b085-eb83-4f41-ac45-ec3807a3a57e",
+            "5c2134c5-f8ac-4cde-9fc3-b1cbfceec5a3"
+        ],
+        "Mexico": [
+            "7fc73890-ceca-4904-ac0e-0e88fdeec4a1"
+        ],
+        "Polen": [
+            "aaafa893-ffd0-4ecd-b8c4-43ca50ac47b1"
+        ],
+        "Tsjechi\u00eb": [
+            "f6de8051-c2f3-4b22-afc5-9193ca076b79"
+        ],
+        "Turkije": [
+            "8ab4e111-d8b5-4e95-b8f2-8b34c0bd3975"
+        ],
+        "Egypte": [
+            "4651039b-70b1-42a8-8b1d-6d5d90a924c5"
+        ],
+        "China": [
+            "3842cec5-e51a-4267-bfff-52e1de46d0d9"
+        ],
+        "Japan": [
+            "0d365c94-3589-4204-9329-e0637c24c494"
+        ],
+        "Frankrijk": [
+            "04b7c2a6-fa6a-4906-9a92-d63a08e99a50"
+        ],
+        "Verenigde Staten": [
+            "b4126705-cd69-4b12-ae38-1feafe589ffb"
+        ],
+        "Canada": [
+            "f61fb63a-4ab9-4cc2-b449-f05ffab44a0c"
+        ],
+        "Duitsland": [
+            "9056865c-9b88-4b13-a1e0-cb67135daca9"
+        ],
+        "Australi\u00eb": [
+            "48205077-29be-4643-a83d-ab037d4d0708"
+        ]
+    },
+    "15": {
+        "Europa": [
+            "b9e52e00-22f0-44bd-a995-c1ece9eac1f7",
+            "44120653-dc67-48b7-9f76-7700d2c72a8b"
+        ],
+        "Azi\u00eb": [
+            "ae87c52c-65b2-4203-bd63-460d2f72aa96",
+            "d8167d2f-6bb9-4d16-a660-1a74c1f083fb"
+        ],
+        "Afrika": [
+            "71677cb0-ef61-49ba-a243-0e29c8bfcf84",
+            "4ad81a6b-a67f-4934-b183-e60bcec43644"
+        ],
+        "Oceani\u00eb": [
+            "e8588592-9d74-4048-b303-9ef45c693b21"
+        ],
+        "Antarctica": [
+            "d14f6696-dbc4-42d5-aa0b-1874e42c24cb",
+            "425a755b-43f8-489c-ac98-f84daf3adbdb"
+        ],
+        "Zuid-Amerika": [
+            "27262a18-2dd7-4d02-895f-a757726f4326"
+        ],
+        "Noord-Amerika, maar niet het continent waar de VS liggen": [
+            "da2f48f2-4571-47fd-8a59-6a9340ee60c3"
+        ],
+        "Noord-Amerika, maar niet het continent waar Canada ligt": [
+            "5446d51a-175e-45f0-bd3d-b7eb0e704bef"
+        ],
+        "Noord-Amerika, maar niet het continent waar Groenland ligt": [
+            "2313ff26-0986-4153-a483-751b32c6d344"
+        ],
+        "Het is geen land, het is een zee": [
+            "72c96572-9dcc-4f99-b0d5-bbd07d9abba6"
+        ],
+        "Australi\u00eb": [
+            "a8a842ac-434e-4ca1-9905-f93565c3d515"
+        ],
+        "Noordpoolgebied": [
+            "5c6e06f3-1f66-411e-9fcd-f069b3e95915"
+        ],
+        "Zuidpoolgebied": [
+            "9499edde-8cab-4048-93cd-ce80b8d939d1"
+        ],
+        "Midden-Oosten": [
+            "bb7fbb7b-3f2a-45a4-abd5-e3b79a69805f"
+        ],
+        "Caribisch gebied": [
+            "8ed73b86-affe-4bd4-aa3f-1e2a4ada2174"
+        ],
+        "Midden-Amerika": [
+            "17f036a9-e9ab-44db-a2e1-c62f66d5a6ac"
+        ]
+    },
+    "16": {
+        "Ardennen": [
+            "08aa3de6-bf23-4b2a-a14c-cc52f2a05305",
+            "9e7a3d6c-fb3d-4686-a425-0b4bb790c2a6"
+        ],
+        "Pyrenee\u00ebn": [
+            "cdf859d5-2ba9-46c3-b061-ec3dd768ad33"
+        ],
+        "Alpen": [
+            "5c870fd9-8d25-43c0-afa4-50111de2675f"
+        ],
+        "Scandinavische bergen": [
+            "841b2a34-fc96-49a8-871d-075e4649f829"
+        ],
+        "Balkan-gebergte": [
+            "ceca9f10-ffca-4be7-b4af-07d5a8b609a5"
+        ],
+        "Iberisch Schiereiland": [
+            "b9c04e59-1ac2-4cd8-a831-c39a5637eb83"
+        ],
+        "De Britse Eilanden": [
+            "5e444dee-0410-4f25-ad57-76b2ac2d74af"
+        ],
+        "Kaukasusgebergte": [
+            "e0e0de6e-32f2-4ec1-b8d5-29e642e73858"
+        ],
+        "Tatra-gebergte": [
+            "8e2766da-e56a-4829-8fd1-c038099b6fb3"
+        ],
+        "Oeralgebergte": [
+            "cc018076-61c4-4d97-9677-bfd43c6e8f68"
+        ],
+        "Vlaanderen": [
+            "62da2f9d-0d64-473d-9a68-9dc151d36f92"
+        ],
+        "Waals-Brabant": [
+            "af0100a5-f703-47e0-b98a-90855575c3a6"
+        ],
+        "Limburg": [
+            "36139b18-b1da-49b4-9f13-f60a9bf0b72c"
+        ],
+        "Brussel": [
+            "eebff33c-5e00-4c63-982e-cb93394552fa"
+        ],
+        "Antwerpen": [
+            "6ab8293d-359e-47bd-9931-3fbcb323180f"
+        ],
+        "Henegouwen": [
+            "f9be64e4-dd19-467c-a2b0-26e2576f7ca0"
+        ],
+        "Luik": [
+            "34b3919b-eb75-4356-a0a7-cf55e84d42ca"
+        ],
+        "Luxemburg": [
+            "9f68046a-d450-42c8-8f66-afa43897f9f7"
+        ],
+        "Oost-Vlaanderen": [
+            "f5502152-2d7b-48a0-8a13-27dbb57b081d"
+        ]
+    },
+    "17": {
+        "diagonaal": [
+            "844ab47b-4de1-4ade-931a-0228eed0485f",
+            "31ad6493-a636-46b4-9b05-182ff3f5b77c"
+        ],
+        "perpendiculair": [
+            "5950966c-e25a-4afb-a68d-92f183eb9922"
+        ],
+        "loodrecht": [
+            "44fc5344-22fa-4b4f-8ae4-c61033a1c4bd",
+            "42ae754f-1db6-4286-80b8-dd5ac4c44e9e"
+        ],
+        "meridiaan": [
+            "47126dc6-b212-4604-8682-96d22244ecf5",
+            "fa8a1d67-7932-4bb8-a6ac-e731f8e4819f"
+        ],
+        "lengtelijn": [
+            "9c3d8b10-63f3-44f4-a42b-7572445a4ea2",
+            "ac7e26db-53af-48ab-8e72-a8a3272fa51b"
+        ],
+        "curve": [
+            "811ec1f0-5238-412f-b078-da9a756f6082"
+        ],
+        "hoeklijn": [
+            "76f398bc-53ef-4e3e-871a-b272c968b205"
+        ],
+        "kromlijnig": [
+            "498ca1fb-868a-426c-b9ba-b440b5e1a45e"
+        ],
+        "helling": [
+            "f92a42ba-52a5-4101-8d5d-eff46e8a4817"
+        ],
+        "booglijn": [
+            "56a34ed7-ca56-4dba-9f32-683968888f63"
+        ],
+        "horizontaal": [
+            "7bd2e611-94da-47db-a61c-ce4f96f7845c"
+        ],
+        "equator": [
+            "089345d3-3802-4690-94a5-af509b9013ca"
+        ],
+        "breedtegraad": [
+            "3e57a658-6cdb-44fa-82c0-18998719a0b5"
+        ],
+        "verticaal": [
+            "87d3d0d9-536c-426c-a9f8-acd15789e501"
+        ],
+        "ecliptica": [
+            "dfb7c245-dd6a-4e4b-8156-674406ef6083"
+        ],
+        "evenaar": [
+            "e4729760-18b4-42a2-98d2-84834d6cbb2d"
+        ]
+    },
+    "18": {
+        "Zweden": [
+            "7eb7fcc3-9c5d-4897-aa29-f02b3c7fe86d"
+        ],
+        "Finland": [
+            "b5ca2ebf-8ba5-4d91-92e2-525a03a7c48e"
+        ],
+        "Denemarken": [
+            "092a8328-e1e8-4da7-bb1b-fd9f27e084be"
+        ],
+        "Belgi\u00eb": [
+            "c54e7e24-a443-49bb-b95f-cd0005dcb31d"
+        ],
+        "Nederland": [
+            "23f019db-3987-4e46-9500-dab8106c7a86"
+        ],
+        "Zwitserland": [
+            "c4154e1d-e53d-4e27-9f55-8913ee167152",
+            "e4207e37-223c-4292-a243-51d72b47aff1"
+        ],
+        "Griekenland": [
+            "ebf1ced8-1079-4bb8-8d75-836f9106e759"
+        ],
+        "Ierland": [
+            "98996503-b4da-4920-a57e-e20cf094296f"
+        ],
+        "Spanje": [
+            "629f2d3a-41a1-42fb-82bb-dad550d2785e"
+        ],
+        "Polen": [
+            "e977a9ce-78f7-442a-ad58-46c7dd53dbc7"
+        ],
+        "Duitsland": [
+            "93d9d5d4-69cb-4254-a6d1-2fe81d3fab4e"
+        ],
+        "Hongarije": [
+            "9b28b438-cfb9-410d-b9ca-dc358dea57f0"
+        ],
+        "Tsjechi\u00eb": [
+            "ed258ca8-0066-4592-bcee-da9216c6de2b"
+        ],
+        "Slowakije": [
+            "d89e70c0-5ea1-4480-b66a-1284922bfecd"
+        ],
+        "Sloveni\u00eb": [
+            "9da2be71-b7c5-4a92-ae36-0861ee201a09"
+        ],
+        "Liechtenstein": [
+            "803ecfa0-a1ab-476d-b829-0e45bd9dd8bf"
+        ],
+        "Luxemburg": [
+            "2bf341f7-dc24-4b02-bf38-207692ca6530"
+        ],
+        "Roemeni\u00eb": [
+            "62d03454-3d77-4e53-ad1d-f22a01cebd6f"
+        ],
+        "Moldavi\u00eb": [
+            "ddda5f07-5a57-4571-aece-15383af66b3c"
+        ]
+    },
+    "19": {
+        "10 km": [
+            "3f8e25ff-f1e2-425e-843b-55137926d0b6",
+            "ef36be36-7baf-47e2-92b8-578d3860d782"
+        ],
+        "0,1 km": [
+            "81136b62-8e49-4133-91f6-41a5a5aba7c8"
+        ],
+        "50 km": [
+            "eae645b8-67a0-44d8-b780-6ecc15f13a2c"
+        ],
+        "100 m": [
+            "64806de9-a982-4083-acc3-93ae26b52ed9",
+            "eb46fc2e-9d72-4325-a3f2-e14bdbac7ddd"
+        ],
+        "2 km": [
+            "409dd34e-d29b-4fc0-b803-44d958180f7e",
+            "59ad7ee6-7177-4e97-8096-e8768df6589f"
+        ],
+        "500 m": [
+            "1959a1f6-8592-4695-8585-45f21831229c",
+            "f840976c-9129-475e-9fe9-7241a25a950f"
+        ],
+        "0,01 km": [
+            "498a596e-c729-4351-bdb3-52fc8b7fc8d3"
+        ],
+        "20 km": [
+            "491c7f67-4476-4214-9dd9-430d30338c85",
+            "a5a6c6cd-d507-413d-b720-4e08285e75c6"
+        ],
+        "5 km": [
+            "d8afb080-629b-4c50-9935-fb4a1efb18af",
+            "86f1632f-c334-44bc-9ca8-f52b7858f293"
+        ],
+        "250 m": [
+            "dd6bd94d-e602-4a3f-a507-cec4dab88460"
+        ],
+        "1.5 km": [
+            "d76b5bc3-00f0-4fc9-bf3f-5ff9d994ffc2"
+        ],
+        "0.5 km": [
+            "30b114ad-567c-4444-b3dc-ec396c6e7c0e"
+        ],
+        "50 m": [
+            "aee333bd-f0e8-4fb9-abcd-be3939831375"
+        ],
+        "200 m": [
+            "a164e36d-6f45-4439-aa05-218f6049a4aa"
+        ]
+    },
+    "20": {
+        "Brugge": [
+            "46ead798-60a3-495d-91fe-553328499fac",
+            "ee121be6-a716-4c46-8be2-03f8bf6824f7"
+        ],
+        "Leuven": [
+            "8acbefd5-2494-46c4-a54b-392f58fade3b",
+            "579cc525-800e-41b4-9e36-cfc6fbbe076e"
+        ],
+        "Gentbrugge": [
+            "71f7c3fb-0f9c-4ea8-9045-ec1426dfd811"
+        ],
+        "Namen": [
+            "3d97cc5a-2e6a-4188-9cd4-9359e10ed598",
+            "1f7884cb-0bbc-4088-8d1d-c5e804a2c934"
+        ],
+        "Hasselt": [
+            "53aac9d6-89ea-4695-82bb-3d0fd52934be",
+            "bc32d0f1-aeeb-4b54-bcc1-61c1f7c82f72"
+        ],
+        "Knokke": [
+            "eeddd1f5-3a77-48de-88f8-5735a21aa148"
+        ],
+        "Aalst": [
+            "1ea49b35-9bca-422f-8556-0b3a62586b03",
+            "ebc384fb-c997-40da-a93a-000fc8aa0759"
+        ],
+        "Bergen": [
+            "0ddc5cc9-e943-4330-96d9-37fb09f12ee4",
+            "1e80e788-4e77-4cd1-80ac-8373ef0b1e38"
+        ],
+        "Ieper": [
+            "5e1b6766-b1dd-4073-9e15-c24d2a89cf53"
+        ],
+        "Kortrijk": [
+            "84fcb211-a87d-4f62-aa8e-5f2ea14c4e76",
+            "4fbc122f-a893-4f63-9f33-79c8a11d582b"
+        ],
+        "Gent": [
+            "14b1f392-1d31-4799-b773-020de347e757"
+        ],
+        "Brussel-Noord": [
+            "c29ee0dc-f577-420e-8a08-c7aaae6860ef"
+        ],
+        "Mechelen": [
+            "8921c2dd-6cc7-4a6c-9eab-b91ac7c0149c"
+        ]
+    },
+    "21": {
+        "zuidelijk halfrond": [
+            "190a91cd-5f2e-4b4e-9388-3199aaf4f4dd"
+        ],
+        "oostelijk halfrond": [
+            "1df95958-db64-4d8b-a006-8e5387a85724"
+        ],
+        "westelijk halfrond": [
+            "6902ac08-54b3-487c-ae84-3e34183aa3c7"
+        ],
+        "geen van beide halfronden": [
+            "99c68cb6-acf8-4cab-91e3-86b910040ef8"
+        ],
+        "centraal halfrond": [
+            "7550c33f-1439-4c7f-bf4c-6663b08a5e54"
+        ],
+        "noordoostelijk halfrond": [
+            "5e44ccf8-c451-40f9-baeb-5ab24e047835"
+        ],
+        "zuidwestelijk halfrond": [
+            "55912fd2-8d48-490c-914d-d11e7dda94ca"
+        ],
+        "zuidoostelijk halfrond": [
+            "0f07fa2b-3621-4520-9cb7-97ae8e55eb69"
+        ],
+        "noordwestelijk halfrond": [
+            "df76df47-2f04-46f9-ae00-fa89644e9cda"
+        ],
+        "equatoriaal halfrond": [
+            "fd1cf07e-15ca-43b2-ad21-bd56211c9f94"
+        ],
+        "Zuidelijk halfrond": [
+            "3f03c434-ec16-4905-b0bd-0034b3c97510"
+        ],
+        "Oostelijk halfrond": [
+            "fa4664e1-8eab-4115-85b0-a5ee9650ef55"
+        ],
+        "Westelijk halfrond": [
+            "eb281082-d7b9-46a7-b228-18efde6d8576"
+        ],
+        "Equatoriaal halfrond": [
+            "5c41df09-8e68-4791-a4eb-e98c02477b94"
+        ],
+        "Noordwestelijk halfrond": [
+            "715ac41b-db1d-4724-8ce3-dd88a8ef82b4"
+        ],
+        "Zuidwestelijk halfrond": [
+            "2b43fbd0-d55e-4447-9b44-1d37732d2a99"
+        ],
+        "Zuidoostelijk halfrond": [
+            "99ea2420-64e1-4270-b196-9dbe763d2fd5"
+        ],
+        "Midden halfrond": [
+            "7b9061a1-0f01-4360-9a19-167c504da818"
+        ],
+        "Noordpool halfrond": [
+            "b8ed4ea9-c29c-4528-882e-dc8c33cc0ab0"
+        ],
+        "Zuidpool halfrond": [
+            "b59be7e8-44b2-4741-9485-2729ffdc3deb"
+        ]
+    },
+    "22": {
+        "9": [
+            "74c343f5-4a40-4f22-a055-07e8dcf822f6",
+            "5dabbfcb-bd80-4914-a089-ee0bcb6e64d8"
+        ],
+        "3": [
+            "b2b3253a-9774-4dd7-a60e-535643014155",
+            "65683c26-212e-4890-a26c-8599db97ff23"
+        ],
+        "8": [
+            "b3d15c6d-c7da-46b6-a8a5-a911b2514a44",
+            "b265788c-ba7e-41b5-a54f-c847efdec5dd"
+        ],
+        "12": [
+            "04cb1dca-139b-4dee-a930-655809f68a84",
+            "4a0aeec5-d1e9-4820-8ce9-5beabfd5e69f"
+        ],
+        "6": [
+            "45ef3a91-b3c2-4fe5-a4f0-905e49ac9bfc",
+            "f3c2c854-7e3f-4834-b713-41521ba15147"
+        ],
+        "7": [
+            "473a98d6-0da6-4eca-b90f-31ad48bba37c",
+            "ad99c778-a5f9-406b-a58b-c84d6a6c9dbe"
+        ],
+        "4": [
+            "ec96ff72-8cfe-41cc-851d-c28ad36347f7",
+            "7825c686-0ac5-4987-af5c-9e223d6258c7"
+        ],
+        "2": [
+            "1487f987-aa78-455f-bc00-1bccee0f42a9",
+            "c938f5ec-3822-4c70-a5b5-c840dea9e998"
+        ],
+        "11": [
+            "37716d37-7573-4716-9779-69b4e74cafb2",
+            "5d36c2fc-6ae9-47ed-80b1-6e76f0f761bf"
+        ],
+        "15": [
+            "dd681374-d675-4a73-b71f-836fee0582de"
+        ],
+        "10": [
+            "7b6cb79e-ee3d-4e95-ab17-5d39e346c03a"
+        ]
+    },
+    "23": {
+        "Azi\u00eb": [
+            "a2cbfe73-4fb6-4a48-959e-71f5ce270e01",
+            "0169fca8-8913-43e6-a01d-69f6dad76065"
+        ],
+        "Europa": [
+            "15be989a-e7bf-41e0-a27d-bcd07d689a75",
+            "e2261fbd-74a7-4e0c-b53e-7fb9d65f3efb"
+        ],
+        "Afrika": [
+            "082768b0-e5d8-4078-a681-f44d4829f72e",
+            "7640665f-9d78-4ff0-9e35-46962982766b"
+        ],
+        "Noord-Amerika": [
+            "3cc59711-0692-44e1-84bb-715f1bc4d676",
+            "34f65481-fb86-48ae-a268-921381fc06b0"
+        ],
+        "Zuid-Amerika": [
+            "2a628779-faf3-4667-9c6d-f72f97bde250",
+            "325bc2d4-a16e-4315-a271-b0e950165e42"
+        ],
+        "Antarctica": [
+            "d434dbd0-a876-4980-9cbf-b1eb4ed6254c"
+        ],
+        "Groenland": [
+            "01f6f110-6699-4c05-9c31-451e9b077368"
+        ],
+        "Siberi\u00eb": [
+            "1ef52593-956c-4e98-8461-6d851162f0c2"
+        ],
+        "Midden-Oosten": [
+            "5f5336a8-8616-4a8c-8f48-563a337e900d"
+        ],
+        "Oceani\u00eb": [
+            "61cba9c6-0a7c-4745-8bf7-69c5365f37d6"
+        ],
+        "Antartica": [
+            "dd3147e7-64f9-4ad2-a6b8-3a7cfbd99ca8"
+        ],
+        "Atlantis": [
+            "16a2ab5f-fd21-4858-a6dc-f1a52324d678"
+        ],
+        "Maan": [
+            "6056ef40-b537-4a6c-803e-a51a6bfdd652"
+        ],
+        "Mars": [
+            "d5f79ed2-4c44-4dfe-9bfe-73f7117ba400"
+        ],
+        "Jupiter": [
+            "f38f15d2-e886-4687-b64b-92be3bacc5f4"
+        ]
+    },
+    "24": {
+        "Maas": [
+            "3676f18c-1600-4708-8717-5521519e2f36",
+            "0491cd87-19b9-477b-b849-bae8448205f7"
+        ],
+        "Seine": [
+            "ae2dbe16-77e6-4e64-bcb5-1527ef15b46d",
+            "e97eac59-b9e5-4c7c-8720-adfe5d4c2100"
+        ],
+        "Rijn": [
+            "1149ba46-e5f7-4071-b91f-5c375ecc4cf3",
+            "2653a233-aa8a-41cb-82ea-9b86ec1bedbd"
+        ],
+        "Thames": [
+            "814b3a70-6976-42c8-8db9-9c23e7864875",
+            "2dc801a7-5e1a-4a9d-abd1-78d431e733b8"
+        ],
+        "Donau": [
+            "7c1ed3da-2545-4b47-a827-659f90388008",
+            "69aff973-1c93-459b-9830-60685c143eef"
+        ],
+        "Po": [
+            "39a449c7-60ba-49c8-ab30-69e35824d0df",
+            "94823b21-72fb-4797-8772-1474459aa7ef"
+        ],
+        "Elbe": [
+            "6ead4205-4e04-4068-8ed5-5e6b6ba329f3",
+            "fa0d727a-8a60-4318-9947-259b424a1ba9"
+        ],
+        "Loire": [
+            "c2acf895-a222-4eb4-9170-0efefdf0e46b"
+        ],
+        "Dordogne": [
+            "09f37c27-9aba-4e4c-887c-d6dae55a1120"
+        ],
+        "Douro": [
+            "ab1eaf37-b329-48e5-a952-e917bce76bca"
+        ],
+        "Eems": [
+            "6ca993da-62c3-4cef-8cb4-f666a06f502f"
+        ],
+        "Weser": [
+            "12f42639-4cf5-4322-a209-fd7a66e2c851"
+        ],
+        "Oder": [
+            "3c8db5a5-978c-4d0a-80f6-e07f532529a7"
+        ]
+    },
+    "25": {
+        "M\u00fcnchen": [
+            "7dfcedd7-1d14-45ec-93e1-5c260ce25211",
+            "9202ac83-7a1a-43c2-8b12-777948ff81b8"
+        ],
+        "Frankfurt": [
+            "bc3852db-be0e-42c5-a379-4858367094e1",
+            "3c28d6fb-ee39-469b-8b1f-cecf74dd47dc"
+        ],
+        "Hamburg": [
+            "639c35da-2de9-47a0-838d-81f895b8ab0d",
+            "29d7f261-16c0-4694-8696-e96f6d8bb5e7"
+        ],
+        "Keulen": [
+            "d64077fc-abf5-4f38-ac48-a8fa9de493b5",
+            "0ff5cab3-b17e-4604-8d2e-51fba1312e9f"
+        ],
+        "Stuttgart": [
+            "329191b2-9017-4c5c-b787-4f992dd66161",
+            "44697bc0-54ab-468f-b562-6f12419541fe"
+        ],
+        "Hannover": [
+            "6abc8f2e-9a23-4bf4-bb94-c1601ef8c365",
+            "491c04ec-6ffa-45df-ada9-04f9cceb8347"
+        ],
+        "Dresden": [
+            "783b2a2f-b531-43ec-baab-e5a2fca9d14e",
+            "73709e46-0f27-4176-97f6-8258929bd92d"
+        ],
+        "Leipzig": [
+            "e8ba4c9f-f27e-4f6a-a9b0-53daf47e71a9",
+            "ff6b2ac2-3f1f-4460-8b23-4f6dbaf1f9f9"
+        ],
+        "N\u00fcrnberg": [
+            "0312bdd8-f990-4990-ac91-56d2beada085",
+            "3d92da15-9ac2-4f92-aa49-837a78a99c1c"
+        ],
+        "Bremen": [
+            "f6c0a6de-dec0-4b90-9118-6cfacdc291aa",
+            "c7912a8f-2834-4541-a0b8-e7aa729e4565"
+        ]
+    },
+    "26": {
+        "Rocky Mountains": [
+            "115e96d1-cf04-4298-958e-88c51940f821",
+            "1f645b90-fab5-4eeb-9321-daa1f8ea4dd4"
+        ],
+        "Alps": [
+            "e9da7bf7-23f3-44ce-a14b-03d23df1b49e"
+        ],
+        "Andes": [
+            "1ff04b92-df8e-480b-93fc-ba579625f8db"
+        ],
+        "Pyrenees": [
+            "e57a2c57-766e-4dd5-b5cc-b3915f993db4"
+        ],
+        "Appalachian Mountains": [
+            "0a73693e-6aa6-4160-a187-b005f974f396"
+        ],
+        "Atlas Mountains": [
+            "2643c24f-fb1c-45ea-96e8-d15edaeebe04"
+        ],
+        "Urals": [
+            "1a03866a-8409-433f-b4a0-af8fd18cfdfc"
+        ],
+        "Scandinavian Mountains": [
+            "2403bf92-894f-41a8-99fb-05acfdb3b1c3"
+        ],
+        "Australian Alps": [
+            "2b4f75e6-bf45-4f4e-a604-0277b147ab3c"
+        ],
+        "Carpathians": [
+            "e0afb820-e4a0-4f7f-a5a8-739da5757027"
+        ],
+        "Andesgebergte": [
+            "063eb0de-006c-46af-9ea7-4b0d6382c845"
+        ],
+        "Alpen": [
+            "91eb5431-c201-412f-9fb5-fd7333e7c83e"
+        ],
+        "Karpaten": [
+            "bdefeb54-abd7-4c7e-96ae-9e2647a53caa"
+        ],
+        "Uralgebergte": [
+            "29a162b6-0373-4389-8594-5572a524d6ad"
+        ],
+        "Pyrenee\u00ebn": [
+            "a51238b0-e733-44f9-a695-15719d4811e5"
+        ],
+        "Kaukasusgebergte": [
+            "d3100a89-e588-4873-b3a2-a3e0284185bc"
+        ],
+        "Atlasgebergte": [
+            "625ee647-d1d8-44d2-bec7-175295681afe"
+        ],
+        "Appalachengebergte": [
+            "8638febc-9301-403e-bea6-67a6b2719e17"
+        ],
+        "Kilimanjaro-gebergte": [
+            "d930b256-483e-4a5a-9710-46a8b4329344"
+        ]
+    },
+    "27": {
+        "Middellandse Zee": [
+            "fbeebf90-6396-460b-9440-89fbca927657",
+            "f0d67def-138f-4ffd-ad3b-3a34e8b672ef"
+        ],
+        "Zwarte Zee": [
+            "1d2aa114-5d00-40a5-92dd-abb2e6a5bd8b",
+            "f829b514-979c-4a91-8d63-a319506683be"
+        ],
+        "Rode Zee": [
+            "3e9c6ae5-e77c-45a8-8f34-25e748a8dc72",
+            "a4637067-621f-40ee-a534-dd5865a641a0"
+        ],
+        "Adriatische Zee": [
+            "2ef729aa-eadb-422d-ab45-3f6c5fbbe39e",
+            "09316885-0fff-4168-9bcd-4f10e8b84563"
+        ],
+        "Kaspische Zee": [
+            "14f16279-d6de-4bcd-9652-41bd27d72c92",
+            "2d738077-691b-469d-a4ad-43e8a92b5ff5"
+        ],
+        "Baltische Zee": [
+            "c7f53f55-9367-400f-bcdc-b29591c64d26",
+            "8463ce0e-e037-498c-8268-2ff937086002"
+        ],
+        "Cara\u00efbische Zee": [
+            "993ae42d-f2c6-40b7-bd0d-b813d11aa4f5"
+        ],
+        "Indische Oceaan": [
+            "3825a8ca-b4dc-40ab-b366-94fb49550578"
+        ],
+        "Zuid-Chinese Zee": [
+            "4e48d828-6aaf-4b54-8f9e-3db659ab4a36",
+            "63cbaf56-8c05-45ee-89e1-adfe5989d4cb"
+        ],
+        "Tasmanzee": [
+            "fb76c2b6-2ebf-423e-ac36-966e40953571"
+        ],
+        "Ierse Zee": [
+            "eb9a45bb-0ba7-4b10-a367-fce74756e6e7"
+        ],
+        "Golf van Mexico": [
+            "957a3d60-301a-4c54-9a88-6e3558bca4c5"
+        ],
+        "Caribische Zee": [
+            "41d2afd2-90ad-44ee-b70c-c420a878eeab"
+        ]
+    },
+    "28": {
+        "5%": [
+            "2d372dfc-64c2-4844-8626-e21ba9e24222",
+            "7a495286-1f84-450f-be11-8f62c473cc07"
+        ],
+        "7%": [
+            "64fe8ffb-dff7-4dca-8980-43959d6c13ee"
+        ],
+        "1%": [
+            "cfc84b22-45d7-437e-a3be-d2068c1953e5",
+            "b92c51c9-223f-4468-a2fa-8337c54b1201"
+        ],
+        "8%": [
+            "d232be5a-108f-43eb-81db-2392bfd15aa2",
+            "9db95351-fe82-489d-8520-7b5c7a09a01b"
+        ],
+        "10%": [
+            "1a24cf02-2494-471e-9def-a9abf3d053d5",
+            "5189e08f-a582-4c7d-9187-be039322698a"
+        ],
+        "15%": [
+            "30cffd3d-a61f-40c8-a2de-200bc1fe31e8",
+            "14907c7f-5528-4ad7-ae4b-f0f269330ff4"
+        ],
+        "20%": [
+            "518b2865-7b6d-4bd8-a986-9436e92b7ee6",
+            "b2d1fced-ec9b-4ac6-ab5d-bb26cd733719"
+        ],
+        "25%": [
+            "a553275b-dc1f-4d3a-9c82-01eb6b3343a2",
+            "81ad0361-11c6-4d8d-a5a4-a4010bc47d93"
+        ],
+        "30%": [
+            "67fa9548-ffed-4b03-bd7e-a10712caceb3",
+            "b2291bdb-ac73-4a82-a837-12b1bec66f04"
+        ],
+        "35%": [
+            "391b28b6-6a94-45bc-99d9-c3290963e8ba"
+        ],
+        "50%": [
+            "d359f640-c547-42dc-9984-48962131fbaa"
+        ],
+        "75%": [
+            "b9340ffc-7970-4dd0-82f1-2990d6985c71"
+        ]
+    },
+    "29": {
+        "winter": [
+            "02ecf566-d5ef-413e-ad37-6e8ec832460f"
+        ],
+        "herfst": [
+            "562e98ae-272e-4fcb-a8c4-adaeb89a0a1e"
+        ],
+        "lente": [
+            "60c6cd80-453f-41b6-8d3e-a146cddea817"
+        ],
+        "lente en herfst": [
+            "4c9ac0ae-e0fb-46cf-97ef-81da0a4e5691"
+        ],
+        "het hangt af van het land waar je bent": [
+            "375ccd31-4ad3-47ec-a85b-dc9cd4fa206e"
+        ],
+        "het hangt af van de dag van de week": [
+            "96a875cb-2287-4205-ab08-f0cb9070bf5f"
+        ],
+        "het hangt af van de stand van de maan": [
+            "0ed67089-226a-4890-b9b6-79fea04025ef"
+        ],
+        "het hangt af van de hoeveelheid sneeuw op de grond": [
+            "e7d9ecaf-42f9-4592-914d-2d5b0abf1fdc"
+        ],
+        "het hangt af van de luchtdruk": [
+            "393ebbd9-a65a-4b85-8900-add0f567065f"
+        ],
+        "het hangt af van de hoogte boven zeeniveau": [
+            "830de26f-6b4e-4b3d-95e7-a2cc6fb41335"
+        ],
+        "Winter": [
+            "6da1aab9-9ea3-4745-8c28-6b8a5e0f62b2"
+        ],
+        "Lente": [
+            "37d6854e-9434-4659-b1c9-353dc8cbf230"
+        ],
+        "Herfst": [
+            "4e4944bf-8280-42c9-bfe3-2cfb529affb3"
+        ],
+        "Lente en herfst": [
+            "88876f19-ca3e-4981-be6b-03b16efb8a84"
+        ],
+        "Lente, zomer en herfst": [
+            "9668c0c8-569b-482e-9cfa-df4c18ae7dfa"
+        ],
+        "Het hangt af van de locatie": [
+            "4e49a4e7-80fc-476c-8d33-76c704b8172d"
+        ],
+        "Het hangt af van het jaar": [
+            "a8647ec0-418b-48fb-8bfc-92fda0999251"
+        ],
+        "Temperaturen zijn het hele jaar door hetzelfde": [
+            "b69c0448-7645-41cc-bc9d-9ff476e2fcac"
+        ],
+        "De temperaturen zijn het hoogst in de ochtend": [
+            "96916f2d-4cf9-4648-9285-79f16d5133a8"
+        ],
+        "De temperaturen zijn het hoogst 's nachts": [
+            "cd19fb6e-4391-4eea-a988-908caa1ca13d"
+        ]
+    },
+    "30": {
+        "Een politieke partij": [
+            "7d960e0e-70fc-409a-b699-e83787543cff"
+        ],
+        "Een sportvereniging": [
+            "129a22b1-717f-4e0e-a87f-e106242ffe25"
+        ],
+        "Een bedrijf in de bouwsector": [
+            "270a695d-fcfe-4884-8988-2a1c5d4b6718"
+        ],
+        "Een muziekfestival": [
+            "f1d7981a-f7bd-4e71-a5d8-deb99123dd5b"
+        ],
+        "Een online winkel voor huisdierbenodigdheden": [
+            "f9abb552-864a-4c19-a815-e5662dd4fed4"
+        ],
+        "Een restaurantketen": [
+            "7c05b5c4-00db-4b8e-a239-9fda6fc0f805"
+        ],
+        "Een universiteitsprogramma": [
+            "4c6b73c9-69b0-4599-a9bc-f769fc3d1954"
+        ],
+        "Een modellenbureau": [
+            "b6430419-1423-4f90-9d55-e82662f700cd"
+        ],
+        "Een filmstudio": [
+            "e0eb9e10-4480-44bd-b6d8-08171803078e"
+        ],
+        "Een tijdschrift over wetenschap": [
+            "e450700e-f681-4538-b4e1-6f9169d770fc"
+        ],
+        "Een beroemd Belgisch stripfiguur.": [
+            "3bbf65ba-1ae0-454f-b63a-6547db20ba39"
+        ],
+        "Een bekend Belgisch biermerk.": [
+            "14c3efd1-5fe0-49d0-9a3e-de9474a42ee1"
+        ],
+        "Een grote Belgische sportarena.": [
+            "56c6d99c-3abd-4a41-a1d4-73346403aa47"
+        ],
+        "Een monumentale kathedraal in Brussel.": [
+            "5f778106-1d91-4222-a21d-1e54b4201707"
+        ],
+        "Een beroemd Belgisch chocolademerk.": [
+            "408c98d0-2da4-482b-b2d9-95aa06ce29a5"
+        ],
+        "Een populaire Belgische modeontwerper.": [
+            "4e0844d8-7382-48d2-b3e6-aef9cb93c094"
+        ],
+        "Een groot Belgisch technologiebedrijf.": [
+            "7746c951-197f-4b97-8b95-1da9a7a23a18"
+        ],
+        "Een historische Belgische kasteelru\u00efne.": [
+            "5b63e194-668f-466e-b97a-731b703c8763"
+        ],
+        "Een bekend Belgisch politicus.": [
+            "bcca7c95-d370-4cfd-ac83-86f7bec03891"
+        ],
+        "Een populaire Belgische tv-serie.": [
+            "3e162288-63bc-43f8-9da2-406e7c238a35"
+        ]
+    },
+    "31": {
+        "20 miljoen": [
+            "44e35d6d-666a-439c-b9d5-7a1adbb8ce74",
+            "3b594fc0-664f-4abb-8529-85bfbdec1196"
+        ],
+        "60 miljoen": [
+            "c0b07d71-2de7-45e4-82a4-ab2410a7184d",
+            "d49eb463-42ff-4e06-a1c4-ef56e2511840"
+        ],
+        "10 miljoen": [
+            "dba849da-c7a4-4396-be02-8da767d22609",
+            "b2a877a6-3392-4f26-8467-f66ded8e2055"
+        ],
+        "80 miljoen": [
+            "5c1efb3a-98cf-4668-a8fc-09c850207ee5"
+        ],
+        "30 miljoen": [
+            "08a3aecd-b8b9-4dad-aff5-a21c1423b214",
+            "e1648d14-f09c-4580-b18c-113600f98878"
+        ],
+        "50 miljoen": [
+            "395787d8-880b-43c9-9ea2-0beb2ee034cd",
+            "9dc1b87e-3f13-44ef-bd7c-10b205ff5da3"
+        ],
+        "15 miljoen": [
+            "2f929049-8999-4f2a-9027-d579442ce138",
+            "296648ec-0cc4-47ce-91fc-70b16f604160"
+        ],
+        "70 miljoen": [
+            "c1856643-deb3-4f16-a761-ee23497a6922"
+        ],
+        "25 miljoen": [
+            "f21a51a6-c01b-414d-a0ee-1193e3552ad1",
+            "0776a412-2a38-4f95-ab87-fe67de83fdaa"
+        ],
+        "55 miljoen": [
+            "9757df8d-9cf1-4d11-9a80-39175169cfbd"
+        ],
+        "5 miljoen": [
+            "b5df61c6-50b9-406d-91d7-481f86f5777c"
+        ],
+        "100 miljoen": [
+            "adb0fa9d-de1b-4dce-95e1-0268cf0656b2"
+        ],
+        "200 miljoen": [
+            "2534d831-81b6-45e9-988f-8f6094a287ed"
+        ]
+    },
+    "32": {
+        "De locatie van alle pizzeria's in Belgi\u00eb": [
+            "765fdbd5-588f-4136-aa10-5e72bd98abff"
+        ],
+        "De namen van alle Belgische koningen en koninginnen": [
+            "7cdd57bf-359f-4fbf-9175-4f3e440eed70"
+        ],
+        "De exacte hoogte van alle Belgische bergen": [
+            "6df6d0a1-4de5-45e9-a213-df27724bc099"
+        ],
+        "De geboortedata van alle Belgische voetballers": [
+            "3ee8fa72-6f6a-42bd-ac92-1cc459430e72"
+        ],
+        "De favoriete kleuren van alle Belgische politici": [
+            "5a11e776-16dd-4577-9b51-3f11e5d4a6da"
+        ],
+        "De precieze locatie van alle Belgische telefooncellen": [
+            "6bee3004-e902-478f-90d5-50c2e3a08a47"
+        ],
+        "De namen van alle Belgische provincies in omgekeerde volgorde": [
+            "20394bc1-ae93-40be-8606-ae384132f2e5"
+        ],
+        "De exacte lengte van alle Belgische rivieren in centimeters": [
+            "e5e15eef-f81e-462b-aa06-26eb35b814ae"
+        ],
+        "De geur van alle Belgische bloemen": [
+            "9b0dbf1c-1126-4d1b-870a-5f9663084574"
+        ],
+        "De favoriete pizza-toppings van alle Belgische inwoners": [
+            "5442f445-31ae-4828-b3c2-775f26b0114c"
+        ],
+        "De locatie van alle Belgische frietkotten": [
+            "cc5cd89d-e262-412d-8484-dcb16ae28cf7"
+        ],
+        "De favoriete biermerken van elke Belgische regio": [
+            "2e900c39-e66c-44fe-a1bd-ce52a7409c8c"
+        ],
+        "De kleur van de Belgische vlag op elke dag van het jaar": [
+            "194fdbe2-4940-4dac-b980-3af94494c73e"
+        ],
+        "De geboorteplaatsen van bekende Belgische stripfiguren": [
+            "9b394552-1e76-4df3-8a1a-eaa8f398480d"
+        ],
+        "De beste plaatsen om chocolade te kopen": [
+            "e59eb68c-2013-4e33-9798-0187aa444dfb"
+        ],
+        "De locaties van alle Belgische voetbalclubs": [
+            "55e104db-2782-4eee-a0ec-7b008a19079e"
+        ],
+        "De route van de jaarlijkse Carnavalstoet in Binche": [
+            "b8c39f12-6317-4955-b5d9-813dbad9fd90"
+        ],
+        "De meest populaire Belgische zangers en zangeressen per regio": [
+            "ab49d51e-fbb6-447f-a7ab-1e45873aff1c"
+        ],
+        "De beste plaatsen om wafels te eten in Belgi\u00eb": [
+            "4d39d000-a9e0-45d2-975f-80545edb299e"
+        ],
+        "De locaties van de beste Belgische frituren volgens Gault & Millau": [
+            "bfb3cc43-fcae-4f88-879b-131303b9c8c0"
+        ]
+    },
+    "33": {
+        "1000 km/u": [
+            "52a0be27-df6d-480f-a416-de4fedd5190d",
+            "f01dbc09-a45d-4c36-92b0-6e8925f87773"
+        ],
+        "1500 km/u": [
+            "0d209fc3-99ac-4185-9bcc-682de221a6f1",
+            "c2a35719-12f6-479c-9f09-3a734df13128"
+        ],
+        "1800 km/u": [
+            "6e53f950-389b-465b-b32a-bd04449b3025"
+        ],
+        "2200 km/u": [
+            "641c16f3-e42f-499c-8a51-f7f096f470e5"
+        ],
+        "2400 km/u": [
+            "d2ab0dbd-ca9a-474f-afd5-29d4ba5ade31"
+        ],
+        "2500 km/u": [
+            "e36ac7ee-c6bb-494d-af77-57e385c82410",
+            "352f5100-8db6-4acc-9724-580137dcf82d"
+        ],
+        "2800 km/u": [
+            "8ac426d7-ba22-4e57-9149-0e1bb34dd442"
+        ],
+        "3000 km/u": [
+            "a1419b33-7650-400f-96cb-417a73f6b7f4",
+            "fd2b1c95-4a10-455e-9331-a2a63eaa93c8"
+        ],
+        "3200 km/u": [
+            "d920d326-a0ce-4232-bc63-5baafdeab6a8"
+        ],
+        "3400 km/u": [
+            "4b5e0bc5-88ab-4fad-ba43-e626efa000d1"
+        ],
+        "5000 km/u": [
+            "480f33ed-57ca-418f-b9ac-370cf26251f1"
+        ],
+        "800 km/u": [
+            "cf225359-3a95-4741-9d7b-5ae990860f41"
+        ],
+        "10.000 km/u": [
+            "e0bb70c5-aeaf-4ee1-acc8-bb93992256a4"
+        ],
+        "4000 km/u": [
+            "d589cb0f-8b6c-4cb0-a695-f6a7a69d4806"
+        ],
+        "700 km/u": [
+            "bb6b5eb8-8f41-411b-8611-2ff30961bd6c"
+        ],
+        "900 km/u": [
+            "3b14d113-a516-4012-bf00-6f8ae3f1a82c"
+        ]
+    },
+    "34": {
+        "6": [
+            "9ca85950-8b48-4091-86be-5b83d5263046",
+            "00ffd15d-e748-4d32-b460-6e39b9d20183"
+        ],
+        "3": [
+            "2081d12b-975b-49b3-bc35-6f3d002f8997",
+            "b08b7db3-cb70-4c4e-8ed3-a22115a64b23"
+        ],
+        "10": [
+            "a4f414ed-9ea0-43b6-af39-d0360799929c",
+            "c730d76f-453b-4c61-8d5d-89e9c6919582"
+        ],
+        "8": [
+            "3dcd7847-ba41-453d-8b82-ae507742a220",
+            "34d4266f-144f-43bc-ab48-3fd41113bb47"
+        ],
+        "4": [
+            "1f80bc7d-8964-4bea-8737-d5573ed3a65b",
+            "db7d9f24-f041-4618-bd51-a584bac5c811"
+        ],
+        "7": [
+            "65cd7991-a4bf-4c08-9977-981619b1bae4",
+            "27e52cd2-41c8-40f1-8d55-522e0e504789"
+        ],
+        "2": [
+            "b7a4953c-7984-4155-be85-c7555de2f5ee",
+            "c83fd7e9-9e38-4771-9883-15659df213f4"
+        ],
+        "9": [
+            "c202f8e9-49f4-4297-adf2-8dd97bf7f6b6",
+            "942cf79f-a544-4cc9-bbf7-a574759cb1c8"
+        ],
+        "12": [
+            "f0c2b2bd-b58b-47a0-8c66-dbc76a33a6e2",
+            "f4c070d9-1868-4d54-84a0-c4c54b971428"
+        ],
+        "1": [
+            "1534bfef-d664-4977-a516-77d161ddba55"
+        ],
+        "11": [
+            "00112249-72fa-478e-8ee0-fac35ec3c886"
+        ]
+    },
+    "35": {
+        "Manchester": [
+            "643d3047-e14f-43c7-97ba-5618dec8ac4d",
+            "58106687-e930-4337-99dd-78f283ab1088"
+        ],
+        "Liverpool": [
+            "a793ee08-cfbf-44f5-83e4-993b82f24567",
+            "e4fbb1a8-67fa-4e06-ba73-43645e9801e5"
+        ],
+        "Glasgow": [
+            "7251365f-8171-4c67-a8f6-c914718a7168",
+            "fed941b9-26fd-4868-9dcc-6a9083728ed3"
+        ],
+        "Edinburgh": [
+            "b777b0a5-3f68-4c42-87cd-f67c89081981",
+            "c744318e-236b-4b00-a770-bb439133e262"
+        ],
+        "Dublin": [
+            "71ea2c17-561b-4407-b851-0ead1f256127",
+            "1eeb4ebc-d285-47aa-9d7b-941b4c9a09c2"
+        ],
+        "Cardiff": [
+            "c5b23d11-1d9c-4550-a88e-862b286b0830",
+            "549f5c59-aa65-42ff-8634-c6d53f1b60ab"
+        ],
+        "Belfast": [
+            "1c423d0f-d8ee-43d8-bacd-838e2b73407c",
+            "ab2c7d60-653a-43a8-b5bb-a3a2dfb347b8"
+        ],
+        "Bristol": [
+            "18c12740-211e-48e8-bff9-e515550b8ad2",
+            "376e97f5-8f41-4d03-a3ad-63c0dc5b0520"
+        ],
+        "Leeds": [
+            "bc60a9d1-5229-4b4b-b1c4-a2f19337557e",
+            "90fe3fcf-cce7-4099-8a21-0e726fd6c8e8"
+        ],
+        "Sheffield": [
+            "dd50ee32-d03c-43db-b4cb-58be3239cee0"
+        ],
+        "Birmingham": [
+            "a5e59c98-9c40-4aaa-b806-8966b7aff436"
+        ]
+    },
+    "36": {
+        "Poolcirkel": [
+            "68ce211b-5381-453b-9de3-93133563d868"
+        ],
+        "Tropische Steenbokskeerkring": [
+            "3f44efde-922b-4236-b470-fcc50434632d"
+        ],
+        "Meridiaan": [
+            "dc648d70-bd46-47da-858b-37bb44555862"
+        ],
+        "Greenwich-lijn": [
+            "8e46aa41-6a6b-4418-a7a7-90d2bd0b9daf"
+        ],
+        "Zenit": [
+            "a832677e-cb6b-4e76-9813-d12877a5f1c7"
+        ],
+        "Azimut": [
+            "889b4ae0-6ab8-4b89-9b47-1384240a98ee"
+        ],
+        "Lintworm": [
+            "5ee4dcfd-b5b7-4b68-8419-1a00d89f3b3b"
+        ],
+        "Mid-Atlantische Rug": [
+            "5f1c411c-06cc-449d-9306-b15cadf44a57"
+        ],
+        "Grote Oceaanlijn": [
+            "ed1e6245-c0a6-41d5-9463-a55f71b620f2"
+        ],
+        "Antimeridiaan": [
+            "ba6309f6-d273-4197-95a5-318fec7a78e1"
+        ],
+        "De Kreeftskeerkring": [
+            "d5b1e74e-7faa-47b1-9298-ba3938febbc3"
+        ],
+        "De Steenbokskeerkring": [
+            "a46fcabd-313c-4b7f-b7dc-1eaf7201ceed"
+        ],
+        "De Meridiaan van Greenwich": [
+            "f609e5a7-3e01-4c73-af10-f8dc55e32541"
+        ],
+        "De Internationale Datumgrens": [
+            "6056e908-e821-4695-a2f8-47f988555008"
+        ],
+        "De Tropische Kreeft": [
+            "1b20399a-5208-4378-82d1-eaa32943f66b"
+        ],
+        "De Zuidpoolcirkel": [
+            "c2bf8f0e-efdb-4ce2-ab41-ee113913dd4f"
+        ],
+        "De Noordpoolcirkel": [
+            "7a39dcae-aff5-4b3b-9927-83585b0586e9"
+        ],
+        "De Roze Lijn": [
+            "d33c5134-4cf2-498e-955d-dfc59130cde5"
+        ],
+        "De Zwarte Lijn": [
+            "79201b62-8d0e-4cbb-868a-08e6b0677051"
+        ],
+        "De Paarse Lijn": [
+            "697f4d6f-289d-41f9-b45a-b44b9fe436d8"
+        ]
+    },
+    "37": {
+        "Noordelijk halfrond": [
+            "0717dc5c-4fb2-45a3-ac74-419584dbc5e5",
+            "c471ad93-0ca0-42f4-b96b-6e7fc38f5ebc"
+        ],
+        "Oostelijk halfrond": [
+            "b5c3b032-a3e8-4a06-a906-9344399c60d7",
+            "db114ba1-b280-4c14-82a0-a866e3946894"
+        ],
+        "Westelijk halfrond": [
+            "307f2835-8008-428a-8cdf-c525b0dc1989",
+            "fb2020d6-0fb7-404b-8e21-c759bd98964b"
+        ],
+        "Evenaarhalfrond": [
+            "ed4016ae-a9bc-42ed-a4d3-e84d0d80f612",
+            "d5905326-b1a3-41a4-9fb7-545360f63a6d"
+        ],
+        "Noordpoolhalfrond": [
+            "7eaa2aa9-0b29-49eb-b23f-757b44b4602c"
+        ],
+        "Zuidpoolhalfrond": [
+            "3421ab15-cb44-4552-8ebc-780d9e1fbb27"
+        ],
+        "Noordwestelijk halfrond": [
+            "94f7f4f7-9976-4298-bc4c-1899cedfeb61"
+        ],
+        "Zuidoostelijk halfrond": [
+            "9c83522a-d2d9-4d21-aebc-e56415b0f610"
+        ],
+        "Middenhalfrond": [
+            "cdedaec4-2da7-40ea-92e3-724340008627"
+        ],
+        "Tropisch halfrond": [
+            "dcf52171-38fe-4683-a0f8-1d3af994267b"
+        ],
+        "Bovenste halfrond": [
+            "f180037f-af3a-4841-bbd7-f42ab14f6fd5"
+        ],
+        "Aziatisch halfrond": [
+            "6de2b430-fdc0-4c4c-b508-5a6eec81f9a6"
+        ],
+        "Afrikaans halfrond": [
+            "46ba7145-64d8-49aa-8261-1b547e7eef8b"
+        ],
+        "Atlantisch halfrond": [
+            "cff856ff-7c19-4136-8d26-b1a8b9c1657c"
+        ],
+        "Antarctisch halfrond": [
+            "b9071338-0689-41e2-8d20-0618616bf949"
+        ],
+        "Euraziatisch halfrond": [
+            "add98ca9-0646-4757-9f49-e0a11e0c0da1"
+        ]
+    },
+    "38": {
+        "1420 m": [
+            "f707fa0f-e405-4870-b6f8-d12d4e8f69c3"
+        ],
+        "1565 m": [
+            "af6aa676-2dea-4739-82a3-cc6939371217"
+        ],
+        "1300 m": [
+            "be6d67ff-2ce7-4c9d-81cb-f3ad9d024656"
+        ],
+        "1600 m": [
+            "84ca5ee1-74b7-43ce-ae99-eabe539593da"
+        ],
+        "1450 m": [
+            "2fb2ac56-2eef-4f3a-9c4a-bec12d8fb249"
+        ],
+        "1480 m": [
+            "ab86274a-067d-4a5d-b8cd-bab67cf83c9c"
+        ],
+        "1530 m": [
+            "365b497d-6f74-4194-b350-d3c7c84a0675"
+        ],
+        "1375 m": [
+            "a2fd73e9-26bb-4242-b9c9-404e725b263c"
+        ],
+        "1510 m": [
+            "aa29222c-892d-4eee-80af-f408cf834d82"
+        ],
+        "1465 m": [
+            "55f73aa5-78cd-4d1d-8245-7effea29c4d9"
+        ],
+        "1245 m": [
+            "1d293421-702d-4527-939d-2030f22b1898"
+        ],
+        "1612 m": [
+            "582c2d6d-6456-48e4-90db-1b0983f64f68"
+        ],
+        "1378 m": [
+            "d28e9e2e-d473-40cf-bad1-84463a7020a2"
+        ],
+        "1789 m": [
+            "19dfd3b3-3b17-41d3-a407-e885eb26d14b"
+        ],
+        "1521 m": [
+            "71165b5a-5c9b-4753-b467-a7a4fbc92243"
+        ],
+        "1310 m": [
+            "392aceb8-4e36-4fa9-b094-e84534703346"
+        ],
+        "1437 m": [
+            "0f498c37-ce1b-42ac-a49e-8a586d3f107e"
+        ],
+        "1680 m": [
+            "0d161d14-582a-4938-8b57-075e3617570c"
+        ],
+        "1564 m": [
+            "9cb05a24-1a2c-427a-af8c-108c007af607"
+        ],
+        "1923 m": [
+            "f5e7630a-e6e6-4b92-bdac-918e78abd978"
+        ]
+    },
+    "39": {
+        "Meer van Veneti\u00eb": [
+            "4df8ef07-9a54-42e3-bba5-f585ab521c54"
+        ],
+        "Meer van Barcelona": [
+            "4401125c-87e0-4c96-9edc-13e309684ed8"
+        ],
+        "Meer van Praag": [
+            "2816bdc9-47b4-4758-b60b-22708f5e1bfa"
+        ],
+        "Meer van Berlijn": [
+            "79eba69a-46c2-49bb-98ff-6ec402ea227c"
+        ],
+        "Meer van Parijs": [
+            "78809507-902e-46e4-ad22-3e6258a8a212"
+        ],
+        "Meer van Boedapest": [
+            "0fbb4d6f-6a05-4273-ae19-2b20a168458b"
+        ],
+        "Meer van Athene": [
+            "18a85245-c242-4248-bbf3-fef2116eff49"
+        ],
+        "Meer van Londen": [
+            "f44bdccf-45fd-4c69-a92c-41a714f63138"
+        ],
+        "Meer van Stockholm": [
+            "e083c86f-efe9-4577-9ecd-9f4771873b68"
+        ],
+        "Meer van Dublin": [
+            "8e1cfac3-0d25-4e3f-a2b5-4149df2aacc8"
+        ],
+        "Meer van Zurich": [
+            "9a31073f-5188-40e3-bdda-9edb8157d990"
+        ],
+        "Meer van Lugano": [
+            "b49b408c-c227-4e5b-a89d-ab96aead6f45"
+        ],
+        "Meer van Como": [
+            "dda7907f-7823-4cf6-b934-7c9d49e3d819"
+        ],
+        "Meer van Annecy": [
+            "c4d73c3f-ba80-433b-840c-f97fe5c07514"
+        ],
+        "Meer van Bourget": [
+            "d6e1c329-fd0a-4a3e-99c7-0f4463a6746c"
+        ],
+        "Meer van Neuch\u00e2tel": [
+            "61b1d555-4dac-48b9-86b2-c0100c48d0d7"
+        ],
+        "Meer van Maggiore": [
+            "73f03573-dc53-4a32-b432-1ee3845de28a"
+        ],
+        "Meer van Bled": [
+            "ff9c3031-e6c3-4c9e-b5e4-2f975b2ee7ec"
+        ],
+        "Meer van Garda": [
+            "531cc895-80c0-45de-9ac1-f5c921ce9fe5"
+        ],
+        "Meer van Thun": [
+            "ba0f786c-0b03-4a07-947b-7f23657c8e9e"
+        ]
+    },
+    "40": {
+        "Loei": [
+            "ca54884a-21bb-4f0e-bd23-b59b00f647d6"
+        ],
+        "Drev": [
+            "5b994889-11c2-4f07-8a5e-83420a452ed2"
+        ],
+        "Sivo": [
+            "d8cbec87-03f4-40d1-ae0b-9609c87d0efd"
+        ],
+        "Lea": [
+            "c658c9f0-d28c-4252-80f3-38c10740e67c"
+        ],
+        "Dravo": [
+            "073d8fb6-1902-415f-81d5-96844f1972df"
+        ],
+        "Savo": [
+            "5032aeb3-503a-40b2-b035-ebe445d62c69"
+        ],
+        "Leeu": [
+            "a6c6e12c-cac1-4773-b6ff-79882fbf2489"
+        ],
+        "Droma": [
+            "28c4a889-4a4e-4ad2-bec4-b729728fe70f"
+        ],
+        "Savaa": [
+            "6438e5bb-c796-4971-8bb4-583d3d7009c7"
+        ],
+        "Leine": [
+            "adb762d8-69e7-4b5a-a3ff-0087760b975d"
+        ],
+        "Moskva": [
+            "11911c5c-9137-4547-a2c2-0b49d4423126"
+        ],
+        "Yarra": [
+            "003bc3d5-450c-43a2-9e4e-b2db0728bb06"
+        ],
+        "Tigris": [
+            "a7e593e4-50f5-4989-9da0-ad01cbb377bc"
+        ],
+        "Dnipro": [
+            "c28177c6-7766-4a54-93f4-1f48ca8111d0"
+        ],
+        "Amazon": [
+            "a0a4ec54-9d3f-425b-975d-26417c352db1"
+        ],
+        "Thames": [
+            "08092765-2e71-460f-b6e5-161c3e771117"
+        ],
+        "Nile": [
+            "cea5089f-3a9d-4d3b-bc10-16642c26c3b3"
+        ],
+        "Mekong": [
+            "b58cf44b-5bbd-4565-a3de-b63f35c28669"
+        ],
+        "Danube": [
+            "d4853c99-e10e-4745-9a40-d8c3325e2bd4"
+        ],
+        "Mississippi": [
+            "32983e00-1243-4b5b-8f43-fa02c478dab2"
+        ]
+    },
+    "41": {
+        "zuidelijk halfrond": [
+            "93be758e-7583-4ec9-80b7-c4cadaf034fd"
+        ],
+        "oostelijk halfrond": [
+            "6f5413cb-0522-4031-9941-3ca9defe1aed"
+        ],
+        "westelijk halfrond": [
+            "2b27d351-c1f7-48f7-a3b4-98827a0b30e1"
+        ],
+        "op de evenaar": [
+            "864b5f22-68cb-4634-88ce-0f7e31519ac0"
+        ],
+        "op de Noordpool": [
+            "f46df882-05e1-4b1d-abf1-bf054bef25fb"
+        ],
+        "op de Zuidpool": [
+            "695ccbfa-8570-4476-905f-8e7e90e0c7bc"
+        ],
+        "op de internationale datumgrens": [
+            "2533f0f6-baa7-4cfb-961e-56037de23dc2"
+        ],
+        "op de Greenwich-meridiaan": [
+            "0f2fcaf2-085b-4cc5-bcbc-b57b144eb7b7"
+        ],
+        "op de 45e breedtegraad": [
+            "da5db1ef-42d7-4561-a95e-1c595dc30d42"
+        ],
+        "op de 60e breedtegraad": [
+            "9a516ce7-c5a1-4c44-8b97-1243b9152b6f"
+        ],
+        "Zuidelijk halfrond": [
+            "16e9a5d7-63e5-4ce6-bcf2-18e07ebbca07"
+        ],
+        "Oostelijk halfrond": [
+            "7e037ed6-e485-4443-9edd-fd81d876ebe6"
+        ],
+        "Westelijk halfrond": [
+            "8e962afe-fcf9-4676-9542-6020edec3562"
+        ],
+        "Beide halfronden": [
+            "6c4dda27-f34a-4810-9de9-f9570dd16664"
+        ],
+        "Equatoriaal halfrond": [
+            "4806d9f1-348f-4334-bcf1-a09492422d9b"
+        ],
+        "Noordoostelijk halfrond": [
+            "5310bc17-83d1-4f5f-a870-9f83826e44b7"
+        ],
+        "Zuidwestelijk halfrond": [
+            "201a3fc8-e225-4847-a48c-90750faec822"
+        ],
+        "Bovenste halfrond": [
+            "cb9d5908-c822-45b3-9a34-772b607f4d36"
+        ],
+        "Benedenste halfrond": [
+            "ac61a352-a6aa-49bc-a056-5be7f47a58a0"
+        ],
+        "Noordwestelijk halfrond": [
+            "a3f1a286-d302-4e24-ad92-37751399f282"
+        ]
+    },
+    "42": {
+        "Glasgow": [
+            "39a4ab8c-f7ce-4b78-94e2-97c3bfcd8c59",
+            "a209cda3-8b20-4a5f-a2f4-64f5469f2aa7"
+        ],
+        "Dublin": [
+            "343d9cff-2395-4427-b018-74c18da5bfa8",
+            "45a1b0ba-ee7a-456f-a820-a37446440cc7"
+        ],
+        "London": [
+            "fdb0a388-e7a0-40e5-80b6-1d6ea65cfae8",
+            "cbd60d45-6cf7-4904-9eb9-e622c78d8f66"
+        ],
+        "Cardiff": [
+            "cbd6ce45-36d0-41fb-80a0-d5108515587e",
+            "362b0144-95b7-4995-8445-945a8712dfd5"
+        ],
+        "Belfast": [
+            "e0344fe6-5455-401e-b702-ccfbb6f84a13",
+            "ed2a883f-bc2c-4b38-9784-7571cf4362a5"
+        ],
+        "Manchester": [
+            "39c67217-1b8c-4ecf-947b-c51fa5131fc2"
+        ],
+        "Liverpool": [
+            "3e83ee54-fdf5-434e-bbdc-6adc1360f827"
+        ],
+        "Leeds": [
+            "b297e414-3f50-4e44-a7be-04280e845409"
+        ],
+        "York": [
+            "feeaddea-4092-4d7e-a69d-259e0c3c40dc"
+        ],
+        "Newcastle": [
+            "44cf28c0-7bd9-4b34-a95b-7dc0eb2dff76"
+        ],
+        "Amsterdam": [
+            "db6612a3-958c-46b8-aadc-d6b7f0adf94d"
+        ],
+        "Paris": [
+            "36046591-4d6b-429c-bc24-74a8db5872b4"
+        ],
+        "Madrid": [
+            "bc7f5faf-75d5-46c9-a22e-3df72455b7e9"
+        ],
+        "Rome": [
+            "e95fdd54-f213-4889-b874-024e0186293e"
+        ],
+        "Berlin": [
+            "bb33cbb7-6dfc-41c2-b0df-379ceb355021"
+        ]
+    },
+    "43": {
+        "Noordelijk halfrond": [
+            "485cc656-ad7e-4ce2-8422-aac3dfc11fd4"
+        ],
+        "Oostelijk halfrond": [
+            "162d7ead-6b92-4744-94e7-fe646942a795"
+        ],
+        "Westelijk halfrond": [
+            "8a155040-137c-4d66-893a-34d0e49a56e3"
+        ],
+        "Antarctica": [
+            "5ee5eaab-e751-4eba-8acf-e351ee6cca04"
+        ],
+        "Boven de evenaar": [
+            "1e9662b7-707b-40ec-9081-8bf95f90d70a"
+        ],
+        "Azi\u00eb": [
+            "e5392193-929a-45d6-8061-880df644cd01"
+        ],
+        "Europa": [
+            "4baf0774-6024-45d8-96cc-6a00fd30a910"
+        ],
+        "Zuid-Amerika": [
+            "9136c1ad-86cf-4d8f-a4d4-eedcb4f67f04"
+        ],
+        "Noordpoolgebied": [
+            "349ce82e-a4cb-4235-91f2-3b5a4b9e4c57"
+        ],
+        "Midden-Oosten": [
+            "c61c5355-4462-45df-b90d-7fdd60f2b4fc"
+        ],
+        "noordelijk halfrond": [
+            "6b0bd279-6522-4483-a17b-f99991b935c4"
+        ],
+        "oostelijk halfrond": [
+            "eb0bc8e7-1ddc-4898-9374-ccf77b209de9"
+        ],
+        "westelijk halfrond": [
+            "56deb646-8cfe-4785-94d1-fbf2406b208f"
+        ],
+        "equatoriale halfrond": [
+            "5aea3a7a-f497-4ac7-a20c-8b74db9783ec"
+        ],
+        "noordoostelijk halfrond": [
+            "5636b337-f224-451b-a58a-79592e723e35"
+        ],
+        "noordwestelijk halfrond": [
+            "16bbe5c3-d854-4bda-ba2c-83476a7d9f6f"
+        ],
+        "zuidoostelijk halfrond": [
+            "e11b0da2-5f33-41c5-a7aa-e710a9033aa9"
+        ],
+        "zuidwestelijk halfrond": [
+            "5f8c71b6-74bd-4269-8589-f1ed405ced99"
+        ],
+        "Antarctisch halfrond": [
+            "8d552346-ffb5-46d9-88e8-0f3388feb90e"
+        ],
+        "Arctisch halfrond": [
+            "e1981e0a-814f-490d-a023-2060d9fc2a50"
+        ]
+    },
+    "44": {
+        "E46": [
+            "9630ccd2-79f6-4be1-b965-1eb3ad1bd1e6"
+        ],
+        "A15": [
+            "d7aed8bd-9b00-4ac4-ab91-0fe6a6986074"
+        ],
+        "E25": [
+            "9e40821a-bdd1-42a7-b3ec-4d409efbf8f1",
+            "27f69700-b0d3-4bb6-af10-85e2ace7c39d"
+        ],
+        "A40": [
+            "378c1ae5-19bc-4eb8-9f1f-e05f3080041c"
+        ],
+        "E31": [
+            "89451887-3d6c-470b-a877-4e5471339541"
+        ],
+        "A55": [
+            "77560a4a-40ac-4eb3-b8e0-c743e892148c"
+        ],
+        "E55": [
+            "4c0b8ea4-fd8f-4464-90c3-f032c77b250b"
+        ],
+        "A20": [
+            "2802695f-47de-4fa1-bf6a-5442f4dfc42a"
+        ],
+        "E17": [
+            "a536601f-49f7-4070-9c74-7a48f9fcdf35"
+        ],
+        "A80": [
+            "0da4a56e-c110-4b2d-b242-164aea9ed878"
+        ],
+        "E41": [
+            "80f1e7f8-3c0a-459d-b649-2d6e623c046d"
+        ],
+        "A13": [
+            "c4670240-7c7e-4b66-8629-d9a47772d11e"
+        ],
+        "E40": [
+            "5041e5b1-6798-407b-a5dd-75a7a9580c8c"
+        ],
+        "A3": [
+            "f8c17da5-6ad2-4a53-9aea-2370f70e4767"
+        ],
+        "E30": [
+            "58d6cda4-0b0a-4f46-be7c-db14d0ea62b3"
+        ],
+        "A7": [
+            "bd0c5b45-dcb2-44dd-b15b-16644f9fe9ec"
+        ],
+        "E45": [
+            "affbf501-0b18-4bd8-a779-2d680cb8b5d9"
+        ],
+        "A10": [
+            "0e074f2a-2c7b-40e4-b513-073c34fe1df7"
+        ],
+        "E28": [
+            "cd7d895c-d67a-4fa5-a2a0-364e7f662f66"
+        ]
+    },
+    "45": {
+        "Rocky Mountains": [
+            "cc04829a-2a61-4530-a799-feb15cfd9584",
+            "c50c4e3b-c6de-4362-ab1a-3283da2baedd"
+        ],
+        "Himalaya": [
+            "e6c2ba91-31a3-4a56-a428-3d115240566b",
+            "f7b6e099-d11e-4574-9350-4dfbb9933863"
+        ],
+        "Alpen": [
+            "adf752b1-338d-4163-be5e-1b6a4bb40de8"
+        ],
+        "Karpaten": [
+            "5feb25a9-129e-468e-9f48-1158140f9adb"
+        ],
+        "Atlas": [
+            "620b564b-f12b-4ab3-9710-6d24675842d4"
+        ],
+        "Uralgebergte": [
+            "72f74541-19df-4c81-9539-3be97fba6fc3"
+        ],
+        "Kilimanjaro": [
+            "c5844f63-62e3-4e10-97b7-fcee9349761f"
+        ],
+        "Mount Everest": [
+            "b83b265d-2e0f-4fc7-9d29-63d69d58327f",
+            "8fd0c3d6-91a0-40c7-8725-140523127ee5"
+        ],
+        "Mount Fuji": [
+            "fb671a86-5dea-4ac5-81db-61aedd416479",
+            "8c99afda-d5b4-4bd9-8b36-4094ce9fce84"
+        ],
+        "Mount Kilimanjaro": [
+            "c2a78f20-156e-4d28-a1ab-e0e1bfca03b5",
+            "1e43acb5-a76f-482c-b5dd-748533e0af06"
+        ],
+        "Alps": [
+            "892d24f6-ccdc-4aea-be46-c036b62d1d86"
+        ],
+        "Pyrenees": [
+            "a62f9c07-d0ee-4ffe-8f3d-ecafec7e3d62"
+        ],
+        "Appalachian Mountains": [
+            "02f94bc2-02b4-402b-ae9f-eb912177f1cb"
+        ],
+        "Mount Rainier": [
+            "7d30bf7a-9739-4390-9ee0-c0b19cf1732e"
+        ],
+        "Swiss Alps": [
+            "80942e01-1ef4-49c8-b1e2-121d5afaa1f9"
+        ]
+    },
+    "46": {
+        "1/20": [
+            "104acdf0-3176-4d9b-9809-0fb263f9934b",
+            "211544fb-8c16-44ad-90e5-6c977ef9b5da"
+        ],
+        "3/4": [
+            "ac967d67-136c-4e18-8fef-7dd475acc37c"
+        ],
+        "2/3": [
+            "5daf10cc-eb84-46f0-b45e-bb7ad5a670ce"
+        ],
+        "1/100": [
+            "c2b3f5b0-9b8d-46ed-8f87-6364f93a85c6"
+        ],
+        "1/50": [
+            "9d7ac756-dbc9-40c9-bb4c-ca072b840b9a",
+            "e172d38e-dd5a-44f6-8451-f81a78c845e2"
+        ],
+        "5/8": [
+            "968064b1-16cc-4cdf-897b-29f3cd71d688"
+        ],
+        "1/16": [
+            "c9243def-32d2-4a66-b19e-916adda7e020"
+        ],
+        "3/5": [
+            "b1632ebf-f565-404d-9533-9fdf32964d49"
+        ],
+        "1/8": [
+            "bfdb8b27-986a-4b8e-b1bb-47244e713c95"
+        ],
+        "1/64": [
+            "400fdd36-070f-43c0-a2df-5383097364bb"
+        ],
+        "1/23": [
+            "2200aae4-54b7-445f-96d4-ae9e3751abb1"
+        ],
+        "1/45": [
+            "e4f02ff4-9aa7-4f4c-9fa6-9e82bb45006c"
+        ],
+        "2/31": [
+            "24a283fe-05d5-4162-9c89-c3b1c923de6a"
+        ],
+        "3/60": [
+            "70deb085-cd5b-4f5d-aff9-075793db8497"
+        ],
+        "1/36": [
+            "d14548a1-8970-4674-a92d-b7389e2fc420"
+        ],
+        "1/40": [
+            "58827132-4cda-4164-93ad-ffc43b5f5c62"
+        ],
+        "4/128": [
+            "53208a42-d1a2-4e14-8ee5-a8d3204b0588"
+        ],
+        "1/28": [
+            "c1464304-87eb-4635-9331-7afdd46c43e0"
+        ]
+    },
+    "47": {
+        "Florence": [
+            "34aea8b3-38bf-41c8-a386-d8a94cbbe5ed",
+            "567fe318-d2eb-4d1f-8c6f-ba5199bc2120"
+        ],
+        "Milan": [
+            "615db842-06ec-4614-9494-5fa1938b28a8",
+            "530e5f63-de70-4116-a949-a9058493749f"
+        ],
+        "Naples": [
+            "82823482-8849-4620-b465-c015586fd19f",
+            "3caae4a2-2762-4e6a-a808-a47eb525f9cf"
+        ],
+        "Venice": [
+            "10b44054-fe7f-4e53-bd57-1e9b67229079",
+            "9caa42ee-e934-457d-8436-c069c5236b05"
+        ],
+        "Turin": [
+            "ad3984b6-57a8-4caf-b98f-c79389994cf3",
+            "e0fc69ad-d87d-473c-aead-b1b9179ae996"
+        ],
+        "Palermo": [
+            "66a27c2c-1d1f-47ce-a820-d259d0441f00",
+            "a3f3f00b-7f58-456e-a81c-2f1ce0c1b752"
+        ],
+        "Genoa": [
+            "3359558d-1537-444c-b3eb-2663c0b152cb",
+            "c2cd0651-afd6-4d1c-98da-71241367e50f"
+        ],
+        "Bologna": [
+            "e1da0472-f6a7-4363-bb6c-3f35213b1a42",
+            "28aab0a3-ec5f-4dd0-a9c7-966731de0ff4"
+        ],
+        "Verona": [
+            "e46102d9-832d-4513-864d-1fce4baac740",
+            "5be6878f-3553-4d47-9813-7273b2fd0e6d"
+        ],
+        "Catania": [
+            "1b4f3507-1062-46f8-b825-c6f733415b56"
+        ],
+        "Pisa": [
+            "53de19cd-b42a-43d4-91b4-6a78171d712b"
+        ]
+    },
+    "48": {
+        "Spanje": [
+            "7868a3e4-7c0e-4e68-b7ba-f4f86983fbfa",
+            "3f5511af-f562-443e-99cf-a277c005fa5f"
+        ],
+        "Itali\u00eb": [
+            "6df35f8d-5488-4c6c-9069-305903284ddb",
+            "883e87e5-83dd-42d2-ae96-3b7fdbb1524b"
+        ],
+        "Griekenland": [
+            "214e3f2d-afc5-4b85-b1be-d1b9079a9daf"
+        ],
+        "Nederland": [
+            "546c4ba9-8bd0-46ac-838b-b0850c2f03ee",
+            "f1a40590-84da-4b4d-a998-273543fb0763"
+        ],
+        "Zweden": [
+            "03f10cd4-dc08-4b7d-aad7-150fb4e10ebd",
+            "af072dbc-f506-47fd-bd6e-202f48a75a2c"
+        ],
+        "Belgi\u00eb": [
+            "2e0a2591-de9f-4988-b3a9-75a4983b55b9",
+            "e137ac34-bb4d-42e4-8ca9-916b4c771a37"
+        ],
+        "Denemarken": [
+            "d13ce506-1583-4526-90f8-f22baefcbeb1",
+            "323ad76a-b9ff-45b4-b569-f57f9d7bbf47"
+        ],
+        "Oostenrijk": [
+            "4dbe6916-5216-4ea1-9ea1-bde8fc1a28d1"
+        ],
+        "Ierland": [
+            "8c495a1c-0ecc-479a-b788-a37d34ef9631"
+        ],
+        "Luxemburg": [
+            "a2fe63d2-53c8-42d6-aad6-fbca8b47bbbd"
+        ],
+        "Frankrijk": [
+            "80110faa-2f26-42f0-bfbd-5eee4ea4c1e4"
+        ],
+        "Noorwegen": [
+            "a76bc84a-420d-4a55-9fe9-56f0dc175684"
+        ],
+        "Duitsland": [
+            "b3be9189-a212-4ba4-a830-e6e4399e1151"
+        ],
+        "Polen": [
+            "8bb070ae-3cc5-450a-8e54-9d810f912e70"
+        ]
+    },
+    "49": {
+        "Cork": [
+            "a734567c-f276-4c0d-aae1-180a7b5a6575",
+            "e240531b-18dd-4e67-88ca-c84d17241370"
+        ],
+        "Belfast": [
+            "a3236838-42e6-4d63-b7e4-bf30431c2b8f",
+            "28af4277-d2fd-4dd9-b27d-f032d92163bb"
+        ],
+        "Galway": [
+            "9d14e1dd-827d-4520-bc48-e746c4adbae2",
+            "91a17cd4-6d0f-4776-8ba6-7221063924c3"
+        ],
+        "Shannon": [
+            "3da4618d-597b-4008-b326-81d94988b8b6"
+        ],
+        "Limerick": [
+            "f72abca0-94ef-4695-9ff9-cd7433627079",
+            "39026065-f489-40ba-a0b9-aef6ec8ae601"
+        ],
+        "Waterford": [
+            "6848e84e-2a14-4714-9708-bbd64dc39ce3",
+            "387b6053-907e-43b1-b469-229dfa552753"
+        ],
+        "Sligo": [
+            "a50e3978-2c35-4f7d-8f56-ef3091e7cdeb",
+            "a1d9d611-fb00-4371-bda2-2a59882284a4"
+        ],
+        "Kilkenny": [
+            "3ccf598b-c65d-449c-80ce-f7d404dba187",
+            "f5648a12-527b-47ba-ba4d-241d8518d96a"
+        ],
+        "Athlone": [
+            "9fcee5ba-2bc8-42e0-9795-13faff084f1a",
+            "719b2a73-7ea4-478d-ba5f-35e6f1584c8f"
+        ],
+        "Tralee": [
+            "b5768834-400e-482b-bb39-14c25b925087"
+        ],
+        "Drogheda": [
+            "46c05a5b-dc8e-489a-aafc-cfc8f1325acc"
+        ],
+        "Wexford": [
+            "d3a421d8-4390-4ef7-a7ff-10d613452ed9"
+        ]
+    }
+}

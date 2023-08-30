@@ -1,0 +1,139 @@
+{
+    "qid": "b13934cb-264b-4164-a310-adffdba9d299",
+    "response": {
+        "Query": "In welk halfrond ligt New York?",
+        "Result": [
+            {
+                "answer": "Schotland",
+                "answer_length": 1,
+                "distractors": [
+                    "Engeland",
+                    "Noord-Ierland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk deel van het Verenigd Koninkrijk zou het project uitgevoerd worden ?",
+                "question_length": 20,
+                "score": 0.9445776996309688
+            },
+            {
+                "answer": "Engeland",
+                "answer_length": 1,
+                "distractors": [
+                    "Ierland",
+                    "Schotland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar ligt de Ram Inn ?",
+                "question_length": 13,
+                "score": 0.9044636150352772
+            },
+            {
+                "answer": "Brussel",
+                "answer_length": 1,
+                "distractors": [
+                    "Antwerpen",
+                    "Brugge",
+                    "Gent",
+                    "Kortrijk",
+                    "Waarschoot City"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste optie aan . Hier staat een beetje informatie . Waar staat Manneke Pis .",
+                "question_length": 17,
+                "score": 0.901993397728812
+            },
+            {
+                "answer": "Firenze",
+                "answer_length": 1,
+                "distractors": [
+                    "Pisa",
+                    "Rome",
+                    "Siena"
+                ],
+                "language": "lb",
+                "question": "Waar bevinden zich de kunstgaleries Pitti en Uffizi ?",
+                "question_length": 9,
+                "score": 0.8870967112619306
+            },
+            {
+                "answer": "Rechts van mij",
+                "answer_length": 3,
+                "distractors": [
+                    "Voor mij",
+                    "Achter mij",
+                    "Links van mij"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Ik sta op het strand van Oostende en kijk naar de ondergaande zon . Waar bevindt zich het noorden ?",
+                "question_length": 27,
+                "score": 0.8811217548196214
+            },
+            {
+                "answer": "Aan het Central Park",
+                "answer_length": 4,
+                "distractors": [
+                    "In Harlem",
+                    "In Downtown",
+                    "In Midtown"
+                ],
+                "language": "nl",
+                "question": "Waar wonen de rijkere New Yorkers ?",
+                "question_length": 7,
+                "score": 0.8775452461935224
+            },
+            {
+                "answer": "in vers 9",
+                "answer_length": 3,
+                "distractors": [
+                    "in vers 5",
+                    "in vers 11",
+                    "in vers 14"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar bevindt zich de volta in dit sonnet ?",
+                "question_length": 16,
+                "score": 0.8740416214723304
+            },
+            {
+                "answer": "Engeland",
+                "answer_length": 1,
+                "distractors": [
+                    "Ierland",
+                    "Schotland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar ligt The Ram Inn ?",
+                "question_length": 13,
+                "score": 0.8650788901422765
+            },
+            {
+                "answer": "London",
+                "answer_length": 1,
+                "distractors": [
+                    "Paris",
+                    "Bruxelles",
+                    "Madrid"
+                ],
+                "language": "fr",
+                "question": "Capitale de l'Anglettere",
+                "question_length": 3,
+                "score": 0.8475323799495684
+            },
+            {
+                "answer": "Gent",
+                "answer_length": 1,
+                "distractors": [
+                    "Bij de Nederlandse aannemer",
+                    "Brussel"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Nederlandse aannemer vervangt voor rekening van een Belgische onderneming die gevestigd is in Brussel , het dak van een fabriekshal , gelegen in het havengebied van Gent . Wat is de plaats van de prestatie van diensten ?",
+                "question_length": 45,
+                "score": 0.833547400349287
+            }
+        ]
+    }
+}

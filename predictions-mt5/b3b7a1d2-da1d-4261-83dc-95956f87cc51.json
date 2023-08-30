@@ -1,0 +1,5 @@
+{
+    "qid": "b3b7a1d2-da1d-4261-83dc-95956f87cc51",
+    "input": "43 . The children ... ... ... ..for ten minutes . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. have been fighting\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. have been fighting\n2. had fought\n3. been fighting\n4. were faught\n5. were lost\n6. has beating\n7. were bumping\n8. had had to fight\n9. were being crying\n10. had not been cut off"
+}

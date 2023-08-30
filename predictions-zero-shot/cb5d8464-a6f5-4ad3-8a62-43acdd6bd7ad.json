@@ -1,0 +1,5 @@
+{
+    "qid": "cb5d8464-a6f5-4ad3-8a62-43acdd6bd7ad",
+    "input": "question: Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ?\nanswer: below\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. beside\n2. above\n3. parallel to\n4. opposite of\n5. equal to\n6. superior to\n7. inferior to\n8. adjacent to\n9. congruent with\n10. analogous to\n11. coexistent with\n12. secondary to\n13. supplementary to\n14. coequal with\n15. reciprocal to\n16. alternative to\n17. coordinating with\n18. subordinate to\n19. auxiliary to\n20. proximate to"
+}

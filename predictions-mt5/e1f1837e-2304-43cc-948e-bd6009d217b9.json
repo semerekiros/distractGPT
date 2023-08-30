@@ -1,0 +1,5 @@
+{
+    "qid": "e1f1837e-2304-43cc-948e-bd6009d217b9",
+    "input": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The next train to Aberdeen _______________ at 2pm . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. leaves\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. leave\n2. leaves\n3. exit\n4. arrive\n5. return\n6. wait\n7. departs\n8. deliveries\n9. transfers\n10. finishes"
+}

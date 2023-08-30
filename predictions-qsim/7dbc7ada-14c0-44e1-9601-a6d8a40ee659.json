@@ -1,0 +1,134 @@
+{
+    "qid": "7dbc7ada-14c0-44e1-9601-a6d8a40ee659",
+    "response": {
+        "Query": "Welke van deze organen is verbonden met de zwervende zenuw?",
+        "Result": [
+            {
+                "answer": "alleen inwendig",
+                "answer_length": 2,
+                "distractors": [
+                    "alleen uitwendig"
+                ],
+                "language": "nl",
+                "question": "Waar liggen de organen van het spijsverteringsstelsel bij de mens ?",
+                "question_length": 11,
+                "score": 0.7101821386497373
+            },
+            {
+                "answer": "blindedarm en appendix",
+                "answer_length": 3,
+                "distractors": [
+                    "alleen de blindedarm",
+                    "blindedarm en dikke darm",
+                    "alleen de dikke darm"
+                ],
+                "language": "nl",
+                "question": "Welke darmen zijn veel groter bij het konijn dan bij de mens ?",
+                "question_length": 13,
+                "score": 0.7024645839925385
+            },
+            {
+                "answer": "blindedarm en dikke darm",
+                "answer_length": 4,
+                "distractors": [
+                    "slokdarm en appendix",
+                    "blindedarm en appendix",
+                    "slokdarm en dikke darm"
+                ],
+                "language": "nl",
+                "question": "Welke organen zijn verbonden met de dunne darm ( zie blauwe pijl ) ?",
+                "question_length": 14,
+                "score": 0.6838354881695159
+            },
+            {
+                "answer": "tussen dunne darm en endeldarm",
+                "answer_length": 5,
+                "distractors": [
+                    "tussen slokdarm en dunne darm",
+                    "tussen twaalfvingerige darm en endeldarm"
+                ],
+                "language": "nl",
+                "question": "Tussen welke organen ligt de dikke darm ?",
+                "question_length": 8,
+                "score": 0.6821039342050281
+            },
+            {
+                "answer": "slokdarm en middenrif",
+                "answer_length": 3,
+                "distractors": [
+                    "hart en longen",
+                    "maag en dunne darm",
+                    "hart en middenrif"
+                ],
+                "language": "nl",
+                "question": "Welke organen komen zowel voor in de borstholte als in de buikholte ?",
+                "question_length": 13,
+                "score": 0.6343885827079021
+            },
+            {
+                "answer": "tussen eierstok en baarmoeder",
+                "answer_length": 4,
+                "distractors": [
+                    "tussen baarmoeder en vagina",
+                    "tussen eierstok en nier",
+                    "tussen eierstok en urineblaas"
+                ],
+                "language": "nl",
+                "question": "Tussen welke organen bevindt zich de eileider ?",
+                "question_length": 8,
+                "score": 0.6240142125173255
+            },
+            {
+                "answer": "het borstvlies en het middenrif",
+                "answer_length": 5,
+                "distractors": [
+                    "de ribben en de tussenribspieren",
+                    "het longvlies en het borstvlies"
+                ],
+                "language": "nl",
+                "question": "Welke organen bekleden de borstholte aan de binnenzijde ?",
+                "question_length": 9,
+                "score": 0.46435317760431033
+            },
+            {
+                "answer": "Ureters",
+                "answer_length": 1,
+                "distractors": [
+                    "Urethra",
+                    "Nefronen",
+                    "Nierkelken"
+                ],
+                "language": "nl",
+                "question": "De urine door de nieren gevormd , stroomt naar de urineblaas via de :",
+                "question_length": 14,
+                "score": 0.38820786626391923
+            },
+            {
+                "answer": "water",
+                "answer_length": 1,
+                "distractors": [
+                    "zuurstofgas",
+                    "glucose",
+                    "rode bloedcellen"
+                ],
+                "language": "nl",
+                "question": "Waaruit bestaat bloedplasma voornamelijk ?",
+                "question_length": 5,
+                "score": 0.3761112667008462
+            },
+            {
+                "answer": "aders , slagaders en haarvaten",
+                "answer_length": 5,
+                "distractors": [
+                    "aders en haarvaten",
+                    "aders en slagaders",
+                    "aders"
+                ],
+                "language": "nl",
+                "question": "Welke bloedvaten vervoeren afvalstoffen zoals CO2 en afvalzouten ?",
+                "question_length": 9,
+                "score": 0.26908622064769255
+            }
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "qid": "8106801e-0883-4b36-8c34-8f9da9feba18",
+    "response": {
+        "Query": "Personne n'________________ reserve cette chambre d'hotel .",
+        "Result": [
+            {
+                "answer": "aurait",
+                "answer_length": 1,
+                "distractors": [
+                    "avait",
+                    "a"
+                ],
+                "language": "fr",
+                "question": "Personne n'________________ reserve cette chambre d'hotel .",
+                "question_length": 7,
+                "score": 0.9877897433018679
+            },
+            {
+                "answer": "a",
+                "answer_length": 1,
+                "distractors": [
+                    "ait",
+                    "aie"
+                ],
+                "language": "fr",
+                "question": "Voici quelques reactions sur Facebook . Indiquez le verbe qui convient a l'indicatif ou au subjonctif . Je trouve qu'il ... tort . ( avoir )",
+                "question_length": 26,
+                "score": 0.910915558255753
+            },
+            {
+                "answer": "dormira",
+                "answer_length": 1,
+                "distractors": [
+                    "dormirai",
+                    "dormiras"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne forme du futur simple . On [ dormir ] sous la tente pendant les vacances .",
+                "question_length": 19,
+                "score": 0.9069564659031248
+            },
+            {
+                "answer": "voudrais",
+                "answer_length": 1,
+                "distractors": [
+                    "voulais",
+                    "voudrai",
+                    "voudras"
+                ],
+                "language": "en",
+                "question": "Completez . Je ... dorenavant ( = from now on ) me connecter a l'Internet . Est-ce possible ?",
+                "question_length": 19,
+                "score": 0.8932207450500991
+            },
+            {
+                "answer": "aurait eu",
+                "answer_length": 2,
+                "distractors": [
+                    "avait eu",
+                    "a eu",
+                    "aurait"
+                ],
+                "language": "fr",
+                "question": "Indique le conditionnel passe . S'il avait etudie un peu plus , il ... de meilleurs resultats .",
+                "question_length": 18,
+                "score": 0.8849670091531504
+            },
+            {
+                "answer": "venait",
+                "answer_length": 1,
+                "distractors": [
+                    "vient"
+                ],
+                "language": "fr",
+                "question": "Veuillez cocher la reponse exacte . Nous lui avons demande s'il ... a la conference .",
+                "question_length": 16,
+                "score": 0.8807396761974204
+            },
+            {
+                "answer": "avait",
+                "answer_length": 1,
+                "distractors": [
+                    "a",
+                    "aura",
+                    "aurait"
+                ],
+                "language": "fr",
+                "question": "Veuillez indiquer la bonne reponse . Maintenant il a du travail , avant il n ' ... pas de travail .",
+                "question_length": 21,
+                "score": 0.8658936829901083
+            },
+            {
+                "answer": "a gere",
+                "answer_length": 2,
+                "distractors": [
+                    "a maitrise"
+                ],
+                "language": "fr",
+                "question": "Comment la phrase continue-t-elle ? Indiquez la bonne reponse . Monsieur Legrand ... cette entreprise pendant 20 ans .",
+                "question_length": 19,
+                "score": 0.8594986205699878
+            },
+            {
+                "answer": "gelera",
+                "answer_length": 1,
+                "distractors": [
+                    "gelerai",
+                    "geleras"
+                ],
+                "language": "af",
+                "question": "Cochez la bonne forme du futur simple . Il ne [ geler ] pas en ete .",
+                "question_length": 17,
+                "score": 0.8590697392601875
+            },
+            {
+                "answer": "L'avait honore",
+                "answer_length": 2,
+                "distractors": [
+                    "L'avait honoree"
+                ],
+                "language": "fr",
+                "question": "Il n'eut pas loisir toutefois de s'enivrer davantage de la faveur dont ... le Roi [ ... ] ( adapte de CH ) .",
+                "question_length": 24,
+                "score": 0.8541093983350224
+            }
+        ]
+    }
+}

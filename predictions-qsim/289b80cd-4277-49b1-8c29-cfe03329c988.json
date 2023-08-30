@@ -1,0 +1,148 @@
+{
+    "qid": "289b80cd-4277-49b1-8c29-cfe03329c988",
+    "response": {
+        "Query": "Lis et indique quel temps tu reconnais . Ferme la porte , Alain !",
+        "Result": [
+            {
+                "answer": "Imperatif",
+                "answer_length": 1,
+                "distractors": [
+                    "Indicatif present",
+                    "Futur proche",
+                    "Passe recent",
+                    "Passe compose"
+                ],
+                "language": "fr",
+                "question": "Lis et indique quel temps tu reconnais . Ferme la porte , Alain !",
+                "question_length": 14,
+                "score": 0.9676784558685769
+            },
+            {
+                "answer": "Passe recent",
+                "answer_length": 2,
+                "distractors": [
+                    "Indicatif present",
+                    "Imperatif",
+                    "Futur proche",
+                    "Passe compose"
+                ],
+                "language": "fr",
+                "question": "Lis et indique quel temps tu reconnais . On vient de partir .",
+                "question_length": 13,
+                "score": 0.9598988431243753
+            },
+            {
+                "answer": "Passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "Indicatif present",
+                    "Imperatif",
+                    "Futur proche",
+                    "Passe recent"
+                ],
+                "language": "fr",
+                "question": "Lis et indique quel temps tu reconnais . J'ai lu ca aussi .",
+                "question_length": 13,
+                "score": 0.9562339611679295
+            },
+            {
+                "answer": "Futur proche",
+                "answer_length": 2,
+                "distractors": [
+                    "Indicatif present",
+                    "Imparatif",
+                    "Passe recent",
+                    "Passe compose"
+                ],
+                "language": "fr",
+                "question": "Lis et indique quel temps tu reconnais . Tu vas faire ton devoir quand ?",
+                "question_length": 15,
+                "score": 0.9312193251135786
+            },
+            {
+                "answer": "Indicatif present",
+                "answer_length": 2,
+                "distractors": [
+                    "Imperatif",
+                    "Futur proche",
+                    "Passe recent",
+                    "Passe compose"
+                ],
+                "language": "fr",
+                "question": "Lis et indique quel temps tu reconnais . Ils ne boivent jamais de biere .",
+                "question_length": 15,
+                "score": 0.9308787960014373
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "indicatif present",
+                    "futur proche",
+                    "futur simple",
+                    "passe recent",
+                    "imparfait"
+                ],
+                "language": "fr",
+                "question": "Tu reconnais le temps ? Il est sorti vers minuit .",
+                "question_length": 11,
+                "score": 0.9260279381828482
+            },
+            {
+                "answer": "imparfait",
+                "answer_length": 1,
+                "distractors": [
+                    "indicatif present",
+                    "futur proche",
+                    "passe recent",
+                    "passe compose"
+                ],
+                "language": "fr",
+                "question": "Lis les phrases . Tu reconnais les temps ? Mets une croix . Elles pleuraient tout le temps .",
+                "question_length": 19,
+                "score": 0.9174233642536129
+            },
+            {
+                "answer": "futur proche",
+                "answer_length": 2,
+                "distractors": [
+                    "imparfait",
+                    "passe compose",
+                    "passe recent",
+                    "indicatif present",
+                    "futur simple"
+                ],
+                "language": "fr",
+                "question": "Lis les phrases suivantes . Tu reconnais quel temps ? Tu vas enfin ranger ta chambre , Bernard ?",
+                "question_length": 19,
+                "score": 0.904110811814982
+            },
+            {
+                "answer": "passe",
+                "answer_length": 1,
+                "distractors": [
+                    "present",
+                    "futur"
+                ],
+                "language": "fr",
+                "question": "Passe ? Present ? Futur ? Indique la bonne solution . Il a achete une nouvelle voiture .",
+                "question_length": 18,
+                "score": 0.8988891727692314
+            },
+            {
+                "answer": "Passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "Indicatif present",
+                    "Imperatif",
+                    "Futur proche",
+                    "Passe recent"
+                ],
+                "language": "fr",
+                "question": "Lis et indique quel temps tu reconnais . Line a repondu a sa lettre .",
+                "question_length": 15,
+                "score": 0.8973283332457489
+            }
+        ]
+    }
+}

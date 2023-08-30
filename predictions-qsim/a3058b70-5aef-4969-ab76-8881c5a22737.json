@@ -1,0 +1,127 @@
+{
+    "qid": "a3058b70-5aef-4969-ab76-8881c5a22737",
+    "response": {
+        "Query": "Choisissez l'article correct . ... glace",
+        "Result": [
+            {
+                "answer": "l'horaire",
+                "answer_length": 1,
+                "distractors": [
+                    "tu"
+                ],
+                "language": "nl",
+                "question": "Lis les phrases et reponds . Lees de zinnen en antwoord . - Tu as regarde l'horaire ? degrees Non , je ne l ' ai pas encore regarde . Welk woord in de eerste zin wordt vervangen door l ' ?",
+                "question_length": 42,
+                "score": 0.833692209938731
+            },
+            {
+                "answer": "une",
+                "answer_length": 1,
+                "distractors": [
+                    "un"
+                ],
+                "language": "fr",
+                "question": "Choisissez l'article correct . ... glace",
+                "question_length": 6,
+                "score": 0.7702649677148754
+            },
+            {
+                "answer": "une",
+                "answer_length": 1,
+                "distractors": [
+                    "un"
+                ],
+                "language": "fr",
+                "question": "Choisissez l'article correct . ... gare",
+                "question_length": 6,
+                "score": 0.7655086904325105
+            },
+            {
+                "answer": "un",
+                "answer_length": 1,
+                "distractors": [
+                    "une"
+                ],
+                "language": "fr",
+                "question": "Choisissez l'article correct . ... train",
+                "question_length": 6,
+                "score": 0.7385196558264612
+            },
+            {
+                "answer": "le",
+                "answer_length": 1,
+                "distractors": [
+                    "la",
+                    "les",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... frere",
+                "question_length": 6,
+                "score": 0.7367923440984546
+            },
+            {
+                "answer": "le",
+                "answer_length": 1,
+                "distractors": [
+                    "la",
+                    "l '",
+                    "les"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... voisin",
+                "question_length": 6,
+                "score": 0.7341633236016932
+            },
+            {
+                "answer": "des",
+                "answer_length": 1,
+                "distractors": [
+                    "un",
+                    "une"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... lettres",
+                "question_length": 6,
+                "score": 0.7331528692388266
+            },
+            {
+                "answer": "la",
+                "answer_length": 1,
+                "distractors": [
+                    "le",
+                    "les",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... rue",
+                "question_length": 6,
+                "score": 0.7258636825123786
+            },
+            {
+                "answer": "Sa",
+                "answer_length": 1,
+                "distractors": [
+                    "Son"
+                ],
+                "language": "fr",
+                "question": "Veuillez choisir la bonne reponse La voiture de Franck est au garage . ... voiture est au garage .",
+                "question_length": 19,
+                "score": 0.7255980511697798
+            },
+            {
+                "answer": "les",
+                "answer_length": 1,
+                "distractors": [
+                    "le",
+                    "la",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... residences",
+                "question_length": 6,
+                "score": 0.7205053687931109
+            }
+        ]
+    }
+}

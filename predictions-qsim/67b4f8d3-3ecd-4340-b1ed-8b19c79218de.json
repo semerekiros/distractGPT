@@ -1,0 +1,131 @@
+{
+    "qid": "67b4f8d3-3ecd-4340-b1ed-8b19c79218de",
+    "response": {
+        "Query": "In welke fase is het water bij het weersverschijnsel 'mist'?",
+        "Result": [
+            {
+                "answer": "samentrekking van de kamers",
+                "answer_length": 4,
+                "distractors": [
+                    "samentrekking van de boezems",
+                    "hartpauze"
+                ],
+                "language": "nl",
+                "question": "Wat gebeurt er op de afbeelding van het hart ?",
+                "question_length": 10,
+                "score": 0.941111289822229
+            },
+            {
+                "answer": "getijdenwerking",
+                "answer_length": 1,
+                "distractors": [
+                    "foerageren",
+                    "baggeren"
+                ],
+                "language": "nl",
+                "question": "Vink het juiste antwoord aan . Hoe noemt men het periodiek opkomen en terugtrekken van het zeewater ?",
+                "question_length": 18,
+                "score": 0.9197761365251007
+            },
+            {
+                "answer": "het wordt groter",
+                "answer_length": 3,
+                "distractors": [
+                    "het wordt kleiner",
+                    "het blijft hetzelfde",
+                    "het ontploft"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Een ballonnetje met een beetje lucht bevindt zich onder een vacuumklok . De lucht wordt onder de klok uit getrokken . Wat gebeurt er met het ballonnetje ?",
+                "question_length": 35,
+                "score": 0.903446172688661
+            },
+            {
+                "answer": "Impedantiewijziging",
+                "answer_length": 1,
+                "distractors": [
+                    "Open einde",
+                    "Kortsluiting",
+                    "Aftakking"
+                ],
+                "language": "nl",
+                "question": "Wat is de mogelijke oorzaak van volgende reflectie ?",
+                "question_length": 9,
+                "score": 0.8812450253727347
+            },
+            {
+                "answer": "sublimeren , verdampen , smelten",
+                "answer_length": 5,
+                "distractors": [
+                    "sublimeren , stollen , verdampen",
+                    "sublimeren , stollen , condenseren",
+                    "sublimeren , verdampen , condenseren"
+                ],
+                "language": "nl",
+                "question": "Bij welke faseovergangen gaan de materiedeeltjes verder uit elkaar ?",
+                "question_length": 10,
+                "score": 0.8282154261854036
+            },
+            {
+                "answer": "informatie geven",
+                "answer_length": 2,
+                "distractors": [
+                    "iemand amuseren",
+                    "aansporen om iets te doen",
+                    "iemand ontroeren"
+                ],
+                "language": "nl",
+                "question": "Wat is het nevendoel van de tekst ?",
+                "question_length": 8,
+                "score": 0.7688582924892783
+            },
+            {
+                "answer": "nee",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Is de horizon hier correct overtrokken ?",
+                "question_length": 7,
+                "score": 0.7435887058397728
+            },
+            {
+                "answer": "1",
+                "answer_length": 1,
+                "distractors": [
+                    "2",
+                    "3"
+                ],
+                "language": "nl",
+                "question": "Rechtsboven een computervenster staan een aantal symbolen , zoals je op de figuur kunt zien . Als je op een van die figuurtjes klikt zal het venster geminimaliseerd worden , dat wil zeggen dat je het scherm daarna niet meer kunt zien , tenzij je onderaan op de balk de juiste toepassing terug selecteert . Je sluit hierdoor de toepassing of het programma NIET af . Waar moet je op klikken om het scherm te minimaliseren ?",
+                "question_length": 77,
+                "score": 0.7257516412242802
+            },
+            {
+                "answer": "Verbindingen met gele achtergrond ",
+                "answer_length": 4,
+                "distractors": [
+                    "Verbindingen met roze achtergrond ",
+                    "Verbindingen met blauwe achtergrond ",
+                    "Verbindingen met groene achtergrond "
+                ],
+                "language": "nl",
+                "question": "Een 'elektro ' is speelgoed waarmee je vraagjes kan oplossen . Door met een aanwijskabeltje de vraag en het juiste antwoord aan te duiden , wordt een stroomkring gesloten en gaat een lampje oplichten via de batterij . De stroomkring wordt gesloten omdat op de achterkant van het antwoordblad de juiste antwoorden met draadjes verbonden zijn met elkaar . Mia neemt een vragenblad waar bij elk volwassen dier de naam van de nakomeling staat . Hoe moet je op de achterzijde van het vragenblad de draadjes verbinden ?",
+                "question_length": 88,
+                "score": 0.7221595279394721
+            },
+            {
+                "answer": "Hulpdiensten en dispatching verwittigen",
+                "answer_length": 4,
+                "distractors": [
+                    "De installatie veilig stellen"
+                ],
+                "language": "nl",
+                "question": "Bij elektrocutieongevallen op een Elia domein gaan we eerst :",
+                "question_length": 10,
+                "score": 0.7138736052924024
+            }
+        ]
+    }
+}

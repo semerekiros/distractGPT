@@ -1,0 +1,5 @@
+{
+    "qid": "92270d4d-c5b4-42a7-b07d-1890f7bbe48f",
+    "input": "Welke van volgende symptomen zijn symptomen van bronchitis? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. ontsteking van de grote luchtwegen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. ontsteking van de luchtwegen\n2. ontsteking van de kleine luchtwegen\n3. bronsslijmvlies\n4. ontsteking van de grote luchtwegen\n5. lichamelijke verzwakte\n6. ontsteking van de klein luchtwegen\n7. vochtverlies 6.\n8. ontslag\n9. verzwakte van de spiermembraanen\n10. braking"
+}

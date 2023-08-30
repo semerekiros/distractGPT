@@ -1,0 +1,131 @@
+{
+    "qid": "5acfce67-436b-4b78-af3e-944e271bd6b3",
+    "response": {
+        "Query": "Waarom worden van grote vetdruppels kleine gemaakt?",
+        "Result": [
+            {
+                "answer": "Prikkels",
+                "answer_length": 1,
+                "distractors": [
+                    "Licht",
+                    "Zintuigen",
+                    "Receptoren"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waarop reageren organismen ?",
+                "question_length": 15,
+                "score": 0.7787269908200891
+            },
+            {
+                "answer": "Ze turnen ",
+                "answer_length": 2,
+                "distractors": [
+                    "Ze koken ",
+                    "Ze zwemmen "
+                ],
+                "language": "nl",
+                "question": "Wat doen de mensen ?",
+                "question_length": 5,
+                "score": 0.7184811711708285
+            },
+            {
+                "answer": "onbepaald",
+                "answer_length": 1,
+                "distractors": [
+                    "stress",
+                    "erfelijk bepaald"
+                ],
+                "language": "nl",
+                "question": "Duid het enige correcte antwoord aan . Hoe ontstaat psoriasis ?",
+                "question_length": 11,
+                "score": 0.6990056294740862
+            },
+            {
+                "answer": "honing",
+                "answer_length": 1,
+                "distractors": [
+                    "bananen",
+                    "brood",
+                    "suikerbieten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar komen monosachariden voor ?",
+                "question_length": 12,
+                "score": 0.6438242081043529
+            },
+            {
+                "answer": "hart",
+                "answer_length": 1,
+                "distractors": [
+                    "lever",
+                    "longen",
+                    "nieren"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Trampolinespringen is goed tegen osteoporose . Welk ander orgaan verbetert hierdoor ook nog ?",
+                "question_length": 21,
+                "score": 0.6265437723105473
+            },
+            {
+                "answer": "Onvoldoende jodium in het lichaam",
+                "answer_length": 5,
+                "distractors": [
+                    "Onvoldoende thyroxine in het lichaam"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat is de oorzaak van een vergrote schildklier ?",
+                "question_length": 20,
+                "score": 0.5687447925719439
+            },
+            {
+                "answer": "nierstenen",
+                "answer_length": 1,
+                "distractors": [
+                    "blaasstenen",
+                    "niermerg",
+                    "urine"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij een tekort aan water slaan de afvalstoffen neer en vormen kristallen . Wat ontstaat dan in de nieren ?",
+                "question_length": 27,
+                "score": 0.5513432905261825
+            },
+            {
+                "answer": "spoelwater",
+                "answer_length": 1,
+                "distractors": [
+                    "afwaswater",
+                    "rioolwater"
+                ],
+                "language": "en",
+                "question": "'washing-down water ' in Dutch ?",
+                "question_length": 6,
+                "score": 0.4863238921976253
+            },
+            {
+                "answer": "micro-organismen",
+                "answer_length": 1,
+                "distractors": [
+                    "macro-organismen",
+                    "mini-organismen",
+                    "mega-organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Hoe noem je organismen die zo klein zijn dat je ze alleen onder de microscoop zichtbaar kan maken ?",
+                "question_length": 25,
+                "score": 0.4858679241497775
+            },
+            {
+                "answer": "Zwaartekracht is niet voelbaar ",
+                "answer_length": 4,
+                "distractors": [
+                    "Evenwichtszintuigen nemen geen prikkels waar "
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat is de oorzaak van ruimteziekte ?",
+                "question_length": 18,
+                "score": 0.4776714437553949
+            }
+        ]
+    }
+}

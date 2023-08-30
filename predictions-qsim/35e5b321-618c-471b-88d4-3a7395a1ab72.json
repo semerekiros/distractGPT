@@ -1,0 +1,130 @@
+{
+    "qid": "35e5b321-618c-471b-88d4-3a7395a1ab72",
+    "response": {
+        "Query": "Au camp . Complete par le bon mot . - Julie s'est blessee au pied . degrees Prends du desinfectant dans ... a pharmacie .",
+        "Result": [
+            {
+                "answer": "ma trousse",
+                "answer_length": 2,
+                "distractors": [
+                    "mon sac"
+                ],
+                "language": "fr",
+                "question": "Au camp . Complete par le bon mot . - Julie s'est blessee au pied . degrees Prends du desinfectant dans ... a pharmacie .",
+                "question_length": 25,
+                "score": 0.69845255777266
+            },
+            {
+                "answer": "actuel",
+                "answer_length": 1,
+                "distractors": [
+                    "historique",
+                    "recent"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne reponse . C'est un roman contemporain .",
+                "question_length": 10,
+                "score": 0.5326889417406198
+            },
+            {
+                "answer": "developper",
+                "answer_length": 1,
+                "distractors": [
+                    "illustrer",
+                    "defendre"
+                ],
+                "language": "fr",
+                "question": "Que signifie `` donner corps a quelque chose '' ? Ton idee est bonne , mais tu devrais lui donner davantage corps pour la rendre credible .",
+                "question_length": 27,
+                "score": 0.5165543904642368
+            },
+            {
+                "answer": "a Caroline",
+                "answer_length": 2,
+                "distractors": [
+                    "a Manu et Benjamin",
+                    "a Caroline et Berna"
+                ],
+                "language": "fr",
+                "question": "Qu'est-ce que le mot en gras remplace ? Cochez la bonne reponse . Nous lui expliquons comment elle doit preparer ce plat .",
+                "question_length": 23,
+                "score": 0.4875180975180721
+            },
+            {
+                "answer": "Les paysages",
+                "answer_length": 2,
+                "distractors": [
+                    "Les habitants",
+                    "Les activites"
+                ],
+                "language": "fr",
+                "question": "Ce que nous aimons tout particulierement Aurelie et moi se sont :",
+                "question_length": 12,
+                "score": 0.46501719936290453
+            },
+            {
+                "answer": "delais",
+                "answer_length": 1,
+                "distractors": [
+                    "retards",
+                    "detours",
+                    "devinettes"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne reponse Lisez la phrase et completez-la en choisissant le terme adequat Le respect des ... est primordial pour nous .",
+                "question_length": 23,
+                "score": 0.4299374853150844
+            },
+            {
+                "answer": "une epicerie",
+                "answer_length": 2,
+                "distractors": [
+                    "un supermarche",
+                    "une grande surface",
+                    "un libre-service"
+                ],
+                "language": "fr",
+                "question": "Choisissez le mot qui ne pourrait pas remplacer le mot en gras . Je prefere faire mes achats aupres d ' un hypermarche .",
+                "question_length": 24,
+                "score": 0.41212778549543694
+            },
+            {
+                "answer": "Chat",
+                "answer_length": 1,
+                "distractors": [
+                    "Chien",
+                    "Oiseau"
+                ],
+                "language": "en",
+                "question": "Quel Animal Miaule ?",
+                "question_length": 4,
+                "score": 0.40187235970380036
+            },
+            {
+                "answer": "le danger",
+                "answer_length": 2,
+                "distractors": [
+                    "le safari",
+                    "la stalagmite",
+                    "le guide"
+                ],
+                "language": "fr",
+                "question": "Quel mot n'est pas a sa place ? les Grottes de Han",
+                "question_length": 12,
+                "score": 0.3843461813188466
+            },
+            {
+                "answer": "dur",
+                "answer_length": 1,
+                "distractors": [
+                    "sale",
+                    "dangereux"
+                ],
+                "language": "fr",
+                "question": "Completez les phrases . Indiquez le mot correct . Le marathon de New York est tres ... .",
+                "question_length": 18,
+                "score": 0.37527918309048525
+            }
+        ]
+    }
+}

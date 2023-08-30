@@ -1,0 +1,5 @@
+{
+    "qid": "2000e80f-35ff-4571-9b05-d30a45fce092",
+    "input": "question: Cochez l'article correct . ... pere\nr\u00e9pondre: un\nr\u00e9ponses incorrectes: \n1. une\n2. des\n\nquestion: Cochez l'article correct . ... frere\nr\u00e9pondre: un\nr\u00e9ponses incorrectes: \n1. une\n2. des\n\nquestion: Cochez l'article correct . ... mere\nr\u00e9pondre: une\nr\u00e9ponses incorrectes: \n1. un\n2. des\n\nquestion: Cochez l'article correct . ... tennis\nr\u00e9pondre: le\nr\u00e9ponses incorrectes: \n1. la\n2. l '\n3. les\n\nquestion: Cochez l'article correct . ... animaux\nr\u00e9pondre: les\nr\u00e9ponses incorrectes: \n1. le\n2. la\n3. l '\n\nquestion: : Cochez l'article correct . ... pere\nr\u00e9pondre: : un\nG\u00e9n\u00e9rez 20 r\u00e9ponses incorrectes: ",
+    "response": "\n\n1. une\n2. des\n3. le\n4. la\n5. l'\n6. les\n7. ce\n8. cet\n9. cette\n10. ceux\n11. celles\n12. quelques\n13. plusieurs\n14. aucun\n15. tout\n16. toute\n17. son\n18. sa\n19. leurs\n20. mes"
+}

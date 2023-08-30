@@ -1,0 +1,136 @@
+{
+    "qid": "5245c95d-b0b7-4562-ac53-5b22bf54b750",
+    "response": {
+        "Query": "Welke periode komt overeen met het Nieuwe Rijk van Egypte?",
+        "Result": [
+            {
+                "answer": "de Romeinse periode",
+                "answer_length": 3,
+                "distractors": [
+                    "de prehistorische periode",
+                    "de Egyptische periode",
+                    "de Myceense periode"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op welke periode lijkt deze afbeelding van een Grieks beeldhouwwerk het meest ?",
+                "question_length": 20,
+                "score": 0.9953211510704432
+            },
+            {
+                "answer": "Het classicisme",
+                "answer_length": 2,
+                "distractors": [
+                    "De middeleeuwen",
+                    "De renaissance en het humanisme",
+                    "De verlichting"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Tot welke literaire periode behoort deze tekst ?",
+                "question_length": 15,
+                "score": 0.991782753949015
+            },
+            {
+                "answer": "middeleeuwen",
+                "answer_length": 1,
+                "distractors": [
+                    "klassieke oudheid",
+                    "nieuwe tijd",
+                    "eigen tijd"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode werd deze kaart gemaakt en gebruikt ?",
+                "question_length": 17,
+                "score": 0.9902903766316731
+            },
+            {
+                "answer": "prehistorie",
+                "answer_length": 1,
+                "distractors": [
+                    "stroomculturen",
+                    "klassieke oudheid",
+                    "middeleeuwen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke historische periode werd het paleis van Minos gebouwd ? Het paleis is ongeveer 4000 jaar oud .",
+                "question_length": 26,
+                "score": 0.9897462087977258
+            },
+            {
+                "answer": "De verlichting",
+                "answer_length": 2,
+                "distractors": [
+                    "De middeleeuwen",
+                    "De renaissance en het humanisme",
+                    "Het classicisme"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In de tekst heeft de spreker het over de Encyclopedie de Diderot . Naar welke periode in de literatuurgeschiedenis verwijst hij dan ?",
+                "question_length": 30,
+                "score": 0.9892683657866327
+            },
+            {
+                "answer": "hellenistische periode",
+                "answer_length": 2,
+                "distractors": [
+                    "archaische periode",
+                    "klassieke periode",
+                    "laatromeinse periode"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Dit kunstwerk komt uit de Griekse beeldhouwkunst . De Griekse beeldhouwkunst wordt onderverdeeld in verschillende periodes . Tot welke periode behoort dit kunstwerk ?",
+                "question_length": 31,
+                "score": 0.9891764923728017
+            },
+            {
+                "answer": "de Egyptische periode",
+                "answer_length": 3,
+                "distractors": [
+                    "de prehistorische periode",
+                    "de Myceense periode",
+                    "de Romeinse periode"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Dit Grieks beeldhouwwerk lijkt op beeldhouwkunst uit een andere periode . Uit welke periode ?",
+                "question_length": 22,
+                "score": 0.9835093309305173
+            },
+            {
+                "answer": "Tijdens de Onafhankelijkheidsoorlog van 1948",
+                "answer_length": 5,
+                "distractors": [
+                    "Tijdens de Tweede Wereldoorlog"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Rond welke periode situeer je de gebeurtenissen waarover deze tekst gaat ? De Israelische historicus Ilan Pappe doceert geschiedenis aan de universiteit van Exeter . Hij verdiept zich in de geschiedenis van het Midden-Oosten . Hij stelt dat in de periode ( ... . ) een etnische zuivering heeft plaatsgevonden . Haifa werd gekozen als eerste stedelijke doel . Vanaf de ochtend nadat de Resolutie van de VN-verdeling werd goedgekeurd , werden de 75000 Palestijnen in de stad aan een campagne van verschrikking onderworpen die door joodse militaire eenheden werd opgezet . Omdat zij slechts in de laatste decennia waren gearriveerd , hadden de joodse kolonisten hun huizen hoger op de berg gebouwd . Aldus leefden zij topografisch boven de Arabische buurten en konden ze die gemakkelijk beschieten . Dat waren ze begin december geregeld beginnen doen . Zij gebruikten ook andere methodes om te intimideren . De joodse troepen rolden vaten vol explosieven , en reusachtige stalen ballen naar beneden tot in de Arabische woongebieden en goten met brandstof gemengde olie op de wegen en staken ze in brand . Wanneer de door paniek overmande Palestijnse bewoners uit hun huizen kwamen gestormd om dat vuur te doven , werden zij beschoten door machinegeweren . Op gebieden waar er meer interactie was tussen de twee gemeenschappen , brachten de joden auto 's naar Palestijnse garages om te worden hersteld . Ze waren geladen met explosieven en veroorzaakten zo dood en chaos . ( Ilan Pappe . The ethnic cleansing of Palestine , 2006 )",
+                "question_length": 261,
+                "score": 0.9816771447434325
+            },
+            {
+                "answer": "nieuwste tijd",
+                "answer_length": 2,
+                "distractors": [
+                    "middeleeuwen",
+                    "nieuwe tijd",
+                    "eigen tijd"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke historische periode is dit schilderij van Goya gemaakt ? Het werd geschilderd in 1814 . Op het schilderij zie je hoe Spaanse opstandelingen door de soldaten van Napoleon worden gedood .",
+                "question_length": 40,
+                "score": 0.9778989898596174
+            },
+            {
+                "answer": "13e eeuw",
+                "answer_length": 2,
+                "distractors": [
+                    "12e eeuw",
+                    "14e eeuw",
+                    "15e eeuw"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke eeuw situeer je de ondertekening van de magna charta in Engeland ?",
+                "question_length": 21,
+                "score": 0.9756123985115047
+            }
+        ]
+    }
+}

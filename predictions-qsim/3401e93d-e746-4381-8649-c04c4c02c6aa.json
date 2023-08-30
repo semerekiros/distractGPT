@@ -1,0 +1,138 @@
+{
+    "qid": "3401e93d-e746-4381-8649-c04c4c02c6aa",
+    "response": {
+        "Query": "Welke lijn deelt de wereld in het noordelijk en zuidelijk halfrond?",
+        "Result": [
+            {
+                "answer": "bissectrice",
+                "answer_length": 1,
+                "distractors": [
+                    "hoogtelijn",
+                    "middelloodlijn",
+                    "zwaartelijn"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke merkwaardige lijn is de rechte BE in de driehoek ABC ?",
+                "question_length": 19,
+                "score": 0.824814244930918
+            },
+            {
+                "answer": "middelloodlijn",
+                "answer_length": 1,
+                "distractors": [
+                    "bissectrice",
+                    "hoogtelijn",
+                    "zwaartelijn"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke merkwaardige lijn is de rechte FG in de driehoek ABC ?",
+                "question_length": 19,
+                "score": 0.8012003780201699
+            },
+            {
+                "answer": "zwaartelijn",
+                "answer_length": 1,
+                "distractors": [
+                    "hoogtelijn",
+                    "middelloodlijn"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Vul het ontbrekende woord in . De rechte die door een hoekpunt van een driehoek gaat en door het midden van de overstaande zijde noemen we een ... van de driehoek .",
+                "question_length": 38,
+                "score": 0.7792637571611046
+            },
+            {
+                "answer": "zwaartelijn",
+                "answer_length": 1,
+                "distractors": [
+                    "bissectrice",
+                    "hoogtelijn",
+                    "middelloodlijn"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke merkwaardige lijn is de rechte AF in de driehoek ABC ?",
+                "question_length": 19,
+                "score": 0.7524766341106824
+            },
+            {
+                "answer": "hoogtelijn",
+                "answer_length": 1,
+                "distractors": [
+                    "bissectrice",
+                    "middelloodlijn",
+                    "zwaartelijn"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke merkwaardige lijn is de rechte CD in de driehoek ABC ?",
+                "question_length": 19,
+                "score": 0.7157775136298328
+            },
+            {
+                "answer": "O",
+                "answer_length": 1,
+                "distractors": [
+                    "ZO",
+                    "ZW",
+                    "W",
+                    "NW",
+                    "NO"
+                ],
+                "language": "nl",
+                "question": "Waar ligt punt E gezien vanaf punt A ?",
+                "question_length": 9,
+                "score": 0.5670852220862016
+            },
+            {
+                "answer": "Frequentiecurve",
+                "answer_length": 1,
+                "distractors": [
+                    "Hoge en lage tonen",
+                    "Echo"
+                ],
+                "language": "nl",
+                "question": "Combineer de elementen uit de rechterkolom juist met de elementen uit de linkerkolom door ze te verslepen . De lijnen die hieronder staan afgebeeld staan voor ?",
+                "question_length": 27,
+                "score": 0.4879533609477711
+            },
+            {
+                "answer": "Bissectrice",
+                "answer_length": 1,
+                "distractors": [
+                    "Hoogtelijn",
+                    "Middelloodlijn",
+                    "Zwaartelijn"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke merkwaardige lijn is op deze tekening te zien ?",
+                "question_length": 17,
+                "score": 0.4654076122192362
+            },
+            {
+                "answer": "[ FD ]",
+                "answer_length": 3,
+                "distractors": [
+                    "[ BD ]",
+                    "[ CD ]",
+                    "[ ED ]"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke lijnstuk toont de juiste afstand van D tot [ BC ] ?",
+                "question_length": 20,
+                "score": 0.42128328627627476
+            },
+            {
+                "answer": "No ordpoolcirkel",
+                "answer_length": 2,
+                "distractors": [
+                    "Zuidpoolcirkel",
+                    "Kreeftskeerkring",
+                    "Seenbokskeerkring"
+                ],
+                "language": "nl",
+                "question": "Kies het enige juiste antwoord . Welke aardrijkskundige lijn bevindt zich op 66 degrees 33 ' N ? Gebruik hiervoor je atlas .",
+                "question_length": 23,
+                "score": 0.3345968268537034
+            }
+        ]
+    }
+}

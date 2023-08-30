@@ -1,0 +1,127 @@
+{
+    "qid": "444a53ef-ce4f-4212-b536-7dfc69eb3dfe",
+    "response": {
+        "Query": "Wat wordt uitgedrukt in decibel?",
+        "Result": [
+            {
+                "answer": "Neen , dit is verboden ",
+                "answer_length": 5,
+                "distractors": [
+                    "Ja , dat mag zeker "
+                ],
+                "language": "nl",
+                "question": "Mag je met de RD4000 een HS-kabel onder spanning opzoeken ?",
+                "question_length": 11,
+                "score": 0.7003264620701021
+            },
+            {
+                "answer": "U = 87,5V",
+                "answer_length": 3,
+                "distractors": [
+                    "U = 42V",
+                    "U = 130V"
+                ],
+                "language": "nl",
+                "question": "De lichaamsweerstand van een persoon is 3500Omega . Dit organisme kan 25mA zonder enig letsel verdragen . Welke spanning is dan net toelaatbaar ?",
+                "question_length": 24,
+                "score": 0.6855666831170272
+            },
+            {
+                "answer": "Glucose ",
+                "answer_length": 1,
+                "distractors": [
+                    "Ketonen ",
+                    "Hb "
+                ],
+                "language": "nl",
+                "question": "Wat wordt er gemeten met het Accu-Chek Inform II system ?",
+                "question_length": 11,
+                "score": 0.5267430429646157
+            },
+            {
+                "answer": "omgekeerd , reeel en scherp",
+                "answer_length": 5,
+                "distractors": [
+                    "rechtopstaand , reeel en scherp",
+                    "rechtopstaand , virtueel en wazig",
+                    "omgekeerd , virtueel en wazig"
+                ],
+                "language": "nl",
+                "question": "Welke zijn de eigenschappen van het beeld bij een camera obscura met een puntvormige opening ?",
+                "question_length": 16,
+                "score": 0.5161873843042266
+            },
+            {
+                "answer": "... zich richting plafond bewegen ",
+                "answer_length": 5,
+                "distractors": [
+                    "... zich richting vloer bewegen "
+                ],
+                "language": "nl",
+                "question": "Wanneer zich in een lokaal een aardgaslek voordoet , zal het gas dat ontsnapt ...",
+                "question_length": 15,
+                "score": 0.5152261367472968
+            },
+            {
+                "answer": "MHz",
+                "answer_length": 1,
+                "distractors": [
+                    "RAM",
+                    "XML",
+                    "GB"
+                ],
+                "language": "nl",
+                "question": "De kloksnelheid van de processor wordt weergegeven in :",
+                "question_length": 9,
+                "score": 0.36013579497304343
+            },
+            {
+                "answer": "1 00 %",
+                "answer_length": 3,
+                "distractors": [
+                    "0 %",
+                    "50 %",
+                    "75 %"
+                ],
+                "language": "nl",
+                "question": "... /3 punten Het personeel van een Belgisch bedrijf gevestigd in Luik is werkzaam op een werf in Oostende . Is de btw op de hotelkosten van de personeelsleden aftrekbaar ? Het bedrijf ontvangt een regelmatige factuur . De btw-aftrek is :",
+                "question_length": 42,
+                "score": 0.33871341911697417
+            },
+            {
+                "answer": "50 Hz",
+                "answer_length": 2,
+                "distractors": [
+                    "60 Hz",
+                    "60 kVA"
+                ],
+                "language": "nl",
+                "question": "Welke frequentie heeft de spanning van een stopcontact ?",
+                "question_length": 9,
+                "score": 0.3035335159551791
+            },
+            {
+                "answer": "er is geen nieuwslead",
+                "answer_length": 4,
+                "distractors": [
+                    "er is geen kop"
+                ],
+                "language": "nl",
+                "question": "Typisch voor de structuur van een sfeerverslag is :",
+                "question_length": 9,
+                "score": 0.28248401109936844
+            },
+            {
+                "answer": "Neen , dit is verboden ",
+                "answer_length": 5,
+                "distractors": [
+                    "Ja , dit mag zeker "
+                ],
+                "language": "nl",
+                "question": "Mag je met een Vloc Pro SD en een zendtang een HS-kabel onder spanning lokaliseren ?",
+                "question_length": 16,
+                "score": 0.2515197297870506
+            }
+        ]
+    }
+}

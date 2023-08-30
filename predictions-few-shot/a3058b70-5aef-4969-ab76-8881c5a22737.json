@@ -1,0 +1,5 @@
+{
+    "qid": "a3058b70-5aef-4969-ab76-8881c5a22737",
+    "input": "question: Lis les phrases et reponds . Lees de zinnen en antwoord . - Tu as regarde l'horaire ? degrees Non , je ne l ' ai pas encore regarde . Welk woord in de eerste zin wordt vervangen door l ' ?\nr\u00e9pondre: l'horaire\nr\u00e9ponses incorrectes: \n1. tu\n\nquestion: Choisissez l'article correct . ... glace\nr\u00e9pondre: une\nr\u00e9ponses incorrectes: \n1. un\n\nquestion: Choisissez l'article correct . ... gare\nr\u00e9pondre: une\nr\u00e9ponses incorrectes: \n1. un\n\nquestion: Choisissez l'article correct . ... train\nr\u00e9pondre: un\nr\u00e9ponses incorrectes: \n1. une\n\nquestion: Choisis l'article correct . ... frere\nr\u00e9pondre: le\nr\u00e9ponses incorrectes: \n1. la\n2. les\n3. l '\n\nquestion: : Choisissez l'article correct . ... glace\nr\u00e9pondre: : une\nG\u00e9n\u00e9rez 20 r\u00e9ponses incorrectes: ",
+    "response": "1. le\n2. la\n3. les\n4. des\n5. du\n6. de la\n7. d'une\n8. l'\n9. un\n10. ce\n11. cette\n12. ces\n13. mes\n14. tes\n15. ses\n16. notre\n17. votre\n18. leur\n19. quelques\n20. plusieurs"
+}

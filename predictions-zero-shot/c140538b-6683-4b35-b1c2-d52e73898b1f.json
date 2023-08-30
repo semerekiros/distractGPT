@@ -1,0 +1,5 @@
+{
+    "qid": "c140538b-6683-4b35-b1c2-d52e73898b1f",
+    "input": "question: Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . I would like to _______________ our meeting to this Wednesday rather than next week , if that 's alright with you .\nanswer: back up\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. bring forward\n2. delay\n3. reschedule\n4. cancel\n5. push out\n6. hold off\n7. move up\n8. put off\n9. advance\n10. adjourn\n11. extend\n12. suspend\n13. defer\n14. shift\n15. stretch\n16. prolong\n17. procrastinate\n18. procrastinate\n19. procrastinate\n20. procrastinate"
+}

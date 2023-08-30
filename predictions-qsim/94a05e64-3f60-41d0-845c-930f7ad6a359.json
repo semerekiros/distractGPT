@@ -1,0 +1,132 @@
+{
+    "qid": "94a05e64-3f60-41d0-845c-930f7ad6a359",
+    "response": {
+        "Query": "Welke autosnelweg ligt er tussen Namen en Aarlen?",
+        "Result": [
+            {
+                "answer": "E40",
+                "answer_length": 1,
+                "distractors": [
+                    "E17",
+                    "E34",
+                    "E42"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke autosnelweg loopt door 4 Belgische provincies ?",
+                "question_length": 15,
+                "score": 0.26130028722887577
+            },
+            {
+                "answer": "E40",
+                "answer_length": 1,
+                "distractors": [
+                    "E19",
+                    "E17",
+                    "E411",
+                    "E311",
+                    "E42"
+                ],
+                "language": "nl",
+                "question": "Welke snelweg is op onderstaande kaart met rood overtrokken ?",
+                "question_length": 10,
+                "score": 0.17600397612296026
+            },
+            {
+                "answer": "Atomium in Brussel",
+                "answer_length": 3,
+                "distractors": [
+                    "ijzertoren in Diksmuide",
+                    "Eiffeltoren in Parijs"
+                ],
+                "language": "nl",
+                "question": "Welke van de opgesomde gebouwen is een macroscopische voorstelling van het ijzerkristal ?",
+                "question_length": 13,
+                "score": 0.0984328920121296
+            },
+            {
+                "answer": "een elektrische verwarming",
+                "answer_length": 3,
+                "distractors": [
+                    "een broodrooster",
+                    "een strijkijzer"
+                ],
+                "language": "nl",
+                "question": "Welk toestel heeft het grootste vermogen ?",
+                "question_length": 7,
+                "score": 0.06890709184369657
+            },
+            {
+                "answer": "voor treincontainers conform IATA regels",
+                "answer_length": 5,
+                "distractors": [
+                    "spoorwegcontract",
+                    "voor computer geleid vervoer"
+                ],
+                "language": "nl",
+                "question": "Wat zijn 'teco lines ' ?",
+                "question_length": 6,
+                "score": 0.06886211229803774
+            },
+            {
+                "answer": "Spider",
+                "answer_length": 1,
+                "distractors": [
+                    "lada",
+                    "3008"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse Quelle voiture est une Ferrari",
+                "question_length": 9,
+                "score": 0.05943115848802205
+            },
+            {
+                "answer": "high in a tower",
+                "answer_length": 4,
+                "distractors": [
+                    "on the ground floor",
+                    "near Mumbai",
+                    "in a concrete block"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Where is Mr Bashin 's office located ?",
+                "question_length": 13,
+                "score": 0.03400436736124929
+            },
+            {
+                "answer": "Een spaarlamp ",
+                "answer_length": 2,
+                "distractors": [
+                    "Een strijkijzer ",
+                    "Een droogkast "
+                ],
+                "language": "nl",
+                "question": "Welk toestel heeft het kleinste vermogen ?",
+                "question_length": 7,
+                "score": 0.0236447743418408
+            },
+            {
+                "answer": "Rockville",
+                "answer_length": 1,
+                "distractors": [
+                    "Chicago",
+                    "Baltimore"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate answer . Where is the main ARDMS office located ?",
+                "question_length": 13,
+                "score": 0.014440946095199941
+            },
+            {
+                "answer": "Op een exclusief prive terrein ",
+                "answer_length": 5,
+                "distractors": [
+                    "In een camping "
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Op welke plaats mag een motorrijtuig rijden zonder aansprakelijkheidsverzekering ?",
+                "question_length": 16,
+                "score": 0.011218596958355021
+            }
+        ]
+    }
+}

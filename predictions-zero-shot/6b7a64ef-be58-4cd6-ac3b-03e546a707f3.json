@@ -1,0 +1,5 @@
+{
+    "qid": "6b7a64ef-be58-4cd6-ac3b-03e546a707f3",
+    "input": "vraag: In welk halfrond ligt Kaapstad?\nantwoord: zuidelijk halfrond\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. noordelijk halfrond\n2. oostelijk halfrond\n3. westelijk halfrond\n4. equatoriale halfrond\n5. noordoostelijk halfrond\n6. noordwestelijk halfrond\n7. zuidoostelijk halfrond\n8. zuidwestelijk halfrond\n9. Antarctisch halfrond\n10. Arctisch halfrond\n11. Noordpool halfrond\n12. Zuidpool halfrond\n13. Tropisch halfrond\n14. Boreaal halfrond\n15. Austral halfrond\n16. Gematigd halfrond\n17. Subarctisch halfrond\n18. Polair halfrond\n19. Woestijn halfrond\n20. Regenwoud halfrond"
+}

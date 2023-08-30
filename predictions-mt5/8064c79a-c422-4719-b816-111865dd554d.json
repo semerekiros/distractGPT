@@ -1,0 +1,5 @@
+{
+    "qid": "8064c79a-c422-4719-b816-111865dd554d",
+    "input": "Hoe snel kon het snelste commerci\u00eble vliegtuig ooit vliegen? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 2000 km/u\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 1000 km/u\n2. 1500 km/u\n3. 2000 u\n4. 3000 km/u\n5. 3000 g/s\n6. 4000 km/u\n7. 3200 l/o\n8. 4800 km/u\n9. 4000 i/n 7.\n10. 5000 km/u"
+}

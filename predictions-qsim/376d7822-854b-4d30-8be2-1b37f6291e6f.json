@@ -1,0 +1,120 @@
+{
+    "qid": "376d7822-854b-4d30-8be2-1b37f6291e6f",
+    "response": {
+        "Query": "Situeer de Hallstatt-periode in de tijd.",
+        "Result": [
+            {
+                "answer": "passieve vorm",
+                "answer_length": 2,
+                "distractors": [
+                    "actieve vorm"
+                ],
+                "language": "nl",
+                "question": "Vink het goede antwoord aan . Sinds de elfde eeuw is de taalgrens zelfs betrekkelijk vast gebleven , ongeveer zoals nu .",
+                "question_length": 22,
+                "score": 0.9979120271201911
+            },
+            {
+                "answer": "Nee",
+                "answer_length": 1,
+                "distractors": [
+                    "Ja",
+                    "Weet niet"
+                ],
+                "language": "nl",
+                "question": "Beoordeel de uitspraak . Bepaal of deze waar is of dat je dit niet kunt weten op basis van de tabel . De spreekuren van dokter Lindemans zijn blauw gekleurd .",
+                "question_length": 31,
+                "score": 0.9965291139071534
+            },
+            {
+                "answer": "figuurlijk",
+                "answer_length": 1,
+                "distractors": [
+                    "letterlijk"
+                ],
+                "language": "nl",
+                "question": "Is het vetgedrukte gedeelte letterlijk of figuurlijk gebruikt ? Tijdens de ondervraging viel de overvaller door de mand .",
+                "question_length": 19,
+                "score": 0.9957923624726766
+            },
+            {
+                "answer": "actieve vorm",
+                "answer_length": 2,
+                "distractors": [
+                    "passieve vorm"
+                ],
+                "language": "nl",
+                "question": "Vink het goede antwoord aan . Belangrijke auteurs hebben in dat dialect geschreven .",
+                "question_length": 14,
+                "score": 0.9957288643140572
+            },
+            {
+                "answer": "actieve vorm",
+                "answer_length": 2,
+                "distractors": [
+                    "passieve vorm"
+                ],
+                "language": "nl",
+                "question": "Vink het goede antwoord aan . In de zestiende eeuw braken er bij ons vreselijke godsdiensttwisten uit ten gevolge van het ontstaan van het protestantisme .",
+                "question_length": 26,
+                "score": 0.9956858583890588
+            },
+            {
+                "answer": "actieve vorm",
+                "answer_length": 2,
+                "distractors": [
+                    "passieve vorm"
+                ],
+                "language": "nl",
+                "question": "Vink het goede antwoord aan . Onze fameuze taalgrens vindt dus omstreeks de derde eeuw haar ontstaan .",
+                "question_length": 18,
+                "score": 0.9954253752847234
+            },
+            {
+                "answer": "letterlijk",
+                "answer_length": 1,
+                "distractors": [
+                    "figuurlijk"
+                ],
+                "language": "nl",
+                "question": "Is het vetgedrukte gedeelte letterlijk of figuurlijk gebruikt ? Mama zei dat ik een das moest omdoen wanneer ik buiten ging .",
+                "question_length": 22,
+                "score": 0.9942714783648293
+            },
+            {
+                "answer": "Benjamin 's",
+                "answer_length": 2,
+                "distractors": [
+                    "Ania 's",
+                    "Anns"
+                ],
+                "language": "nl",
+                "question": "Ania 's broer reisde met Anns zus het land rond met een show die ze Benjamin 's Kindershow noemden .",
+                "question_length": 20,
+                "score": 0.9940418516585814
+            },
+            {
+                "answer": "WWG",
+                "answer_length": 1,
+                "distractors": [
+                    "NWG"
+                ],
+                "language": "nl",
+                "question": "Bevat de vetgedrukte zin een WWG of een NWG ? Grootste voetbalzege ooit De voetbalinterland Australie tegen Amerikaans-Samoa had de grootste uitslag die ooit heeft plaatsgevonden tussen twee bij de FIFA aangesloten landen . De wedstrijd eindigde op 11 april 2001 in een 31-0 overwinning voor Australie . Daarmee is de match opgenomen in het Guinness Book of Records . Archie Thompson scoorde in deze wedstrijd 13 maal . Ook dat is een wereldrecord . Deze interland vond plaats in het kader van kwalificatie voor het Wereldkampioenschap voetbal 2002 in Zuid-Korea en Japan . Zowel Australie als Amerikaans-Samoa kwalificeerde zich niet voor het mondiale eindtoernooi . Amerikaans-Samoa eindigde laatste in poule 1 , Australie werd in de intercontinentale eindronde uitgeschakeld door Uruguay . Tot op heden is dit de meest overtuigende zege uit onze voetbalgeschiedenis .",
+                "question_length": 136,
+                "score": 0.9937234525965022
+            },
+            {
+                "answer": "figuurlijk",
+                "answer_length": 1,
+                "distractors": [
+                    "letterlijk"
+                ],
+                "language": "nl",
+                "question": "Is het vetgedrukte gedeelte letterlijk of figuurlijk gebruikt ? Na deze overwinning zit Club Brugge op rozen .",
+                "question_length": 18,
+                "score": 0.9914671322835884
+            }
+        ]
+    }
+}

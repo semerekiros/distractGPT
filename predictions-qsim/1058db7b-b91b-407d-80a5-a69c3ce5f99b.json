@@ -1,0 +1,138 @@
+{
+    "qid": "1058db7b-b91b-407d-80a5-a69c3ce5f99b",
+    "response": {
+        "Query": "Sommige drugs zijn verdovend, andere zijn stimulerend en geven de gebruiker een kick. Welke van deze drugs zijn stimulerend?",
+        "Result": [
+            {
+                "answer": "O/W-creme",
+                "answer_length": 1,
+                "distractors": [
+                    "W/O-creme",
+                    "pasta",
+                    "zalf"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke galenische vorm uit dit rijtje krijgt de voorkeur bij de behandeling van een vette huid ?",
+                "question_length": 24,
+                "score": 0.8686875912448757
+            },
+            {
+                "answer": "Morfine",
+                "answer_length": 1,
+                "distractors": [
+                    "een placebo",
+                    "Atropine",
+                    "Cortisone",
+                    "Tramadol"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Een palliatieve , terminale patient heeft ernstige pijnklachten . Hij krijgt 3x daags paracetamol en een NSAID . De behandelende arts vraagt jouw mening voor bijkomende pijnstilling . Wat stel je voor ?",
+                "question_length": 38,
+                "score": 0.8339808965703679
+            },
+            {
+                "answer": "paracetamol",
+                "answer_length": 1,
+                "distractors": [
+                    "acetylsalicylzuur",
+                    "nurofen",
+                    "dafalgan-codeine"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Een zwangere vrouw voelt zich grieperig en wil de symptomen van hoofdpijn verlichten . Welke pijnstiller is hier eerste keus ?",
+                "question_length": 28,
+                "score": 0.7290958672707009
+            },
+            {
+                "answer": "coughing",
+                "answer_length": 1,
+                "distractors": [
+                    "cancer",
+                    "HIV / AIDS",
+                    "Diabetes"
+                ],
+                "language": "en",
+                "question": "Which of the following is not a terminal illness .",
+                "question_length": 10,
+                "score": 0.719440010842934
+            },
+            {
+                "answer": "perdolan",
+                "answer_length": 1,
+                "distractors": [
+                    "aspirine",
+                    "diclofenac",
+                    "nurofen"
+                ],
+                "language": "af",
+                "question": "Duid het enige juiste antwoord aan . Welk analgeticum bezit geen anti-inflammatoir effect ?",
+                "question_length": 14,
+                "score": 0.7185520066357545
+            },
+            {
+                "answer": "chloorhexidine",
+                "answer_length": 1,
+                "distractors": [
+                    "eosine",
+                    "iso-betadine",
+                    "waterstofperoxide"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hieronder kan je een korte omschrijving terugvinden van 4 verschillende soorten ontsmettingsmiddelen voor de huid . Welke van de volgende ontsmettingsmiddelen is het meest ideale ontsmettingsmiddel ? Eosine : uitdrogende werking weinig bacteriedodend gekleurd Chloorhexidine : breed spectrum actief in aanwezigheid van bloed weinig irriterend kleurloos Iso-betadine : breed spectrum weinig irriterend gekleurd Waterstofperoxide : goede reinigende werking kleurloos oxiderende eigenschappen",
+                "question_length": 68,
+                "score": 0.7154220999726375
+            },
+            {
+                "answer": "Marfan 's Syndrome",
+                "answer_length": 3,
+                "distractors": [
+                    "DiGeorge Syndrome",
+                    "Edward Syndrome"
+                ],
+                "language": "en",
+                "question": "Which of the following is considered an indication for performing an Abdominal Aortic Aneurysm screening ultrasound ?",
+                "question_length": 17,
+                "score": 0.6885148332328355
+            },
+            {
+                "answer": "spiriva ( r )",
+                "answer_length": 4,
+                "distractors": [
+                    "allergodil ( r )",
+                    "avamis ( r )",
+                    "nesivine ( r )"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Een persoon heeft elk jaar last van een seizoensgebonden rinitis met continue klachten . Volgende geneesmiddelen zijn nog in zijn thuisapotheek aanwezig : Allergodil ( r ) - Avamis ( r ) - Nesivine ( r ) - Spiriva ( r ) Welk van deze 4 geneesmiddelen zal niet helpen tegen het probleem volgens volgend stroomdiagram ?",
+                "question_length": 64,
+                "score": 0.6812364738653058
+            },
+            {
+                "answer": "lotion",
+                "answer_length": 1,
+                "distractors": [
+                    "creme",
+                    "zalf",
+                    "scrub"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk vrij vloeibaar reinigingsmiddel bezit micellen die vet kunnen binden en vervolgens makkelijk van de huid verwijderd kan worden ?",
+                "question_length": 27,
+                "score": 0.664925076805938
+            },
+            {
+                "answer": "fucidine",
+                "answer_length": 1,
+                "distractors": [
+                    "chloramine",
+                    "hibitane",
+                    "sterilon"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk van de volgende ontsmettingsproducten voor de huid bevat antibiotica ?",
+                "question_length": 18,
+                "score": 0.656941329208967
+            }
+        ]
+    }
+}

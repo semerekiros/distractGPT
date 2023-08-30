@@ -1,0 +1,5 @@
+{
+    "qid": "66950e06-18de-450a-93ab-09155a248367",
+    "input": "Welke soort kaart is de kaart met begroeiing? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. situatiekaart\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. kaart met begroeiing\n2. openbare kaart\n3. historische kaart\n4. personificatiekaart\n5. portretkaart\n6. samenstellingskarte\n7. beeldbank\n8. agendacard\n9. document\n10. grafiekkaart"
+}

@@ -1,0 +1,141 @@
+{
+    "qid": "13ef132c-161d-4e0f-8ad7-7a42a39fa2c1",
+    "response": {
+        "Query": "In welk halfrond ligt Belgi\u00eb?",
+        "Result": [
+            {
+                "answer": "Schotland",
+                "answer_length": 1,
+                "distractors": [
+                    "Engeland",
+                    "Noord-Ierland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk deel van het Verenigd Koninkrijk zou het project uitgevoerd worden ?",
+                "question_length": 20,
+                "score": 0.983313438799467
+            },
+            {
+                "answer": "B",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk deel van het Verenigd Koninkrijk was het voor aanvang van het weekend slecht weer ?",
+                "question_length": 24,
+                "score": 0.9810732109120509
+            },
+            {
+                "answer": "Latijns-Amerika",
+                "answer_length": 1,
+                "distractors": [
+                    "Azie",
+                    "Europa",
+                    "Afrika",
+                    "Noord-Amerika"
+                ],
+                "language": "nl",
+                "question": "Waar is de verstedelijkingsgraad het hoogst ?",
+                "question_length": 7,
+                "score": 0.9718837407070658
+            },
+            {
+                "answer": "Engeland",
+                "answer_length": 1,
+                "distractors": [
+                    "Ierland",
+                    "Schotland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar ligt de Ram Inn ?",
+                "question_length": 13,
+                "score": 0.9687340903865208
+            },
+            {
+                "answer": "Firenze",
+                "answer_length": 1,
+                "distractors": [
+                    "Pisa",
+                    "Rome",
+                    "Siena"
+                ],
+                "language": "lb",
+                "question": "Waar bevinden zich de kunstgaleries Pitti en Uffizi ?",
+                "question_length": 9,
+                "score": 0.9644570281126813
+            },
+            {
+                "answer": "in vlakke gebieden",
+                "answer_length": 3,
+                "distractors": [
+                    "in warme gebieden",
+                    "aan de kusten",
+                    "in ontwikkelingslanden"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar bevinden zich de meeste grootsteden met meer dan 10 miljoen inwoners ? Gebruik je atlas .",
+                "question_length": 24,
+                "score": 0.963288798021306
+            },
+            {
+                "answer": "ten zuiden",
+                "answer_length": 2,
+                "distractors": [
+                    "ten noorden",
+                    "ten westen",
+                    "ten oosten"
+                ],
+                "language": "nl",
+                "question": "Waar ligt Campania ten opzichte van Latium ?",
+                "question_length": 8,
+                "score": 0.9624564604100838
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Noord-Amerika",
+                    "Zuid-Amerika",
+                    "Azie"
+                ],
+                "language": "nl",
+                "question": "In welk werelddeel ligt Congo ? Duid het juiste werelddeel aan .",
+                "question_length": 12,
+                "score": 0.9540007091701266
+            },
+            {
+                "answer": "Belgie",
+                "answer_length": 1,
+                "distractors": [
+                    "Brussel",
+                    "Vlaanderen",
+                    "Wallonie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Voor welk grondgebied is de federale overheid bevoegd ?",
+                "question_length": 16,
+                "score": 0.9498606030135026
+            },
+            {
+                "answer": "Torhout , Gent en Sint-Truiden",
+                "answer_length": 5,
+                "distractors": [
+                    "Maastricht , Doornik en Tongeren",
+                    "Brugge , Ieper en Rijsel",
+                    "Hoei , Luik en Namen",
+                    "Antwerpen , Sluis en Bergen"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke steden zijn ontstaan aan een abdij ?",
+                "question_length": 14,
+                "score": 0.9450373899694758
+            }
+        ]
+    }
+}

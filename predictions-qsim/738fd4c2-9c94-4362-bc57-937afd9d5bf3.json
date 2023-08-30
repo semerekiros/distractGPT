@@ -1,0 +1,134 @@
+{
+    "qid": "738fd4c2-9c94-4362-bc57-937afd9d5bf3",
+    "response": {
+        "Query": "Choisissez la preposition adequate . L'annee derniere , la conference etait organisee ... Rome .",
+        "Result": [
+            {
+                "answer": "a",
+                "answer_length": 1,
+                "distractors": [
+                    "au",
+                    "jusqu ' a",
+                    "vers"
+                ],
+                "language": "fr",
+                "question": "Choisissez la preposition adequate . L'annee derniere , la conference etait organisee ... Rome .",
+                "question_length": 15,
+                "score": 0.8584094530952763
+            },
+            {
+                "answer": "me presente",
+                "answer_length": 2,
+                "distractors": [
+                    "m'introduis",
+                    "represente",
+                    "presente"
+                ],
+                "language": "fr",
+                "question": "Parmi les reponses donnees , choisissez celle qui convient le mieux . Il n ' y a qu'une seule reponse correcte par question . Bonjour . Je ... ... ... . Je m'appelle Richard Devigne et je travaille pour la societe Expeditions Express .",
+                "question_length": 44,
+                "score": 0.7967393084761565
+            },
+            {
+                "answer": "du",
+                "answer_length": 1,
+                "distractors": [
+                    "de la",
+                    "de l '",
+                    "des"
+                ],
+                "language": "fr",
+                "question": "3.1 Indique l'article contracte avec \u00ab de \u00bb correct . Duid het juiste samengetrokken lidwoord met \u00ab de \u00bb aan . C'est le cabinet ... docteur Lambert .",
+                "question_length": 28,
+                "score": 0.782299267363215
+            },
+            {
+                "answer": "depuis",
+                "answer_length": 1,
+                "distractors": [
+                    "a",
+                    "d '"
+                ],
+                "language": "fr",
+                "question": "Completez par la preposition correcte . Nous avons un nouveau prof ... ce mois .",
+                "question_length": 15,
+                "score": 0.7266326147660416
+            },
+            {
+                "answer": "a mis en accusation",
+                "answer_length": 4,
+                "distractors": [
+                    "a mis en accusition",
+                    "a mis en accuse"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase en cochant la bonne reponse . La chambre des mises en accusation { } un homme de 20 ans .",
+                "question_length": 23,
+                "score": 0.7090908601624062
+            },
+            {
+                "answer": "existe",
+                "answer_length": 1,
+                "distractors": [
+                    "fait partie",
+                    "renforce"
+                ],
+                "language": "fr",
+                "question": "Indique la reponse la plus logique . - Ce groupe ... depuis quand ? degrees Depuis 2 ans .",
+                "question_length": 19,
+                "score": 0.662384027447463
+            },
+            {
+                "answer": "presente",
+                "answer_length": 1,
+                "distractors": [
+                    "presentee",
+                    "presentes",
+                    "presentees"
+                ],
+                "language": "fr",
+                "question": "Choisissez la forme correcte du participe passe . Vous vous etes deja ... a l'accueil , Monsieur ?",
+                "question_length": 18,
+                "score": 0.6496344042931711
+            },
+            {
+                "answer": "regrette",
+                "answer_length": 1,
+                "distractors": [
+                    "regret",
+                    "remette",
+                    "repete"
+                ],
+                "language": "fr",
+                "question": "Ecoutez le dialogue suivant . Selectionnez dans la liste le mot-cle utilise . Luister naar de dialoog . Duid het juiste sleutelwoord aan . Listen to the dialogue . Choose the right keyword .",
+                "question_length": 34,
+                "score": 0.6484695525229903
+            },
+            {
+                "answer": "A",
+                "answer_length": 1,
+                "distractors": [
+                    "En",
+                    "De"
+                ],
+                "language": "fr",
+                "question": "Completez par la preposition correcte . Je rentre lundi . ... lundi .",
+                "question_length": 13,
+                "score": 0.6320920803273388
+            },
+            {
+                "answer": "par",
+                "answer_length": 1,
+                "distractors": [
+                    "de",
+                    "avec",
+                    "dans"
+                ],
+                "language": "fr",
+                "question": "Choisissez la preposition qui convient : Nous sommes interesses ... votre offre .",
+                "question_length": 13,
+                "score": 0.6291794747160399
+            }
+        ]
+    }
+}

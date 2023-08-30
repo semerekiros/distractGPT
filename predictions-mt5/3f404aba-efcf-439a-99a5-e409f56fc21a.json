@@ -1,0 +1,5 @@
+{
+    "qid": "3f404aba-efcf-439a-99a5-e409f56fc21a",
+    "input": "In welk seizoen zijn de temperaturen het hoogst? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. zomer\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. lente\n2. herfst\n3. winter\n4. jember\n5. dauw\n6. oosten\n7. noorwegen\n8. griekenland\n9. vriezen\n10. vries"
+}

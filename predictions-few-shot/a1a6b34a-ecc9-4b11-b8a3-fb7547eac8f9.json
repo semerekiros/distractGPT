@@ -1,0 +1,5 @@
+{
+    "qid": "a1a6b34a-ecc9-4b11-b8a3-fb7547eac8f9",
+    "input": "vraag: zee/egel\nantwoord: zee-egel\nonjuiste antwoorden: \n1. zeeegel\n2. zee egel\n\nvraag: zee/arend\nantwoord: zeearend\nonjuiste antwoorden: \n1. zee-arend\n2. zee arend\n3. zeearend\n\nvraag: anti/westers\nantwoord: antiwesters\nonjuiste antwoorden: \n1. anti-Westers\n2. anti Westers\n3. anti-westers\n\nvraag: Om een tweevoudig uurtarief meter aan te sluiten volgens de EDV standaard . Gebruiken wij het aansluitschema :\nantwoord: B\nonjuiste antwoorden: \n1. A\n2. C\n\nvraag: KIes de juiste datum Selecteer het juiste antwoord\nantwoord: 15/06\nonjuiste antwoorden: \n1. 15/07\n2. 16/06\n\nvraag: : Welke van de volgende is een zijrivier.\nantwoord:  1: Leie\nantwoord:  2: Drava\nantwoord:  3: Sava\n\nGenereer 20 onjuiste antwoorden: ",
+    "response": "\n\n1. Loei\n2. Drev\n3. Sivo\n4. Lea\n5. Dravo\n6. Savo\n7. Leeu\n8. Droma\n9. Savaa\n10. Leine\n11. Draven\n12. Saver\n13. Loeven\n14. Dreven\n15. Savon\n16. Lemo\n17. Druva\n18. Savva\n19. Lavi\n20. Drano"
+}

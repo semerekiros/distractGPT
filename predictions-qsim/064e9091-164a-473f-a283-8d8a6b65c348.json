@@ -1,0 +1,129 @@
+{
+    "qid": "064e9091-164a-473f-a283-8d8a6b65c348",
+    "response": {
+        "Query": "Wat is de hoofdstad van Duitsland?",
+        "Result": [
+            {
+                "answer": "Amsterdam",
+                "answer_length": 1,
+                "distractors": [
+                    "Rotterdam",
+                    "Den Haag"
+                ],
+                "language": "nl",
+                "question": "Vraag 1 multiple choice test - wat is de hoofdstad van Nederland ?",
+                "question_length": 13,
+                "score": 0.9646288110610773
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Madrid",
+                    "Lissabon"
+                ],
+                "language": "nl",
+                "question": "Maak uw keuze . Wat is de hoofstad van Frankrijk ?",
+                "question_length": 11,
+                "score": 0.9618419382646821
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Lille",
+                    "Lyons",
+                    "Bordeaux"
+                ],
+                "language": "nl",
+                "question": "De hoofdstad van Frankriijk is",
+                "question_length": 5,
+                "score": 0.9587611769750811
+            },
+            {
+                "answer": "Paris",
+                "answer_length": 1,
+                "distractors": [
+                    "Lille",
+                    "Toulouse",
+                    "Bordeaux"
+                ],
+                "language": "en",
+                "question": "What is the capital of France ?",
+                "question_length": 7,
+                "score": 0.9575862159785279
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Karijs",
+                    "Harijs"
+                ],
+                "language": "nl",
+                "question": "Kies je antwoord uit volgende mogelijkheden Wat is de hoofdstad van Frankrijk ?",
+                "question_length": 13,
+                "score": 0.956667430419037
+            },
+            {
+                "answer": "Bruxelles",
+                "answer_length": 1,
+                "distractors": [
+                    "Anvers",
+                    "Mons"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de la Belgique",
+                "question_length": 7,
+                "score": 0.9555570504934723
+            },
+            {
+                "answer": "Londres",
+                "answer_length": 1,
+                "distractors": [
+                    "New York"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de l'angleterre ?",
+                "question_length": 7,
+                "score": 0.9553331664419406
+            },
+            {
+                "answer": "Londres",
+                "answer_length": 1,
+                "distractors": [
+                    "",
+                    "Manchester"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de l'Angleterre ?",
+                "question_length": 7,
+                "score": 0.9553331664419406
+            },
+            {
+                "answer": "Bruxelles",
+                "answer_length": 1,
+                "distractors": [
+                    "Anvers",
+                    "Gand"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de la Belgique ?",
+                "question_length": 8,
+                "score": 0.9530770447300065
+            },
+            {
+                "answer": "Bruxelles",
+                "answer_length": 1,
+                "distractors": [
+                    "Anvers",
+                    "Bruges"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de la Belgique ? Cochez la reponse correcte",
+                "question_length": 12,
+                "score": 0.9529529945451254
+            }
+        ]
+    }
+}

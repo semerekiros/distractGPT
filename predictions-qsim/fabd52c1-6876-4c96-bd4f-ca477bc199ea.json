@@ -1,0 +1,127 @@
+{
+    "qid": "fabd52c1-6876-4c96-bd4f-ca477bc199ea",
+    "response": {
+        "Query": "un paillis est ...",
+        "Result": [
+            {
+                "answer": "une litiere de paille",
+                "answer_length": 4,
+                "distractors": [
+                    "un synonyme de mulching",
+                    "un fourrage"
+                ],
+                "language": "fr",
+                "question": "un paillis est ...",
+                "question_length": 4,
+                "score": 0.9662089057147433
+            },
+            {
+                "answer": "un fil culinaire",
+                "answer_length": 3,
+                "distractors": [
+                    "un petit morceau de lard",
+                    "une tranche de graisse"
+                ],
+                "language": "fr",
+                "question": "une bride est ...",
+                "question_length": 4,
+                "score": 0.8852637057921541
+            },
+            {
+                "answer": "un morceau de terre",
+                "answer_length": 4,
+                "distractors": [
+                    "un insecte",
+                    "une parcelle"
+                ],
+                "language": "fr",
+                "question": "une motte est ...",
+                "question_length": 4,
+                "score": 0.841521960380221
+            },
+            {
+                "answer": "un deficit hydrique",
+                "answer_length": 3,
+                "distractors": [
+                    "un exces acqueux",
+                    "un surplus aquatique"
+                ],
+                "language": "fr",
+                "question": "un manque d'eau est ...",
+                "question_length": 5,
+                "score": 0.833792579972395
+            },
+            {
+                "answer": "un mouton non sevre",
+                "answer_length": 4,
+                "distractors": [
+                    "un mouton male adulte",
+                    "un mouton male jeune"
+                ],
+                "language": "fr",
+                "question": "l'agnelet est ...",
+                "question_length": 3,
+                "score": 0.8139595453619237
+            },
+            {
+                "answer": "la fixation d'une plante",
+                "answer_length": 4,
+                "distractors": [
+                    "un travail cultural"
+                ],
+                "language": "fr",
+                "question": "le palissage , c'est ...",
+                "question_length": 5,
+                "score": 0.8119999271075117
+            },
+            {
+                "answer": "une jatte de chocolat chaud",
+                "answer_length": 5,
+                "distractors": [
+                    "une tasse de chocolat chaud",
+                    "une coupe de chocolat chaud"
+                ],
+                "language": "fr",
+                "question": "un bol de chocolat chaud est ...",
+                "question_length": 7,
+                "score": 0.7916518155808244
+            },
+            {
+                "answer": "een stalknecht",
+                "answer_length": 2,
+                "distractors": [
+                    "een hoefsmid",
+                    "een africhter"
+                ],
+                "language": "nl",
+                "question": "un 'palefrenier ' est ...",
+                "question_length": 5,
+                "score": 0.7380105595460064
+            },
+            {
+                "answer": "chemiser",
+                "answer_length": 1,
+                "distractors": [
+                    "enrober",
+                    "enduire"
+                ],
+                "language": "fr",
+                "question": "tapisser les parois interieures d'un recipient , c'est ...",
+                "question_length": 9,
+                "score": 0.7126716510311497
+            },
+            {
+                "answer": "une piece de boucherie",
+                "answer_length": 4,
+                "distractors": [
+                    "un ustensile de cuisine",
+                    "une patisserie"
+                ],
+                "language": "fr",
+                "question": "un 'gigot ' est ...",
+                "question_length": 5,
+                "score": 0.7029253688515239
+            }
+        ]
+    }
+}

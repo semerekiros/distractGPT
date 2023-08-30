@@ -1,0 +1,130 @@
+{
+    "qid": "47149c68-b39d-460a-98a0-b408974c19d7",
+    "response": {
+        "Query": "Het wordt aangeraden om de puistjes nog niet uit te knijpen wanneer ze nog niet \u2018rijp\u2019 zijn, en het niet met de blote vingers te doen maar met een papiertje ertussen. Waarom?",
+        "Result": [
+            {
+                "answer": "een hert",
+                "answer_length": 2,
+                "distractors": [
+                    "een papegaai",
+                    "een kat"
+                ],
+                "language": "nl",
+                "question": "Welk van de onderstaande dieren kan van de dekking worden uitgesloten volgens het KB BA Priveleven ?",
+                "question_length": 17,
+                "score": 0.9639829272831615
+            },
+            {
+                "answer": "Scheelzien",
+                "answer_length": 1,
+                "distractors": [
+                    "Cataract",
+                    "Astigmatisme",
+                    "Nachtblindheid"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke oogziekte is afgebeeld ?",
+                "question_length": 16,
+                "score": 0.9585757130630789
+            },
+            {
+                "answer": "A",
+                "answer_length": 1,
+                "distractors": [
+                    "B",
+                    "C"
+                ],
+                "language": "nl",
+                "question": "Het heeft gestormd . De voederplank voor de vogels is omgevallen . Eva zet de plank weer rechtop . Ze maakt de voederplank stabieler , zodat hij niet gauw kan omvallen . Welke voederplank is het meest stabiel ?",
+                "question_length": 39,
+                "score": 0.9423000939871392
+            },
+            {
+                "answer": "boterhammen met vlees en tomaat",
+                "answer_length": 5,
+                "distractors": [
+                    "boterhammen met kaas en tomaat"
+                ],
+                "language": "nl",
+                "question": "Kijk naar het filmpje . Wat zit er in de roze brooddoos ?",
+                "question_length": 13,
+                "score": 0.9300493946072588
+            },
+            {
+                "answer": "Spintol",
+                "answer_length": 1,
+                "distractors": [
+                    "Tolspin",
+                    "Draaitol"
+                ],
+                "language": "nl",
+                "question": "Waarmee maak je draden ? Bekijk het filmpje . Duid het juiste antwoord aan .",
+                "question_length": 15,
+                "score": 0.8972978834557463
+            },
+            {
+                "answer": "Jodenvervolging",
+                "answer_length": 1,
+                "distractors": [
+                    "Duikbotenoorlog",
+                    "Erzatsproducten",
+                    "Loopgravenoorlog"
+                ],
+                "language": "nl",
+                "question": "Wat past niet bij WOI ? ( Geen giscorrectie )",
+                "question_length": 10,
+                "score": 0.8838360219498522
+            },
+            {
+                "answer": "hartkleppen tussen linkerkamer en aorta",
+                "answer_length": 5,
+                "distractors": [
+                    "hartkleppen in de longaders",
+                    "hartkleppen tussen rechterkamer en longslagader"
+                ],
+                "language": "nl",
+                "question": "Wat is aangeduid door de groene pijl ?",
+                "question_length": 8,
+                "score": 0.882197867593053
+            },
+            {
+                "answer": "raapzaad",
+                "answer_length": 1,
+                "distractors": [
+                    "koolzaad",
+                    "lijnzaad"
+                ],
+                "language": "nl",
+                "question": "la navette en neerlandais ?",
+                "question_length": 5,
+                "score": 0.8789021790339003
+            },
+            {
+                "answer": "tot de grote bloedsomloop",
+                "answer_length": 4,
+                "distractors": [
+                    "tot de kleine bloedsomloop",
+                    "tot geen enkele bloedsomloop"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Tot welke bloedsomloop behoort de kransslagader ?",
+                "question_length": 18,
+                "score": 0.8656996818386141
+            },
+            {
+                "answer": "C",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Spelers zouden van jongsaf aan geleerd moeten worden op een juiste manier te tackelen . Welke tackle is niet gevaarlijk ?",
+                "question_length": 28,
+                "score": 0.861206211657932
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "qid": "e5e6c724-34db-43aa-a663-486a49cc4933",
+    "response": {
+        "Query": "Langs waar verdampt het water bij planten het meest?",
+        "Result": [
+            {
+                "answer": "Kelder G blok",
+                "answer_length": 3,
+                "distractors": [
+                    "Kelder i blok"
+                ],
+                "language": "nl",
+                "question": "Waar bevinden zich de noodbedden in ons ziekenhuis ? Duid het juiste antwoord aan .",
+                "question_length": 15,
+                "score": 0.9526929419685559
+            },
+            {
+                "answer": "Tu prendrais ce pantalon ?",
+                "answer_length": 5,
+                "distractors": [
+                    "Tu prends ce pantalon ?",
+                    "Tu prendras ce pantalon ?"
+                ],
+                "language": "fr",
+                "question": "Zou je die broek nemen ?",
+                "question_length": 6,
+                "score": 0.8840105219242247
+            },
+            {
+                "answer": "endeldarm",
+                "answer_length": 1,
+                "distractors": [
+                    "aarsopening",
+                    "slokdarm",
+                    "blindedarm"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de opstapeling van voedselresten ?",
+                "question_length": 7,
+                "score": 0.8636036688886211
+            },
+            {
+                "answer": "E",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Waar moet je het Forum Traianum situeren ?",
+                "question_length": 8,
+                "score": 0.8204573952410072
+            },
+            {
+                "answer": "in de eierstok",
+                "answer_length": 3,
+                "distractors": [
+                    "in de baarmoeder",
+                    "in de vagina",
+                    "in de eileider"
+                ],
+                "language": "nl",
+                "question": "Waar komt een zaadcel nooit terecht ?",
+                "question_length": 7,
+                "score": 0.8048709285524731
+            },
+            {
+                "answer": "in de longblaasjes",
+                "answer_length": 3,
+                "distractors": [
+                    "in de luchtpijptakken",
+                    "in de longtakjes",
+                    "in de luchtpijp"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de gasuitwisseling in de longen ?",
+                "question_length": 8,
+                "score": 0.7657523364995192
+            },
+            {
+                "answer": "Brugge",
+                "answer_length": 1,
+                "distractors": [
+                    "Kortrijk"
+                ],
+                "language": "nl",
+                "question": "MAak je keuze Waat bevindt VIVES Noord zich ?",
+                "question_length": 9,
+                "score": 0.7552250237010968
+            },
+            {
+                "answer": "dunne darm",
+                "answer_length": 2,
+                "distractors": [
+                    "endeldarm",
+                    "dikke darm",
+                    "twaalfvingerige darm"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de absorptie van glucose ( suiker ) in het lichaam ?",
+                "question_length": 13,
+                "score": 0.7504128194985606
+            },
+            {
+                "answer": "De 105 degrees C",
+                "answer_length": 4,
+                "distractors": [
+                    "De 38 degrees C",
+                    "De 210 degrees C",
+                    "De 300 degrees C"
+                ],
+                "language": "fr",
+                "question": "Le point eclair du garosolve est :",
+                "question_length": 7,
+                "score": 0.730230508964199
+            },
+            {
+                "answer": "Mortsel",
+                "answer_length": 1,
+                "distractors": [
+                    "Antwerpen",
+                    "Halle",
+                    "Leuven"
+                ],
+                "language": "nl",
+                "question": "Waar is Intersentia gelegen ?",
+                "question_length": 5,
+                "score": 0.7279639542976784
+            }
+        ]
+    }
+}

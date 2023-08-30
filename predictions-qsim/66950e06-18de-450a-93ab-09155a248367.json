@@ -1,0 +1,133 @@
+{
+    "qid": "66950e06-18de-450a-93ab-09155a248367",
+    "response": {
+        "Query": "Welke soort kaart is de kaart met begroeiing?",
+        "Result": [
+            {
+                "answer": "een tomatenbedrijf",
+                "answer_length": 2,
+                "distractors": [
+                    "een kersenbedrijf",
+                    "een appelbedrijf"
+                ],
+                "language": "nl",
+                "question": "Tatyana werkt voor een dag in een bedrijf . Kijk en luister naar het filmpje . In welk bedrijf werkt Tatyana vandaag ?",
+                "question_length": 23,
+                "score": 0.9425723279717318
+            },
+            {
+                "answer": "naar het oosten",
+                "answer_length": 3,
+                "distractors": [
+                    "naar het noorden",
+                    "naar het zuiden",
+                    "naar het westen"
+                ],
+                "language": "nl",
+                "question": "Kies het enige juiste antwoord . Je maakt een boottochtje op de Schelde en passeert de stad Antwerpen . Je maakt er deze foto van de stad met de kathedraal . In welke richting moet je kijken om dit beeld te zien ?",
+                "question_length": 43,
+                "score": 0.9086266466386627
+            },
+            {
+                "answer": "3",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "language": "nl",
+                "question": "De film speelt zich af in Halluin , vlak bij de Belgische grens . Waar ligt Halluin op de kaart ? kies het juiste nummer .",
+                "question_length": 26,
+                "score": 0.8842504492168379
+            },
+            {
+                "answer": "kaart 1",
+                "answer_length": 2,
+                "distractors": [
+                    "kaart 2",
+                    "kaart 3",
+                    "kaart 4"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van de vier onderstaande kaarten is een choropletenkaart ?",
+                "question_length": 17,
+                "score": 0.8784865185607137
+            },
+            {
+                "answer": "Een tweevoudig uurtarief meter ",
+                "answer_length": 4,
+                "distractors": [
+                    "Een normaal tarief meter ",
+                    "Een uitsluitend nachttarief meter "
+                ],
+                "language": "nl",
+                "question": "Welk type meter staat hier afgebeeld ?",
+                "question_length": 7,
+                "score": 0.873058481114025
+            },
+            {
+                "answer": "een tomatenbedrijf",
+                "answer_length": 2,
+                "distractors": [
+                    "een kersenbedrijf",
+                    "een appelbedrijf"
+                ],
+                "language": "nl",
+                "question": "Tatyana werkt voor een dag in een bedrijf . Kijk en luister naar de reportage uit Volt . In welk bedrijf werkt Tatyana vandaag ?",
+                "question_length": 25,
+                "score": 0.8689541882782208
+            },
+            {
+                "answer": "L'office de tourisme ",
+                "answer_length": 3,
+                "distractors": [
+                    "Le chateau ",
+                    "Le bureau de police "
+                ],
+                "language": "nl",
+                "question": "Luister goed . In welk gebouw speelt het zich af ?",
+                "question_length": 11,
+                "score": 0.858276431493836
+            },
+            {
+                "answer": "Keuze 2 is juist",
+                "answer_length": 4,
+                "distractors": [
+                    "Keuze 1dsgfjty"
+                ],
+                "language": "af",
+                "question": "Geef aan welk laddertype dit is ?",
+                "question_length": 7,
+                "score": 0.8257496463890889
+            },
+            {
+                "answer": "kaart 1",
+                "answer_length": 2,
+                "distractors": [
+                    "kaart 2",
+                    "kaart 3",
+                    "kaart 4"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke kaart toont de `` vruchtbare sikkel '' ?",
+                "question_length": 16,
+                "score": 0.822724280712388
+            },
+            {
+                "answer": "foto D",
+                "answer_length": 2,
+                "distractors": [
+                    "foto A",
+                    "foto B",
+                    "foto C"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op welke foto staat een `` bull runner '' van het San Fermin festival ?",
+                "question_length": 22,
+                "score": 0.7943318315172684
+            }
+        ]
+    }
+}

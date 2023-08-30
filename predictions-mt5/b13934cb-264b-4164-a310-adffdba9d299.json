@@ -1,0 +1,5 @@
+{
+    "qid": "b13934cb-264b-4164-a310-adffdba9d299",
+    "input": "In welk halfrond ligt New York? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. noordelijk halfrond\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. zuid halfrond\n2. oostendelijk halfrond\n3. oostendelijk half rond\n4. westelijk halfrond\n5. noordwestelijk halfrond\n6. noordwestend halfrand\n7. zuidwestelijk halfrond\n8. sudwestelijk\n9. oostenrijkshalfrond\n10. westelijk half rond"
+}

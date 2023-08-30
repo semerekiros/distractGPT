@@ -1,0 +1,129 @@
+{
+    "qid": "6453d8a4-27fc-4d52-a072-dfa1a5a7aeda",
+    "response": {
+        "Query": "Het verhaal van 'Lucy' begint met de vondst van beenderen.\n\nIn welk werelddeel werden de beenderen gevonden?",
+        "Result": [
+            {
+                "answer": "Brussel",
+                "answer_length": 1,
+                "distractors": [
+                    "Breda"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Belgische onderneming verkoopt goederen aan een Nederlandse onderneming . De goederen worden vervoerd van het magazijn te Brussel naar Breda . Wat is de plaats van de levering van goederen ?",
+                "question_length": 38,
+                "score": 0.9783372217419478
+            },
+            {
+                "answer": "[ QR ]",
+                "answer_length": 3,
+                "distractors": [
+                    "[ PQ ]",
+                    "[ PR ]"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk zijde is het kleinst ? Klik die zijde aan .",
+                "question_length": 17,
+                "score": 0.9667243501279355
+            },
+            {
+                "answer": "gemeente",
+                "answer_length": 1,
+                "distractors": [
+                    "gemeenschap",
+                    "gewest",
+                    "provincie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is het laagste politieke beslissingsniveau in Belgie ?",
+                "question_length": 16,
+                "score": 0.9653540228019065
+            },
+            {
+                "answer": "aan zee ",
+                "answer_length": 2,
+                "distractors": [
+                    "in het binnenland ",
+                    "bij een meer "
+                ],
+                "language": "nl",
+                "question": "Beluister het tekstfragment en kies dan het juiste antwoord . Het Belgisch bouwproject bevindt zich ...",
+                "question_length": 16,
+                "score": 0.9618996677760695
+            },
+            {
+                "answer": "Gemeente",
+                "answer_length": 1,
+                "distractors": [
+                    "Belgie",
+                    "Europa",
+                    "Wereld"
+                ],
+                "language": "nl",
+                "question": "Op welk niveau situeert deze maatregel zich ? Bekijk het filmpje . Duid het juiste antwoord aan .",
+                "question_length": 18,
+                "score": 0.9584314329628542
+            },
+            {
+                "answer": "een boek",
+                "answer_length": 2,
+                "distractors": [
+                    "een lezer",
+                    "een literatuurrecensent",
+                    "een schrijver"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie of wat is `` le dernier Untel '' ?",
+                "question_length": 17,
+                "score": 0.9520553476985267
+            },
+            {
+                "answer": "Belgie",
+                "answer_length": 1,
+                "distractors": [
+                    "Denemarken"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Belgische onderneming heeft een magazijn in Denemarken en brengt vandaar eigen goederen naar haar magazijn in Belgie . Wat is de plaats van de intracommunautaire verwerving ?",
+                "question_length": 34,
+                "score": 0.9516266845265869
+            },
+            {
+                "answer": "Dendermonde",
+                "answer_length": 1,
+                "distractors": [
+                    "Turnhout",
+                    "Leuven"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Belgische onderneming , gevestigd te Turnhout , bestelt een machine bij een andere Belgische onderneming , gevestigd te Leuven . De machine zal geinstalleerd worden in de fabriek van de koper te Dendermonde . Wat is de plaats van de levering van goederen ?",
+                "question_length": 51,
+                "score": 0.9448506344527293
+            },
+            {
+                "answer": "niet waar",
+                "answer_length": 2,
+                "distractors": [
+                    "waar"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . De prehistorie eindigt overal op hetzelfde moment . Waar of niet waar ?",
+                "question_length": 19,
+                "score": 0.9443624253378499
+            },
+            {
+                "answer": "Spanje",
+                "answer_length": 1,
+                "distractors": [
+                    "Polen",
+                    "Nederland ( Rotterdam )",
+                    "Duitsland ( Keulen )"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Poolse onderneming verricht een vervoer van goederen voor rekening van een Spaanse onderneming . De goederen worden vervoerd van Rotterdam naar Keulen . Wat is de plaats van de prestatie van diensten ?",
+                "question_length": 40,
+                "score": 0.9432632273879469
+            }
+        ]
+    }
+}

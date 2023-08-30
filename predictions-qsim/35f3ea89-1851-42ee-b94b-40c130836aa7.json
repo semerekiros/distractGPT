@@ -1,0 +1,127 @@
+{
+    "qid": "35f3ea89-1851-42ee-b94b-40c130836aa7",
+    "response": {
+        "Query": "Welk van deze dieren kan ultrasone geluiden horen?",
+        "Result": [
+            {
+                "answer": "bredere schouders",
+                "answer_length": 2,
+                "distractors": [
+                    "vetlaag op de dijen",
+                    "breder bekken",
+                    "groot tepelveld"
+                ],
+                "language": "nl",
+                "question": "Wat is een typisch mannelijk kenmerk ?",
+                "question_length": 7,
+                "score": 0.9519433762281607
+            },
+            {
+                "answer": "Voor je eigen veiligheid zorgen ",
+                "answer_length": 5,
+                "distractors": [
+                    "De politie waarschuwen ",
+                    "De brandweer waarschuwen "
+                ],
+                "language": "nl",
+                "question": "Wat doe je als eerste als je een brand ontdekt ?",
+                "question_length": 11,
+                "score": 0.9509112556906606
+            },
+            {
+                "answer": "de winkels in Euralille ",
+                "answer_length": 4,
+                "distractors": [
+                    "de overbevolking in Vlaanderen ",
+                    "de verkeersproblemen in Wallonie "
+                ],
+                "language": "nl",
+                "question": "Waarover gaat deze reportage ? Meerkeuzevraag ( 1 juist antwoord ) Het gaat over :",
+                "question_length": 15,
+                "score": 0.9432829172084473
+            },
+            {
+                "answer": "Officiele uitstellingen van betaling ",
+                "answer_length": 4,
+                "distractors": [
+                    "Papieren met bewijzen van betaling ",
+                    "Gedetailleerde beschrijvingen van betalingsverplichtingen "
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Source : Metro - 30/07/2010 Wat zijn zogenoemde 'IOU 's ' ?",
+                "question_length": 17,
+                "score": 0.9376900138473958
+            },
+            {
+                "answer": "ontwikkelingsstoornis",
+                "answer_length": 1,
+                "distractors": [
+                    "onwikkelingstoornis"
+                ],
+                "language": "nl",
+                "question": "Welke schrijfwijze is correct ? In dit naslagwerk staat informatie over kinderen met een ...",
+                "question_length": 15,
+                "score": 0.9374054649869654
+            },
+            {
+                "answer": "neen",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Kan bij dit klimatogram een hardbladige vegetatie voorkomen ?",
+                "question_length": 9,
+                "score": 0.9336790392957336
+            },
+            {
+                "answer": "De fiscaliteit is voordelig ",
+                "answer_length": 4,
+                "distractors": [
+                    "Het sociaal aspect is voordelig ",
+                    "De inkomsten zijn voordelig ",
+                    "Zelfstandig zijn is voordelig "
+                ],
+                "language": "nl",
+                "question": "Wat is volgens Wim De Buck vooral voordelig ? Kijk naar dit fragment en kruis het juiste antwoord aan . video",
+                "question_length": 21,
+                "score": 0.9291533449507274
+            },
+            {
+                "answer": "een veiling in Frankrijk ",
+                "answer_length": 4,
+                "distractors": [
+                    "een congres voor landbouwers "
+                ],
+                "language": "nl",
+                "question": "Meerkeuzevraag ( 1 juist antwoord ) Waar gaat deze reportage over ? Het gaat over :",
+                "question_length": 16,
+                "score": 0.9118874771188202
+            },
+            {
+                "answer": "nee",
+                "answer_length": 1,
+                "distractors": [
+                    "Ja",
+                    "misschien"
+                ],
+                "language": "nl",
+                "question": "is de griep reeds in ons land ? Duid het juiste antwoord aan",
+                "question_length": 13,
+                "score": 0.8968591572392683
+            },
+            {
+                "answer": "Heilig-Hartziekenhuis",
+                "answer_length": 1,
+                "distractors": [
+                    "Heilighartziekenhuis",
+                    "Heilig Hartziekenhuis"
+                ],
+                "language": "nl",
+                "question": "Heilig/Hartziekenhuis",
+                "question_length": 1,
+                "score": 0.8925723963680223
+            }
+        ]
+    }
+}

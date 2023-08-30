@@ -1,0 +1,5 @@
+{
+    "qid": "2a9a754d-43e7-4879-b5c6-b99ba2356d07",
+    "input": "Toutes les annees , mes grands-parents ... la ville de Lourdes . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. visitaient\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. visitons\n2. visiteraient\n3. visitent\n4. regardant\n5. voyant\n6. promenait\n7. passaient\n8. avaient\n9. aisions\n10. revitions"
+}

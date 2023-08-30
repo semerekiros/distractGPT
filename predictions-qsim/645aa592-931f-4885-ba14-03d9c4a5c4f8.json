@@ -1,0 +1,132 @@
+{
+    "qid": "645aa592-931f-4885-ba14-03d9c4a5c4f8",
+    "response": {
+        "Query": "Choose the opposite of the word in bold . He bought a beautiful tailor-made suit .",
+        "Result": [
+            {
+                "answer": "ready-to-wear",
+                "answer_length": 1,
+                "distractors": [
+                    "well-sized",
+                    "expensive",
+                    "fitted"
+                ],
+                "language": "en",
+                "question": "Choose the opposite of the word in bold . He bought a beautiful tailor-made suit .",
+                "question_length": 16,
+                "score": 0.8517813558122473
+            },
+            {
+                "answer": "not disturbed",
+                "answer_length": 2,
+                "distractors": [
+                    "interrupted"
+                ],
+                "language": "en",
+                "question": "Read the article . Then tick the correct answer . The shooting of film scenes was ... by the crime .",
+                "question_length": 21,
+                "score": 0.7987489048031454
+            },
+            {
+                "answer": "Trademark",
+                "answer_length": 1,
+                "distractors": [
+                    "Forgery",
+                    "Counterfeit",
+                    "Manufacture"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence ... infringement is a violation of the exclusive rights attaching to a trademark without the authorization of the trademark owner .",
+                "question_length": 25,
+                "score": 0.7883324925866831
+            },
+            {
+                "answer": "Elective",
+                "answer_length": 1,
+                "distractors": [
+                    "Law enforced",
+                    "Voluntary"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Conflict management for commercial disputes . In the case of commercial disputes , we make a distinction between two types of processes : involuntary and ... . Which word should be in the yellow box in the table ?",
+                "question_length": 44,
+                "score": 0.787888164615376
+            },
+            {
+                "answer": "meetings",
+                "answer_length": 1,
+                "distractors": [
+                    "meeting 's",
+                    "meetingen",
+                    "meeting"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer ! Kies het juiste antwoord ! Choisissez la reponse correcte ! The plural of MEETING is :",
+                "question_length": 21,
+                "score": 0.768878954229377
+            },
+            {
+                "answer": "thinks",
+                "answer_length": 1,
+                "distractors": [
+                    "Piet",
+                    "that",
+                    "exercise"
+                ],
+                "language": "en",
+                "question": "Look at the sentence below and find the verb . Piet thinks that this is a multiple choice exercise",
+                "question_length": 19,
+                "score": 0.7344204614461298
+            },
+            {
+                "answer": "until",
+                "answer_length": 1,
+                "distractors": [
+                    "while"
+                ],
+                "language": "en",
+                "question": "Read the sentence , then tick the correct conjunction . I 'm going to continue with my homework ... my mum comes back from work .",
+                "question_length": 26,
+                "score": 0.7195717210492836
+            },
+            {
+                "answer": "over-achievers",
+                "answer_length": 1,
+                "distractors": [
+                    "over-performants",
+                    "overdosers",
+                    "overalls"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence from Teresa Luna We take the under-achievers and ... and we make a team out of them , and it works out",
+                "question_length": 26,
+                "score": 0.7142610704582893
+            },
+            {
+                "answer": "pliable",
+                "answer_length": 1,
+                "distractors": [
+                    "rigid",
+                    "loose"
+                ],
+                "language": "en",
+                "question": "flexible is a synonym for ...",
+                "question_length": 6,
+                "score": 0.7107692619150694
+            },
+            {
+                "answer": "in",
+                "answer_length": 1,
+                "distractors": [
+                    "out",
+                    "up",
+                    "down"
+                ],
+                "language": "en",
+                "question": "This is not his usual job . He is just filling ... .for Austin .",
+                "question_length": 15,
+                "score": 0.7000878956940999
+            }
+        ]
+    }
+}

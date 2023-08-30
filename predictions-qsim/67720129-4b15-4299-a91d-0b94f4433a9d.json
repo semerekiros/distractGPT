@@ -1,0 +1,127 @@
+{
+    "qid": "67720129-4b15-4299-a91d-0b94f4433a9d",
+    "response": {
+        "Query": "Que signifie cette locution latine ? Une reponse est possible . Quel est la traduction litterale de la locution latine et caetera ?",
+        "Result": [
+            {
+                "answer": "Et ainsi continue",
+                "answer_length": 3,
+                "distractors": [
+                    "En comptant bien",
+                    "Et les autres choses"
+                ],
+                "language": "fr",
+                "question": "Que signifie cette locution latine ? Une reponse est possible . Quel est la traduction litterale de la locution latine et caetera ?",
+                "question_length": 23,
+                "score": 0.9925568562689655
+            },
+            {
+                "answer": "tumor",
+                "answer_length": 1,
+                "distractors": [
+                    "cyste",
+                    "calor"
+                ],
+                "language": "fr",
+                "question": "2 points Quel est le nom latin pour gonflement ?",
+                "question_length": 10,
+                "score": 0.8861827527923625
+            },
+            {
+                "answer": "Maria",
+                "answer_length": 1,
+                "distractors": [
+                    "Jozef",
+                    "Pater Damiaan"
+                ],
+                "language": "nl",
+                "question": "Welke heilige is de patroon van OLV Lourdes ?",
+                "question_length": 9,
+                "score": 0.7709913974680603
+            },
+            {
+                "answer": "tumor",
+                "answer_length": 1,
+                "distractors": [
+                    "cyste",
+                    "calor"
+                ],
+                "language": "nl",
+                "question": "Duid het enige correcte antwoord aan . Wat is de Latijnse benaming voor zwelling ?",
+                "question_length": 15,
+                "score": 0.766329669540428
+            },
+            {
+                "answer": "Naevus flammeus",
+                "answer_length": 2,
+                "distractors": [
+                    "Naevi pigmentosi",
+                    "Naevus displasique"
+                ],
+                "language": "nl",
+                "question": "2 punten De overeenkomstige Latijnse term van moedervlek is :",
+                "question_length": 10,
+                "score": 0.746209923989189
+            },
+            {
+                "answer": "schurft",
+                "answer_length": 1,
+                "distractors": [
+                    "netelroos",
+                    "hoofdluis"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Wat is scabies ?",
+                "question_length": 10,
+                "score": 0.7025776255459538
+            },
+            {
+                "answer": "bijnier",
+                "answer_length": 1,
+                "distractors": [
+                    "adrenalineklier",
+                    "talgklier"
+                ],
+                "language": "en",
+                "question": "adrenal gland in Dutch ?",
+                "question_length": 5,
+                "score": 0.604300285438544
+            },
+            {
+                "answer": "tumor",
+                "answer_length": 1,
+                "distractors": [
+                    "cyste",
+                    "calor"
+                ],
+                "language": "nl",
+                "question": "2 punten Wat is de Latijnse benaming voor zwelling ?",
+                "question_length": 10,
+                "score": 0.6033420594162571
+            },
+            {
+                "answer": "dolor",
+                "answer_length": 1,
+                "distractors": [
+                    "tumor",
+                    "calor"
+                ],
+                "language": "nl",
+                "question": "2 punten Pijn wordt bij ontstekingsverschijnselen aangeduid met :",
+                "question_length": 9,
+                "score": 0.5583506893663012
+            },
+            {
+                "answer": "De zender",
+                "answer_length": 2,
+                "distractors": [
+                    "De ontvanger"
+                ],
+                "language": "nl",
+                "question": "De afgebeelde figuur is :",
+                "question_length": 5,
+                "score": 0.5164098146065826
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "8b43492c-cf0e-43fd-9f15-bb0c7ef678a7",
+    "input": "Hoelang wordt de eisprong door de noodpil uitgesteld? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. tot 5 dagen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. tot 2 dagen\n2. tot 3 dagen\n3. voor 12 uur\n4. tot 4 dagen\n5. om de 15 minuten\n6. tot 6 dagen\n7. ongeveer 1 week\n8. tot 7 dagen\n9. binnen 7 minut\n10. tot 8 dagen"
+}

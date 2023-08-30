@@ -1,0 +1,133 @@
+{
+    "qid": "77f6bacb-e829-4102-aad4-100dc3a89875",
+    "response": {
+        "Query": "De oude Grieken hadden nood aan vruchtbare gebieden en richtten daarom overal in het Middellandse Zeegebied kolonies op. Welk effect had dat op de familiale relaties?",
+        "Result": [
+            {
+                "answer": "tripelpunt",
+                "answer_length": 1,
+                "distractors": [
+                    "kritisch punt",
+                    "kookpunt",
+                    "smeltpunt"
+                ],
+                "language": "nl",
+                "question": "8 . Hoe heet het punt in het fasediagram waar smeltlijn , dampspanningslijn en sublimatielijn samenkomen ?",
+                "question_length": 17,
+                "score": 0.9478856310924418
+            },
+            {
+                "answer": "Kunst moet vooral mooi zijn ",
+                "answer_length": 5,
+                "distractors": [
+                    "Kunst moet vooral moraliserend zijn ",
+                    "Kunst moet vooral nuttig zijn ",
+                    "Kunst moet vooral surrealistisch zijn "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De Tachtigers hanteerden het l'art pour l'art-principe . Welk hoofdkenmerk van dat principe zit duidelijk in het gedicht Avond van Willem Kloos ?",
+                "question_length": 30,
+                "score": 0.8877429576651115
+            },
+            {
+                "answer": "Waar",
+                "answer_length": 1,
+                "distractors": [
+                    "Niet waar"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord . De betekenis van bovenstaande figuur is : Indien de waarde van de tolerantie vooraf gegaan wordt door het diameterteken , wordt het tolerantieveld begrensd door een cilinder met diameter 0,01 mm loodrecht op het referentievlak .",
+                "question_length": 41,
+                "score": 0.868602472103501
+            },
+            {
+                "answer": "Voorspellen",
+                "answer_length": 1,
+                "distractors": [
+                    "Onderkennen",
+                    "Verklaren",
+                    "Kiezen en beslissen",
+                    "Evalueren"
+                ],
+                "language": "nl",
+                "question": "Duid aan welke functie de aanvraag heeft . Hoe groot is de kans op recidive bij de heer H. ?",
+                "question_length": 20,
+                "score": 0.8548731024711229
+            },
+            {
+                "answer": "transport van energie",
+                "answer_length": 3,
+                "distractors": [
+                    "kan uitgedrukt worden in Kelvin"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke uitspraak hoort niet bij het begrip 'temperatuur ' ?",
+                "question_length": 17,
+                "score": 0.854774895289777
+            },
+            {
+                "answer": "Aanpassing van de osmolariteit",
+                "answer_length": 4,
+                "distractors": [
+                    "Glucose reabsorptie"
+                ],
+                "language": "nl",
+                "question": "Het belangrijkste doel van de verzamelbuizen is :",
+                "question_length": 8,
+                "score": 0.8524792573963387
+            },
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Goed"
+                ],
+                "language": "nl",
+                "question": "De eindvoorraad gerede producten is gestegen ten opzichte van de beginvoorraad gerede producten . We boeken een voorraadwijziging waarbij de kosten dalen .",
+                "question_length": 23,
+                "score": 0.8422443197818256
+            },
+            {
+                "answer": "Onderkennen",
+                "answer_length": 1,
+                "distractors": [
+                    "Verklaren",
+                    "Voorspellen",
+                    "Kiezen en beslissen",
+                    "Evalueren"
+                ],
+                "language": "nl",
+                "question": "Duid aan welke functie de aanvraag heeft . Is er sprake van een posttraumatische stressstoornis bij Dorien ?",
+                "question_length": 18,
+                "score": 0.8413315961640723
+            },
+            {
+                "answer": "Verklaren",
+                "answer_length": 1,
+                "distractors": [
+                    "Onderkennen",
+                    "Voorspellen",
+                    "Kiezen en beslissen",
+                    "Evalueren"
+                ],
+                "language": "nl",
+                "question": "Duid aan welke functie de aanvraag heeft . Ligt de onveilige hechting in de kindertijd aan de basis van de problematische interpersoonlijke relaties van Joren ?",
+                "question_length": 26,
+                "score": 0.8395774426945863
+            },
+            {
+                "answer": "bewust maken",
+                "answer_length": 2,
+                "distractors": [
+                    "aanzetten tot bestraffend optreden",
+                    "aanzetten tot solidariteit",
+                    "informeren"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is een gemeenschappelijk doel van beide teksten ?",
+                "question_length": 16,
+                "score": 0.8303721810391671
+            }
+        ]
+    }
+}

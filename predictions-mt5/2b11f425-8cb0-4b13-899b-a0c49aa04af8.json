@@ -1,0 +1,5 @@
+{
+    "qid": "2b11f425-8cb0-4b13-899b-a0c49aa04af8",
+    "input": "Ecoute les phrases . Indique le temps du passe que tu reconnais . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. imparfait\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. passe recent\n2. passe compose\n3. passif\n4. futur simple\n5. imparfait\n6. total\n7. parfois\n8. pas de date\n9. totalement imprevisible 10.\n10. proche"
+}

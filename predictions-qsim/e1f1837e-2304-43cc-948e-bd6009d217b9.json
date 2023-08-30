@@ -1,0 +1,140 @@
+{
+    "qid": "e1f1837e-2304-43cc-948e-bd6009d217b9",
+    "response": {
+        "Query": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The next train to Aberdeen _______________ at 2pm .",
+        "Result": [
+            {
+                "answer": "leaves",
+                "answer_length": 1,
+                "distractors": [
+                    "leaving",
+                    "leave",
+                    "be leaving",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The next train to Aberdeen _______________ at 2pm .",
+                "question_length": 51,
+                "score": 0.9034155702156863
+            },
+            {
+                "answer": "leaves",
+                "answer_length": 1,
+                "distractors": [
+                    "leaving",
+                    "leave",
+                    "be leaving",
+                    "I do n't know"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . The next train to Aberdeen _______________ at 2pm .",
+                "question_length": 48,
+                "score": 0.8630153962585297
+            },
+            {
+                "answer": "dropped in on",
+                "answer_length": 3,
+                "distractors": [
+                    "came up with",
+                    "got on with",
+                    "ran into"
+                ],
+                "language": "en",
+                "question": "Complete with the most suitable word or phrase ! I was passing their office , so I ... .. Ron and Timothy .",
+                "question_length": 23,
+                "score": 0.7775718753392524
+            },
+            {
+                "answer": "leave",
+                "answer_length": 1,
+                "distractors": [
+                    "let",
+                    "to let",
+                    "to leave"
+                ],
+                "language": "en",
+                "question": "This is a decision they 'd better ... unsettled for the next meeting",
+                "question_length": 13,
+                "score": 0.7740617161157493
+            },
+            {
+                "answer": "worked",
+                "answer_length": 1,
+                "distractors": [
+                    "working",
+                    "will work",
+                    "works"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Today , Rita works in the garden . Yesterday , she ... in the house .",
+                "question_length": 21,
+                "score": 0.7531219280055282
+            },
+            {
+                "answer": "are",
+                "answer_length": 1,
+                "distractors": [
+                    "is",
+                    "am",
+                    "go",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The managers _______________ at a conference .",
+                "question_length": 49,
+                "score": 0.7511748248011442
+            },
+            {
+                "answer": "had",
+                "answer_length": 1,
+                "distractors": [
+                    "have",
+                    "had had"
+                ],
+                "language": "fr",
+                "question": "EXERCICE 2 Complete la phrase suivante en choisissant le mode et le temps qui conviennent . I wish I __________ more time to spend with her , but I swear I ca n't right now .",
+                "question_length": 36,
+                "score": 0.7352342380859453
+            },
+            {
+                "answer": "do n't",
+                "answer_length": 2,
+                "distractors": [
+                    "can",
+                    "does",
+                    "must"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . I ... like rainy days .",
+                "question_length": 11,
+                "score": 0.6589482680012886
+            },
+            {
+                "answer": "am meeting",
+                "answer_length": 2,
+                "distractors": [
+                    "meet",
+                    "will meet",
+                    "am going to meet"
+                ],
+                "language": "en",
+                "question": "Select the correct expression of the future . On Sunday , I ... my friend .",
+                "question_length": 16,
+                "score": 0.6519113578465715
+            },
+            {
+                "answer": "have visited",
+                "answer_length": 2,
+                "distractors": [
+                    "visited",
+                    "visit",
+                    "am visiting"
+                ],
+                "language": "en",
+                "question": "Select the correct option . I love travelling . I ... fifteen countries so far .",
+                "question_length": 16,
+                "score": 0.6505974836164771
+            }
+        ]
+    }
+}

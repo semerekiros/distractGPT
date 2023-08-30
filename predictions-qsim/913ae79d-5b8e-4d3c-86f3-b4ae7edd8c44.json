@@ -1,0 +1,133 @@
+{
+    "qid": "913ae79d-5b8e-4d3c-86f3-b4ae7edd8c44",
+    "response": {
+        "Query": "Welke organen registreren de draaibewegingen van het hoofd?",
+        "Result": [
+            {
+                "answer": "dans le stratum cylindricum",
+                "answer_length": 4,
+                "distractors": [
+                    "dans le stratum reticulare",
+                    "dans le stratum lucidum"
+                ],
+                "language": "fr",
+                "question": "2 points Dans quelle couche de l'epiderme la division cellulaire se produit-elle ?",
+                "question_length": 13,
+                "score": 0.567654640791223
+            },
+            {
+                "answer": "Dendriet",
+                "answer_length": 1,
+                "distractors": [
+                    "Eindknopje",
+                    "Axon",
+                    "Synaptische spleet"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar wordt het chemische signaal terug omgezet naar een elektrisch signaal in een synaps ?",
+                "question_length": 26,
+                "score": 0.1677350109084847
+            },
+            {
+                "answer": "Dendriet",
+                "answer_length": 1,
+                "distractors": [
+                    "Axon",
+                    "Cellichaam",
+                    "Neuroglia"
+                ],
+                "language": "nl",
+                "question": "Welk gedeelte van de zenuwcel ontvangt de informatie ?",
+                "question_length": 9,
+                "score": 0.1613436350564384
+            },
+            {
+                "answer": "darmvlok",
+                "answer_length": 1,
+                "distractors": [
+                    "darmplooi",
+                    "darmwand",
+                    "darmflora"
+                ],
+                "language": "nl",
+                "question": "In welk gedeelte van de dunne darm vindt absorptie plaats ?",
+                "question_length": 11,
+                "score": 0.070316808127467
+            },
+            {
+                "answer": "tussen lever en dunne darm",
+                "answer_length": 5,
+                "distractors": [
+                    "tussen maag en dunne darm",
+                    "tussen dikke darm en endeldarm"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Tussen welke organen bevindt zich de poortader ?",
+                "question_length": 19,
+                "score": 0.06709298114522794
+            },
+            {
+                "answer": "Nervus hypogastricus",
+                "answer_length": 2,
+                "distractors": [
+                    "Nervus pelvinus",
+                    "Nervus pudendus"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke perifere zenuw is betrokken bij mictie drang ?",
+                "question_length": 15,
+                "score": 0.03819200797766538
+            },
+            {
+                "answer": "kraakbeenverbinding",
+                "answer_length": 1,
+                "distractors": [
+                    "beenvergroeiing",
+                    "bindweefselverbinding"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke beenverbinding door tussenliggend weefsel is het meest belangrijk ?",
+                "question_length": 16,
+                "score": 0.03552162214555061
+            },
+            {
+                "answer": "een long",
+                "answer_length": 2,
+                "distractors": [
+                    "de hersenen",
+                    "de lever",
+                    "een nier"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord , er is maar een antwoord mogelijk . Iemand wordt door een gifslang in de hand gebeten . Het slangengif verspreidt zich via de bloedvaten . Welk van de onderstaande organen zal het eerst door het gif worden bereikt ?",
+                "question_length": 44,
+                "score": 0.022812247196337298
+            },
+            {
+                "answer": "Iriskringspier",
+                "answer_length": 1,
+                "distractors": [
+                    "Accommodatiespier",
+                    "Irisstraalspier",
+                    "Straallichaam"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke spier zorgt ervoor dat de pupil kleiner wordt ?",
+                "question_length": 21,
+                "score": 0.013044575442139203
+            },
+            {
+                "answer": "efferente zenuwen",
+                "answer_length": 2,
+                "distractors": [
+                    "sensorische hersenschors",
+                    "motorische hersenschors"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welk deel van de hersens is betrokken bij een reflex ?",
+                "question_length": 17,
+                "score": 0.009907240076026952
+            }
+        ]
+    }
+}

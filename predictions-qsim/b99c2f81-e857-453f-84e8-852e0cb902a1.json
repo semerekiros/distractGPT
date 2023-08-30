@@ -1,0 +1,123 @@
+{
+    "qid": "b99c2f81-e857-453f-84e8-852e0cb902a1",
+    "response": {
+        "Query": "Wat is een synoniem (woord met dezelfde betekenis) van breedtelijn?",
+        "Result": [
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Juist"
+                ],
+                "language": "nl",
+                "question": "Bij het noteren van een tel of gsmnummer mag je altijd commentaar zetten ( Bv . Zoon of dochter van.. ) .",
+                "question_length": 22,
+                "score": 0.9320151790002924
+            },
+            {
+                "answer": "ja",
+                "answer_length": 1,
+                "distractors": [
+                    "nee"
+                ],
+                "language": "nl",
+                "question": "Duid aan of de vetgedrukte woorden de onderstreepte kunnen vervangen . gepubliceerd worden De nieuwste strip van Suske en Wiske verschijnt volgende maand .",
+                "question_length": 24,
+                "score": 0.9240318202754734
+            },
+            {
+                "answer": "Juist",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "nl",
+                "question": "Edumail werkt met dezelfde login `` paswoord als Edumatic ? Selecteer het juiste antwoord .",
+                "question_length": 15,
+                "score": 0.9200501508691471
+            },
+            {
+                "answer": "opslagen",
+                "answer_length": 1,
+                "distractors": [
+                    "pakhuizen",
+                    "magazijnen",
+                    "depots"
+                ],
+                "language": "nl",
+                "question": "Welk woord heeft niet dezelfde betekenis als het vetgedrukte woord ? De brand verwoestte 3 opslagplaatsen . De fabriek zelf bleef gelukkig gespaard !",
+                "question_length": 24,
+                "score": 0.9031051868872277
+            },
+            {
+                "answer": "Waar",
+                "answer_length": 1,
+                "distractors": [
+                    "Niet waar"
+                ],
+                "language": "nl",
+                "question": "De code [ Ex ia Ga ] duidt op een zogenaamd associated apparatus ( niet in een ATEX zone geplaatst ) dat op een apparaat in zone 0 kan worden aangesloten .",
+                "question_length": 32,
+                "score": 0.8911128035158046
+            },
+            {
+                "answer": "European Football Association",
+                "answer_length": 3,
+                "distractors": [
+                    "Union of European Football Actiongame",
+                    "European Federation of Action",
+                    "Unknown European Food Association"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Waarvoor staat het letterwoord UEFA ?",
+                "question_length": 19,
+                "score": 0.8906093096384917
+            },
+            {
+                "answer": "Niet waar",
+                "answer_length": 2,
+                "distractors": [
+                    "Waar"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord . Een ruwheidsymbool kan alleen aangeduid worden via een verwijzingspijl naar het oppervlak .",
+                "question_length": 18,
+                "score": 0.8877593044950387
+            },
+            {
+                "answer": "open",
+                "answer_length": 1,
+                "distractors": [
+                    "gesloten"
+                ],
+                "language": "nl",
+                "question": "Duid de correcte lettergreep aan . ba-naan",
+                "question_length": 7,
+                "score": 0.8872278356830406
+            },
+            {
+                "answer": "6602 0000 90",
+                "answer_length": 3,
+                "distractors": [
+                    "6602 0000 91",
+                    "6601 0000 90"
+                ],
+                "language": "nl",
+                "question": "Gegeven het product wandelstokken . Zoek welke TARIC-code hiervoor gebruikt wordt op de website van 'tarweb ' .",
+                "question_length": 18,
+                "score": 0.8670231812074981
+            },
+            {
+                "answer": "conjunctief",
+                "answer_length": 1,
+                "distractors": [
+                    "indicatief"
+                ],
+                "language": "en",
+                "question": "Indicatief of conjunctief ? verereris",
+                "question_length": 5,
+                "score": 0.8661456275247101
+            }
+        ]
+    }
+}

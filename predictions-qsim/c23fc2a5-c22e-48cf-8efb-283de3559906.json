@@ -1,0 +1,130 @@
+{
+    "qid": "c23fc2a5-c22e-48cf-8efb-283de3559906",
+    "response": {
+        "Query": "132 . The first white explorer ... ... ... ... ... ... ... ... ... . the far north of Australia was Ludwig Leichhardt , who was awarded the prize for geographic discovery by the Paris Geographical Society in 1847 , along with the French explorer Rochet d'Hericourt .",
+        "Result": [
+            {
+                "answer": "to reach",
+                "answer_length": 2,
+                "distractors": [
+                    "that he reached",
+                    "reached",
+                    "reaching it"
+                ],
+                "language": "en",
+                "question": "132 . The first white explorer ... ... ... ... ... ... ... ... ... . the far north of Australia was Ludwig Leichhardt , who was awarded the prize for geographic discovery by the Paris Geographical Society in 1847 , along with the French explorer Rochet d'Hericourt .",
+                "question_length": 49,
+                "score": 0.8839381199207036
+            },
+            {
+                "answer": "to reach",
+                "answer_length": 2,
+                "distractors": [
+                    "that he reached",
+                    "reached",
+                    "reaching it"
+                ],
+                "language": "en",
+                "question": "3.32 The first white explorer ... ... ... ... ... ... ... ... ... . the far north of Australia was Ludwig Leichhardt , who was awarded the prize for geographic discovery by the Paris Geographical Society in 1847 , along with the French explorer Rochet d'Hericourt .",
+                "question_length": 48,
+                "score": 0.871211981331948
+            },
+            {
+                "answer": "True",
+                "answer_length": 1,
+                "distractors": [
+                    "False"
+                ],
+                "language": "en",
+                "question": "Total asset turnover is more relevant for service-industry firms , while the fixed asset turnover ratio is more relevant for manufacturing industry firms .",
+                "question_length": 24,
+                "score": 0.035418495958699225
+            },
+            {
+                "answer": "possible to reproduce",
+                "answer_length": 3,
+                "distractors": [
+                    "the possible reproduction",
+                    "the possibility of reproducing",
+                    "possibly reproduced"
+                ],
+                "language": "en",
+                "question": "3.16 The discovery of the halftone process in photography in 1881 made it ... ... . photographs in books and newspapers .",
+                "question_length": 22,
+                "score": 0.018764581500252276
+            },
+            {
+                "answer": "admiratively",
+                "answer_length": 1,
+                "distractors": [
+                    "overt",
+                    "it also",
+                    "their"
+                ],
+                "language": "en",
+                "question": "This leaves the two departments admiratively free of overt political interference and lobbying but it also limits their scope .",
+                "question_length": 20,
+                "score": 0.005888852392480031
+            },
+            {
+                "answer": "possible to reproduce",
+                "answer_length": 3,
+                "distractors": [
+                    "the possible reproduction",
+                    "the possibility of reproducing",
+                    "possibly reproduced"
+                ],
+                "language": "en",
+                "question": "116 . The discovery of the halftone process in photography in 1881 made it ... ... . photographs in books and newspapers .",
+                "question_length": 23,
+                "score": 0.00029078297106187973
+            },
+            {
+                "answer": "False",
+                "answer_length": 1,
+                "distractors": [
+                    "True"
+                ],
+                "language": "en",
+                "question": "Firms with a lower return on assets ( ROA ) and higher leverage will have a lower return on equity ( ROE ) than firms with a higher return on assets ( ROA ) and lower leverage .",
+                "question_length": 38,
+                "score": 0.00019435763057113059
+            },
+            {
+                "answer": "Hyperechoic",
+                "answer_length": 1,
+                "distractors": [
+                    "Anechoic",
+                    "Hypoechoic"
+                ],
+                "language": "en",
+                "question": "In the subxiphoid ( subcostal ) view , how do both the pericardium and the diaphragm appear ?",
+                "question_length": 18,
+                "score": 8.684691445006926e-05
+            },
+            {
+                "answer": "False",
+                "answer_length": 1,
+                "distractors": [
+                    "True"
+                ],
+                "language": "en",
+                "question": "Capital assets are generally short term in nature .",
+                "question_length": 9,
+                "score": 5.445977719018344e-05
+            },
+            {
+                "answer": "la presence d'une matrice extracellulaire ",
+                "answer_length": 5,
+                "distractors": [
+                    "une forme cubique ",
+                    "la capacite de se contracter "
+                ],
+                "language": "fr",
+                "question": "Les tissus conjonctifs comprennent un groupe diversifie de cellules , mais ils partagent tous",
+                "question_length": 14,
+                "score": 4.464941088903322e-05
+            }
+        ]
+    }
+}

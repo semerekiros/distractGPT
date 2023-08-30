@@ -1,0 +1,130 @@
+{
+    "qid": "d3b82900-3181-472e-862f-c6a7ab0fdf9a",
+    "response": {
+        "Query": "Wat is de functie van de zweetklieren?",
+        "Result": [
+            {
+                "answer": "2 x straal x 3,14",
+                "answer_length": 5,
+                "distractors": [
+                    "straal x straal x 3,14",
+                    "2 x diameter x 3,14"
+                ],
+                "language": "nl",
+                "question": "Geef de formule voor de omtrek van een cirkel . Duid het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.5456091918566713
+            },
+            {
+                "answer": "... is altijd een ruit ",
+                "answer_length": 5,
+                "distractors": [
+                    "... is nooit een ruit "
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . ( 1,5 punten ) Vul de volgende stelling aan zodat deze correct is : Een rechthoek met vier even lange zijden ...",
+                "question_length": 28,
+                "score": 0.3547359296811159
+            },
+            {
+                "answer": "... is altijd een ruit ",
+                "answer_length": 5,
+                "distractors": [
+                    "... is nooit een ruit "
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Vul de volgende stelling aan zodat deze correct is : Een rechthoek met vier even lange zijden ...",
+                "question_length": 24,
+                "score": 0.20805562254690282
+            },
+            {
+                "answer": "Geen",
+                "answer_length": 1,
+                "distractors": [
+                    "Een kortsluitstroom",
+                    "De nominale stroom"
+                ],
+                "language": "nl",
+                "question": "Welke stroom mag een scheidingsschakelaar onderbreken ?",
+                "question_length": 7,
+                "score": 0.20762938803621156
+            },
+            {
+                "answer": "... de groen/gele geleider ",
+                "answer_length": 4,
+                "distractors": [
+                    "... de bruine geleider ",
+                    "... de blauwe geleider "
+                ],
+                "language": "nl",
+                "question": "In een aardingsmof op een EAXeVB 4G150 wordt de aardgeleider verbonden met ...",
+                "question_length": 13,
+                "score": 0.1730668883223287
+            },
+            {
+                "answer": "Drie fasegeleiders en een PEN-geleider ",
+                "answer_length": 5,
+                "distractors": [
+                    "Drie fasegeleiders en een nulgeleider "
+                ],
+                "language": "nl",
+                "question": "U ziet een foto van een aftakking op een kabel met een grijze , een zwarte , een bruine en een geel-groene geleider . Wat zijn de functies van de 4 geleiders ?",
+                "question_length": 33,
+                "score": 0.16321940722385536
+            },
+            {
+                "answer": "15 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "12 degrees",
+                    "14 degrees",
+                    "16 degrees",
+                    "20 degrees"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . In een regelmatige zeshoek is de middelpuntshoek groter dan die van de regelmatige achthoek . Hoeveel graden ?",
+                "question_length": 31,
+                "score": 0.14781956027257115
+            },
+            {
+                "answer": "Procent ( % )",
+                "answer_length": 4,
+                "distractors": [
+                    "Seconde ( s )",
+                    "Lux ( lux )"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! In welke eenheid wordt de bodemvochtigheid uitgedrukt ?",
+                "question_length": 19,
+                "score": 0.1472239659047285
+            },
+            {
+                "answer": "33 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "0,54 degrees",
+                    "1,15 degrees",
+                    "1,85 degrees",
+                    "36 degrees"
+                ],
+                "language": "nl",
+                "question": "Een lichtstraal valt in op een halfcilindervormig stuk kwartsglas onder een hoek van 52 degrees . Hoe groot is de brekingshoek ? ( Gebruik de tabel uit je boek op pag . 50 . )",
+                "question_length": 35,
+                "score": 0.14161782869887532
+            },
+            {
+                "answer": "de dubbele oppervlakte",
+                "answer_length": 3,
+                "distractors": [
+                    "de omtrek",
+                    "de oppervlakte",
+                    "de halve oppervlakte"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Als b en c de lengte voorstellen van de rechthoekszijden van een rechthoekige driehoek , wat stelt het product b.c dan voor ?",
+                "question_length": 36,
+                "score": 0.1393602611177253
+            }
+        ]
+    }
+}

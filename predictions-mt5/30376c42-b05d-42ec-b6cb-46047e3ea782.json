@@ -1,0 +1,5 @@
+{
+    "qid": "30376c42-b05d-42ec-b6cb-46047e3ea782",
+    "input": "Welke van deze verdovende drugs heeft ook een hallucinogene werking? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. cannabis (wiet)\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. morfine\n2. acetylsalicylzuur\n3. litium\n4. fentanyl\n5. kalium\n6. salicil\n7. cocaine\n8. parace\n9. methadone (water)\n10. lamisil"
+}

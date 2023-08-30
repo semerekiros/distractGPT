@@ -1,0 +1,5 @@
+{
+    "qid": "2e0c6712-8a6f-4dec-bee7-6503b3d7a832",
+    "input": "question: what 's WRONG ? Something rigid is ...\nanswer: limp\nIncorrect answers: \n1. inflexible\n2. unbendable\n\nquestion: to remove buds from a plant is ...\nanswer: to disbud\nIncorrect answers: \n1. to entbud\n2. to withbud\n\nquestion: what is WRONG about saprobes ?\nanswer: they are agressive microbes\nIncorrect answers: \n1. they are fungi\n2. they feed on dead matter\n\nquestion: what is NOT true ? Budding is joining ...\nanswer: a graft to a scion\nIncorrect answers: \n1. a scion to a stock\n2. a graft to a rootstock\n\nquestion: what is NOT a stag ?\nanswer: a boar\nIncorrect answers: \n1. a male turkey\n2. a male deer\n\nquestion: : to remove buds from a plant is ...\nanswer: : to disbud\n\nGenerate 20 incorrect answers: ",
+    "response": "\n\n1. to unbud\n2. to rebud\n3. to misbud\n4. to overbud\n5. to underbud\n6. to prebud\n7. to postbud\n8. to unibud\n9. to debud\n10. to subbud\n11. to exbud\n12. to redud\n13. to un-dobud\n14. to disbudle\n15. to embud\n16. to rebuddle\n17. to desbud\n18. to misdisbud\n19. to undodisbud\n20. to antidisbud"
+}

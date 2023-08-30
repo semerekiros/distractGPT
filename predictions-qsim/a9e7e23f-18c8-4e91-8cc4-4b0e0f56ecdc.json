@@ -1,0 +1,136 @@
+{
+    "qid": "a9e7e23f-18c8-4e91-8cc4-4b0e0f56ecdc",
+    "response": {
+        "Query": "In welke cellen kan je bladgroenkorrels aantreffen?",
+        "Result": [
+            {
+                "answer": "Neuronen",
+                "answer_length": 1,
+                "distractors": [
+                    "Axonen",
+                    "Dendrieten",
+                    "Schwann-cellen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke cellen herken je duidelijk op de afbeelding ?",
+                "question_length": 20,
+                "score": 0.748991481841779
+            },
+            {
+                "answer": "Dikke darm",
+                "answer_length": 2,
+                "distractors": [
+                    "Slokdarm",
+                    "Twaalfvingerige darm",
+                    "Dunne darm"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! In welke darm van het menselijk lichaam vinden we de meeste lichaamseigen bacterien terug ?",
+                "question_length": 26,
+                "score": 0.7080861315933427
+            },
+            {
+                "answer": "Dikke darm",
+                "answer_length": 2,
+                "distractors": [
+                    "Slokdarm",
+                    "Twaalfvingerige darm",
+                    "Dunne darm"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . In welke darm van het menselijk lichaam vinden we de meeste lichaamseigen bacterien terug ?",
+                "question_length": 21,
+                "score": 0.6169395234780864
+            },
+            {
+                "answer": "Dendriet",
+                "answer_length": 1,
+                "distractors": [
+                    "Eindknopje",
+                    "Axon",
+                    "Receptorcel"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar bevinden zich de membraanreceptoren in een synaps ?",
+                "question_length": 20,
+                "score": 0.5870665932992255
+            },
+            {
+                "answer": "rechterkamer en linkerboezem",
+                "answer_length": 3,
+                "distractors": [
+                    "rechterkamer en linkerkamer",
+                    "rechterboezem en linkerboezem",
+                    "rechterboezem en linkerkamer"
+                ],
+                "language": "nl",
+                "question": "Doorheen welke holten van het hart stroomt het bloed tijdens de kleine bloedsomloop ?",
+                "question_length": 14,
+                "score": 0.5179740915459858
+            },
+            {
+                "answer": "het borstvlies en het middenrif",
+                "answer_length": 5,
+                "distractors": [
+                    "de ribben en de tussenribspieren",
+                    "het longvlies en het borstvlies"
+                ],
+                "language": "nl",
+                "question": "Welke organen bekleden de borstholte aan de binnenzijde ?",
+                "question_length": 9,
+                "score": 0.4940186627500766
+            },
+            {
+                "answer": "blindedarm en dikke darm",
+                "answer_length": 4,
+                "distractors": [
+                    "slokdarm en appendix",
+                    "blindedarm en appendix",
+                    "slokdarm en dikke darm"
+                ],
+                "language": "nl",
+                "question": "Welke organen zijn verbonden met de dunne darm ( zie blauwe pijl ) ?",
+                "question_length": 14,
+                "score": 0.4720903263053438
+            },
+            {
+                "answer": "tussen dunne darm en endeldarm",
+                "answer_length": 5,
+                "distractors": [
+                    "tussen slokdarm en dunne darm",
+                    "tussen twaalfvingerige darm en endeldarm"
+                ],
+                "language": "nl",
+                "question": "Tussen welke organen ligt de dikke darm ?",
+                "question_length": 8,
+                "score": 0.42598038967688445
+            },
+            {
+                "answer": "tussen eierstok en baarmoeder",
+                "answer_length": 4,
+                "distractors": [
+                    "tussen baarmoeder en vagina",
+                    "tussen eierstok en nier",
+                    "tussen eierstok en urineblaas"
+                ],
+                "language": "nl",
+                "question": "Tussen welke organen bevindt zich de eileider ?",
+                "question_length": 8,
+                "score": 0.36867640781538935
+            },
+            {
+                "answer": "de holle aders",
+                "answer_length": 3,
+                "distractors": [
+                    "de onderste holle ader",
+                    "de kransader",
+                    "de longaders"
+                ],
+                "language": "nl",
+                "question": "Welke bloedvaten brengen zuurstofarmbloed naar de hartholte ?",
+                "question_length": 8,
+                "score": 0.2540640912730367
+            }
+        ]
+    }
+}

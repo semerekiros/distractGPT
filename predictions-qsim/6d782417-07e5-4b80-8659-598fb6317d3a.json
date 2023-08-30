@@ -1,0 +1,137 @@
+{
+    "qid": "6d782417-07e5-4b80-8659-598fb6317d3a",
+    "response": {
+        "Query": "Tot op welk niveau geeft de atlas informatie over de landbouw?",
+        "Result": [
+            {
+                "answer": "over 68",
+                "answer_length": 2,
+                "distractors": [
+                    "over 65",
+                    "over 60",
+                    "over 70"
+                ],
+                "language": "en",
+                "question": "Listen to the sentence and choose the right answer . Luister naar de zin en kies het juiste antwoord . Ecoutez la phrase et choisissez la bonne reponse . How old is one fifth of the Japanese population today ?",
+                "question_length": 40,
+                "score": 0.9099414521140001
+            },
+            {
+                "answer": "17",
+                "answer_length": 1,
+                "distractors": [
+                    "7",
+                    "10",
+                    "10 C"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op welk spoor komt de trein aan ?",
+                "question_length": 15,
+                "score": 0.8806115209805694
+            },
+            {
+                "answer": "18",
+                "answer_length": 1,
+                "distractors": [
+                    "16",
+                    "21",
+                    "25"
+                ],
+                "language": "en",
+                "question": "WHat is the minimum age to vote in Belgium ?",
+                "question_length": 10,
+                "score": 0.8712297361733563
+            },
+            {
+                "answer": "3",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op elke kaart is een deel grijs ( en op kaart 4 ook lichtblauw ) ingekleurd . Op welke kaart is het Vlaams Gewest ingekleurd ?",
+                "question_length": 33,
+                "score": 0.8509719479239443
+            },
+            {
+                "answer": "17",
+                "answer_length": 1,
+                "distractors": [
+                    "21",
+                    "25",
+                    "29"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Het hele gedicht is een tweeledigheid , waarvan de twee delen elkaar aanvullen . Vanaf welk vers begint deel 2 ?",
+                "question_length": 28,
+                "score": 0.8494161229466545
+            },
+            {
+                "answer": "3",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op elke kaart is een deel grijs ( en op kaart 4 ook lichtblauw ) ingekleurd . Op welke kaart is het Vlaams Gewest grijs ingekleurd ?",
+                "question_length": 34,
+                "score": 0.8460021573722618
+            },
+            {
+                "answer": "1",
+                "answer_length": 1,
+                "distractors": [
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op elke kaart is een deel grijs ( en op kaart 4 ook lichtblauw ) ingekleurd . Op welke kaart is het Waals Gewest ingekleurd ?",
+                "question_length": 33,
+                "score": 0.844578285418179
+            },
+            {
+                "answer": "4",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op elke kaart is een deel grijs ( en op kaart 4 ook lichtblauw ) ingekleurd . Op welke kaart is de Franstalige Gemeenschap ingekleurd ?",
+                "question_length": 33,
+                "score": 0.8440763397385566
+            },
+            {
+                "answer": "4",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op elke kaart is een deel grijs ( en op kaart 4 ook lichtblauw ) ingekleurd . Op welke kaart is de Franstalige Gemeenschap grijs ingekleurd ?",
+                "question_length": 34,
+                "score": 0.8306972623253698
+            },
+            {
+                "answer": "London",
+                "answer_length": 1,
+                "distractors": [
+                    "Brussels",
+                    "Paris"
+                ],
+                "language": "en",
+                "question": "Where is the BETT show 2012 ?",
+                "question_length": 7,
+                "score": 0.8267635843856812
+            }
+        ]
+    }
+}

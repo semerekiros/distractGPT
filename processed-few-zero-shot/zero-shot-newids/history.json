@@ -1,0 +1,4187 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "history.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "0",
+            "question": "Welke farao slaagde erin om Egypte na de eerste tusenperiode weer te verenigen en zo het middenrijk te starten?",
+            "answers": "Mentoehotep II",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Cleopatra VII",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Ramses III",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Toetanchamon",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a4febae1-93ee-4504-9516-5ae34504c06c",
+                    "distractor": "Cleopatra VII",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "a7c454f2-2aaf-48ad-8333-d978476e100e",
+                    "distractor": "Amenemhat I",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b64375be-c2a4-4d6b-bbc5-2907ef5b4ce3",
+                    "distractor": "Khufu",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "e32bc99a-1ad2-43e7-b769-78245a70d93d",
+                    "distractor": "Hatsjepsoet",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0b1a1074-2064-4d8b-b520-80dc9e98f0eb",
+                    "distractor": "Thoetmosis III",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "0bfcfdae-fabb-4704-814d-7ec02d266e5d",
+                    "distractor": "Ramses II",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "3f7ee64d-ca75-447a-a98a-f4b5713b59ce",
+                    "distractor": "Pepi II",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "fc1fac69-2fd9-47c5-8477-a087f0622877",
+                    "distractor": "Sesostris I",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c2f3d800-93a6-421f-9d44-4c873343822c",
+                    "distractor": "Amenhotep III",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "fa2adda3-c2b2-4b61-a6e2-62b66720f556",
+                    "distractor": "Tutankhamun",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1",
+            "question": "Welke rivier mondt in Egypte uit in de Nijl?",
+            "answers": "De Blauwe Nijl",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De Zwarte Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De Groene Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "De Rode Nijl",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3383ccd1-462f-40ea-8e46-71ba7d7ca387",
+                    "distractor": "De Rode Zee",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "de52cc65-8fde-408f-8bde-355dcdfd968a",
+                    "distractor": "De Oranje Nijl",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "12500489-48e8-4ac8-93cc-f3498b388dcd",
+                    "distractor": "De Groene Nijl",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "36a602e8-61b8-49f1-9aad-a45deb8380ea",
+                    "distractor": "De Zwarte Nijl",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "71fd8766-7ca4-409e-a3a6-442adf5f4a85",
+                    "distractor": "De Gouden Nijl",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "84ec3798-e12d-41b4-9e40-8fe2b12f3365",
+                    "distractor": "De Zilveren Nijl",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "7c138fa5-a2c9-4d1b-8170-ad3f9d92f3f4",
+                    "distractor": "De Paarse Nijl",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "7fd6d8d0-9b6d-4c6c-bba9-6272ef20d483",
+                    "distractor": "De Roze Nijl",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5100a4c3-eba7-4e8f-a3ab-52505ad52730",
+                    "distractor": "De Gele Nijl",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "4909a2a4-7b0f-49bd-8a7b-4fa94b04054c",
+                    "distractor": "De Bruine Nijl",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2",
+            "question": "Weet je nog wat de eerste mensensoort was?",
+            "answers": "Homo habilis",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Homo erectus",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Homo sapiens",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Homo neanderthalensis",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d8987b1d-ffb3-4cac-9a5f-385a3cbee8ff",
+                    "distractor": "Australopithecus hamburgensis",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "038c18e7-fac0-4e73-926f-9a8b334f05e0",
+                    "distractor": "Neanderthalensis erectus",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "64c75e79-f48f-4946-86d2-f5519e340e50",
+                    "distractor": "Homo ignoramus",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "571703fb-a2ad-4ea2-aa62-cef8109c633b",
+                    "distractor": "Cro-Magnon sapiens",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "08229382-8408-4944-9bc8-c2e4d1a695e0",
+                    "distractor": "Homo neanderthalis",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "ebb5a863-2a22-404b-b17c-5d572ba775be",
+                    "distractor": "Homo gigantis",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "2837f81f-ad6a-4322-8f78-20c3030a446e",
+                    "distractor": "Homo superior",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "075ea403-800e-43a2-a717-cfae943b3ef2",
+                    "distractor": "Homo faber",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "2818ebe9-5ca4-4de1-b4e4-201113d4d23b",
+                    "distractor": "Homo robustus",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "bf580ab9-d3f9-4d34-8c82-034531072c1e",
+                    "distractor": "Homo balansae",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3",
+            "question": "Wat leert ons het gebit over het voedsel van de Homo sapiens?",
+            "answers": "We aten zowel plantaardig voedsel als vlees.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "We aten vooral plantaardig voedsel.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "We aten vooral vlees.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "293f0557-858b-4f61-82f2-2d961958ba5e",
+                    "distractor": "Het gebit van Homo sapiens suggereert dat we alleen vlees aten.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "54ac4c89-7cb5-4509-b9d6-75f561d42d2c",
+                    "distractor": "Ons gebit laat zien dat we alleen rauw voedsel aten.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "e1a643ea-d3f2-4e82-a237-4c123032e228",
+                    "distractor": "We aten alleen fruit en noten op basis van ons gebit.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "8abea8f2-3d92-48d6-97ab-6a9cef183d36",
+                    "distractor": "Onze tanden geven aan dat we voornamelijk zand en klei aten.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "5ca47475-ec92-4bc3-93c9-6e17a42285f9",
+                    "distractor": "Het gebit van de Homo sapiens suggereert dat we alleen vis aten.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "540302e4-7eac-4e13-9da0-af0400dfb094",
+                    "distractor": "We aten alleen vlees van zeer grote dieren vanwege de grootte van onze tanden.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "8c2ca79a-9aa5-4c8f-a2b8-a026fe4d9655",
+                    "distractor": "Het gebit van de Homo sapiens duidt erop dat we alleen zachte voedingsmiddelen aten.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "6e3f19f7-4b4e-403e-bca6-d3c14c51201d",
+                    "distractor": "Onze tanden suggereren dat we alleen insecten aten.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "aca8cb19-0398-40fc-ac59-46992abbf155",
+                    "distractor": "We aten alleen voedsel dat volledig vloeibaar was vanwege ons gebit.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "bd799b35-3f08-4f41-9582-d842cbbd0ef2",
+                    "distractor": "Ons gebit suggereert dat we alleen wortelgewassen aten.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4",
+            "question": "Welke gewichten werden in Babyloni\u00eb nog gebruikt?",
+            "answers": "graan",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "pond",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "kilo",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "53a0571f-aedb-46b5-b6b5-49e79ad9108e",
+                    "distractor": "Luchtballonnen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "0eb8b9f1-1f4a-49ec-a2dd-e02828e0d530",
+                    "distractor": "Zilveren munten",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "3506080e-353d-4fa5-8e67-cef2299c8174",
+                    "distractor": "Dansschoenen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d0271eae-bf22-4db2-9d64-6e5146573235",
+                    "distractor": "Diamanten",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "8667392a-dc8e-46d4-b153-2a631d82de89",
+                    "distractor": "Boeken",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "05473c09-239c-4bb5-93e5-9d860366c8d1",
+                    "distractor": "Bananen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "7e0c6ae5-7567-47c8-871e-1c886df612d9",
+                    "distractor": "Veren",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "88e969c2-0b79-4e63-af56-e41698b63d0e",
+                    "distractor": "Goudstaven",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "7bee494a-d21b-4d6f-93b4-ae225a216f7f",
+                    "distractor": "Zwembandjes",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "4ba63149-c386-4d57-b9a2-972cd8021b7e",
+                    "distractor": "Bloempotten",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5",
+            "question": "Welke periode komt overeen met het oude rijk van Egypte?",
+            "answers": "2650 v.C.-2150 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "2700 v.C. - 2100 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "2650 v.C.-2150 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "2450 v.C. - 1980 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "62431e78-1d84-46f8-a6d5-ed23a04aa31b",
+                    "distractor": "2500 n.C.-2900 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f0b6dfc0-2d20-4664-a371-94aef39b364b",
+                    "distractor": "400 v.C.-600 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "ea6b16d6-8f6a-4d6f-a118-44951bcddc54",
+                    "distractor": "1100 n.C.-1200 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "f55fb776-6d3f-46fa-8599-a0df5bd60f98",
+                    "distractor": "500 v.C.-700 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "252a0f84-4896-4f3f-8e87-535f54899d85",
+                    "distractor": "1000 v.C.-1500 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "5b4fdd9d-829b-4705-852f-f9549f7bffe2",
+                    "distractor": "2000 n.C.-2100 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "d0acc2b4-0b43-4b38-80cd-ae1ba768f513",
+                    "distractor": "1500 v.C.-1600 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "f75d73d2-9c9d-40ea-8ae7-99b9631bf0f4",
+                    "distractor": "300 n.C.-500 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "37f66e78-a41e-4afc-b9de-66a387f5fdd9",
+                    "distractor": "2200 v.C.-2300 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "93435f88-8170-4264-a04a-9c31ce51a0dd",
+                    "distractor": "800 n.C.-900 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6",
+            "question": "Hoe werden goederen 'gekocht' in Mesopotami\u00eb?",
+            "answers": "Door te ruilen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Niet",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Door met geld te betalen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2ea9b308-a729-4d86-a8ce-ed9c5cae51ea",
+                    "distractor": "Door te gooien met stenen en degene die het verste gooide mocht het product houden.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "80ce39c1-95b8-4b6c-a78f-db83c49f580f",
+                    "distractor": "Door te dansen en degene met de beste dansmoves kreeg het product.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "2aace71a-74e9-4ede-87d4-79b6b4b5223c",
+                    "distractor": "Door te zingen en degene met de beste stem kreeg het product.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "bb8cd50a-f26b-46b0-a2db-dda99aa2547b",
+                    "distractor": "Door te vechten en degene die won mocht het product houden.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d13b2b07-9cd0-4eb9-924e-44efd8af74e5",
+                    "distractor": "Door te raden hoeveel vingers iemand opstak en bij een correct antwoord kreeg men het product.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "67bf49ee-658c-430e-ac1e-45b16cb85999",
+                    "distractor": "Door te gokken en degene met de beste kaarten kreeg het product.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "0c29995e-538d-4585-9bca-a5b2b9572852",
+                    "distractor": "Door te zwemmen en degene die als eerste de overkant bereikte kreeg het product.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "39ea0d22-b4d4-45bf-85bc-4d7ea7491a32",
+                    "distractor": "Door te schreeuwen en degene met de luidste stem kreeg het product.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "3ae48e68-b0a2-416b-b096-6c2287f46255",
+                    "distractor": "Door te dansen op een been en degene die het langst op \u00e9\u00e9n been kon blijven staan kreeg het product.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "7d6192ad-deba-4dd8-912a-2e68404d1257",
+                    "distractor": "Door te zwaaien met een vlag en degene die het snelst kon zwaaien kreeg het product.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7",
+            "question": "Wie was dus in staat om de meest voordelige ruil te doen ?",
+            "answers": "Handelaars",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Boeren",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Ambachtslieden",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5c047336-2e43-469b-b934-a335f92b2891",
+                    "distractor": "Zeer slimme apen met een talent voor ruilen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "007066a9-232c-4e8e-a30c-70146e8a67a5",
+                    "distractor": "De kabouters uit sprookjesverhalen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "ebc747b0-6cca-47bf-9fe5-5555866c67d6",
+                    "distractor": "Aliens met geavanceerde ruiltechnologie",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "1ae037f0-85e6-4594-8fdc-7f6d4d213e1c",
+                    "distractor": "Superhelden met de kracht van ruilhandel",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "6e7162f8-8f62-4b19-90d9-7491735c6721",
+                    "distractor": "Een geheim genootschap van ruilmeesters",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "db26c0ec-f048-4ac6-93ea-deb266697baa",
+                    "distractor": "Tovenaars met een gave voor het verwisselen van objecten",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a657ba2f-bddb-40a3-acac-9771da77cd96",
+                    "distractor": "Een buitenaardse markt met buitengewone deals",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "016257bb-9770-4f5d-a39d-8bdc2fe57ace",
+                    "distractor": "Een magische spreuk voor ruilvoordeel",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6340f30a-1dd2-41b5-8e71-6648faa70b3d",
+                    "distractor": "Een algoritme dat de beste ruil bepaalt",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "aacd691b-fe51-4e43-a699-f046f96d24db",
+                    "distractor": "Een team van onderhandelingsexperts",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8",
+            "question": "Welk volk nam in 30 v.C. de macht over in Egypte?",
+            "answers": "Romeinen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Libi\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Grieken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Assyri\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ba9f3c89-4bc4-45eb-b913-b76cd9488db2",
+                    "distractor": "Perzen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "3eb41d42-7813-4c07-80f9-2394eb055d13",
+                    "distractor": "Grieken",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b5172480-8d11-4ccf-9588-81b875aa12b5",
+                    "distractor": "Macedoni\u00ebrs",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d539a49b-a115-45ba-9267-636bdef7d5ef",
+                    "distractor": "Fenici\u00ebrs",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "559eab12-8efa-4a56-9cd2-3d4d5aabf899",
+                    "distractor": "Babyloni\u00ebrs",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "fb298c70-0ee5-4eef-b430-b2c4bef21175",
+                    "distractor": "Assyri\u00ebrs",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "8b537db1-b0d7-4269-a692-b2230a24fdc5",
+                    "distractor": "Hettieten",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "573384b1-fa56-428f-931c-30163e8203e1",
+                    "distractor": "Arabieren",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "15cb5684-baf1-46b4-8599-48feb8cc6cc2",
+                    "distractor": "Turken",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "37bfb5ac-1a4b-4b82-b07c-4a8a4e169ba8",
+                    "distractor": "Mongolen",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9",
+            "question": "In welk werelddeel ligt Stonehenge?",
+            "answers": "Europa",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Azi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7d5d6635-9e10-4883-94d6-8804e50a9507",
+                    "distractor": "Azi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "50f83a01-9f4b-4828-8f30-1b115d38aad8",
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "9a6fe95f-de49-4f1a-8838-65be3fa625f4",
+                    "distractor": "Antarctica",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "f98104f6-be71-46a9-8f81-6a9743284642",
+                    "distractor": "Afrika",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "44382457-aa38-45ad-8fa9-e18d53287db3",
+                    "distractor": "Australi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "1caf4dbe-3c8d-4dd3-b2bc-eaecc4ee52dd",
+                    "distractor": "Noord-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "1556591b-07ff-42ed-b36b-f7eb76ce3db8",
+                    "distractor": "Oost-Azi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "dc5bfb50-6c69-4906-b717-916ee13ff3f5",
+                    "distractor": "Midden-Oosten",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "44f2849b-e2d9-4b1f-a865-f22cf029d933",
+                    "distractor": "Zuidoost-Azi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "6ec5629f-c813-4b2c-847d-1040ae8f1220",
+                    "distractor": "Caribisch gebied",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "10",
+            "question": "Ter ere van welke god werd de tempel van Kom Ombo opgericht?",
+            "answers": "Horus",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Anoebis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Isis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Re",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f0b5129c-9a65-42c3-bb49-943c4716d915",
+                    "distractor": "Osiris",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "875321df-26f3-4896-acd6-947359fc1416",
+                    "distractor": "Anubis",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "84956283-c99a-49f8-871e-d2f02e9cc61a",
+                    "distractor": "Isis",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "4c35ae7f-91fa-4d49-8b88-06c69fb51096",
+                    "distractor": "Ra",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "09eb8db1-f2c5-4e97-a978-813017d519fe",
+                    "distractor": "Set",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "c53023ef-73b0-47c2-9a30-df2b35150b7b",
+                    "distractor": "Hathor",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "1da646fc-2f63-4601-84bd-efda6d40a733",
+                    "distractor": "Thoth",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b4eb5547-8755-4a22-a416-92fa88d284a2",
+                    "distractor": "Ptah",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "51148dae-6c7a-4a60-87aa-f0d621ba2b9c",
+                    "distractor": "Sekhmet",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "f7c0c82a-675f-4c6d-8028-30a398ebb676",
+                    "distractor": "Sobek",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "11",
+            "question": "Rond welk tijd situeer je prehistorisch \u00c7atalh\u00f6y\u00fck?",
+            "answers": "\u00b17 000 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "\u00b113 000 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "\u00b110 000 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "\u00b14 000 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "64110a4e-b262-43d3-8208-68332e7e1552",
+                    "distractor": "\u00b12 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "a8ca7f7d-b34d-4cc9-aae0-a43ab55c4cf3",
+                    "distractor": "\u00b112 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "87615bba-005d-41f9-873f-69ec3d78c872",
+                    "distractor": "\u00b15 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "0f605e55-6c77-40b4-817f-52c1281825e6",
+                    "distractor": "\u00b110 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "073ffdbc-9ab0-451c-af17-a19626a03941",
+                    "distractor": "\u00b14 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "d5e8e430-2596-458b-be89-cc8b3c918f53",
+                    "distractor": "\u00b18 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "222f2af0-3eb3-4e8f-bf5b-2d5c56b4b6d8",
+                    "distractor": "\u00b11 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d30adae3-ab12-4702-b476-432043a5b336",
+                    "distractor": "\u00b115 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "1b7b6b24-8eae-4fe1-98a1-41221c29c313",
+                    "distractor": "\u00b13 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "1fe332d9-f199-49e3-86e2-4ca31cc9a866",
+                    "distractor": "\u00b19 000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "12",
+            "question": "Hoe noemden we de economische organisatie in Mesopotami\u00eb?",
+            "answers": "Economische specialisatie",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Economische monopolisering",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Economische generalisering",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5472497a-994a-4d10-82fd-1104a54a5ebe",
+                    "distractor": "Handelsunie van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "fd450a23-40b5-43e8-a376-e47a649c4ff9",
+                    "distractor": "Agrarisch monopolie van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "f058e215-18c8-4a0a-87f2-9f0f5dead30a",
+                    "distractor": "Feodaal systeem van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "e12a55c2-f924-4374-9a89-e93b769f8411",
+                    "distractor": "Industri\u00eble revolutie van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "ef2fe0c7-1def-48bc-9096-484a24be9a62",
+                    "distractor": "Stammenhandel van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "4462ed6b-a0f2-4373-a518-dea839200620",
+                    "distractor": "Centralistisch economisch beleid van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b77171fe-657d-426d-a8fe-2ecaee61bedf",
+                    "distractor": "Communale landbouweconomie van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d5e8d77f-a129-4be6-b16c-cfce2a1924ae",
+                    "distractor": "Gildenstelsel van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "b332c85c-8f9d-4b42-82e7-69640a1ff98c",
+                    "distractor": "Kapitalistische markteconomie van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "c50efd40-35c2-41d9-b890-80c808bd0317",
+                    "distractor": "Planmatige economie van Mesopotami\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "13",
+            "question": "Welke inwoners zijn niet blij met de plannen van Ethiopi\u00eb?",
+            "answers": "Egyptenaren",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Ethiopi\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Soedanezen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2486dfca-6177-49dd-931c-8b612e0e26da",
+                    "distractor": "De inwoners van Kenia",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "46a628ce-3b3c-4390-aa82-0947f8966596",
+                    "distractor": "De bevolking van Rusland",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "9ad580a6-931d-494c-bab0-526e28c93379",
+                    "distractor": "Australi\u00ebrs",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d1c7583f-f463-4fc0-962b-e2cb676d0011",
+                    "distractor": "Inwoners van Zuid-Afrika",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0376861a-0144-479b-a3e4-995dc7c6b994",
+                    "distractor": "De Fransen",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "47d78928-bcd1-4a17-bdc1-79446b2001ad",
+                    "distractor": "De inwoners van Canada",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "6b7a1406-9c4e-404c-83ae-79ac485d2cd6",
+                    "distractor": "Nigerianen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "4d4481ab-1007-4802-9bd2-6fb5bd4051c8",
+                    "distractor": "Brazilianen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "55ec28a6-a8b9-4d7c-b6a8-ebf07782b652",
+                    "distractor": "De Japanners",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "15921850-f996-406f-99a4-0d541eb83063",
+                    "distractor": "De Mexicanen",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "14",
+            "question": "Wat is een ploeg?",
+            "answers": "Werktuig dat de aarde omwoelt",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Werktuig dat graanhalmen afsnijdt",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Werktuig dat helpt bemesten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "44011df3-14f9-4b0b-82ae-1e079c61753f",
+                    "distractor": "Een soort vliegend insect",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e1eb1f5b-7984-4418-81c5-18ddfebc1fac",
+                    "distractor": "Een type dans uit de jaren '70",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "a5e9a598-249a-4660-80e5-5e0f058c03be",
+                    "distractor": "Een Engelse term voor een groep vogels",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "f1252b49-987c-4b81-9234-9829e8ef5d4b",
+                    "distractor": "Een oud-Griekse munteenheid",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "055dbadf-2ded-4456-a8fc-337b528a126a",
+                    "distractor": "Een soort trompet uit de Middeleeuwen",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "7f120139-8693-4532-89fc-1e644f935222",
+                    "distractor": "Een slang die voorkomt in de jungle",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "0f7d59ca-f2a0-4b55-8280-da937d1195c9",
+                    "distractor": "Een Franse term voor een soort kaas",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b3371a1d-d549-40fd-a31c-f7efbf495bc7",
+                    "distractor": "Een speciaal soort kaars die in kerken wordt gebruikt",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "9197718d-4d24-4893-b63e-aa71d5ec2c5a",
+                    "distractor": "Een type zeilboot",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "cc0bf31a-4c0f-409c-bfc4-5eab62fad2de",
+                    "distractor": "Een variant op het woord \"plooi\"",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "15",
+            "question": "Welke soort kaart is de kaart met begroeiing?",
+            "answers": "situatiekaart",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ontwikkelingskaart",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9f4f8083-0a74-46da-a90d-63c0a1161fd3",
+                    "distractor": "Vegetatiekaart",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "8115de05-ff45-4afa-aa34-dc8e01fcc1e7",
+                    "distractor": "Plantenkaart",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "7a2499db-9d1c-4776-8122-0835e0a86160",
+                    "distractor": "Groenkaart",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "3cb7c4ee-3f73-4f0e-b1a5-859a6ddbc9be",
+                    "distractor": "Boskaart",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "7b41f78a-ae17-462f-b5c7-9578a1544988",
+                    "distractor": "Flora-overzichtskaart",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "f4227d50-74eb-4f05-8011-aca3614a618b",
+                    "distractor": "Groeiomstandighedenkaart",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "320fc504-5b5b-4426-b783-c5601bba0a27",
+                    "distractor": "Natuurkaart",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "2ea1f53f-8905-4c0f-9df3-cb5c6a3e3ca3",
+                    "distractor": "Milieukaart",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "ec599fd6-e60d-4a5c-8e2f-5f446a6e8293",
+                    "distractor": "Ecologische kaart",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "844bb68b-3845-4800-b17e-7075494fc8b0",
+                    "distractor": "Botanische kaart",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "16",
+            "question": "Welke rivier begint in Ethiopi\u00eb?",
+            "answers": "De Blauwe Nijl",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De Rode Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De Zwarte Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "De Witte Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "De Groene Nijl",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f5ff00a4-f828-40b5-ac4e-42aac4779d87",
+                    "distractor": "De Rode Nijl",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "4537b90c-fbd9-4b00-ac32-989c09716f89",
+                    "distractor": "De Zwarte Nijl",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b3e61865-b6f7-4db4-97cf-706ad16574a8",
+                    "distractor": "De Oostelijke Nijl",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "18312b87-398a-4cba-ad01-d1c47dcece78",
+                    "distractor": "De Westelijke Nijl",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "bd41b75a-d3be-45d9-8bfe-a82b952c5d05",
+                    "distractor": "De Groene Nijl",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "42217efa-12d7-496c-8b5c-e567935729c2",
+                    "distractor": "De Gele Nijl",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "261cd5f9-335f-46fb-9c4d-6e36205ec052",
+                    "distractor": "De Gouden Nijl",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "f4c66200-6218-4cab-ba1e-d20a6336c1a0",
+                    "distractor": "De Zilveren Nijl",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a541c839-0fdd-4200-adfa-c6899ba21f22",
+                    "distractor": "De Diamanten Nijl",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "d8ff76c7-2476-4fdb-8287-1b14bfa7b6de",
+                    "distractor": "De Saffier Nijl",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "17",
+            "question": "Om welke activiteit staat het Nieuwe Rijk van Egypte bekend?",
+            "answers": "Bouwen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Afbreken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Verhuizen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fb26cd31-ab45-493e-a8c0-063c3bac1e3a",
+                    "distractor": "Zeilen op de Nijl",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "3ee9a41d-34ca-4942-be72-28832d0a4227",
+                    "distractor": "Dansen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "5ff07200-4583-4d85-b341-6067b064eb61",
+                    "distractor": "Schilderen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "356ceb0b-9874-4898-957c-8a5e3dce4f77",
+                    "distractor": "Koken",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "c3de328c-4f8d-459a-be27-47a0f597c432",
+                    "distractor": "Sporten",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "680d0dc3-1663-4d3e-9875-5428f8e45460",
+                    "distractor": "Tuinieren",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a9e3c0bc-70f4-4a1e-9bbf-470629ed1fed",
+                    "distractor": "Vissen",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "91bfde43-181e-4290-ab86-57fb21cb7abc",
+                    "distractor": "Jagen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "583458ae-5d17-4d35-94ff-6685e381531c",
+                    "distractor": "Muziek maken",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "53a1e8b1-f1fa-4799-b4ea-1c258ed43be7",
+                    "distractor": "Schrijven",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "18",
+            "question": "Het verhaal van 'Lucy' begint met de vondst van beenderen.\n\nIn welk werelddeel werden de beenderen gevonden?",
+            "answers": "Afrika",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Azi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Europa",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 6,
+                    "distractor": "Oceani\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3945e233-66d5-4b26-b295-cefb9bc41d21",
+                    "distractor": "Europa",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "50b2e9a8-e0a2-4d09-9a26-84eb13436924",
+                    "distractor": "Antarctica",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "e88b96ce-de0b-4bb1-905e-f877ec360ecb",
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "766c7bfd-9170-4549-938c-27079aafe402",
+                    "distractor": "Noord-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "53b3f2a7-2bc5-439f-b0a0-be3cd88b131b",
+                    "distractor": "Australi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "b72a75f7-7fa1-4d54-878e-ad202757ad0b",
+                    "distractor": "Azi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "50c03e48-820f-440e-bb5c-0a4b8238ae00",
+                    "distractor": "Groenland",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "5c13490d-4d78-4615-93c6-f8a49d1cfd9b",
+                    "distractor": "Atlantis",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5b86b56f-eb02-49a5-8368-db43a6193f35",
+                    "distractor": "Mars",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "81ac5eb0-9464-4246-ac1f-14afbd8a85df",
+                    "distractor": "Onderwater",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "19",
+            "question": "Uit welke periode stamt die bron met de meest primitieve voorstelling?",
+            "answers": "Begin 20e eeuw",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Midden 20e eeuw",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Einde 20e eeuw",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Begin 21e eeuw",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5345d388-21a6-4a1d-a1a8-a373e8108765",
+                    "distractor": "De middeleeuwen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "78b95001-96a0-4a53-8b42-ab052fae067d",
+                    "distractor": "Het oude Egypte",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "7ab720fc-c2fc-4d78-bd1a-03f7b88c51ee",
+                    "distractor": "De prehistorie",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "4de9b526-c600-4360-b03a-eaf9faf3f46e",
+                    "distractor": "De Romeinse tijd",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "7e32af93-72d7-499d-9f49-0c491bdb7f99",
+                    "distractor": "De Renaissance",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "b60bc574-bb43-4507-8ecc-70ed43bd9fbd",
+                    "distractor": "De Industri\u00eble Revolutie",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f837137f-9d9f-4fd6-9c5f-856cdc35aaed",
+                    "distractor": "De Oudheid",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "7b2ef42e-3c36-4861-a135-64059116d604",
+                    "distractor": "De Vikingtijd",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "96f6bd06-4a08-4eaa-b666-c243a7bcdfff",
+                    "distractor": "De Byzantijnse periode",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "4fda0b3b-b38d-4f21-827e-be57892ad776",
+                    "distractor": "De jaren 80 van de vorige eeuw",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "20",
+            "question": "Welk kenmerk was er zo typisch voor die eerste mensensoort?",
+            "answers": "Bewust werktuigen maken",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Spreken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Begraven",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Werktuigen gebruiken",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1e688c27-33ca-4182-b59a-815c6181f820",
+                    "distractor": "Ze hadden de gave van telekinese.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "49a01572-e248-450c-8cd3-66bba1b874ec",
+                    "distractor": "Ze hadden vleugels om te vliegen.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "f14cab3d-fa73-47d2-93da-5a704e7bec3a",
+                    "distractor": "Ze konden onder water ademen.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "51f3e471-e89a-466d-9ad3-e0c965f78f5e",
+                    "distractor": "Ze hadden de kracht van onsterfelijkheid.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "c1b10b94-63d8-4257-a687-c96452e39a97",
+                    "distractor": "Ze communiceerden met planten en dieren.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "4d0c33a4-718e-466a-9eb1-3057eecad27c",
+                    "distractor": "Ze hadden een derde oog op hun voorhoofd.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "c652adac-8828-41eb-bc13-4ef03c6d9211",
+                    "distractor": "Ze konden gedachten lezen.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "a27634af-ec80-48a6-9597-bfdf5ec368e3",
+                    "distractor": "Ze hadden de mogelijkheid om van vorm te veranderen.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "aa027acc-608e-4600-bd42-f768b6dbabb0",
+                    "distractor": "Ze konden door muren heen lopen.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "45f3bfbf-9a96-4eeb-ad34-fb6e32d7f30c",
+                    "distractor": "Ze waren onzichtbaar voor het blote oog.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "21",
+            "question": "Welke soort maatschappij bestond in Mesopotami\u00eb?",
+            "answers": "Een standenmaatschappij",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Een egalitaire maatschappij",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Een klassenmaatschappij",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5b0f0ffa-6498-4ffd-8aa3-689c412ee49f",
+                    "distractor": "Een communistische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "5f3b5d6d-584d-4df7-b7ba-0e471dd4ffdf",
+                    "distractor": "Een anarchistische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "22e65c29-c81f-4992-bc8d-eb629ff14487",
+                    "distractor": "Een democratische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "97d18936-f635-499f-a1bc-268bc61ad86c",
+                    "distractor": "Een meritocratische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "a742d573-b669-49f9-8e01-d5803071a194",
+                    "distractor": "Een feodale maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "e061e385-6300-490f-b68a-2e2a0c3672f9",
+                    "distractor": "Een kapitalistische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "e5861c2c-8c5c-4904-9667-4c60b4d00e59",
+                    "distractor": "Een monarchistische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "1cc050ca-6dab-473b-99e2-35477af2e161",
+                    "distractor": "Een theocratische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "21ecac2d-b0d3-452c-8754-80c3490e1198",
+                    "distractor": "Een socialistische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "9b9441aa-ff3c-4226-a595-6402318c9c86",
+                    "distractor": "Een oligarchische maatschappij",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "22",
+            "question": "In hoeveel verschillende regio's ontstond landbouw?",
+            "answers": "op meerdere plaatsen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "op \u00e9\u00e9n plaats",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "bijna overal",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4144b2ef-6058-4856-82df-e741646fdf62",
+                    "distractor": "In slechts \u00e9\u00e9n regio ontstond landbouw, en dat was Atlantis.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "fc8f33cd-b219-4c63-acec-ca6c155dabdb",
+                    "distractor": "Landbouw ontstond in precies 100 regio's over de hele wereld.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "490a09bc-aa04-420b-a710-793dfa9ca01e",
+                    "distractor": "Er zijn minstens 500 verschillende regio's waar landbouw ontstond.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "a52be6fb-2581-4c5b-a1ac-75415fc99e58",
+                    "distractor": "Landbouw ontstond alleen in Noord-Amerika en nergens anders.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "f02b8373-5a40-4794-ab33-02ebb401c9c8",
+                    "distractor": "Er zijn ten minste 50 regio's waar landbouw nooit is ontstaan.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "5341220e-8b83-478e-98c2-0bf49a0aaabe",
+                    "distractor": "Landbouw ontstond alleen op de maan.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "207c1a7d-1d97-4443-94c2-5e408542a571",
+                    "distractor": "Slechts \u00e9\u00e9n persoon ontdekte landbouw in \u00e9\u00e9n enkele regio.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d14c01c5-d5ca-47b8-bc61-0f43c643201a",
+                    "distractor": "Er zijn 7 regio's waar landbouw spontaan is ontstaan door buitenaardse invloeden.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c7820235-82f2-466e-88a3-8d764b7500c4",
+                    "distractor": "Landbouw ontstond alleen in landen waar de kleur groen in de vlag voorkomt.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "e6e2979d-01cd-4d2a-96f4-ede722bdad3d",
+                    "distractor": "Er zijn 3 regio's waar landbouw is ontstaan als gevolg van een magische spreuk.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "23",
+            "question": "Welke periode komt overeen met het Nieuwe Rijk van Egypte?",
+            "answers": "1550 v.C. - 1075 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "1700 v.C. - 1640 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "1650 v.C. - 400 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "1200 v.C. - 800 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b4a34f7a-f932-4ff3-92c5-850ce45d37bb",
+                    "distractor": "2000 v.C. - 1500 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "24438a36-b915-4e25-ba75-0477827c01a5",
+                    "distractor": "1800 v.C. - 1300 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "afc2c2b1-357b-4382-b398-a3f5fdbfb5e2",
+                    "distractor": "1450 v.C. - 1100 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "0033b33f-f529-4efb-9cd5-76a387f154f7",
+                    "distractor": "1200 v.C. - 800 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "8901ded3-5d0b-497b-b205-db6b6d3bb51c",
+                    "distractor": "1700 v.C. - 1000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "3a373853-ad79-4568-8748-0963570cdfc0",
+                    "distractor": "1400 v.C. - 900 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4da4ac51-4dda-466b-bff5-4a6779bf541b",
+                    "distractor": "1300 v.C. - 700 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "3b3ba368-59ed-40f2-85e5-70d763fe04ca",
+                    "distractor": "1100 v.C. - 500 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "0a8c25ca-6901-4494-9219-dc5a12d15034",
+                    "distractor": "1000 v.C. - 400 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "32b1dfc6-a023-40f3-b7a2-b06dbb752de9",
+                    "distractor": "900 v.C. - 300 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "24",
+            "question": "Welke vreemde stam speelde de baas in noordelijk Egypte tijdens de tweede tussenperiode?",
+            "answers": "Hyksos",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Assyri\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Libi\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c56175af-d79b-485c-9842-9af002098aa7",
+                    "distractor": "Pthumerians",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "dc6e57f7-627d-40cd-9a14-15fdf086078b",
+                    "distractor": "Thalassocrats",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "6018ef9a-7cd6-450b-a350-68525c1c3941",
+                    "distractor": "Xolotlans",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "8cfbd8e2-0fc5-48e5-9a4a-b044ce0c4fdd",
+                    "distractor": "Venetians",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "b4a45ec0-139d-4898-b6a6-15fca425095a",
+                    "distractor": "Zephyrians",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "239eb1be-b6fd-4eaa-8f9a-c07c76ac2820",
+                    "distractor": "Atlantans",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "12ca4811-a8ee-4777-9973-97065e4fcbd6",
+                    "distractor": "Lemurians",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "ef00f975-2ac2-496e-b62c-3d6a887f24a9",
+                    "distractor": "Hyperboreans",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "2b20ffa5-5e54-4228-a336-717ba63932ac",
+                    "distractor": "Agarthans",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "106e040f-8c08-4c58-a038-ca83f54d2fb6",
+                    "distractor": "Kthones",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "25",
+            "question": "Wat was Diodorus' reden om het verhaal van Dionysos op te schrijven?",
+            "answers": "De herkomst van Dionysos was onduidelijk",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Er ontbrak een geschiedenis van Dionysos",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Hij wilde een sprookje vertellen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1c4b3f32-1145-4837-988c-f025cbe29af3",
+                    "distractor": "Diodorus was een grote fan van Griekse goden en wilde graag hun verhalen delen.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e15e4063-93ed-4cc1-a503-f4b143af091e",
+                    "distractor": "Diodorus had een droom waarin Dionysos hem opdroeg zijn verhaal op te schrijven.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "63bbdfcb-518e-47ac-a7c5-765b841df9eb",
+                    "distractor": "Diodorus kreeg betaald om het verhaal van Dionysos op te schrijven door een rijke sponsor.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "4d89ebae-cc53-4b39-a917-1da314c30746",
+                    "distractor": "Diodorus wilde de concurrentie aangaan met andere Griekse historici die verhalen over goden schreven.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "468461fe-ae9d-4373-bf39-0ed17a6623b9",
+                    "distractor": "Diodorus was verliefd op Dionysos en wilde graag zijn verhaal delen met anderen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "036e71d5-e3aa-4556-a999-b9f791b056fe",
+                    "distractor": "Diodorus was dronken toen hij het verhaal van Dionysos opschreef en had geen reden.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "3de64471-2a5e-43fb-9f42-3ac5b21446ac",
+                    "distractor": "Diodorus wilde de macht van Dionysos onderstrepen door zijn verhaal op te schrijven.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "2e2d56fe-6bde-492c-adbb-41d818ca6915",
+                    "distractor": "Diodorus wilde de Griekse mythologie verrijken met nieuwe verhalen en figuren.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "b68de6b4-533b-4d36-b2e8-e32b27a2d1b0",
+                    "distractor": "Diodorus wilde de lezers van zijn werk vermaken met een interessant en kleurrijk verhaal.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "0b35ca73-d98d-4218-9eac-27885ae87d83",
+                    "distractor": "Diodorus werd bedreigd door de volgelingen van Dionysos en moest het verhaal opschrijven om zijn leven te redden.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "26",
+            "question": "Hoe noemden de Romeinen het gebied van ongeveer huidig Frankrijk en Belgi\u00eb?",
+            "answers": "Gallia",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Germania",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Britannia",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7f463ec8-8f33-4fe4-9101-bcbc3021d6fc",
+                    "distractor": "Germania",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "b996ac7b-95a3-4b0b-9847-9e7c3b870c3f",
+                    "distractor": "Hispania",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "1bd1fcbe-fbdc-491a-ba8e-04833cce951c",
+                    "distractor": "Dacia",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "282e0b99-76c0-4c36-b899-e3042ba8d589",
+                    "distractor": "Illyria",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "f598cbfd-9f5c-45a1-a925-8b68f1714bb5",
+                    "distractor": "Scythia",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "69695093-51cd-444b-963c-570b5cb07674",
+                    "distractor": "Pannonia",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a915eab2-b2e7-4ebe-9083-c19be5aba2f4",
+                    "distractor": "Thracia",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "08b3b012-661e-469e-84df-4c7f8cc65f6e",
+                    "distractor": "Mesopotamia",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c04eaf9a-b0d6-4eaf-8b87-972da36fcb9e",
+                    "distractor": "Britannia",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "95b30c08-f228-49b3-8e1b-13ea90bd4a8a",
+                    "distractor": "Syria",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "27",
+            "question": "Welke materiaal gebruikten de Kelten voor het vervaardigen van werktuigen en wapens, zoals dit slagzwaard?",
+            "answers": "ijzer",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "tin",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "brons",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "koper",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1beafd9b-15c1-4a54-b183-d25be605a918",
+                    "distractor": "Brons",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "1dc03d38-f283-40c0-8545-6067c1251167",
+                    "distractor": "Hout",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "aa6e438c-6ef7-4536-8700-9cdba32ce195",
+                    "distractor": "Steen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "400d50ff-3b16-4f72-8e68-f27d197f88ab",
+                    "distractor": "Zilver",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "b7841fb5-4323-47fe-adaf-9eae34513817",
+                    "distractor": "Goud",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "1db1637b-2f61-4c54-bdbc-33987e3e6eab",
+                    "distractor": "Koper",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "38e44afe-d1c3-4da5-99c4-14b85302baef",
+                    "distractor": "Glas",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e1f8925b-b45a-4edb-98f3-1f6109fc48b0",
+                    "distractor": "Lood",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5782f213-5e66-4b18-b844-a88947379d12",
+                    "distractor": "Bamboe",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "985405df-aa19-45e8-9534-8d504a05bc9a",
+                    "distractor": "Klei",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "28",
+            "question": "Wat zou de push-factoren dan wel weghalen?",
+            "answers": "Een krachtiger optreden tegen de repressieve regimes, oorlogen en het geweld.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De ontwikkelingssamenwerking stopzetten.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Zoveel mogelijk migranten terugsturen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e89811d6-37ea-4d64-ba62-167e0ceaf649",
+                    "distractor": "Meer economische sancties tegen ontwikkelingslanden.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "99fd1af5-52b9-4536-b942-2bafc2897f47",
+                    "distractor": "Meer belastingen heffen op emigratie.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "ba72331b-c6e5-4192-bf21-4665034a72bf",
+                    "distractor": "Het bouwen van hogere muren en hekken rondom landsgrenzen.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "870fef30-de2b-401e-83e7-fcb050470e9d",
+                    "distractor": "Een verbod op het verlenen van humanitaire hulp aan vluchtelingen.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "29c93a94-8508-475f-ae17-60a38533231f",
+                    "distractor": "Beperkingen op het recht op asiel.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "6c2f6bcb-069a-42aa-a9e1-90ae0f2b71ec",
+                    "distractor": "Intensivering van gewapende conflicten en bombardementen.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "c7de3f55-7545-4404-8f94-c95deb30a8f5",
+                    "distractor": "Het cre\u00ebren van een dystopische samenleving waarin vluchtelingen niet welkom zijn.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "ba0e33a2-85c6-4d4f-a506-21b3a22258fb",
+                    "distractor": "Beperkingen op het recht om te reizen.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c551b913-3a3c-4fcd-be82-747b48517192",
+                    "distractor": "Het implementeren van strenge immigratiewetten en beleidsmaatregelen.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "33d7a84a-5eb8-4b74-9e8f-2869c2a5e2f9",
+                    "distractor": "Een hogere drempel voor het verlenen van humanitaire visa.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "29",
+            "question": "Situeer de Hallstatt-periode in de tijd.",
+            "answers": "ca. 800 v.C. - 500 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ca. 500 - 50",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "ca. 500 v.C. - 50 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "ca. 800 - 500",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "ca. 850 v.C. - 500",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a8ece2ba-9c49-47e6-8f4d-60fe78db529f",
+                    "distractor": "ca. 2000 v.C. - 1500 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "79d804a3-e870-4a54-8c04-0aa1473bcf30",
+                    "distractor": "ca. 1000 n.C. - 1500 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "85b10d1d-23e8-4ec8-a3df-ebbd7191ea78",
+                    "distractor": "ca. 1200 v.C. - 900 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "eac83073-1798-42b1-94f9-e85914816fc2",
+                    "distractor": "ca. 1500 v.C. - 1000 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "8ff95799-ab63-4bc0-94a3-7091cf2a0fe6",
+                    "distractor": "ca. 600 n.C. - 800 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "ce320796-389e-47e8-8fcf-b6c867ed9414",
+                    "distractor": "ca. 500 v.C. - 100 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b8045255-a5f8-491e-9a0b-257e3d77ddce",
+                    "distractor": "ca. 200 n.C. - 400 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b167c2da-c2b1-4b39-9c35-cfe8185fa534",
+                    "distractor": "ca. 100 n.C. - 300 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "b78695ef-f044-4df5-94de-81164f5a5b9a",
+                    "distractor": "ca. 1000 v.C. - 500 v.C.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "46f6d9b7-ac91-4259-9937-57e59445bb35",
+                    "distractor": "ca. 500 n.C. - 700 n.C.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "30",
+            "question": "Wie was de beschermgodheid van Athene?",
+            "answers": "Pallas Athena",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Artemis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Poseidon",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Zeus",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7a4b431d-5cb2-45c5-9d2c-ff985ebdd660",
+                    "distractor": "Zeus",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "2f9f6fd3-9899-4126-a681-dcad32851cff",
+                    "distractor": "Aphrodite",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "ab6c655d-7db9-4f82-bc74-28c2f046f01b",
+                    "distractor": "Hades",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "c116bbb6-deff-41bd-9212-19e7f89eddd5",
+                    "distractor": "Poseidon",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "2622bc25-d969-4ac5-974d-1e1235813547",
+                    "distractor": "Artemis",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "4d1a5325-8294-4ffe-9620-f1e00c72b8d4",
+                    "distractor": "Demeter",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "6913b6f9-627e-41e9-b35f-0dcf85858207",
+                    "distractor": "Dionysus",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "47240d6f-cbbc-4072-b8b1-33bc847c8e93",
+                    "distractor": "Hera",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "bb688c74-fe7d-4be7-b880-fa955bbd5433",
+                    "distractor": "Persephone",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "e6778b33-20b7-4dcb-9d29-6964e39f8b7e",
+                    "distractor": "Hephaestus",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "31",
+            "question": "Van welke talengroep (van de Kentumtalen) is Latijn de voorouder?",
+            "answers": "Romaans",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Germaans",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Grieks",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Keltisch",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "8e6b5846-43fd-4d05-8c9c-efd8624e6f23",
+                    "distractor": "Germaans",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "15a95f19-88de-4341-9616-1f62685c57e5",
+                    "distractor": "Slavisch",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "599f2b13-5912-420e-86ca-bb63b9fc723a",
+                    "distractor": "Keltisch",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "e253cc4c-db8d-4bd2-9f4f-5970663f10c9",
+                    "distractor": "Scandinavisch",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "9c61c586-6042-4537-8e85-d695024302b6",
+                    "distractor": "Arabisch",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "9dcdeb63-e7fd-45cb-b6fc-fea6a9bd49e8",
+                    "distractor": "Turks",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "5c1f2c64-be0e-43aa-8a5c-4319f9eabc5b",
+                    "distractor": "Fins-Oegrisch",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "061f18b1-68ab-438c-ab47-1d6d7fb812f3",
+                    "distractor": "Bantoetalen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6841abbb-15e1-4bc1-817e-f9c586115583",
+                    "distractor": "Indo-Iraans",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "225c023d-6ce2-4f4a-bc7d-334fbd58350e",
+                    "distractor": "Japans",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "32",
+            "question": "Welke Griekse staten bleven zoveel mogelijk neutraal?",
+            "answers": "Epirus ### Kreta",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Thessali\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Macedoni\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Peloponnesus",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7ab1fdde-671b-4368-9630-7676aee67495",
+                    "distractor": "Sparta",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "fd5ddba4-5ba4-462c-ada6-6c9bb3f13c78",
+                    "distractor": "Athenen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "27baf7a8-806a-439d-822e-bfbe8667832e",
+                    "distractor": "Macedoni\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "627fe30a-e0b3-410e-b461-ca01fddbffbf",
+                    "distractor": "Rhodos",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "760dc4c6-5cde-4fd6-9558-933d1ba0f5de",
+                    "distractor": "Korinthe",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "e62b659f-ba62-4579-ab88-81a9942a52fc",
+                    "distractor": "Thebe",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "afc98b2b-775b-4a3f-a94c-5e4bb4a54b57",
+                    "distractor": "Mycene",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c5058139-49c8-4bc9-bbf5-2dc47b6b8b00",
+                    "distractor": "Delphi",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "33116acb-6458-4e18-8fa4-8b4e43ce5190",
+                    "distractor": "Troje",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "cd623019-c33d-42c8-b351-c7864f3f55dd",
+                    "distractor": "Arcadi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "33",
+            "question": "Wat was de grootste militaire macht van Athene?",
+            "answers": "Athene was een sterke maritieme macht (vloot).",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Athene had vooral een sterk landleger.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c4c55d3c-82a3-4e1b-bbb3-3018f2446ebf",
+                    "distractor": "Athene was beroemd om zijn elite cavalerie-eenheid.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "890310c4-09e2-48b0-8968-9cc5cd52f692",
+                    "distractor": "De grootste militaire macht van Athene was de luchtmacht.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b179f2fe-7c2c-49d3-ab44-1fff0bfbaecf",
+                    "distractor": "Athene had een enorme leger van krijgers met boogschutters.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "3c6662af-1ff5-431b-8d94-48255bf7b84b",
+                    "distractor": "Athene was bekend om zijn beroemde berserkers.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "746597a1-e761-4ecb-890a-b4f97883a92f",
+                    "distractor": "Athene had een grote groep ninjastrijders.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "43c1eda6-57d1-4c32-a460-d358ccdd6ecb",
+                    "distractor": "De belangrijkste militaire macht van Athene was de infanterie.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "af21a1ff-e5fa-4cf1-9795-f5ef8d90c976",
+                    "distractor": "Athene had een enorme groep huurlingen uit andere landen.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "15100d5d-7b6d-4dcb-a9e6-3bf284064214",
+                    "distractor": "De grootste kracht van Athene was zijn geheime dienst.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a6be2d1d-5176-459e-9ec7-7dcb8cc49d9a",
+                    "distractor": "Athene had een enorm arsenaal aan kernwapens.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "33663e30-bd77-406a-9078-e3313ed16354",
+                    "distractor": "De belangrijkste militaire kracht van Athene was de cavalerie.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "34",
+            "question": "Welke naam kreeg democratie in de oudheid?",
+            "answers": "volksregering",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "democratie",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "gemeenschap",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "staat",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "20862eaf-5852-4366-8e21-7839aaea1b78",
+                    "distractor": "Monarchie 2. Theocratie 3. Oligarchie 4. Autocratie 5. Plutocratie 6. Timocratie 7. Aristocratie 8. Meritocratie 9. Feodalisme 10. Communisme 11. Totalitarisme 12. Dictatuur 13. Anarchie 14. Despotisme 15. Patriarchie 16. Kleptocratie 17. Technocratie 18. Bureaucratie 19. Fasces 20. Junta",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                }
+            ]
+        },
+        {
+            "qid": "35",
+            "question": "Welke Griekse gebied werd bondgenoot van de Perzen?",
+            "answers": "Thessali\u00eb",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Peloponnesus",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Kreta",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Epirus",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Macedoni\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "74178cce-3fea-4e5d-8b40-105a87cebeb4",
+                    "distractor": "Epirus",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "fb350967-d608-4b5c-8d3d-cc2a4b59c3b0",
+                    "distractor": "Attica",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "1e632bde-01cf-4190-9f06-69b7cb24c57d",
+                    "distractor": "Lesbos",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "1a6dacd6-d856-4073-ba6a-65a71be40363",
+                    "distractor": "Sparta",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "3f5fcb5c-099d-4aac-ab9a-df3b11987a49",
+                    "distractor": "Argos",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "842f2b5f-1c3d-48e7-a301-ab7efa8768f8",
+                    "distractor": "Corinthia",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4e0c99f1-8263-4edf-b1af-bf73f120f38e",
+                    "distractor": "Boeotia",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b0b815f8-1b76-4538-b532-b170278009c9",
+                    "distractor": "Aetolia",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "4e90f4d9-af86-4ac0-b05c-b8502b7ec0b0",
+                    "distractor": "Messenia",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "fd710cfb-d085-4e8b-9e89-60f9b9ea8cd1",
+                    "distractor": "Arcadia",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "36",
+            "question": "Wie was de oppergod van het Grieks?",
+            "answers": "Zeus",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Hades",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Hercules",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7826b5a3-eddd-400a-ae45-0df373fe6edc",
+                    "distractor": "Apollo",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "20809d66-25b7-4854-8dad-f7f6ec041761",
+                    "distractor": "Poseidon",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "46ea3a14-bbdc-41ca-bc58-768bb2edc544",
+                    "distractor": "Hermes",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "0a09d353-8639-47ca-ae8a-0b4d7d78d836",
+                    "distractor": "Hades",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "056ca601-517f-4d5e-ae0f-c1f573a4dc5c",
+                    "distractor": "Ares",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "b1e91b2b-482a-4ebd-9b99-4f16d6c2e13b",
+                    "distractor": "Hephaestus",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "d3fadce2-2a0a-4012-84c2-013835b6dbd9",
+                    "distractor": "Dionysus",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "67691c35-5ce4-4452-89ca-7f2ed54095e4",
+                    "distractor": "Perseus",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "167ba52d-d9e7-47c6-8c98-ac28a4e2a67e",
+                    "distractor": "Orpheus",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "62bfe58f-188a-456a-8c08-397fc5e8d9ad",
+                    "distractor": "Narcissus",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "37",
+            "question": "Hoe kan je het volk benoemen dat in dit gebied (Germania) woonde?",
+            "answers": "Germanen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Belgae",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Britten",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Galli\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "635ac2a2-2cfb-43f1-864c-98e1b9ddc1d9",
+                    "distractor": "Galli\u00ebrs",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "88df9d5b-117d-49ec-9dce-504ef44eacf4",
+                    "distractor": "Romeinen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "936a9b07-5c92-47bd-ae5b-baf2b3f8273f",
+                    "distractor": "Kelten",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "1ca5b875-52f7-42aa-aca6-1e79c416f678",
+                    "distractor": "Franken",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d0311060-08fb-454b-ba45-7783ec8a4f2d",
+                    "distractor": "Slaven",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "c674e36a-40f7-4ba1-9e9e-839e5a7d5c65",
+                    "distractor": "Hunnen",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "52e465e0-7056-4f7f-99fb-143cbc325a86",
+                    "distractor": "Goten",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "320c3a50-b062-48c3-a090-56cbaee23752",
+                    "distractor": "Saksen",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "885212bb-8e1f-42b9-bae9-d36ca76bb650",
+                    "distractor": "Vikingen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "4c10bc36-eed7-48f1-b1f4-2b45699713f4",
+                    "distractor": "Perzen",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "38",
+            "question": "Wie had de meeste macht in de Spartaanse samenleving?",
+            "answers": "gerousia",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "volksvergadering",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "twee koningen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "59a0258e-1024-4a70-a6e4-d17840ee208b",
+                    "distractor": "De Spartaanse keizerin",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e0ed693d-6ef8-4eb5-adce-109f6386a38a",
+                    "distractor": "De Spartanen raad van wijzen",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "5066b470-f6b9-4ef7-8b63-883634354be3",
+                    "distractor": "De Spartaanse senaat",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "84878f0c-8761-4d7c-addc-f044e26e2bc4",
+                    "distractor": "De legerleider van Sparta",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "dec5762c-d8f8-4ede-b78a-77891f7d5e16",
+                    "distractor": "De Spartaanse hogepriester",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "82d515ee-813d-4839-93d0-a5ec21df2298",
+                    "distractor": "De Spartaanse minister-president",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "980e1408-db94-47c9-ac85-983de8671f49",
+                    "distractor": "De leider van de Spartaanse handelaarsgilde",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "008b4196-abce-4d0e-9c70-95b89e78ff94",
+                    "distractor": "De Spartaanse gouverneur van de provincies",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "05e9b8d6-286c-4468-95c0-68a7861f8532",
+                    "distractor": "De Spartaanse minister van Onderwijs",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "557a70d3-b40e-46f7-8eea-86a2ef4358ec",
+                    "distractor": "De leider van de Spartaanse vrouwenraad",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "39",
+            "question": "Welke kunstvorm wordt er gebruikt om het verhaal over Hercules te vertellen?",
+            "answers": "amforen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "reli\u00ebfs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "beeldhouwkunst",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "bouwkunst",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "facedd11-ccda-4029-88a5-356f95e6188e",
+                    "distractor": "Schilderkunst",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f26eaf92-42ab-4e0c-91e6-47284f1356f3",
+                    "distractor": "Beeldhouwkunst",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b7162287-f6f6-41fd-b298-2ae96512bbd7",
+                    "distractor": "Fotografie",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "ef868d2f-ed82-484a-be7d-ffbe96ba0ebc",
+                    "distractor": "Architectuur",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "6fc96237-77c8-448b-83dd-f62bea9f5aaf",
+                    "distractor": "Muziek",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "34e2f332-f7eb-4f53-b4c3-02701ffd00df",
+                    "distractor": "Dans",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "044d803e-65e5-475a-b7c9-f13d6e52fc3e",
+                    "distractor": "Literatuur",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "a7f63199-1943-440b-9be6-4c0c4e441a6d",
+                    "distractor": "Film",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "0d2a69b6-266f-4343-a707-070d82c92c4f",
+                    "distractor": "Borduurwerk",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "7b05502b-1312-4f17-9c4b-b40f9487bdb9",
+                    "distractor": "Moza\u00efek",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "40",
+            "question": "De macht was in de handen van velen, maar wie kreeg het recht om de beslissingen te nemen?",
+            "answers": "Zij met een speciale verdienste door hun karakter",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Zij van gegoede afkomst.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2cd2e803-3dc3-4c5a-b4d2-668414ba70a6",
+                    "distractor": "De persoon met de grootste hoed.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "7b8a92f9-1592-4822-bcf8-5732abf35364",
+                    "distractor": "De persoon met de meest klinkende stem.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "3b9fb536-be13-404e-addb-de3b38277507",
+                    "distractor": "De persoon met de grootste neus.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "23e4788c-cf3e-4d6d-aa82-7070b4f75cfc",
+                    "distractor": "De persoon met de meest kleurrijke sokken.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "954210b5-08ef-4cac-8150-489bd6f53219",
+                    "distractor": "De persoon die het hoogste kan springen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "2ffc3e38-878a-436b-aff1-ea7277ce8bd8",
+                    "distractor": "De persoon die het meest op een kikker lijkt.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b00b58ea-2381-4bb1-8efd-8e21ca5ddac9",
+                    "distractor": "De persoon die het vaakst het woord \"tomaat\" kan zeggen.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "dfd04e2c-c2cc-4098-a9d2-7c055b0e8cfa",
+                    "distractor": "De persoon die het grootste aantal tatoeages heeft.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "e29632de-2931-4738-bcae-77c9cc490cae",
+                    "distractor": "De persoon die de meeste knikkers heeft.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "d7f66a59-1036-4e03-9974-74807245ee03",
+                    "distractor": "De persoon die het langst zijn adem kan inhouden.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "41",
+            "question": "Hoe worden de goden voorgesteld van het Grieks?",
+            "answers": "Menselijk",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Als natuurelementen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Dierlijk",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "24c6e964-f65e-4352-af69-a3b9e22abe4d",
+                    "distractor": "Als mythische wezens met vleugels en hoorns.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "46e56414-1726-466b-91f0-e86f06b014f3",
+                    "distractor": "Als gigantische monsters met tentakels en klauwen.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "87131085-13c0-46a1-873e-3b48a5b8461e",
+                    "distractor": "Als onzichtbare entiteiten die alleen kunnen worden gehoord.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "21d537cb-3543-4069-b2c5-347866ea340e",
+                    "distractor": "Als abstracte concepten zoals liefde, oorlog en dood.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "46db42d1-b620-4119-9d1c-d6b8b4832bc2",
+                    "distractor": "Als holografische projecties die overal kunnen verschijnen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "e2d334c3-639f-4bac-a79d-b424c661a23d",
+                    "distractor": "Als kleurrijke ballonnen die in de lucht zweven.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "20c3fc30-a0e2-4602-a516-5507567fff39",
+                    "distractor": "Als buitenaardse wezens met groene huid en antennes.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "2d997e76-0075-4fee-ad44-149e34f2bed0",
+                    "distractor": "Als geesten die in bomen en rotsen wonen.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6b45fe95-9e91-4e49-8f65-efc07c5324dd",
+                    "distractor": "Als mechanische robots met bliksemschichten als ogen.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "db04a463-ed58-4e4f-ba19-395ab2b1190a",
+                    "distractor": "Als pratende dieren zoals konijnen en katten.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "42",
+            "question": "Wat bouwden de Myceners?",
+            "answers": "Ze bouwden burchten.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Ze bouwden paleizen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "36f7f33e-f7fb-47f2-b5ab-e799a5a8a624",
+                    "distractor": "Ze bouwden gigantische piramides.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "52db547b-a1c3-4614-b8c9-f624120f3e3f",
+                    "distractor": "Ze bouwden ondergrondse tunnelsystemen.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "65708b61-f414-4688-89b1-4663d74a7f4b",
+                    "distractor": "Ze bouwden luchtkastelen.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "f21f48a0-ce77-4adf-875e-bc96d0f8fa36",
+                    "distractor": "Ze bouwden enorme standbeelden van zichzelf.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "79684736-edbf-472e-b752-2b37257e6bbb",
+                    "distractor": "Ze bouwden ruimteschepen.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "8c06181f-1df7-4aff-896e-37c7344dd7e1",
+                    "distractor": "Ze bouwden pretparken.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "035f4259-59d9-4664-a2de-097e93a99c6f",
+                    "distractor": "Ze bouwden reusachtige waterrad-energiecentrales.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "094bb452-20e6-4135-9185-ba226fec70e1",
+                    "distractor": "Ze bouwden vliegende eilanden.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6d5a25c2-6e45-4bcb-bea0-286f5005efaf",
+                    "distractor": "Ze bouwden reusachtige muren rond hun steden.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "2f463052-783e-4f36-938d-e52d872128b1",
+                    "distractor": "Ze bouwden geheime laboratoria voor alchemie.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "43",
+            "question": "Welke rivier stroomt er door Sparta?",
+            "answers": "Eurotas",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Ladon",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Alphe\u00fcs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Pinios",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "271c6d3f-f171-43a0-84e2-01039de39ba8",
+                    "distractor": "Nile",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e062b381-ac24-4100-8572-66f61f48a83d",
+                    "distractor": "Amazon",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "33792065-7b50-4120-85f3-3eb67be83159",
+                    "distractor": "Thames",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "a4133ccd-0ff4-48e7-a096-e518fd7754c3",
+                    "distractor": "Mississippi",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "210ea463-c6eb-43b5-be3e-b6b227523a98",
+                    "distractor": "Danube",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "1c0265e9-1db0-455d-ad82-c37fcfded8e2",
+                    "distractor": "Yangtze",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "1493b677-4dc3-4292-af5a-7d63e28c34a1",
+                    "distractor": "Ganges",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "044d130f-6219-4fc5-84ad-e33282b42e0c",
+                    "distractor": "Volga",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "440c276b-f502-4c9f-bf1c-0bc5f70f54ba",
+                    "distractor": "Mekong",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "ee4097e0-44e6-4655-a415-73c82d87b5b1",
+                    "distractor": "Indus",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "44",
+            "question": "De oude Grieken hadden nood aan vruchtbare gebieden en richtten daarom overal in het Middellandse Zeegebied kolonies op. Welk effect had dat op de familiale relaties?",
+            "answers": "Men ging verder uit elkaar wonen.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De hele familie migreerde mee.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ae21a44e-8d46-460c-96bf-57e85374a599",
+                    "distractor": "De families werden nauwer verbonden door de oprichting van kolonies.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f50e8424-c756-4481-b746-a10303ffc05c",
+                    "distractor": "Kolonisatie had geen effect op familierelaties.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "a0bd8914-0619-475c-aa2b-a558b9f5283e",
+                    "distractor": "De oprichting van kolonies bracht families juist dichter bij elkaar.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "445160df-673c-410a-8106-bef1d6d7960a",
+                    "distractor": "Kolonisatie had een negatief effect op de huwelijkstradities van de oude Grieken.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d36f2afb-93e6-4aab-9fcf-178cacf8f50f",
+                    "distractor": "De oprichting van kolonies leidde tot meer familiere\u00fcnies.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "0f413d13-b20e-4715-b072-4ba7391fa11a",
+                    "distractor": "De oude Grieken werden meer op zichzelf gericht door de kolonisatie.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "3c23442e-1e0f-43a4-a30c-24f0102fd3de",
+                    "distractor": "Kolonisatie zorgde ervoor dat families meer met elkaar communiceerden.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "485790e9-fab3-48c3-a427-b04dfe92fbb4",
+                    "distractor": "De oprichting van kolonies had geen effect op familiebanden.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6466cfec-4026-4881-83ee-4ab93c150da1",
+                    "distractor": "Families hadden meer contact met elkaar door de kolonisatie.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "b61217ea-c916-4aa5-a246-ca95a25e7263",
+                    "distractor": "De oprichting van kolonies bracht families verder uit elkaar.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "45",
+            "question": "In welke continenten leefden de Indo-Europeanen?",
+            "answers": "Europa",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "333d1afb-32c0-4b44-baf3-3b56fcf80428",
+                    "distractor": "Azi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "255df867-d068-48df-86f5-d3ddc1da5faf",
+                    "distractor": "Australi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "dcea0265-b782-4431-8f4a-a160371ab367",
+                    "distractor": "Antarctica",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "611dadfa-4018-4912-bdcf-5672d1cb12fc",
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "6043321d-166a-4286-9406-15a87f8ed676",
+                    "distractor": "Noord-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "8c4da566-2afa-4b5d-b20c-77714c5ca6f4",
+                    "distractor": "Afrika",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "963c8dd0-6f34-492f-9f26-071a1a8aa893",
+                    "distractor": "Oceani\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e2d234dd-973d-456c-9fa2-2edb04936f18",
+                    "distractor": "Atlantis",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "18429751-65c1-4007-854f-493a9e4f5601",
+                    "distractor": "Mars",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "3714ba1a-eca7-4cb2-a7ed-c5086aa09cdf",
+                    "distractor": "De maan",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "46",
+            "question": "Welke voorwerpen kreeg Theseus van Ariadne?",
+            "answers": "een bol touw en een zwaard",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "een zwaard en een helm",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "een bol touw en een bijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "een bol touw en twee zwaarden",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "een zwaard en een schild",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e6a21c79-1851-45fc-80e0-ea5fc4b9a4ae",
+                    "distractor": "Een toverstok en een toverboek.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "d6884668-4319-4e86-a393-7694619d02b2",
+                    "distractor": "Een lantaarn en een verrekijker.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "cf162038-f35a-4a14-9a87-bcda6ee33abf",
+                    "distractor": "Een speer en een schild.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "5fef8bba-0689-4b6b-beda-9fe2d7d7a141",
+                    "distractor": "Een helm en een harnas.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "7ff588b0-45e1-46d4-a5a4-39a2124e27e5",
+                    "distractor": "Een amulet en een talisman.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "565d5f56-0768-4dcd-8a1b-b64a7ac93afd",
+                    "distractor": "Een kaart en een kompas.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "57faa6ae-242b-42fc-977d-8a85e15f9d9b",
+                    "distractor": "Een zaklamp en een mes.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "25616dc3-33a7-4bde-9616-09e6f8c7df21",
+                    "distractor": "Een schatkaart en een gouden sleutel.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "7073c7dd-8947-4fcc-8a63-6eedd4187ca4",
+                    "distractor": "Een kristallen bol en een scepter.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "1a6a69c7-9deb-4bb2-ae10-c21e5b33a6dd",
+                    "distractor": "Een paar sandalen en een mantel.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "47",
+            "question": "Welk volk kwam steeds dichter in de buurt van de Griekse gebieden ca. 500 v.C.?",
+            "answers": "De Perzen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De Romeinen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De Galaten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "62b8ca2e-ebf2-461a-b9f3-9b737689d0e2",
+                    "distractor": "De Vikingen",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "4a1f3014-8a0e-4852-a269-5e25c54fca8f",
+                    "distractor": "De Azteken",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "43e1b1b7-aa35-41ed-9d09-eabce81629af",
+                    "distractor": "De Mongolen",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "ebf8e2a0-2d49-497b-9bb8-5f97af8cf4d6",
+                    "distractor": "De Inca's",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "f84640da-960b-4ed7-b26f-3be5a6edcf75",
+                    "distractor": "De Romeinen",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "7d9362a3-934e-48f8-b48d-f9e8f8a188e5",
+                    "distractor": "De Maya's",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f68cc23a-9f9c-46a5-b767-e1aee0ded9fc",
+                    "distractor": "De Egyptenaren",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "ae96d426-55ce-4cf6-9db7-bfec45357e3d",
+                    "distractor": "De Kelten",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "84411947-13fb-4814-8013-5f4a65479541",
+                    "distractor": "De Hittieten",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "18176bb5-47cf-441b-9293-18ef72350067",
+                    "distractor": "De Fenici\u00ebrs",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "48",
+            "question": "In welk groot gebied hebben de archeologen vondsten teruggevonden van de La T\u00e8ne-periode?",
+            "answers": "van Groot-Brittanni\u00eb tot de Balkan",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "van Groot-Brittanni\u00eb tot Griekenland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "van Ierland tot Oostenrijk",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "van Engeland tot Itali\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "434686cb-c948-488e-b99e-876b80c25cee",
+                    "distractor": "Noord-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "120db071-a721-44a1-97b6-4e827d034256",
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "b9195f0f-b902-4b7c-8b5e-9e4d9b1d3dd6",
+                    "distractor": "Antarctica",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "f827269a-bfa4-44a3-a97a-70e51cd3a8a6",
+                    "distractor": "Australi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "638f791f-fcde-4547-9502-0fafda409f85",
+                    "distractor": "Nieuw-Zeeland",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "9c5356c2-3f3a-47f7-802d-1afbe9469e8b",
+                    "distractor": "Centraal-Azi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "2d558de6-8895-4bc4-85c4-9efd80ea79db",
+                    "distractor": "Midden-Oosten",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "5004c98f-2095-47d1-bbda-f4a6e87442bc",
+                    "distractor": "Scandinavi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c851834e-f464-4a46-bd40-9af850be3420",
+                    "distractor": "India",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "d27a03a3-acb4-4685-b16e-692db1690e6c",
+                    "distractor": "Zuidoost-Azi\u00eb",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "49",
+            "question": "Xerxes leidde zijn troepen opnieuw langs Thraci\u00eb naar het Griekse vasteland. Waar werd de eerste grote slag geleverd?",
+            "answers": "Thermopylae",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Salamis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Athene",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Marathon",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Plataeae",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c6b25123-4dcb-4100-8488-423ac3107fa3",
+                    "distractor": "Marathon",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "b938be98-099b-4027-8ce8-c876b28707bf",
+                    "distractor": "Salamis",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "caa5a731-f9b9-4004-a009-c70ed8b0f1e4",
+                    "distractor": "Korinthe",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "a575e84b-5873-42cb-8b73-aac85a3d3ee3",
+                    "distractor": "Delphi",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "555fa7b7-2e42-4ce4-bbcd-599fe1bdde53",
+                    "distractor": "Sparta",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "e9cdc084-b99f-49cd-8e53-ad00382616d3",
+                    "distractor": "Attica",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "47260676-f263-46c0-bc81-135092636d27",
+                    "distractor": "Mycenea",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "69ad8e9c-f929-44ec-9e0c-1816f427b811",
+                    "distractor": "Crete",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "80d69b5b-cf14-4a33-bf8d-9406b84272d3",
+                    "distractor": "Macedonia",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "4c83c16a-65f0-47da-a4a7-f1d82b41c76e",
+                    "distractor": "Rhodes",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

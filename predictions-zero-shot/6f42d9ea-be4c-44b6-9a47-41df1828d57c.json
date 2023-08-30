@@ -1,0 +1,5 @@
+{
+    "qid": "6f42d9ea-be4c-44b6-9a47-41df1828d57c",
+    "input": "vraag: 2 . The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours\nantwoord: has been working for\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. was on vacation for\n2. forgot about the appointment for\n3. will start working in\n4. finished the job in\n5. called in sick for\n6. quit the job after\n7. was fired before\n8. got lost on the way to the job and arrived in\n9. was waiting for the parts for\n10. took a lunch break after\n11. had a family emergency during\n12. had to reschedule for\n13. worked for only one hour in\n14. was not able to fix the problem in\n15. left the job unfinished after\n16. decided not to take the job after\n17. was delayed due to traffic and arrived in\n18. took a phone call during\n19. was distracted by a pet in\n20. arrived at the wrong address and spent the time in"
+}

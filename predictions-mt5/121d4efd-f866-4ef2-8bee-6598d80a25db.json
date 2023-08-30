@@ -1,0 +1,5 @@
+{
+    "qid": "121d4efd-f866-4ef2-8bee-6598d80a25db",
+    "input": "2.50 How do you ... ... ... ... if a journalist or other writer is telling the truth ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. find out\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. tell\n2. announce\n3. have to hear\n4. get down\n5. do not know\n6. think about\n7. be at home\n8. talk about\n9. speak\n10. i know"
+}

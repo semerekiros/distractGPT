@@ -1,0 +1,133 @@
+{
+    "qid": "23d34cb5-2fc4-4cca-b698-eebd04fe41af",
+    "response": {
+        "Query": "Welke receptoren bevinden zich in de halfcirkelvormige kanalen?",
+        "Result": [
+            {
+                "answer": "mestcellen",
+                "answer_length": 1,
+                "distractors": [
+                    "zenuwcellen",
+                    "kliercellen"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Door welke cellen wordt histamine geproduceerd ?",
+                "question_length": 13,
+                "score": 0.8373585095089614
+            },
+            {
+                "answer": "astrocyten",
+                "answer_length": 1,
+                "distractors": [
+                    "microgliacellen",
+                    "oligodendrocyten",
+                    "ependymcellen"
+                ],
+                "language": "nl",
+                "question": "Welke cellen geven chemische stoffen af die noodzakelijk zijn voor het handhaven van de hersenbloedbaanbarriere , die het centraal zenuwstelsel van de algehele circulatie isoleert ?",
+                "question_length": 26,
+                "score": 0.7570661074639009
+            },
+            {
+                "answer": "mestcellen",
+                "answer_length": 1,
+                "distractors": [
+                    "zenuwcellen",
+                    "kliercellen"
+                ],
+                "language": "nl",
+                "question": "2 punten Door welke cellen wordt histamine geproduceerd ?",
+                "question_length": 9,
+                "score": 0.551898990413839
+            },
+            {
+                "answer": "Staafjes en kegeltjes",
+                "answer_length": 3,
+                "distractors": [
+                    "Ganglioncellen en bipolaire cellen",
+                    "Ganglioncellen en kegeltjes",
+                    "Bipolaire cellen en staafjes"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke cellen zijn de fotoreceptoren ?",
+                "question_length": 17,
+                "score": 0.5189301899792435
+            },
+            {
+                "answer": "fibroblasten",
+                "answer_length": 1,
+                "distractors": [
+                    "fibrocyten",
+                    "macrofagen",
+                    "vetcellen"
+                ],
+                "language": "nl",
+                "question": "Welke cellen komen het meeste voor in het bindweefsel in strikte zin ?",
+                "question_length": 13,
+                "score": 0.45582403943185534
+            },
+            {
+                "answer": "granulocyten en lymfocyten",
+                "answer_length": 3,
+                "distractors": [
+                    "erytrocyten en lymfocyten",
+                    "erytrocyten en trombocyten"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke cellen beschermen het lichaam tegen lichaamsvreemde stoffen ?",
+                "question_length": 15,
+                "score": 0.39044347180040684
+            },
+            {
+                "answer": "cellen van Leydig",
+                "answer_length": 3,
+                "distractors": [
+                    "follikelcellen",
+                    "eicellen",
+                    "bloedcellen"
+                ],
+                "language": "nl",
+                "question": "Welke cellen tref je niet aan in de eierstok ?",
+                "question_length": 10,
+                "score": 0.297110549160911
+            },
+            {
+                "answer": "follikelcellen",
+                "answer_length": 1,
+                "distractors": [
+                    "cellen van Leydig",
+                    "wandcellen",
+                    "zaadcellen"
+                ],
+                "language": "nl",
+                "question": "Welke cellen tref je niet aan in de teelbal ?",
+                "question_length": 10,
+                "score": 0.2865019408142907
+            },
+            {
+                "answer": "zaadcellen",
+                "answer_length": 1,
+                "distractors": [
+                    "spiercellen",
+                    "rode bloedcellen"
+                ],
+                "language": "nl",
+                "question": "Welke cellen zijn haploid ?",
+                "question_length": 5,
+                "score": 0.2411778724154868
+            },
+            {
+                "answer": "haarwortelcellen",
+                "answer_length": 1,
+                "distractors": [
+                    "spiercellen",
+                    "hersencellen"
+                ],
+                "language": "nl",
+                "question": "Op welke cellen hebben cytostatica het grootste negatieve effect ?",
+                "question_length": 10,
+                "score": 0.2274915343249046
+            }
+        ]
+    }
+}

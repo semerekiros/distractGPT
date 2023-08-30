@@ -1,0 +1,5 @@
+{
+    "qid": "a3058b70-5aef-4969-ab76-8881c5a22737",
+    "input": "Choisissez l'article correct . ... glace </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. une\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. un\n2. une\n3. deux\n4. toutes les reponses sont correctes\n5. aucune des reponses n'est correcte\n6. aucune des remarques n'est\n7. une nuit\n8. un quart\n9. aucune des remarques est correct\n10. l'autre"
+}

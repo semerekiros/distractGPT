@@ -1,0 +1,137 @@
+{
+    "qid": "2a719fc2-6458-4e48-918c-9c1cd9d22c0b",
+    "response": {
+        "Query": "Welke rivier begint in Ethiopi\u00eb?",
+        "Result": [
+            {
+                "answer": "Amazone",
+                "answer_length": 1,
+                "distractors": [
+                    "Donau",
+                    "Nijl",
+                    "Zambesi"
+                ],
+                "language": "nl",
+                "question": "Wat is de breedste rivier ter wereld ?",
+                "question_length": 8,
+                "score": 0.911665896029269
+            },
+            {
+                "answer": "Le detroit de Bonifacio",
+                "answer_length": 4,
+                "distractors": [
+                    "Le detroit d'Otranto",
+                    "Le detroit de Gibraltar",
+                    "Le detroit de Messine"
+                ],
+                "language": "fr",
+                "question": "Quel est le detroit entre la Sardaigne et la Corse ?",
+                "question_length": 11,
+                "score": 0.8788590454762986
+            },
+            {
+                "answer": "La Meuse",
+                "answer_length": 2,
+                "distractors": [
+                    "La Somme",
+                    "La Seine",
+                    "La Vire",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Quel fleuve se jette dans la Mer du Nord ?",
+                "question_length": 10,
+                "score": 0.7352617956740849
+            },
+            {
+                "answer": "au fer",
+                "answer_length": 2,
+                "distractors": [
+                    "aux boues argileuses",
+                    "au cuivre"
+                ],
+                "language": "fr",
+                "question": "A quoi ce fleuve du sud de l'Espagne doit-il sa coloration ?",
+                "question_length": 12,
+                "score": 0.5764470697696666
+            },
+            {
+                "answer": "La Ville eternelle",
+                "answer_length": 3,
+                "distractors": [
+                    "La ville des 7 collines",
+                    "La Ville Sainte",
+                    "Le nombril du monde"
+                ],
+                "language": "fr",
+                "question": "Comment appelle-t-on egalement la ville de Rome ?",
+                "question_length": 8,
+                "score": 0.5396359115336226
+            },
+            {
+                "answer": "os temporale",
+                "answer_length": 2,
+                "distractors": [
+                    "os parietale",
+                    "os occipitale",
+                    "os frontale"
+                ],
+                "language": "en",
+                "question": "Slaapbeen of ...",
+                "question_length": 3,
+                "score": 0.33044999656433416
+            },
+            {
+                "answer": "In het noorden van Europa ",
+                "answer_length": 5,
+                "distractors": [
+                    "In het zuiden van Europa "
+                ],
+                "language": "nl",
+                "question": "Bekijk onderstaande figuur . Waar leggen de zonnestralen de grootste afstand af door de atmosfeer ? De atmosfeer is de laag die met blauw wordt voorgesteld door de aarde .",
+                "question_length": 30,
+                "score": 0.21938635839758847
+            },
+            {
+                "answer": "Les Alpes",
+                "answer_length": 2,
+                "distractors": [
+                    "Le Jura",
+                    "Les Vosges",
+                    "Le massif Central"
+                ],
+                "language": "fr",
+                "question": "Enquete : Vive la France Quelle chaine de montagne n'est pas exclusivement francaise ?",
+                "question_length": 14,
+                "score": 0.2173078861915413
+            },
+            {
+                "answer": "dubbele S-vorm",
+                "answer_length": 2,
+                "distractors": [
+                    "dubbele I-vorm",
+                    "dubbele U-vorm",
+                    "dubbele O-vorm"
+                ],
+                "language": "nl",
+                "question": "Welke vorm heeft de wervelkolom van de mens ?",
+                "question_length": 9,
+                "score": 0.21077178218246576
+            },
+            {
+                "answer": "le Maghreb",
+                "answer_length": 2,
+                "distractors": [
+                    "le Sahel",
+                    "le Soudan"
+                ],
+                "language": "af",
+                "question": "Algerie + Maroc + Tunisie = ...",
+                "question_length": 7,
+                "score": 0.20883492155394048
+            }
+        ]
+    }
+}

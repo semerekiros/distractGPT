@@ -1,0 +1,5 @@
+{
+    "qid": "e694444b-cacc-4601-a47e-2380ab085f5e",
+    "input": "Welke drugs is het gevaarlijkst? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. hero\u00efne\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. morfine\n2. nicotine\n3. thiovin\n4. aspirine\n5. ibuprofen\n6. gent\n7. fluorescerende stof\n8. para\n9. morphine\n10. methanol"
+}

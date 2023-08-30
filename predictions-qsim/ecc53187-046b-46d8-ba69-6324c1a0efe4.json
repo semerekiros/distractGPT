@@ -1,0 +1,131 @@
+{
+    "qid": "ecc53187-046b-46d8-ba69-6324c1a0efe4",
+    "response": {
+        "Query": "Welke biotische factoren hebben invloed op het leven van een koolmees?",
+        "Result": [
+            {
+                "answer": "ze delen niet meer",
+                "answer_length": 4,
+                "distractors": [
+                    "ze delen nog"
+                ],
+                "language": "nl",
+                "question": "Wat is het gevolg van het feit dat de meeste neuronen geen centriolen bevatten ?",
+                "question_length": 15,
+                "score": 0.7321258427695133
+            },
+            {
+                "answer": "het rotten van een appel",
+                "answer_length": 5,
+                "distractors": [
+                    "het verbranden van papier",
+                    "het roesten van ijzer"
+                ],
+                "language": "nl",
+                "question": "Bij welke stofomzetting zijn bacterien of schimmels verantwoordelijk ?",
+                "question_length": 9,
+                "score": 0.633683586188527
+            },
+            {
+                "answer": "borstontwikkeling",
+                "answer_length": 1,
+                "distractors": [
+                    "rijping van de follikels",
+                    "voorbereiding van het baarmoederslijmvlies",
+                    "ontwikkeling van het embryo"
+                ],
+                "language": "nl",
+                "question": "Waarop heeft progesteron geen invloed ?",
+                "question_length": 6,
+                "score": 0.2870575591934526
+            },
+            {
+                "answer": "oxide",
+                "answer_length": 1,
+                "distractors": [
+                    "ionbinding",
+                    "polyatomisch ion",
+                    "rooster"
+                ],
+                "language": "nl",
+                "question": "Wat past niet bij de hydroxiden ? Duid het juiste antwoord aan . Er is maar een mogelijkheid .",
+                "question_length": 19,
+                "score": 0.19985477442680993
+            },
+            {
+                "answer": "Ze veroorzaken vergiftigingen",
+                "answer_length": 3,
+                "distractors": [
+                    "Ze vreten de voorraden op"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wat doen micro-organismen ?",
+                "question_length": 10,
+                "score": 0.14027976943563297
+            },
+            {
+                "answer": "bescherming door vegetatie",
+                "answer_length": 3,
+                "distractors": [
+                    "licht",
+                    "temperatuur",
+                    "waterdiepte"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste uitspraak aan . Er is slechts 1 juist antwoord . Een beek en de nabije omgeving vormen een ecosysteem . Welke van onderstaande invloeden wordt gerekend tot de biotische factoren ?",
+                "question_length": 34,
+                "score": 0.085185127761109
+            },
+            {
+                "answer": "vormen van huiduitslag",
+                "answer_length": 3,
+                "distractors": [
+                    "vormen van overbeharing",
+                    "vormen van verhoorning"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Wat zijn efflorescenties ?",
+                "question_length": 10,
+                "score": 0.034693115356466124
+            },
+            {
+                "answer": "transportstelsel",
+                "answer_length": 1,
+                "distractors": [
+                    "spijsverteringstelsel",
+                    "uitscheidingsstelsel",
+                    "ademhalingsstelsel"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welk stelsel zorgt voor het aanvoeren en afvoeren van stoffen in de cel ?",
+                "question_length": 25,
+                "score": 0.025763288880240067
+            },
+            {
+                "answer": "fotosynthese",
+                "answer_length": 1,
+                "distractors": [
+                    "ademhaling",
+                    "fotosynthese en ademhaling",
+                    "geen van beide processen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Bij welk ( e ) proces ( sen ) is er energie nodig opdat het plaatsvindt ?",
+                "question_length": 28,
+                "score": 0.020296098842424237
+            },
+            {
+                "answer": "vormen van huiduitslag",
+                "answer_length": 3,
+                "distractors": [
+                    "vormen van overbeharing",
+                    "vormen van verhoorning"
+                ],
+                "language": "nl",
+                "question": "2 punten Wat zijn efflorescenties ?",
+                "question_length": 6,
+                "score": 0.013856975560301051
+            }
+        ]
+    }
+}

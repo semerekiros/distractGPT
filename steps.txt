@@ -1,0 +1,18 @@
+goto external terminal
+conda activate chatgpt
+cd to Pycharm/dist-LLM-eval
+python chatgpt_caller.py --subject data/biology.json
+
+
+
+
+Procedures
+1. tranform_to_platform_df.sh creates dataformat that will be used by the annotation platform ---> changes raw predictions to the annotationplatform datatype with ["metadata"] and ["content"]
+
+2. Run run_prediction_mixer.sh to mix predictions from different models--> creates refined and unrefined folders which contain a clean list of distractors with no distractor duplicates (refined),
+and crude merging of distractors in the unrefined folder with additional duplicates mapping file
+
+3. Jobs_creator.py ---> creates jobs_pool that will be used by the platform.
+
+
+DONOT forget to run run_transform_to_new_qids.sh. It changes the ids to consecutive 0,1,2,3... based on a mapping dictionary. The annotation platform expects ids of questions in that format.

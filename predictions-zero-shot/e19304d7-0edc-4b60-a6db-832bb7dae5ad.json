@@ -1,0 +1,5 @@
+{
+    "qid": "e19304d7-0edc-4b60-a6db-832bb7dae5ad",
+    "input": "vraag: Van welk land is Athene de hoofdstad?\nantwoord: Griekenland\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Spanje\n2. Egypte\n3. China\n4. Japan\n5. Frankrijk\n6. Verenigde Staten\n7. Canada\n8. Itali\u00eb\n9. Duitsland\n10. Australi\u00eb\n11. Rusland\n12. Zwitserland\n13. Brazili\u00eb\n14. Mexico\n15. Nigeria\n16. Zuid-Afrika\n17. Noord-Korea\n18. Saoedi-Arabi\u00eb\n19. Turkije\n20. India"
+}

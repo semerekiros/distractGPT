@@ -1,0 +1,132 @@
+{
+    "qid": "d94e6840-a910-4626-b17a-964c23b1ae5a",
+    "response": {
+        "Query": "Wat leert ons het gebit over het voedsel van de Homo sapiens?",
+        "Result": [
+            {
+                "answer": "onoplosbare afvalstoffen in de nieren",
+                "answer_length": 5,
+                "distractors": [
+                    "onverteerd voedsel in de nieren",
+                    "gestold bloed in de nieren",
+                    "onoplosbaar water in de nieren"
+                ],
+                "language": "nl",
+                "question": "Wat zijn nierstenen ?",
+                "question_length": 4,
+                "score": 0.9608144287167051
+            },
+            {
+                "answer": "een voorwerp",
+                "answer_length": 2,
+                "distractors": [
+                    "een mengsel",
+                    "een suikerdeeltje",
+                    "een stof"
+                ],
+                "language": "nl",
+                "question": "Wat is een suikerklontje ?",
+                "question_length": 5,
+                "score": 0.9134812842934275
+            },
+            {
+                "answer": "Koffie",
+                "answer_length": 1,
+                "distractors": [
+                    "Melk",
+                    "Suiker",
+                    "Brood"
+                ],
+                "language": "nl",
+                "question": "Wat staat er op de tafel ?",
+                "question_length": 7,
+                "score": 0.8824796653370416
+            },
+            {
+                "answer": "papier",
+                "answer_length": 1,
+                "distractors": [
+                    "aardappelen",
+                    "mais",
+                    "tabak"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In 1492 ontdekte Christoffel Columbus Amerika . Daardoor kwamen er heel wat nieuwe producten naar Europa . Wat was daar NIET bij ?",
+                "question_length": 30,
+                "score": 0.8710670954558553
+            },
+            {
+                "answer": "boterhammen met vlees en tomaat",
+                "answer_length": 5,
+                "distractors": [
+                    "boterhammen met kaas en tomaat"
+                ],
+                "language": "nl",
+                "question": "Kijk naar het filmpje . Wat zit er in de roze brooddoos ?",
+                "question_length": 13,
+                "score": 0.8696838191586775
+            },
+            {
+                "answer": "nature reserve",
+                "answer_length": 2,
+                "distractors": [
+                    "nature reservate",
+                    "natural reserve"
+                ],
+                "language": "nl",
+                "question": "'natuurreservaat ' in English ?",
+                "question_length": 5,
+                "score": 0.8511627116971092
+            },
+            {
+                "answer": "een hert",
+                "answer_length": 2,
+                "distractors": [
+                    "een papegaai",
+                    "een kat"
+                ],
+                "language": "nl",
+                "question": "Welk van de onderstaande dieren kan van de dekking worden uitgesloten volgens het KB BA Priveleven ?",
+                "question_length": 17,
+                "score": 0.8205403823061467
+            },
+            {
+                "answer": "suiker",
+                "answer_length": 1,
+                "distractors": [
+                    "natrium",
+                    "water"
+                ],
+                "language": "nl",
+                "question": "wat is de goede voeding ?",
+                "question_length": 6,
+                "score": 0.815487329048911
+            },
+            {
+                "answer": "it 's unknown",
+                "answer_length": 3,
+                "distractors": [
+                    "stress",
+                    "food",
+                    "allergy or intolerance"
+                ],
+                "language": "en",
+                "question": "What is the cause of IBS ?",
+                "question_length": 7,
+                "score": 0.810247677012499
+            },
+            {
+                "answer": "vissen",
+                "answer_length": 1,
+                "distractors": [
+                    "aquariums",
+                    "glas"
+                ],
+                "language": "nl",
+                "question": "Wat is het onderwerp van deze tekst ? Vissen botsen niet tegen de wand van hun aquarium omdat ze het niet-ontspiegelde glas zien . Ze zien een glimmend oppervlak en beseffen dat ze daar niet doorheen kunnen zwemmen . Als je het glas vervangt door ontspiegeld en dus onzichtbaar glas , dan zouden de vissen wel eens zere neuzen kunnen krijgen .",
+                "question_length": 62,
+                "score": 0.8098948536456015
+            }
+        ]
+    }
+}

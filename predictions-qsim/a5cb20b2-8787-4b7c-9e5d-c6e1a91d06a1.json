@@ -1,0 +1,137 @@
+{
+    "qid": "a5cb20b2-8787-4b7c-9e5d-c6e1a91d06a1",
+    "response": {
+        "Query": "Uit welke periode stamt die bron met de meest primitieve voorstelling?",
+        "Result": [
+            {
+                "answer": "periode 1971 - 1976",
+                "answer_length": 4,
+                "distractors": [
+                    "periode 1961 - 1966",
+                    "periode 1966 - 1971",
+                    "periode 1976 - 1981"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode werden de meeste autosnelwegen in Belgie aangelegd ?",
+                "question_length": 18,
+                "score": 0.9971262870902688
+            },
+            {
+                "answer": "de stroomculturen",
+                "answer_length": 2,
+                "distractors": [
+                    "de prehistorie",
+                    "de klassieke oudheid",
+                    "de middeleeuwen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Het oude Egypte kan je situeren in",
+                "question_length": 14,
+                "score": 0.9919610253157807
+            },
+            {
+                "answer": "middeleeuwen",
+                "answer_length": 1,
+                "distractors": [
+                    "klassieke oudheid",
+                    "nieuwe tijd",
+                    "eigen tijd"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode werd deze kaart gemaakt en gebruikt ?",
+                "question_length": 17,
+                "score": 0.9894698370388554
+            },
+            {
+                "answer": "Germaans",
+                "answer_length": 1,
+                "distractors": [
+                    "christelijk",
+                    "Keltisch",
+                    "klassieke oudheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke oorsprong heeft de voornaam Bernard ?",
+                "question_length": 14,
+                "score": 0.9836474543786036
+            },
+            {
+                "answer": "de nieuwste tijd",
+                "answer_length": 3,
+                "distractors": [
+                    "de middeleeuwen",
+                    "de nieuwe tijd",
+                    "de eigen tijd"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De Eiffeltoren werd gebouwd in 1889 . Dit is dus in",
+                "question_length": 18,
+                "score": 0.977606841513145
+            },
+            {
+                "answer": "middeleeuwen",
+                "answer_length": 1,
+                "distractors": [
+                    "classicisme",
+                    "late middeleeuwen : de rederijkers",
+                    "renaissance"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode kan je Karel ende Elegast situeren ?",
+                "question_length": 17,
+                "score": 0.9503069552260167
+            },
+            {
+                "answer": "de Romeinse periode",
+                "answer_length": 3,
+                "distractors": [
+                    "de prehistorische periode",
+                    "de Egyptische periode",
+                    "de Myceense periode"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op welke periode lijkt deze afbeelding van een Grieks beeldhouwwerk het meest ?",
+                "question_length": 20,
+                "score": 0.9414452795167784
+            },
+            {
+                "answer": "1776-1783",
+                "answer_length": 1,
+                "distractors": [
+                    "1770-1773",
+                    "1753-1776"
+                ],
+                "language": "nl",
+                "question": "In welke periode voltrok de Amerikaanse Revolutie zich ? Kies het juiste antwoord .",
+                "question_length": 14,
+                "score": 0.9356442291214636
+            },
+            {
+                "answer": "middeleeuwen",
+                "answer_length": 1,
+                "distractors": [
+                    "classicisme",
+                    "late middeleeuwen : de rederijkers",
+                    "renaissance"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode kan je Lanseloet van Denemarken situeren ?",
+                "question_length": 17,
+                "score": 0.9355609950676065
+            },
+            {
+                "answer": "christelijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Germaans",
+                    "Keltisch",
+                    "klassieke oudheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke oorsprong heeft de voornaam Eva ?",
+                "question_length": 14,
+                "score": 0.9329192685350032
+            }
+        ]
+    }
+}

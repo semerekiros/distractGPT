@@ -1,0 +1,5 @@
+{
+    "qid": "c3cf4058-deb6-413d-9b99-3b4247a2a64e",
+    "input": "Welke naam kreeg democratie in de oudheid? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. volksregering\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. democratische regering\n2. democratie\n3. staatsregering\n4. federale regering\n5. volksrevolutie\n6. communistische regering\n7. sociaal-democratische regering\n8. communisme\n9. socialistische regering\n10. federalistische republiek"
+}

@@ -1,0 +1,142 @@
+{
+    "qid": "1205be40-cae4-4b69-b928-9a61e2fb155f",
+    "response": {
+        "Query": "Welk orgaan behoort tot ons spijsverteringsstelsel?",
+        "Result": [
+            {
+                "answer": "rechternier",
+                "answer_length": 1,
+                "distractors": [
+                    "milt",
+                    "linkerlong",
+                    "linkernier"
+                ],
+                "language": "nl",
+                "question": "Welk orgaan is aangeduid door de blauwe pijl ?",
+                "question_length": 9,
+                "score": 0.858129499626627
+            },
+            {
+                "answer": "hart",
+                "answer_length": 1,
+                "distractors": [
+                    "lever",
+                    "long",
+                    "nier"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Wat is de naam van het gespierd , hol orgaan , dat het bloed via de bloedvaten doorheen het lichaam pompt ?",
+                "question_length": 28,
+                "score": 0.8285113688900672
+            },
+            {
+                "answer": "dikke darm",
+                "answer_length": 2,
+                "distractors": [
+                    "blindedarm",
+                    "maag",
+                    "dunne darm"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de afbraak van plantenvezels bij de mens ?",
+                "question_length": 10,
+                "score": 0.8257431723770416
+            },
+            {
+                "answer": "galblaas",
+                "answer_length": 1,
+                "distractors": [
+                    "maag",
+                    "dikke darm",
+                    "endeldarm",
+                    "appendix",
+                    "dunne darm"
+                ],
+                "language": "nl",
+                "question": "Hoe goed ken jij het spijsverteringsstelsel van een zoogdier ? Welk orgaan staat niet op de afbeelding ( zie afbeelding opdracht 6 ) ?",
+                "question_length": 24,
+                "score": 0.8079295110252139
+            },
+            {
+                "answer": "urinebuis",
+                "answer_length": 1,
+                "distractors": [
+                    "dunne darm",
+                    "maag",
+                    "lever"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk orgaan behoort NIET tot het spijsverteringstelsel ?",
+                "question_length": 15,
+                "score": 0.8060116206025251
+            },
+            {
+                "answer": "galblaas",
+                "answer_length": 1,
+                "distractors": [
+                    "maag",
+                    "dikke darm",
+                    "endeldarm",
+                    "appendix",
+                    "dunne darm"
+                ],
+                "language": "nl",
+                "question": "Hoe goed ken jij het spijsverteringsstelsel van een zoogdier ? Welk orgaan staat niet op de afbeelding ?",
+                "question_length": 18,
+                "score": 0.7981137014930639
+            },
+            {
+                "answer": "blaas",
+                "answer_length": 1,
+                "distractors": [
+                    "neus- en keelamandelen",
+                    "milt",
+                    "zwezerik"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk orgaan maakt geen onderdeel uit van het lymfatisch stelsel ?",
+                "question_length": 18,
+                "score": 0.7626654333508869
+            },
+            {
+                "answer": "bijnier",
+                "answer_length": 1,
+                "distractors": [
+                    "alvleesklier",
+                    "hypothalamus",
+                    "nier"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk orgaan speelt een belangrijke rol in de productie van adrenaline ?",
+                "question_length": 19,
+                "score": 0.7580953730176173
+            },
+            {
+                "answer": "longblaasje",
+                "answer_length": 1,
+                "distractors": [
+                    "longlob",
+                    "luchtpijptakje",
+                    "long"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! In welk orgaan van het ademhalingsstelsel worden afvalstoffen en overtollige stoffen uit het bloed gehaald ?",
+                "question_length": 27,
+                "score": 0.7498320952587758
+            },
+            {
+                "answer": "appendix",
+                "answer_length": 1,
+                "distractors": [
+                    "speekselklieren",
+                    "galblaas",
+                    "alvleesklier"
+                ],
+                "language": "nl",
+                "question": "Welk orgaan hoort bij de spijsverteringsbuis ? Duid het juiste antwoord aan .",
+                "question_length": 13,
+                "score": 0.74236335490179
+            }
+        ]
+    }
+}

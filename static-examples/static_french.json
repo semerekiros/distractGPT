@@ -1,0 +1,116 @@
+{
+    "qid": "",
+    "response": {
+        "Query": "Sample question",
+        "Result": [
+            {
+                "question": "Choisis l'article correct . ... rue",
+                "answer": "la",
+                "language": "fr",
+                "distractors": [
+                    "le",
+                    "les",
+                    "l '"
+                ],
+                "question_length": 6,
+                "answer_length": 1
+            },
+            {
+                "question": "Indiquez si les phrases sont logiques ou pas . En ete , Davy met du lait apres soleil quand il va jouer au foot .",
+                "answer": "Pas logique",
+                "language": "fr",
+                "distractors": [
+                    "Logique"
+                ],
+                "question_length": 25,
+                "answer_length": 2
+            },
+            {
+                "question": "Completez . Indiquez la bonne reponse . ... tu dis ?",
+                "answer": "Qu'est-ce que",
+                "language": "fr",
+                "distractors": [
+                    "Est-ce que"
+                ],
+                "question_length": 11,
+                "answer_length": 2
+            },
+            {
+                "question": "Les mots en gras sont des adjectifs ou des adverbes ? A Francorchamps , les voitures de Ferrari roulent le plus vite .",
+                "answer": "adverbe",
+                "language": "fr",
+                "distractors": [
+                    "adjectif"
+                ],
+                "question_length": 23,
+                "answer_length": 1
+            },
+            {
+                "question": "Choisis . Tu ne vois personne .",
+                "answer": "C'est une negation ",
+                "language": "fr",
+                "distractors": [
+                    "Ce n'est pas une negation "
+                ],
+                "question_length": 7,
+                "answer_length": 3
+            },
+            {
+                "question": "Veuillez choisir la bonne reponse ... projet est annule .",
+                "answer": "Ce",
+                "language": "fr",
+                "distractors": [
+                    "Cet",
+                    "Cette",
+                    "Ces"
+                ],
+                "question_length": 10,
+                "answer_length": 1
+            },
+            {
+                "question": "Completez par \u00ab qui \u00bb , \u00ab dont \u00bb ou \u00ab ou \u00bb . Je n'aime pas cette ville ... attire trop de touristes .",
+                "answer": "ou",
+                "language": "fr",
+                "distractors": [
+                    "qui",
+                    "dont"
+                ],
+                "question_length": 25,
+                "answer_length": 1
+            },
+            {
+                "question": "Il se donne raison au terme d'une penible periode de ... interieurs entre mille exces , mille arguments , mille qui-vive transformes en risques pris sans necessite imperieuse ( AB ) .",
+                "answer": "Va-et-vient",
+                "language": "fr",
+                "distractors": [
+                    "Vas-et-vient",
+                    "Va-et-vients"
+                ],
+                "question_length": 32,
+                "answer_length": 1
+            },
+            {
+                "question": "Deuxieme ecoute . Vrai ou faux ? Monsieur Wagner connait ce produit .",
+                "answer": "Faux",
+                "language": "fr",
+                "distractors": [
+                    "Vrai"
+                ],
+                "question_length": 13,
+                "answer_length": 1
+            },
+            {
+                "question": "Veuillez choisir la bonne reponse . Elle ... ( etre ) secretaire dans une entreprise a Bruxelles .",
+                "answer": "est",
+                "language": "fr",
+                "distractors": [
+                    "a",
+                    "es",
+                    "etes"
+                ],
+                "question_length": 18,
+                "answer_length": 1
+            }
+        ]
+    }
+}

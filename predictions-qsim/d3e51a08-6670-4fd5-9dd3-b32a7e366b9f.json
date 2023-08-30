@@ -1,0 +1,143 @@
+{
+    "qid": "d3e51a08-6670-4fd5-9dd3-b32a7e366b9f",
+    "response": {
+        "Query": "Welke soort maatschappij bestond in Mesopotami\u00eb?",
+        "Result": [
+            {
+                "answer": "Sjiieten",
+                "answer_length": 1,
+                "distractors": [
+                    "Katharen",
+                    "Soennieten",
+                    "Tempeliers",
+                    "Saracenen"
+                ],
+                "language": "nl",
+                "question": "Hoe heet de strekking binnen de islam die na de dood van Mohammed diens neef en schoonzoon Ali als enige rechtmatige opvolgers van de profeet aanvaardden ?",
+                "question_length": 27,
+                "score": 0.9947164490344006
+            },
+            {
+                "answer": "Sjiieten",
+                "answer_length": 1,
+                "distractors": [
+                    "Katharen",
+                    "Soennieten",
+                    "Tempeliers",
+                    "Saracenen"
+                ],
+                "language": "nl",
+                "question": "Hoe heet de strekking binnen de islam die na de dood van Mohammed diens neef en schoonzoon Ali als enige rechtmatige opvolgers van de profeet aanvaardde ?",
+                "question_length": 27,
+                "score": 0.9923782814752382
+            },
+            {
+                "answer": "Jodendom",
+                "answer_length": 1,
+                "distractors": [
+                    "Boeddhisme",
+                    "Mormonen",
+                    "Moslim"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Iedere godsdient heeft een aangepast voedingspatroon.Tot welke godsdienst behoort het drinken van koosjere wijn ?",
+                "question_length": 22,
+                "score": 0.9902890310750488
+            },
+            {
+                "answer": "Soennieten",
+                "answer_length": 1,
+                "distractors": [
+                    "Katharen",
+                    "Sjiieten",
+                    "Tempeliers",
+                    "Saracenen"
+                ],
+                "language": "nl",
+                "question": "Hoe heet de strekking binnen de islam die naast de Koran ook de 'soenna ' , de levenswijze van de profeet Mohammed , volgt en die de eerste drie kaliefen van Medina en later de Omajaden en de Abbasieden als leiders en rechtmatige opvolgers van de profeet beschouwt ?",
+                "question_length": 49,
+                "score": 0.9867835008308619
+            },
+            {
+                "answer": "Katharen",
+                "answer_length": 1,
+                "distractors": [
+                    "Sjiieten",
+                    "Soennieten",
+                    "Tempeliers",
+                    "Saracenen"
+                ],
+                "language": "nl",
+                "question": "Hoe heet de groep van ketters uit Zuid-Frankrijk die in de volle middeleeuwen zich de 'zuiveren van leer ' noemden ?",
+                "question_length": 21,
+                "score": 0.9621176580901498
+            },
+            {
+                "answer": "Saracenen",
+                "answer_length": 1,
+                "distractors": [
+                    "Katharen",
+                    "Sjiieten",
+                    "Soennieten",
+                    "Tempeliers"
+                ],
+                "language": "nl",
+                "question": "Hoe noemden de kruisvaarders de Arabieren ?",
+                "question_length": 7,
+                "score": 0.9538499553180103
+            },
+            {
+                "answer": "Keuze 2 polis be",
+                "answer_length": 4,
+                "distractors": [
+                    "Keuze 1 polis ba",
+                    "Keuze 3 polis bc"
+                ],
+                "language": "nl",
+                "question": "Welke polis is van toepassing Duid de juiste polis aan",
+                "question_length": 10,
+                "score": 0.9372682752715602
+            },
+            {
+                "answer": "Tempeliers",
+                "answer_length": 1,
+                "distractors": [
+                    "Katharen",
+                    "Sjiieten",
+                    "Soennieten",
+                    "Saracenen"
+                ],
+                "language": "nl",
+                "question": "Hoe heet de ridderorde - ontstaan tijdens de kruistochten in Jeruzalem - die later in de Europese steden de rol van belangrijke financier vervulde ?",
+                "question_length": 25,
+                "score": 0.9229647866685204
+            },
+            {
+                "answer": "zionisme",
+                "answer_length": 1,
+                "distractors": [
+                    "antisemitisme",
+                    "fundamentalisme",
+                    "intifada"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees het document uit het einde van de 19e eeuw . Over welke joodse denkrichting gaat het hier ?",
+                "question_length": 26,
+                "score": 0.8568799150265266
+            },
+            {
+                "answer": "nazisme",
+                "answer_length": 1,
+                "distractors": [
+                    "liberalisme",
+                    "nationalisme",
+                    "socialisme"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk begrip past NIET bij de 19e eeuw ?",
+                "question_length": 16,
+                "score": 0.8467057629752422
+            }
+        ]
+    }
+}

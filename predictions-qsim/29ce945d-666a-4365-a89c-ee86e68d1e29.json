@@ -1,0 +1,130 @@
+{
+    "qid": "29ce945d-666a-4365-a89c-ee86e68d1e29",
+    "response": {
+        "Query": "Wie heeft volgens jou gemiddeld de grootste vitale capaciteit?",
+        "Result": [
+            {
+                "answer": "8 uur ",
+                "answer_length": 2,
+                "distractors": [
+                    "20 uur "
+                ],
+                "language": "nl",
+                "question": "De zorgkundige moet elk jaar een permanente vorming krijgen van :",
+                "question_length": 11,
+                "score": 0.9750389273560583
+            },
+            {
+                "answer": "Ann Steverlynck",
+                "answer_length": 2,
+                "distractors": [
+                    "Ann S",
+                    "Buddy Ann"
+                ],
+                "language": "nl",
+                "question": "Wie is de leukste collega binnen PJK Duid het juiste antwoord aan",
+                "question_length": 12,
+                "score": 0.9713877191460698
+            },
+            {
+                "answer": "Uitzendbureau",
+                "answer_length": 1,
+                "distractors": [
+                    "Brandweer",
+                    "Rode Kruis",
+                    "School"
+                ],
+                "language": "nl",
+                "question": "Welke organisatie werkt binnen de typologie van Starreveld voor de markt ?",
+                "question_length": 12,
+                "score": 0.9667212656707189
+            },
+            {
+                "answer": "de Aannemer",
+                "answer_length": 2,
+                "distractors": [
+                    "Het Hoofd Infrastructuur",
+                    "Eandis",
+                    "de Veiligheidscoordinator",
+                    "de Toezichter"
+                ],
+                "language": "nl",
+                "question": "... ... ... ... ... ... ... ... ... is verantwoordelijk voor verlies , diefstal , brand en beschadiging van al de aan de aannemer ter beschikking gestelde materialen , vanaf het moment van afhaling in het distributiecentrum te Lokeren of vanaf het ogenblik van levering op de werf of in het ophaalpunt .",
+                "question_length": 54,
+                "score": 0.9665148438228787
+            },
+            {
+                "answer": "arbeidsongeval",
+                "answer_length": 1,
+                "distractors": [
+                    "nieuwe medewerker"
+                ],
+                "language": "nl",
+                "question": "Incidenten die aanleiding geven tot nazorg worden aangegeven als Kies het juiste antwoord",
+                "question_length": 13,
+                "score": 0.9650419741605468
+            },
+            {
+                "answer": "Lokale verdoving",
+                "answer_length": 2,
+                "distractors": [
+                    "Volledige verdoving",
+                    "Zonder verdoving"
+                ],
+                "language": "nl",
+                "question": "Selecteer het type verdoving dat volgens jou zal gebruikt worden in de aankomende knieoperatie .",
+                "question_length": 15,
+                "score": 0.9582455782190706
+            },
+            {
+                "answer": "arbeidsongeval",
+                "answer_length": 1,
+                "distractors": [
+                    "grensoverschrijdend gedrag"
+                ],
+                "language": "nl",
+                "question": "Incidenten die aanleiding geven tot nazorg , worden aangegeven als ... Kies het juiste antwoord",
+                "question_length": 15,
+                "score": 0.9515345666364268
+            },
+            {
+                "answer": "Biotechnische dienst",
+                "answer_length": 2,
+                "distractors": [
+                    "Technische dienst",
+                    "Facilitaire dienst"
+                ],
+                "language": "nl",
+                "question": "Wie is in het ziekenhuis verantwoordelijk voor het beheer en technisch onderhoud van medische appartuur ?",
+                "question_length": 16,
+                "score": 0.9458508081329875
+            },
+            {
+                "answer": "Patienten met diabetes mellitus ",
+                "answer_length": 4,
+                "distractors": [
+                    "Patienten met ernstige galactosemie ",
+                    "Patienten met ernstige dehydratie ",
+                    "Patienten in shock "
+                ],
+                "language": "nl",
+                "question": "Voor welke van de volgende condities is het gebruik van capillair bloed met de Accu-Chek Inform II-meter geschikt ?",
+                "question_length": 19,
+                "score": 0.9369730552364136
+            },
+            {
+                "answer": "Veearts",
+                "answer_length": 1,
+                "distractors": [
+                    "Apotheker",
+                    "Dokter",
+                    "Prive detective"
+                ],
+                "language": "nl",
+                "question": "Wat is James Herriot behalve schrijver nog meer ?",
+                "question_length": 9,
+                "score": 0.933468172833303
+            }
+        ]
+    }
+}

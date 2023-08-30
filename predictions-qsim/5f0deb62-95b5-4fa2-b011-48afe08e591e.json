@@ -1,0 +1,134 @@
+{
+    "qid": "5f0deb62-95b5-4fa2-b011-48afe08e591e",
+    "response": {
+        "Query": "Wat is de hoogte van de Feldberg?",
+        "Result": [
+            {
+                "answer": "40 cm",
+                "answer_length": 2,
+                "distractors": [
+                    "50 cm",
+                    "30 cm"
+                ],
+                "language": "nl",
+                "question": "Wat is de maximale diepte waarop je mag boren ?",
+                "question_length": 10,
+                "score": 0.9527982210006878
+            },
+            {
+                "answer": "40 cm",
+                "answer_length": 2,
+                "distractors": [
+                    "50 cm",
+                    "30 cm"
+                ],
+                "language": "nl",
+                "question": "Wat is de maximale diepte waarop ik mag boren ?",
+                "question_length": 10,
+                "score": 0.9406236401330783
+            },
+            {
+                "answer": "Tweedegraads brandwonden",
+                "answer_length": 2,
+                "distractors": [
+                    "Eerstegraads brandwonden",
+                    "Derdegraads brandwonden",
+                    "Dit zijn geen brandwonden"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Hoe diep is de huid op de afbeelding verbrand ?",
+                "question_length": 21,
+                "score": 0.9288285609319958
+            },
+            {
+                "answer": "50 cm diepte",
+                "answer_length": 3,
+                "distractors": [
+                    "60 cm diepte",
+                    "40 cm diepte"
+                ],
+                "language": "nl",
+                "question": "Wat is de maximum diepte van verticale sonderingen bij het opzoeken van een ondergronds gaslek in de open lucht ?",
+                "question_length": 20,
+                "score": 0.9249342555285277
+            },
+            {
+                "answer": "I = 0,0125A",
+                "answer_length": 3,
+                "distractors": [
+                    "I = 0,025A",
+                    "I = 0,5A"
+                ],
+                "language": "nl",
+                "question": "Een voltmeter wijst 250V aan . Zijn weerstand is 20kOmega . Wat is de stroom die door het toestel vloeit ?",
+                "question_length": 21,
+                "score": 0.909733702758625
+            },
+            {
+                "answer": "48 cm 2",
+                "answer_length": 3,
+                "distractors": [
+                    "12 cm 2",
+                    "60 cm 2",
+                    "64 cm 2",
+                    "72 cm 2"
+                ],
+                "language": "nl",
+                "question": "Wat is de oppervlakte van deze ruimtefiguur opgebouwd uit twaalf kubussen met ribbe 1 cm ? ( JWO 2005 )",
+                "question_length": 20,
+                "score": 0.8293061781060829
+            },
+            {
+                "answer": "30 dB",
+                "answer_length": 2,
+                "distractors": [
+                    "3 dB",
+                    "9 dB",
+                    "90 dB"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij geluidsterkte is de referentie voor de decibelschaal I 0 gelijk aan 1.10 -12 W/m2 . Wat is het aantal decibel bij een geluidsintensiteit van 1.10 -9 W/m2 ?",
+                "question_length": 36,
+                "score": 0.8191819297691431
+            },
+            {
+                "answer": "3 dm3",
+                "answer_length": 2,
+                "distractors": [
+                    "3 m3",
+                    "0,3 m3",
+                    "0,3 dm3"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord . In een plastiek doos past precies 3 liter water , met welk volume komt dit overeen ?",
+                "question_length": 22,
+                "score": 0.7982849534931772
+            },
+            {
+                "answer": "60 m",
+                "answer_length": 2,
+                "distractors": [
+                    "45 dm",
+                    "100 cm",
+                    "150 mm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de geschatte lengte van een kerktoren ?",
+                "question_length": 16,
+                "score": 0.7774769082008214
+            },
+            {
+                "answer": "15 cm",
+                "answer_length": 2,
+                "distractors": [
+                    "25 cm",
+                    "40 cm"
+                ],
+                "language": "nl",
+                "question": "Op welke afstand naast de kabel dien ik te boren ?",
+                "question_length": 11,
+                "score": 0.7769971356733107
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "26b75306-4579-4c92-ac7f-821a16efe13b",
+    "input": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Although the CEO has been accused of corruption , he is still refusing to _______________ . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. step down\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. step down\n2. resign\n3. step up\n4. move in\n5. collapse\n6. re-sign\n7. reinvent\n8. reorganize\n9. degrade\n10. disappear 11."
+}

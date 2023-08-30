@@ -1,0 +1,128 @@
+{
+    "qid": "12103cb3-2a2e-4f79-b84c-f2ff10224633",
+    "response": {
+        "Query": "Wat is maagdelijke voortplanting?",
+        "Result": [
+            {
+                "answer": "Ze veroorzaken vergiftigingen",
+                "answer_length": 3,
+                "distractors": [
+                    "Ze vreten de voorraden op"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wat doen micro-organismen ?",
+                "question_length": 10,
+                "score": 0.5732631209662148
+            },
+            {
+                "answer": "bieslook",
+                "answer_length": 1,
+                "distractors": [
+                    "dobbelstenen",
+                    "lookteentjes"
+                ],
+                "language": "nl",
+                "question": "'chives ' in Dutch ?",
+                "question_length": 5,
+                "score": 0.48881007564081486
+            },
+            {
+                "answer": "heterotrofe organismen",
+                "answer_length": 2,
+                "distractors": [
+                    "autotrofe organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Organismen die zich voeden met organische stoffen die door andere organismen zijn gemaakt noemen we ...",
+                "question_length": 22,
+                "score": 0.46295918460063207
+            },
+            {
+                "answer": "Ze ontvangen licht ",
+                "answer_length": 3,
+                "distractors": [
+                    "Ze groeien onder de grond ",
+                    "Ze groeien boven de grond ",
+                    "Ze ontvangen geen licht "
+                ],
+                "language": "nl",
+                "question": "Waarom zijn bepaalde plantendelen groen gekleurd ?",
+                "question_length": 7,
+                "score": 0.3099048488023246
+            },
+            {
+                "answer": "de opruimers",
+                "answer_length": 2,
+                "distractors": [
+                    "de verbruikers",
+                    "de planteneters",
+                    "de vleeseters"
+                ],
+                "language": "nl",
+                "question": "Welke organismen vinden we niet terug in een voedselketen ?",
+                "question_length": 10,
+                "score": 0.27179666592093693
+            },
+            {
+                "answer": "Sporen",
+                "answer_length": 1,
+                "distractors": [
+                    "Zaden",
+                    "Vlokken"
+                ],
+                "language": "nl",
+                "question": "Waarmee planten zwammen zich voort ? Bekijk het filmpje . Duid het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.2600844656275766
+            },
+            {
+                "answer": "heterotrofe organismen",
+                "answer_length": 2,
+                "distractors": [
+                    "autotrofe organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Alle organismen die geen bladgroenkorrels hebben , zijn ...",
+                "question_length": 15,
+                "score": 0.19360300580628842
+            },
+            {
+                "answer": "Bladgroenkorrel",
+                "answer_length": 1,
+                "distractors": [
+                    "Celkern",
+                    "Cytoplasma",
+                    "Vacuole"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welk celonderdeel maakt suiker aan met behulp van zonlicht ?",
+                "question_length": 21,
+                "score": 0.1928193793256823
+            },
+            {
+                "answer": "Onbeperkt houdbaar",
+                "answer_length": 2,
+                "distractors": [
+                    "Een paar weken houdbaar",
+                    "Een paar maanden houdbaar"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord Bij het steriliseren van voeding worden alle micro-organismen gedood . Deze voedingsmiddelen zijn :",
+                "question_length": 18,
+                "score": 0.18946632599268895
+            },
+            {
+                "answer": "reducenten",
+                "answer_length": 1,
+                "distractors": [
+                    "producenten",
+                    "consumenten"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een voedselketen kan maar blijven bestaan als hij gesloten wordt . De sluitende schakel in de voedselketen wordt gevormd door organismen die afval van planten en dieren omzetten in bruikbare voedingsstoffen of mineralen voor de planten . De voedselketen wordt gesloten dankzij het werk van de ...",
+                "question_length": 53,
+                "score": 0.1835961811287136
+            }
+        ]
+    }
+}

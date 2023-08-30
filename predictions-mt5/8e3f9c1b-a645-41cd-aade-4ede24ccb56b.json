@@ -1,0 +1,5 @@
+{
+    "qid": "8e3f9c1b-a645-41cd-aade-4ede24ccb56b",
+    "input": "Cochez la bonne reponse . [ lang=en ] Tick off the correct answer . [ /lang ] [ lang=nl ] Duid het juiste anwoord aan . [ /lang ] Madame Temouche , Nous vous signalons que le bateau avec vos marchandises est arrive au port de Dakar . Nous avons le plaisir de vous annoncer qu'il s'agit d'une livraison de coton de qualite superieure . Bien cordialement , Maurice Guadelien Qu'est-ce que Madame Temouche a achete ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. du coton\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. de l'eau\n2. du tissu\n3. de la mer\n4. des moulins\n5. toutes les reponses sont correctes\n6. aucune des reponses n'est correcte\n7. aucune de ces\n8. du mousseux\n9. des sacs\n10. le papier"
+}

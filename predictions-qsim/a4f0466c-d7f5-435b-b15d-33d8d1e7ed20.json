@@ -1,0 +1,129 @@
+{
+    "qid": "a4f0466c-d7f5-435b-b15d-33d8d1e7ed20",
+    "response": {
+        "Query": "Hoe verspreidt een depolarisatie zich?",
+        "Result": [
+            {
+                "answer": "Superego",
+                "answer_length": 1,
+                "distractors": [
+                    "Id",
+                    "Ego"
+                ],
+                "language": "nl",
+                "question": "Twee voorbeelden van mensen die afwijkend gedrag vertonen , zijn de terroristen van verschillende terreuraanslagen of Kim De Gelder ( die in een creche verschillende baby 's en kleuters vermoordde ) . Wat is bij hen het minste ontwikkeld ?",
+                "question_length": 40,
+                "score": 0.8645542042824733
+            },
+            {
+                "answer": "Kelderverdieping oostblok",
+                "answer_length": 2,
+                "distractors": [
+                    "9de verdieping oostblok",
+                    "Administratieblok"
+                ],
+                "language": "nl",
+                "question": "Waarover gaat deze brandmelding ? Duid het correcte antwoord aan .",
+                "question_length": 11,
+                "score": 0.7641376925777272
+            },
+            {
+                "answer": "Geen kaarsen bij een kerstboom ",
+                "answer_length": 5,
+                "distractors": [
+                    "Een plastieken , brandvrije kerstboom"
+                ],
+                "language": "nl",
+                "question": "Hoe kon deze brand vermeden worden ?",
+                "question_length": 7,
+                "score": 0.7611943393908659
+            },
+            {
+                "answer": "borstontwikkeling",
+                "answer_length": 1,
+                "distractors": [
+                    "rijping van de follikels",
+                    "voorbereiding van het baarmoederslijmvlies",
+                    "ontwikkeling van het embryo"
+                ],
+                "language": "nl",
+                "question": "Waarop heeft progesteron geen invloed ?",
+                "question_length": 6,
+                "score": 0.6357459304508143
+            },
+            {
+                "answer": "obesitas",
+                "answer_length": 1,
+                "distractors": [
+                    "milieuverontreiniging",
+                    "schimmels , bacterien , virussen",
+                    "stress"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke factor brengt de natuurlijke balans van sporenelementen en enzymen niet uit evenwicht ?",
+                "question_length": 20,
+                "score": 0.6086993639808349
+            },
+            {
+                "answer": "inpoldering",
+                "answer_length": 1,
+                "distractors": [
+                    "Verlanding",
+                    "Vergronding",
+                    "grondificatie"
+                ],
+                "language": "nl",
+                "question": "Hoe wordt het proces genoemd ( o.a . in de baai van Tokio ) waarbij land wordt gewonnen op het water ?",
+                "question_length": 22,
+                "score": 0.5392067266866094
+            },
+            {
+                "answer": "het verdampen van water",
+                "answer_length": 4,
+                "distractors": [
+                    "het verbranden van hout"
+                ],
+                "language": "nl",
+                "question": "Bij welk proces verandert de samenstelling van materiedeeltjes niet ?",
+                "question_length": 10,
+                "score": 0.5187587906592338
+            },
+            {
+                "answer": "onbepaald",
+                "answer_length": 1,
+                "distractors": [
+                    "stress",
+                    "erfelijk bepaald"
+                ],
+                "language": "nl",
+                "question": "2 punten Hoe ontstaat psoriasis ?",
+                "question_length": 6,
+                "score": 0.48555000875933946
+            },
+            {
+                "answer": "getijdenwerking",
+                "answer_length": 1,
+                "distractors": [
+                    "foerageren",
+                    "baggeren"
+                ],
+                "language": "nl",
+                "question": "Vink het juiste antwoord aan . Hoe noemt men het periodiek opkomen en terugtrekken van het zeewater ?",
+                "question_length": 18,
+                "score": 0.445807375111479
+            },
+            {
+                "answer": "fhrfjzrflkfjzl",
+                "answer_length": 1,
+                "distractors": [
+                    "jrfjizrhrzelk",
+                    "fnjrzfklzrnklz"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan Wat is het gevolg van de brand ?",
+                "question_length": 13,
+                "score": 0.4313774093061216
+            }
+        ]
+    }
+}

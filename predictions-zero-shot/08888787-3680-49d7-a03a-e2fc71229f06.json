@@ -1,0 +1,5 @@
+{
+    "qid": "08888787-3680-49d7-a03a-e2fc71229f06",
+    "input": "question: 1.43 The children ... ... ... ..for ten minutes .\nanswer: have been fighting\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. Have been sleeping\n2. Have been singing\n3. Have been reading\n4. Have been playing\n5. Have been dancing\n6. Have been studying\n7. Have been laughing\n8. Have been hugging\n9. Have been drawing\n10. Have been eating\n11. Have been watching TV\n12. Have been running\n13. Have been crying\n14. Have been sharing\n15. Have been walking\n16. Have been joking\n17. Have been swimming\n18. Have been climbing\n19. Have been shouting\n20. Have been cuddling"
+}

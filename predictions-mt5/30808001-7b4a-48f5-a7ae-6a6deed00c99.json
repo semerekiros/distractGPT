@@ -1,0 +1,5 @@
+{
+    "qid": "30808001-7b4a-48f5-a7ae-6a6deed00c99",
+    "input": "Lis les phrases . Indique les mots remplaces par \u00ab en \u00bb . Apres ton match de tennis , tu en veux plusieurs . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. des boissons fraiches\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. du vin\n2. une salade\n3. de l'eau\n4. des friandises\n5. des fruits\n6. un chocolat\n7. toutes les reponses sont correctes\n8. tout ce qui precede\n9. aucune des reponses n'est correcte\n10. aucune reponse"
+}

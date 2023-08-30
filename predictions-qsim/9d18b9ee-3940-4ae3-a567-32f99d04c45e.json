@@ -1,0 +1,137 @@
+{
+    "qid": "9d18b9ee-3940-4ae3-a567-32f99d04c45e",
+    "response": {
+        "Query": "Welke van deze inspanningen worden beschouwd als licht intensief bewegen?",
+        "Result": [
+            {
+                "answer": "Straling en geleiding",
+                "answer_length": 3,
+                "distractors": [
+                    "Enkel straling",
+                    "Straling en convectie",
+                    "Geleiding en convectie"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke vormen van warmtetransport zijn verantwoordelijk voor het warm worden van het glas van een traditionele oven ?",
+                "question_length": 29,
+                "score": 0.9035979386922356
+            },
+            {
+                "answer": "Convectie , straling en geleiding",
+                "answer_length": 5,
+                "distractors": [
+                    "Geleiding en convectie",
+                    "Enkel convectie",
+                    "Straling en convectie"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke vormen van warmtetransport worden beperkt bij een thermoskan ?",
+                "question_length": 21,
+                "score": 0.8603449261333428
+            },
+            {
+                "answer": "bewegingsenergie",
+                "answer_length": 1,
+                "distractors": [
+                    "elektrische energie",
+                    "lichtenergie",
+                    "stralingsenergie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In onderstaande situatie is er eerst energieomzetting van windenergie naar",
+                "question_length": 17,
+                "score": 0.8030850424988799
+            },
+            {
+                "answer": "Een tunnel graven en bouwen ",
+                "answer_length": 5,
+                "distractors": [
+                    "Een tunnel graven en boren ",
+                    "Een tunnel bouwen en boren "
+                ],
+                "language": "nl",
+                "question": "Transport door leidingen : mag alles wat kan ? Welke taken worden door een tunnelboormachine uitgevoerd ?",
+                "question_length": 17,
+                "score": 0.750692606476439
+            },
+            {
+                "answer": "warmte-energie",
+                "answer_length": 1,
+                "distractors": [
+                    "elektrische energie",
+                    "stralingsenergie",
+                    "bewegingsenergie"
+                ],
+                "language": "nl",
+                "question": "Welke energievorm komt altijd vrij in de volgende toepassingen ? - een draaiende boormachine - een kampvuur - een ingeschakelde kookplaat - een werkende computer .",
+                "question_length": 26,
+                "score": 0.6380250951303434
+            },
+            {
+                "answer": "Bewegingsenergie - > stralingsenergie",
+                "answer_length": 4,
+                "distractors": [
+                    "Bewegingsenergie - > bewegingsenergie",
+                    "Bewegingsenergie - > elektrische energie",
+                    "Bewegingsenergie - > rotatie-energie"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke energieomzetting is nooit mogelijk bij een technische toepassing van een windmolen ?",
+                "question_length": 24,
+                "score": 0.5910340319712395
+            },
+            {
+                "answer": "milieurisico",
+                "answer_length": 1,
+                "distractors": [
+                    "overlast",
+                    "uitputting",
+                    "verontreiniging"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Over welke milieu-ingreep is er sprake als we spreken over schipbreuk van een olietanker ?",
+                "question_length": 26,
+                "score": 0.5851232786111208
+            },
+            {
+                "answer": "een houtkachel",
+                "answer_length": 2,
+                "distractors": [
+                    "een biomassacentrale",
+                    "een kerncentrale ",
+                    "een windmolen "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan Elektriciteit kan op verschillende manieren opgewerkt worden zoals bijvoorbeeld met zonnepanelen . Welke van de volgende mogelijkheden wordt er normaal NIET gebruikt om elektriciteit op te wekken ?",
+                "question_length": 34,
+                "score": 0.5815407337234207
+            },
+            {
+                "answer": "Enkel straling",
+                "answer_length": 2,
+                "distractors": [
+                    "Enkel convectie",
+                    "Convectie en straling",
+                    "Convectie en geleiding"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Bij welke vormen van warmtetransport is er geen middenstof nodig ?",
+                "question_length": 22,
+                "score": 0.5400736721306365
+            },
+            {
+                "answer": "Chemische energie",
+                "answer_length": 2,
+                "distractors": [
+                    "fysische energie",
+                    "Stralingsenergie",
+                    "Warmte-energie"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke bruikbare energievorm wordt ontwikkeld tijdens de verbranding van fossiele brandstoffen in een motor ?",
+                "question_length": 26,
+                "score": 0.5350414242031687
+            }
+        ]
+    }
+}

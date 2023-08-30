@@ -1,0 +1,5 @@
+{
+    "qid": "3f5fb4aa-e25e-48d0-8c96-a7acbcb44bba",
+    "input": "vraag: Welke van deze klieren is een endocriene klier?\nantwoord: schildklier\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. alvleesklier\n2. speekselklier\n3. zweetklier\n4. traanklier\n5. prostaatklier\n6. talgklier\n7. zoutklier\n8. lymfeklier\n9. melkklier\n10. lever\n11. milt\n12. nier\n13. galblaas\n14. bijnier\n15. hypofyse\n16. eilandjes van Langerhans\n17. hartklier\n18. maagklier\n19. hersenen\n20. longen"
+}

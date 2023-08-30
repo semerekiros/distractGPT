@@ -1,0 +1,142 @@
+{
+    "qid": "fda3ae21-59a5-4dd1-b5e9-3ffbf2c1754a",
+    "response": {
+        "Query": "Tot welk continent behoort Lesotho?",
+        "Result": [
+            {
+                "answer": "N.W.-Rusland",
+                "answer_length": 1,
+                "distractors": [
+                    "Wales en Cornwall",
+                    "Ardennen",
+                    "N.-Nederland",
+                    "Taagvallei"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'intensieve veeteelt ' ?",
+                "question_length": 16,
+                "score": 0.9824478860817318
+            },
+            {
+                "answer": "Hongarije",
+                "answer_length": 1,
+                "distractors": [
+                    "Italiaanse kustgebieden",
+                    "de Balearen",
+                    "Franse Azurenkust",
+                    "Corsica"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'mediterrane landbouw ' ?",
+                "question_length": 16,
+                "score": 0.9817555804183711
+            },
+            {
+                "answer": "Sicilie",
+                "answer_length": 1,
+                "distractors": [
+                    "rond de Witte Zee",
+                    "Karpaten",
+                    "Bosnie-Herzegovina",
+                    "Finland"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'bosbouw ' ?",
+                "question_length": 15,
+                "score": 0.9732515843826332
+            },
+            {
+                "answer": "Polen",
+                "answer_length": 1,
+                "distractors": [
+                    "Belgie",
+                    "Frankrijk",
+                    "Tsjechoslowakije"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Duitsland begon de Tweede Wereldoorlog met de aanval op een buurland . Welk buurland ?",
+                "question_length": 22,
+                "score": 0.9730673818606149
+            },
+            {
+                "answer": "Sudan",
+                "answer_length": 1,
+                "distractors": [
+                    "Marokko",
+                    "Egypte",
+                    "Tunesie"
+                ],
+                "language": "nl",
+                "question": "Welk land is in 2011 gesplitst door het langdurig conflict in Darfur ?",
+                "question_length": 13,
+                "score": 0.9718423800259269
+            },
+            {
+                "answer": "rondom de hele Middellandse Zee",
+                "answer_length": 5,
+                "distractors": [
+                    "alleen in Italie",
+                    "in Griekenland en Egypte",
+                    "in Italie en Griekenland"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste antwoorden aan . In welk gebied was er sprake van Romeinse cultuur ?",
+                "question_length": 16,
+                "score": 0.9716201162060185
+            },
+            {
+                "answer": "Congo",
+                "answer_length": 1,
+                "distractors": [
+                    "China",
+                    "Belgie",
+                    "Rusland"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welk land zal onderstaand leeftijdshistogram zijn in 2050 ?",
+                "question_length": 17,
+                "score": 0.970168913288234
+            },
+            {
+                "answer": "Duitsland",
+                "answer_length": 1,
+                "distractors": [
+                    "de centrale Kaukasus",
+                    "IJsland",
+                    "noordkust Finland",
+                    "de centrale Alpen"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'bijna geen landbouw ' ?",
+                "question_length": 17,
+                "score": 0.9694825466023504
+            },
+            {
+                "answer": "Scandinavie",
+                "answer_length": 1,
+                "distractors": [
+                    "Z.W.-Ierland",
+                    "Schotland",
+                    "Bulgarije"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'extensieve veeteelt ' ?",
+                "question_length": 16,
+                "score": 0.9685370595988397
+            },
+            {
+                "answer": "Griekenland",
+                "answer_length": 1,
+                "distractors": [
+                    "Italie",
+                    "Egypte",
+                    "Azie"
+                ],
+                "language": "nl",
+                "question": "Met welk gebied kwam het rijk van Kassandros overeen ?",
+                "question_length": 10,
+                "score": 0.9675882831837422
+            }
+        ]
+    }
+}

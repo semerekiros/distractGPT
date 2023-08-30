@@ -1,0 +1,5 @@
+{
+    "qid": "77132401-dd69-4d2c-89b9-05385b477c7d",
+    "input": "Choisis . C'est le passe , le present ou le futur ? Vous ouvrez toujours la fenetre de la cuisine ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. present\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. passe\n2. futur\n3. pass\n4. toutes les reponses sont correctes\n5. aucune des reponses n'est correcte\n6. aucune des recettes ne souhaite\n7. ne souhaite pas repondre\n8. aucune des respostan'est\n9. aucune des repenses est jusqu'\n10. aucune des regles est correcte"
+}

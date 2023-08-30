@@ -1,0 +1,132 @@
+{
+    "qid": "486fdac7-c9cd-4130-ba7a-c51d47b2ec95",
+    "response": {
+        "Query": "Hoeveel procent van de lucht is zuurstofgas?",
+        "Result": [
+            {
+                "answer": "21 %",
+                "answer_length": 2,
+                "distractors": [
+                    "6 %",
+                    "12 %"
+                ],
+                "language": "nl",
+                "question": "... /3 punten Welk btw-tarief is toepasselijk op louter esthetische chirurgie ( zonder therapeutisch doel ) ?",
+                "question_length": 17,
+                "score": 0.9943121900138583
+            },
+            {
+                "answer": "10 %",
+                "answer_length": 2,
+                "distractors": [
+                    "15 %",
+                    "30 %",
+                    "60 %"
+                ],
+                "language": "nl",
+                "question": "Hoeveel procent eiwitten mag een maaltijd maximum bevatten ?",
+                "question_length": 9,
+                "score": 0.9933851234703126
+            },
+            {
+                "answer": "23 %",
+                "answer_length": 2,
+                "distractors": [
+                    "17 %",
+                    "21 %"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Hoeveel vol % zuurstof moet de lucht in een besloten ruimte maximaal bevatten om een betreding te mogen uitvoeren ?",
+                "question_length": 25,
+                "score": 0.9922992219511861
+            },
+            {
+                "answer": "21 %",
+                "answer_length": 2,
+                "distractors": [
+                    "6 %",
+                    "12 %"
+                ],
+                "language": "fr",
+                "question": "... /3 points Quel est le taux de TVA applicable a l'electricite ?",
+                "question_length": 13,
+                "score": 0.9916999129407881
+            },
+            {
+                "answer": "6 %",
+                "answer_length": 2,
+                "distractors": [
+                    "12 %",
+                    "21 %"
+                ],
+                "language": "nl",
+                "question": "... /3 punten Welk btw-tarief is toepasselijk op de herstelling van een dak van een school ( basisonderwijs ) ?",
+                "question_length": 20,
+                "score": 0.9915917109491846
+            },
+            {
+                "answer": "20 %",
+                "answer_length": 2,
+                "distractors": [
+                    "15 %",
+                    "18 %",
+                    "25 %"
+                ],
+                "language": "fr",
+                "question": "Une promotion sur une marque de cafe indique \u00ab 25 % de cafe en plus dans ce paquet \u00bb . Quelle est la reduction offerte sur le prix au kilo ?",
+                "question_length": 31,
+                "score": 0.99113834484422
+            },
+            {
+                "answer": "0 %",
+                "answer_length": 2,
+                "distractors": [
+                    "25 %",
+                    "50 %",
+                    "75 %",
+                    "100 %"
+                ],
+                "language": "en",
+                "question": "Would you be interested in participating in education focussing on other skills ? What would be the probability ? Negotiating skills",
+                "question_length": 21,
+                "score": 0.9904621704145746
+            },
+            {
+                "answer": "19 %",
+                "answer_length": 2,
+                "distractors": [
+                    "20 %",
+                    "21 %"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Hoeveel vol % zuurstof moet de lucht in een besloten ruimte minstens bevatten om een betreding zonder onafhankelijke adembescherming te mogen uitvoeren ?",
+                "question_length": 28,
+                "score": 0.9901753364018433
+            },
+            {
+                "answer": "100 %",
+                "answer_length": 2,
+                "distractors": [
+                    "15 %",
+                    "50 %"
+                ],
+                "language": "fr",
+                "question": "Cochez l'option correcte : quel est le pourcentage de matieres premieres issues du recyclage ?",
+                "question_length": 15,
+                "score": 0.9899067232604436
+            },
+            {
+                "answer": "100 %",
+                "answer_length": 2,
+                "distractors": [
+                    "15 %",
+                    "50"
+                ],
+                "language": "fr",
+                "question": "Quel est le pourcentage de matieres premieres issues du recyclage ?",
+                "question_length": 11,
+                "score": 0.9870047333420422
+            }
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "qid": "2d77fe50-a8c6-44f1-9b6a-e49ca5a00e55",
+    "response": {
+        "Query": "Welke zijn op langere termijn mogelijke symptomen van diabetes?",
+        "Result": [
+            {
+                "answer": "Diabetes mellitus",
+                "answer_length": 2,
+                "distractors": [
+                    "Artrose",
+                    "Hemofilie",
+                    "Lage bloeddruk"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is een gevolg van vetzucht ?",
+                "question_length": 14,
+                "score": 0.971506013201836
+            },
+            {
+                "answer": "uticaria",
+                "answer_length": 1,
+                "distractors": [
+                    "onychomycose",
+                    "clavus"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke van volgende aandoeningen heeft meestal een endogene oorzaak ?",
+                "question_length": 16,
+                "score": 0.9289303946196472
+            },
+            {
+                "answer": "hart- en vaatziekten",
+                "answer_length": 3,
+                "distractors": [
+                    "diabetes",
+                    "kanker",
+                    "obesitas"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is volgens cardioloog Paul Dendale de belangrijkste doodsoorzaak ?",
+                "question_length": 17,
+                "score": 0.9281726152853834
+            },
+            {
+                "answer": "hoge bloeddruk en diabetes",
+                "answer_length": 4,
+                "distractors": [
+                    "hoge bloeddruk",
+                    "hoge bloeddruk en astma"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke ziekte of welke ziektes zijn af te leiden uit dit voorschrift ?",
+                "question_length": 20,
+                "score": 0.9057153940044436
+            },
+            {
+                "answer": "een dermatomycose",
+                "answer_length": 2,
+                "distractors": [
+                    "hypertensie",
+                    "diabetes mellitus"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . De kans dat een client een infectie oploopt is het grootst als hij lijdt aan :",
+                "question_length": 22,
+                "score": 0.8987242083725235
+            },
+            {
+                "answer": "verkoudheden , oorontstekingen en darminfecties",
+                "answer_length": 5,
+                "distractors": [
+                    "darminfecties en longinfecties",
+                    "mazelen en darminfecties",
+                    "kinkhoest , verkoudheden en mazelen"
+                ],
+                "language": "nl",
+                "question": "Wat zijn de meest voorkomende kinderziekten bij jonge kinderen ( kleuters ) ?",
+                "question_length": 13,
+                "score": 0.8977893442051166
+            },
+            {
+                "answer": "Multiple sclerose",
+                "answer_length": 2,
+                "distractors": [
+                    "Ziekte van Parkinson",
+                    "Adrenalineverslaving",
+                    "Ziekte van Alzheimer"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Bij welke aandoening breekt het lichaam zijn eigen myeline af ?",
+                "question_length": 22,
+                "score": 0.88844959116421
+            },
+            {
+                "answer": "kaboutermustje",
+                "answer_length": 1,
+                "distractors": [
+                    "elfenbankje",
+                    "heksenboleet"
+                ],
+                "language": "nl",
+                "question": "Welk van deze organismen is geen reducent ?",
+                "question_length": 8,
+                "score": 0.8708708135949533
+            },
+            {
+                "answer": "bacterien",
+                "answer_length": 1,
+                "distractors": [
+                    "parasieten",
+                    "schimmels",
+                    "virussen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij verkeerd gebruik van antibiotica , kan je ernstige ziektes niet meer goed behandelen . Waartegen zijn antibiotica actief ?",
+                "question_length": 27,
+                "score": 0.8646229988658392
+            },
+            {
+                "answer": "Een iatrogene besmetting",
+                "answer_length": 3,
+                "distractors": [
+                    "Een intramurale besmetting",
+                    "Een medische besmetting"
+                ],
+                "language": "nl",
+                "question": "Hoe noem je een ziekte die ontstond door een foute medische handeling ?",
+                "question_length": 13,
+                "score": 0.853801322833879
+            }
+        ]
+    }
+}

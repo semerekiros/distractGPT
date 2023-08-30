@@ -1,0 +1,5 @@
+{
+    "qid": "1205be40-cae4-4b69-b928-9a61e2fb155f",
+    "input": "Welk orgaan behoort tot ons spijsverteringsstelsel? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. alvleesklier\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. spijsverteringsstelsel\n2. maag\n3. lever\n4. longen\n5. nier\n6. urineweg\n7. hart\n8. bloedvaten\n9. dar\n10. longenmerg"
+}

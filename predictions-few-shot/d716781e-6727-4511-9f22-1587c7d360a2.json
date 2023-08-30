@@ -1,0 +1,5 @@
+{
+    "qid": "d716781e-6727-4511-9f22-1587c7d360a2",
+    "input": "vraag: Klik het juiste antwoord aan , er is maar een antwoord mogelijk . Wat is de hoofdstad van de VS ?\nantwoord: Washington DC\nonjuiste antwoorden: \n1. New-York\n2. Tokio\n\nvraag: De hoofdstad van Frankriijk is\nantwoord: Parijs\nonjuiste antwoorden: \n1. Lille\n2. Lyons\n3. Bordeaux\n\nvraag: Vraag 1 multiple choice test - wat is de hoofdstad van Nederland ?\nantwoord: Amsterdam\nonjuiste antwoorden: \n1. Rotterdam\n2. Den Haag\n\nvraag: Wat is de hoofdstad van de VS ?\nantwoord: Washington DC\nonjuiste antwoorden: \n1. New York\n2. Miami\n\nvraag: Duid het enige juiste antwoord aan . Welke van onderstaande steden is de hoofdstad van Frankrijk ?\nantwoord: Parijs\nonjuiste antwoorden: \n1. Arras\n2. Bordeaux\n3. Rennes\n\nvraag: : Wat is de hoofdstad van Ierland?\nantwoord: : Dublin\n\nGenereer 20 onjuiste antwoorden: ",
+    "response": "\n\n1. Cork\n2. Belfast\n3. Galway\n4. Shannon\n5. Limerick\n6. Waterford\n7. Sligo\n8. Kilkenny\n9. Athlone\n10. Tralee\n11. Killarney\n12. Ennis\n13. Dingle\n14. Wexford\n15. Mullingar\n16. Drogheda\n17. Carlow\n18. Dundalk\n19. Navan\n20. Bray"
+}

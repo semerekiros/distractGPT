@@ -1,0 +1,4349 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "geography.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "e17ed1bd-57c8-467a-b6aa-bf3399750ee7",
+            "question": "In welk werelddeel ligt Noord-Korea?",
+            "answers": "Azi\u00eb",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Oceani\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Europa",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 6,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "93050794-1c47-431f-b675-c7215a2e4305",
+                    "distractor": "noord-korea",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "30b00fb0-1a1d-4145-8bc6-5cb908a6e576",
+                    "distractor": "zuid-korea",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "77a45fcb-1d64-45d9-8584-e6b3a2f20c77",
+                    "distractor": "zuidkorea",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f88d05b9-4df5-411f-a9bb-9d4364af4f15",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6e9b757d-238e-4c52-8918-04d14ca5fe2c",
+                    "distractor": "europa",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f2d4f5df-033f-4cd4-8409-3b37e5730ecf",
+                    "distractor": "noordoosten",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d78b3e3d-9ee0-431a-9a1b-c9cd3f491f97",
+                    "distractor": "japanse eilanden",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "eaca66f8-2b6e-4355-8863-8f37f7605082",
+                    "distractor": "tropische landen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d555a3f7-fbd4-4549-a512-2fda352dd20b",
+                    "distractor": "kust",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "461a30d1-ccec-4fb3-8e27-683ffac52246",
+                    "distractor": "zuiden",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "128cd5b4-b5f2-4b5e-8367-bea3bf4dcfbf",
+            "question": "Van welk land is Amsterdam de hoofdstad?",
+            "answers": "Nederland",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Belgi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Duitsland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Frankrijk",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9876a80a-4b69-4aba-88fe-160a310db2c9",
+                    "distractor": "Duitsland",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1a6e300f-8169-4616-b469-8bb79c16c9e4",
+                    "distractor": "zuid-korea",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "7ba63379-21a7-4636-bc50-143a8a799558",
+                    "distractor": "zuid-duitsland",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2104094e-34a2-4d81-b407-369c1568b8c0",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "fe1ed6a2-98e4-4e48-a422-5edb0c9ec673",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b497ecb3-d8a9-4b1d-b63e-536d08a38648",
+                    "distractor": "belgie",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "aeead538-d4f2-4900-bcbf-cca733851b39",
+                    "distractor": "zuidoosten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "ac5724c6-d481-4fe4-b7f8-201fcc69493c",
+                    "distractor": "ijsselburg",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "667fb00d-ac0b-42df-a3e4-e1b4207c8471",
+                    "distractor": "het",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2e6ba86b-aade-4d4e-9cf4-cf7e37fdd688",
+                    "distractor": "zuid-afrika",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "16c48f57-eb12-4d22-abf7-f71c0d6b320f",
+            "question": "In welk werelddeel ligt Eritrea?",
+            "answers": "Afrika",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Azi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Europa",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 6,
+                    "distractor": "Oceani\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d366e25d-0cf9-4946-83ee-d73e062bbd4e",
+                    "distractor": "noord-afrika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "7a64724d-44bc-43a4-8b71-6d3b729c02e1",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ab0c8230-5e54-41ef-abd4-ac09b37195bf",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "0b2e1b7d-9318-42bf-8512-2f59f45cdd62",
+                    "distractor": "zuid-afrika",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9bc988fc-3db8-4c52-a745-d60bfc5dd11c",
+                    "distractor": "zwitserland",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4ad5e7f8-8c09-4fb1-8986-ad0ca279a06e",
+                    "distractor": "arabiamerika",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "95e0c4af-96c9-4f21-b0ae-8c4f968a6cc8",
+                    "distractor": "bosnia",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e407c6ea-f5e8-43b1-bc03-0732e1246bd3",
+                    "distractor": "cyprus",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c2c99596-e992-4b3a-b493-6f5449208e38",
+                    "distractor": "estlands 9.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ae4dd72d-882d-45a8-9e50-bfae210166c5",
+                    "distractor": "zuidkorea",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8e51fd73-990a-4ecc-ab83-d14ea9d56fc1",
+            "question": "Tot welke geografische streek hoort Ieper?",
+            "answers": "Zandlemig Vlaanderen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Hageland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Zandig Vlaanderen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Polders",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Kempen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2213cd57-7974-49ca-bfd5-7cd037fd54fb",
+                    "distractor": "zuid-vlaamse streek",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a17a3dfa-d2d4-4479-bd91-b019ab83b04d",
+                    "distractor": "Limburg",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "b1b182ee-5b1a-4f58-bf59-d3f0105f8cbd",
+                    "distractor": "oostenrijkse streek",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "534a18c8-d7b8-471e-a97c-15533a8c581e",
+                    "distractor": "de oostenrijkse kust",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7ab0fd83-b9d8-415b-a991-f573d2b55db2",
+                    "distractor": "vlaamse streek",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6f425e58-921b-41e5-9930-9b79696b8d5a",
+                    "distractor": "het zuiden-westenland",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "35cd7b1f-81ea-4060-ba19-41ddd9f72950",
+                    "distractor": "bosrijke streek",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b37fcdbf-ee2b-4922-8598-d91d3d1517bf",
+                    "distractor": "vlaamse steppen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d0121709-1162-46e9-9714-d44fba7ecb05",
+                    "distractor": "woestijnse streek",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "179c7f19-74b3-416b-9ecd-8afb12f58954",
+                    "distractor": "gent",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "900e1aca-535a-479f-9082-5c7afb602ff9",
+            "question": "Welk seizoen is het in juli?",
+            "answers": "zomer",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "lente",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "winter",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "herfst",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4b7bffa8-4fe4-4309-a456-f3b87296d926",
+                    "distractor": "lente",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a17963b0-5a34-4a97-86b5-48cafd3c3f61",
+                    "distractor": "herfst",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "eaf7222a-5c90-4e88-9f8f-7c5282e4429b",
+                    "distractor": "winter",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "0e31de8e-1ab4-4ab7-bfe7-ab348c5805ff",
+                    "distractor": "lwinter",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a0ee1357-5f37-4a4b-a309-f299674396d8",
+                    "distractor": "voorjaar",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "08fde294-2809-4e63-a2ed-861e210b53f6",
+                    "distractor": "namiddag",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "df9b3ee6-d7da-4f0f-a27a-cf851731ce3a",
+                    "distractor": "de winter",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0a81c36d-0840-4614-9739-c29070bb590c",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2f09cbf7-47d8-454f-9558-9efea555f62e",
+                    "distractor": "herfstal",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "9adaba30-5c03-414a-9912-2d5adfe3a444",
+                    "distractor": "sloot",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6d782417-07e5-4b80-8659-598fb6317d3a",
+            "question": "Tot op welk niveau geeft de atlas informatie over de landbouw?",
+            "answers": "per gemeente",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "per provincie",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "per straat",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "per dorp",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f9bc5bb7-5079-4038-9fbe-ba718d4145d5",
+                    "distractor": "per stad",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "7e1c9538-19c3-4ca7-ac31-01815db69ef7",
+                    "distractor": "per bevolking",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "2e274b07-cb87-49f9-b225-3ba83022b29e",
+                    "distractor": "per provincie",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4bc23388-df67-4300-b5e1-8f1e7e472d78",
+                    "distractor": "per natie",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "458a3f92-0655-4cca-8135-57a979c00782",
+                    "distractor": "voor de vlaamse gemeente",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "fe67dea4-6e35-45ef-be94-2d605b5dbe45",
+                    "distractor": "voor het buitenland",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d38acd3d-2239-4f92-b141-ffd9000b5d1b",
+                    "distractor": "over alle",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "2a5a7f8f-3930-4581-9023-ca3af55c301b",
+                    "distractor": "voor departement",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f103b379-e947-4987-888e-3d80a9821651",
+                    "distractor": "provincies",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "cbe9c96e-3b11-461c-8198-1e1939e26bb2",
+                    "distractor": "over alle territoria",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "fda3ae21-59a5-4dd1-b5e9-3ffbf2c1754a",
+            "question": "Tot welk continent behoort Lesotho?",
+            "answers": "Afrika",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Eurazi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Geen, want het is een eiland.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Australi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9439812a-11ac-47e8-a7b6-9424ae351356",
+                    "distractor": "noord-amerika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "27b773b9-e63c-4eea-abdc-95449fc9e326",
+                    "distractor": "aantal continenten",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "67c8c735-217e-4325-9de8-59ea5c3c75c1",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "88eee48b-97f2-4146-a9e5-0124fbcec03c",
+                    "distractor": "hele wereld",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e21286ae-bc21-461d-bdfd-e29d2cf3aef3",
+                    "distractor": "zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "05602e64-295a-4740-bad6-9112189b89ac",
+                    "distractor": "zuiden",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "26ccf386-9276-4de8-bed3-b682af3226d9",
+                    "distractor": "noorwegen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "a945cb65-cd26-4827-adaa-48cef59048bc",
+                    "distractor": "europa",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "28ba197c-6edb-47a7-ab72-1f9193dc3d96",
+                    "distractor": "tropische oceanieten 9.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "03308a2e-c10e-4096-b756-e0abf8feb248",
+                    "distractor": "afrika",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "94a05e64-3f60-41d0-845c-930f7ad6a359",
+            "question": "Welke autosnelweg ligt er tussen Namen en Aarlen?",
+            "answers": "E411",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "E17",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "E25",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "E42",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ca4b434c-c205-44fb-b5f0-3c3898323517",
+                    "distractor": "e411",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3505fe9b-4cd8-4542-9442-ef28b0de4812",
+                    "distractor": "a411",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a21a5578-852f-4175-917c-e7b0a279e507",
+                    "distractor": "b311",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ec1ade48-27b6-4e58-bbd2-20ef7c8ced61",
+                    "distractor": "d502",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "210cdc97-1d82-4a0e-b564-4281dfd6f5b2",
+                    "distractor": "c401",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "c30161e6-ca7c-4c54-b61c-dcc196efcd4f",
+                    "distractor": "b612",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "3c4326b2-53b3-4154-9674-46efe301f318",
+                    "distractor": "de trein",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b98b65a9-b3c6-4a13-b88a-0fa5b51b19ea",
+                    "distractor": "autostrade",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c06284d8-b276-4a10-beb7-810d52f6adeb",
+                    "distractor": "c422",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a1e3020a-6220-40da-970f-1d9930cf412d",
+                    "distractor": "z",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "048c0097-18d8-4db3-91b1-fe8cb60a1e69",
+            "question": "De evenaar is het nulpunt van de breedtelijnen. Wat is dan de breedteligging van de evenaar?",
+            "answers": "0\u00b0",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "90\u00b0",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "45\u00b0",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e1597965-49fd-4bae-b580-8861345c2880",
+                    "distractor": "0\u00b0",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "f3cc887b-76cc-41b0-b6d1-bc4cccf4270f",
+                    "distractor": "-5\u00b0",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "14b1b88c-b311-4033-8c0b-5f8026ae1cef",
+                    "distractor": "-1",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c9fedeae-aba8-4bbb-9562-6672059b3494",
+                    "distractor": "-0,8",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "c88756da-a938-428e-8f38-b7149c4c704b",
+                    "distractor": "0,1",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ab5d3d08-68c4-44ff-88e6-7788faa43ff4",
+                    "distractor": "0,8",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1abc9fea-664c-4467-ac32-b701d4a50f7f",
+                    "distractor": "1,0",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "27219d44-c9c4-47e6-a780-8be879d14568",
+                    "distractor": "0,5",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8e462bcd-38b0-4c00-af81-19b2f082b072",
+                    "distractor": "0,9",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3a8ffa70-1fee-4b4f-ab5a-6db59671a623",
+                    "distractor": "0,41",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9a805491-63a0-480f-a94e-045a7589c4c2",
+            "question": "Tot welk continent behoort Brazili\u00eb?",
+            "answers": "Amerika",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Eurazi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Geen, want het is een eiland.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Australi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "13b90041-4ed9-48f0-982f-315de2070641",
+                    "distractor": "noord-amerika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b103e0d2-7192-407d-b6a3-7ce9d26e2615",
+                    "distractor": "aruba",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "3802db1d-590e-47cd-98a2-2861a53a45de",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8aa07354-31e5-47e8-899d-7c75053e0784",
+                    "distractor": "zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "65d11533-4584-4e48-89c3-7e1bce5a4e9f",
+                    "distractor": "zuiden",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "cb62237f-f371-4e0a-88c8-3ca5fe8081d4",
+                    "distractor": "europa",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0de47bae-3cd2-4d21-a938-5112a317ae8b",
+                    "distractor": "zuidoosten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "97470066-317d-41ca-a2f0-64f87bef99ae",
+                    "distractor": "de europese uni",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d51f792d-08f2-4243-b75a-8a012372a038",
+                    "distractor": "azie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "fb7389a6-0d54-4794-8096-45df062e473e",
+                    "distractor": "portugal",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8da5cf01-47cf-4a97-8e82-cc183775219d",
+            "question": "Tot welke geografische streek hoort Sint-Niklaas?",
+            "answers": "Zandig Vlaanderen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Hageland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Zandlemig Vlaanderen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Polders",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Kempen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "549bb3ae-0c4b-4b10-b306-87b1209b5f8c",
+                    "distractor": "noord-west-vlaanderen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "630e5e3a-dc1c-4d7f-b419-7627368d7900",
+                    "distractor": "Limburg",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8f5f55dd-13f1-4edf-9244-a15079f5f95e",
+                    "distractor": "zuid-west-vlaanderen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "56c266a9-fb9d-4bc9-b1eb-8c5e552c7bbf",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4e74f2a0-2ac6-448f-ad4f-e8ef7b7b0beb",
+                    "distractor": "west-west-vlaanderen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ea657733-dd19-4bdc-a91b-0de8fbd75148",
+                    "distractor": "zuid-italie",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "bc7731a2-4ca0-408f-b21c-0e2ba365a1b0",
+                    "distractor": "woestijn",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "786dcc6b-53bb-4aa0-a935-b04ce31e1aab",
+                    "distractor": "bos",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2bcc5f15-8603-4042-89c6-a2e5f1828e46",
+                    "distractor": "dalende vlaanderen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "910b954b-072e-4512-bef1-6aee0ff91050",
+                    "distractor": "noordelijk Itali",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "ed8e40d3-5f10-43f4-97e9-f202b08ed1eb",
+            "question": "Tot welke geografische streek hoort Assenede?",
+            "answers": "Polders",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Hageland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Kempen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Zandlemig Vlaanderen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Zandig Vlaanderen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "062254e5-0a96-4b5a-9097-0a2e93cc2c90",
+                    "distractor": "Limburg",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a54b72ea-c07b-4962-8380-6b8a5ea75cfb",
+                    "distractor": "Maastricht",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "00f5973c-b78e-49cd-9904-64d8c6e1eae8",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ec60707a-ca9e-4c75-a043-f35cdffdd8d1",
+                    "distractor": "Assenede",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "527f9e9a-e15c-48f5-b380-4fa67f12fc58",
+                    "distractor": "zuid-afrikaanse eilanden",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "dbf32f12-c111-4ca7-880a-89f827e1d8f6",
+                    "distractor": "overijssel",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "09e3c3d5-21c8-40d5-9279-37cff787611f",
+                    "distractor": "vlaamse eilanden",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8575799b-2d3b-426b-bf8d-1d1483975154",
+                    "distractor": "bosrijke eilanden",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ee75518b-a770-4319-b5e1-053c6c54a6a0",
+                    "distractor": "merwede",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2f14c9dc-b202-4eba-989d-ac56471a74d4",
+                    "distractor": "woestijnse eilanden",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f3ef2f83-3647-4f90-8033-4585b4853d79",
+            "question": "Hoe groot is de hoek tussen de evenaar en de aardas?",
+            "answers": "90\u00b0",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "180\u00b0",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "360\u00b0",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "45\u00b0",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1abdcf2d-ca38-49ab-9e7e-08081fa9f11b",
+                    "distractor": "0\u00b0",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "256c86a7-4007-4461-9153-4920c6180bb5",
+                    "distractor": "30\u00b0",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a0de4544-33c7-4dd8-94a2-06a52f7a08ed",
+                    "distractor": "80\u00b0",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "bbb24e91-01ad-42bd-8030-eb4337cfe64c",
+                    "distractor": "60\u00b0",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "22f8f05e-63aa-49ac-a79a-6d170523fb1d",
+                    "distractor": "120",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b98fed44-7b73-4c18-af51-59d67bb40ed1",
+                    "distractor": "180",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "010f7bc7-0c8f-4678-9458-14e26ca263f0",
+                    "distractor": "70\u00b0",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "1b82f9dc-624e-495e-a0bf-a8ab357b4550",
+                    "distractor": "90\u00b0",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e8524462-4f4f-4780-9813-dc5678f72c4d",
+                    "distractor": "170",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "55bbab60-eac1-45b7-b8da-b95ffe2facc6",
+                    "distractor": "165",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b61b9cb1-0100-4493-82ce-62daca7a5a1c",
+            "question": "Hoe wordt het begin van een rivier genoemd?",
+            "answers": "de bron",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de middenloop",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "de monding",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "593d71ed-1cb3-4153-b1b9-b79d32084f3b",
+                    "distractor": "de rivier",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1bd6a61e-9e1c-4ce4-aea9-0c693e7fd1ce",
+                    "distractor": "de bruggen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8ca9f405-07ac-4f69-ae24-f1dd75fdf830",
+                    "distractor": "het wateroppervlak",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "7c398945-ec77-4368-872a-d7e15ec863ff",
+                    "distractor": "alle vruchtbare delen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "42881a1d-59bf-4699-8c51-d560c9ab407d",
+                    "distractor": "elke bijvoeglijke dal",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f749df60-96dd-4572-8a90-b1a676f1d947",
+                    "distractor": "enkel een",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "88e98f94-6172-45b0-8bcb-279226fcd067",
+                    "distractor": "de water",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "57d40a42-868f-41df-b0e1-4962e4718b8c",
+                    "distractor": "het zand",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "9d8bb10a-d533-4399-a802-33562709c743",
+                    "distractor": "het vrachtschip",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "821e17c3-49c9-42f3-94f3-9481452b4f23",
+                    "distractor": "het pontje",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "e19304d7-0edc-4b60-a6db-832bb7dae5ad",
+            "question": "Van welk land is Athene de hoofdstad?",
+            "answers": "Griekenland",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Portugal",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Zweden",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Noord-Macedoni\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ef125c7c-ff3e-468c-8d8e-4e17374c00e0",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6040673c-9f9a-444b-90e2-ecc96039a7fa",
+                    "distractor": "portugal",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "b20f3d5b-175e-4e3a-9079-924fc016c2e6",
+                    "distractor": "zuid-duitsland",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "75e9c11f-26f3-4e14-a500-3550f37d5e1c",
+                    "distractor": "zuid-afrika",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "09ffadbc-84de-4895-ae80-8e99d53ccda9",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ced43e6b-0980-40ea-bed4-d7e101cbe2ff",
+                    "distractor": "luxemburg",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "952bfe5e-5d40-4ec8-99d8-82e849aed5cc",
+                    "distractor": "italie",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "fb65e160-44fa-4a4f-9d1a-0f0443333743",
+                    "distractor": "suidwestend",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "1ce5954c-a1d8-4a95-89c3-013e402990c2",
+                    "distractor": "Cyprus",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f54d3f78-0165-4819-b0a2-99444550af2d",
+                    "distractor": "Liechtenstein",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "16bbd9d6-81b7-4162-bcc0-bc3696cdd678",
+            "question": "In welk continent ligt Mexico?",
+            "answers": "Amerika",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Geen, want het is een eiland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Australi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Eurazi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "18c8a236-4a2b-4e0e-9f87-4bb860ded2da",
+                    "distractor": "europa",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a55c520e-0fe1-40a9-b35e-17c65e244441",
+                    "distractor": "Nicaragua",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "396d5fa1-9eba-44ef-b039-7460299d18d0",
+                    "distractor": "zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "04953f59-1f05-4149-8095-87c36aab67b9",
+                    "distractor": "zuiden",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f92bc3af-48d8-43ed-bc34-816eec8412eb",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "3c53f2b7-a40d-46fa-8ff0-a7cf97315c6f",
+                    "distractor": "noord-amerika",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "b90adb83-6ccf-44c2-ba13-af274a66e097",
+                    "distractor": "italie",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "2be166f3-0600-401f-a5ab-faff86f5f86d",
+                    "distractor": "norwegen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "aa942f8f-9453-4bfa-b3fd-a78bb4e3cf6f",
+                    "distractor": "oostamerika",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "1732b814-b042-41b9-8888-6bb8e66ba600",
+                    "distractor": "azie",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f199dba1-c5bb-4477-8d79-3fce009cc99d",
+            "question": "Tot welke geografische streek hoort Westerlo?",
+            "answers": "Kempen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Hageland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Polders",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Zandig Vlaanderen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Zandlemig Vlaanderen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2a26ab13-600f-412e-927c-77a4bc9bc5ff",
+                    "distractor": "denemarken",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ebdd6c21-502a-4887-8814-3f1e713de0e9",
+                    "distractor": "Limburg",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "46eecbff-2204-4ee8-841d-213f4c4176bc",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f1d6bfa3-084d-410c-8568-9176dfb3f6e7",
+                    "distractor": "de grensstreek",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6adca4b6-9d09-4de1-bc2d-c319520e5000",
+                    "distractor": "zuid-koreaanse eilanden",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2a26c82a-6a3f-43b2-9c27-2c2168efaf20",
+                    "distractor": "het oostenrijk",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0f2df01d-65b9-406e-8753-bed3402421d7",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c1d6b057-41e6-490a-86b0-874c83d8952a",
+                    "distractor": "dorpen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "707438be-2dfb-49e3-b109-b9b367a644be",
+                    "distractor": "zuid-hollandse vlaanderen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "060c2c4d-6b5f-41ef-b701-383ee6b43ba3",
+                    "distractor": "merenhout 8.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b99c2f81-e857-453f-84e8-852e0cb902a1",
+            "question": "Wat is een synoniem (woord met dezelfde betekenis) van breedtelijn?",
+            "answers": "parallel",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "meridiaan",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "62caca0b-23c8-457b-9b05-c93854299e0c",
+                    "distractor": "rechtelijn",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4907656c-a0db-487b-8b5d-7518891253ad",
+                    "distractor": "breedtelijn",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a81c8db1-2dcf-451e-8a03-725103f7063e",
+                    "distractor": "rechthoek",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "7bc04158-85a9-47c7-b6dd-e85775269493",
+                    "distractor": "rechtlijn",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "d9eade5f-5571-4a91-a07e-9233776d1623",
+                    "distractor": "dwarszijde",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ac00c09e-e41d-48af-8495-f2c988b0d1a5",
+                    "distractor": "vragend",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "961ee331-b2d1-4ebf-a38b-aef61a384462",
+                    "distractor": "kruispunt",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "a79a4cd3-3e7d-43b0-b1c3-2a7c718ca3bf",
+                    "distractor": "verbinding",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "00683cc2-9899-4955-aa52-7430f827210b",
+                    "distractor": "parallellie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "1425a9d9-2adf-46b5-962a-a03533b2a5e8",
+                    "distractor": "trigonometri",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "ad33b004-2c45-40ad-af38-24c482078adf",
+            "question": "Van welk land is Wenen de hoofdstad?",
+            "answers": "Oostenrijk",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Servi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Ierland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Denemarken",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6afb576d-e3c7-45df-8191-4091443375db",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "393fa2b3-3908-4c56-9af8-67b32fc6f1db",
+                    "distractor": "zuid-korea",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "59fc644b-3915-481a-be8e-c289b619d1de",
+                    "distractor": "zuid-duitsland",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "095d1694-0c96-4ac9-9131-62b742805779",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "1d7ea6ed-179c-4988-bcbc-39382fab7e57",
+                    "distractor": "noorwegen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2cd67012-4d4d-4fc3-8786-493b67836bb4",
+                    "distractor": "wales",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "43b46cbb-00a5-436f-bc61-b7c888ab5ea7",
+                    "distractor": "frankrijk",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "af612764-2079-42e6-b9d5-b47a16ef5ae4",
+                    "distractor": "slovakije 9.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "9c5ab939-fe29-43f5-ad0c-a2e9da51c8a4",
+                    "distractor": "vlaamse eilanden",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d2e6cc09-3161-433a-ad8b-87af424ac901",
+                    "distractor": "zweden",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1fb1f161-e9a9-40c2-a253-495e5c4bda6d",
+            "question": "Bij een breukschaal van 1 : 100 000 is 1 cm gelijk aan...",
+            "answers": "1 km",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "10 km",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "0,1 km",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "71c0cbcc-7082-44e6-8210-286f164df728",
+                    "distractor": "1 km",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "0271c60f-ecce-4951-b20f-7eb80f4b0990",
+                    "distractor": "100 km",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6130643f-88f7-4b5a-92f5-66e5bb4be9ef",
+                    "distractor": "2 km",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "242c30f9-c536-42f6-9edd-6c2de2aa26f8",
+                    "distractor": "100 000",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "50467649-3375-48d2-be22-cc35ecb1b721",
+                    "distractor": "3 km",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4e435bae-d453-4fe0-823f-8a484774f3e3",
+                    "distractor": "1000000",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "2d85c7ca-a196-476c-b8e5-b37d40fe69a4",
+                    "distractor": "4 km",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "52c919c1-f3fa-47e1-90e9-1efa96503742",
+                    "distractor": "1000 km",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "618cedd6-a1fa-4f95-b6a3-a8878073f3f4",
+                    "distractor": "5 km",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "fb34cc2e-69b4-48db-9f5f-02c6ce524be1",
+                    "distractor": "1 m",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "64a263cf-e3a9-48da-af38-88e9f528aaae",
+            "question": "Welke Belgische steden hebben een luchthaven?",
+            "answers": "Zaventem ### Antwerpen ### Charleroi ### \nOostende ### Luik",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Namen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Leuven",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Genk",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Gent",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Brugge",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9255f854-47ec-489b-acaa-8e8a7be653df",
+                    "distractor": "Antwerpen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c81def54-ba12-4436-9171-ca409dec1334",
+                    "distractor": "Antwerp",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "402e2a74-18b8-4acc-b703-363d97341427",
+                    "distractor": "Brussel",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "83ea5214-23ef-4b41-be12-72ec569fe7f1",
+                    "distractor": "brugge",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "cac6c409-e748-4c97-948c-eb732d1321a1",
+                    "distractor": "limburg",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2f5e6733-1280-4534-b3ee-e3bb5601f18e",
+                    "distractor": "zwitserland",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "304a8c4d-0261-4561-ac89-5b94efbe20eb",
+                    "distractor": "gent",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b670facf-10dc-4e42-9a0b-32b931f680cb",
+                    "distractor": "brussel",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2d3f00db-9a6c-422f-9338-790e8d4e6b9d",
+                    "distractor": "zuid-afrika",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "1377007a-4f33-420c-972d-af3c3d63a0c6",
+                    "distractor": "oosten",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "13ef132c-161d-4e0f-8ad7-7a42a39fa2c1",
+            "question": "In welk halfrond ligt Belgi\u00eb?",
+            "answers": "noordelijk halfrond",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "zuidelijk halfrond",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ce17ff7a-75c9-4962-8401-f23e0c19cb2d",
+                    "distractor": "oostenrijks halfrond",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "be458977-15a9-4faf-bd86-0c2366aab678",
+                    "distractor": "zuidenhalfrond",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "acee43bb-0920-4833-a58c-92e5c82989c3",
+                    "distractor": "zuidwestelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b02c214e-326a-4e26-886b-e31af2f824ac",
+                    "distractor": "oostenrijkshalverond",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4d631f30-e7de-490d-97bb-dd1096f04e4a",
+                    "distractor": "westelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "23ef7869-1095-4fc4-874a-b9df0ab19d12",
+                    "distractor": "westend half rond",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "b0468054-597e-4871-9f27-164fa30a1c85",
+                    "distractor": "noordwestelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "21b8e74f-eae5-41c9-9ed2-36225992ba61",
+                    "distractor": "noordelijk halfron 7.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "4dbabb08-44c6-4f9a-a4b7-7a1e4f6f6f3e",
+                    "distractor": "oostendelijk half rond",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6f1fe423-6ad0-45d0-874f-c3120910b6cc",
+                    "distractor": "het noordwestenhalverond",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b17226ed-4008-4e13-906d-872decf367c1",
+            "question": "Hoeveel continenten zijn er?",
+            "answers": "5",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "4",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "6",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "3",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "cb9c3806-9856-4b74-a915-2395e17e99ad",
+                    "distractor": "1",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d31f7a7b-ae28-428f-a65c-f1389118b977",
+                    "distractor": "2",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "1b72db40-3dc3-413e-81ca-5b3ab76bf258",
+                    "distractor": "3",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d9a0f544-eaa5-415d-b246-98ff0f166efa",
+                    "distractor": "4",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b041b0da-6062-48d5-9ab8-95882ace632f",
+                    "distractor": "6",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8a8e86a4-69b6-48f4-87fb-d65895333784",
+                    "distractor": "7",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c022e48b-eb19-495b-954e-f16a7b9e7f74",
+                    "distractor": "8",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "3da22eec-8788-43ba-a9ac-e0a0fa6f7a36",
+                    "distractor": "9",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d3c85d2c-1801-45ed-9582-78d597f43b33",
+                    "distractor": "10",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "97b125dd-9393-4435-aa11-8fbc73a29f5e",
+                    "distractor": "15",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c4d8d8ef-3bb5-45df-bcf9-cb81e67d6156",
+            "question": "In welk continent ligt Australi\u00eb?",
+            "answers": "Australi\u00eb",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Geen, want het is een eiland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Australi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Eurazi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "780dfb66-459d-4332-b321-e72cb0057218",
+                    "distractor": "noord-amerika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "13d0f443-4462-4077-8f61-f793997604fd",
+                    "distractor": "Botswana",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8c9c9f34-f52a-4499-ad0a-a10f41a67cf2",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "fdfb1740-3d16-4286-a04b-ed2c9834be3a",
+                    "distractor": "zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9ece6ca1-0154-4a55-b988-a35f56b169ad",
+                    "distractor": "zuid-afrika",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "c7d8cd55-7e35-40b9-a381-6d62dc071768",
+                    "distractor": "belgie",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9bb87541-b7e8-4d5c-9c10-68581bccfa7e",
+                    "distractor": "labrador",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7f57c955-9640-44f3-931a-8ff18492946d",
+                    "distractor": "amerika",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "fe829e97-cc7e-4da8-90c7-96b98ff3379f",
+                    "distractor": "europa",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "caabd138-4653-4154-9aa5-e116952bee4f",
+                    "distractor": "noorwegen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "566b9476-1b9e-47f7-b4c9-b13409a93e04",
+            "question": "Welke twee rivieren vloeit samen met de Schelde in Gent?",
+            "answers": "Leie ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Mandel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Demer",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9994be93-cfef-4e54-a89a-ddd5ed3e8daa",
+                    "distractor": "rivieren",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "8e0b60ab-9bfe-468b-b161-65cbc490ab64",
+                    "distractor": "Limburg",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "efe94fea-9434-4c13-896e-4805de21b22b",
+                    "distractor": "de zee",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "36fba78d-5188-40b8-a64a-07434f68bd61",
+                    "distractor": "kust",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "24a142d5-3bbb-40be-8e2a-942210b3d2ee",
+                    "distractor": "waterleiding",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7c04f68d-814e-4fbc-89e6-5db057377c85",
+                    "distractor": "vlissingen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "35ebe501-4ce0-4214-8937-a8f110aa3509",
+                    "distractor": "limburg",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "82ac6191-79ca-442f-ac88-c5a74da0035d",
+                    "distractor": "zuid-ijsland",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "0281d50b-9e54-48e4-9bdf-a965d19a6c0c",
+                    "distractor": "Tisza",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ad8d3e48-a8bc-4a88-a4f9-2f15dd8bf988",
+                    "distractor": "leem",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "064e9091-164a-473f-a283-8d8a6b65c348",
+            "question": "Wat is de hoofdstad van Duitsland?",
+            "answers": "Berlijn",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Dortmund",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Keulen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "M\u00fcnchen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e1367b1e-5a7d-4e90-80ec-c92df280f61c",
+                    "distractor": "Antwerpen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ed854d10-d343-45b5-95c2-51ebc7c06724",
+                    "distractor": "Bremen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d3fc03ff-cb54-4890-8f26-98fa8d71a1c3",
+                    "distractor": "zuid-frankrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4dcefe1b-2552-4b18-beaa-d740bffffd89",
+                    "distractor": "Hamburg",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9a5441a2-ca47-4c41-a5fa-31786ac763b6",
+                    "distractor": "Riga",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9b7538e7-48c0-4c9b-9618-3cd544fd5e49",
+                    "distractor": "M\u00fcnchen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "b77a7c1b-7984-4714-b6d3-4262ffd319f2",
+                    "distractor": "luxemburg",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "02a45f1c-96dc-460b-a2b7-98c0f8df2bc0",
+                    "distractor": "wolfsburg",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "bc59bd50-5187-4f96-93b5-3f65e8af68ef",
+                    "distractor": "brussel",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "03768749-9414-4315-9fde-1be51ed43630",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a41b0f2b-c8fd-4c9f-a252-508fa08fbc83",
+            "question": "In welke bergketen ligt de hoogste berg, de Mount Everest, met een hoogte van 8848 m?",
+            "answers": "Himalaya",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Afrikaans Hoogland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Rocky Mountains",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Alpen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "26a1e49c-5f78-4ad0-a9d0-80e3e72363e6",
+                    "distractor": "Everest",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "09a8b1e7-c505-47b6-b4e4-7ee9fe6ade3b",
+                    "distractor": "de zwaarteberg",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d26a4c56-f1a3-42ab-aae1-8f20775faa0f",
+                    "distractor": "konijnstorm",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2769877f-9de0-4e10-bca7-615d97cfc430",
+                    "distractor": "een zevenhoek",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2f9780dc-464a-4fc5-bfe1-0b2fad778353",
+                    "distractor": "vriesvlakte",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "67e6a4e9-417c-473a-b48c-4a6bbac86385",
+                    "distractor": "meer dan 3000 m",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e5170b55-d020-4d9b-97c0-9c3af5325c6e",
+                    "distractor": "Himalaya",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "eb263091-9dee-4f60-a861-b4ee77be2c8f",
+                    "distractor": "heuvels",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "cc982bd1-030c-447a-af61-739081b89be7",
+                    "distractor": "valeriaan",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "163fe070-0cbf-453a-bf2c-2e5c3ba900c1",
+                    "distractor": "steppe",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "cb64669b-7bd9-4e0e-9d76-de59b1fb9f6c",
+            "question": "In welke zee mondt de Schelde uit?",
+            "answers": "Noordzee",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Oostzee",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Atlantische Oceaan",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "69863e66-4cd9-47d4-b713-37c10b02ad91",
+                    "distractor": "noordzee",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "f821907c-8739-4d46-a239-b8955fa108fd",
+                    "distractor": "kust",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6fb225dc-09ee-43f9-a504-245d2e915fcf",
+                    "distractor": "zuidzee",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "6d9fb5f7-1e3c-4991-99fa-ab98599cba16",
+                    "distractor": "zandbak",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7fce47c7-f3ff-4054-87ff-ab3bf79fb02b",
+                    "distractor": "oostenzee",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6ef866ce-4ed6-4b11-ba9c-1d1b5466f4b6",
+                    "distractor": "vliegend",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "ae37d0d4-9c0a-4038-be39-c6ba0fd158c9",
+                    "distractor": "leem",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0b672c82-bd1e-4582-b1ee-6f0a3df9f13e",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "97b361cf-70ce-45ed-bd78-06bec3b4b32f",
+                    "distractor": "oostwestie 9.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5458a9c5-9b42-4948-9114-f16c0d93452d",
+                    "distractor": "zuidzwee",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d8bd43f8-58ce-4a10-803a-23109265fd85",
+            "question": "Voor hoeveel procent van de wereldwijde CO2-uitstoot is de luchtvaart verantwoordelijk?",
+            "answers": "2-3%",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "25%",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "0,01%",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "10%",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "19d5fdea-8771-4bc7-a98f-ae2c3e2e2c4b",
+                    "distractor": "30-40%",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "338f2e6d-0aea-45fc-91d8-c80593b2d3f6",
+                    "distractor": "1 %",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "54499009-e25c-4779-8f3a-f4a8deca7352",
+                    "distractor": "40-50 %",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "e3d50156-a6b2-4a7d-9394-39f6c924ebb6",
+                    "distractor": "4-6 %",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "03d1681f-6b8b-46b7-b5b5-c94d791826bd",
+                    "distractor": "50-60 %",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a392b569-a783-490f-839e-eb782eabafed",
+                    "distractor": "6 %",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "b5235ec7-ebff-426b-b279-eb01667570f0",
+                    "distractor": "geen van bovenstaande",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "cb02d960-d6c3-4ae5-90ad-d18acd554092",
+                    "distractor": "15 %",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f323b956-1e25-45f8-b23b-668651078f43",
+                    "distractor": "10 %",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d985eea1-973e-471e-9e6f-5e4fad428e99",
+                    "distractor": "15-25 %",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3f404aba-efcf-439a-99a5-e409f56fc21a",
+            "question": "In welk seizoen zijn de temperaturen het hoogst?",
+            "answers": "zomer",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "winter",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "04c9ca35-a461-4719-aa2c-e983d7c3334e",
+                    "distractor": "lente",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ae4f3d6b-b8ea-4b43-ae80-086255beaee1",
+                    "distractor": "herfst",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "51adaf7f-394b-4850-8a19-4086f39fb3e4",
+                    "distractor": "winter",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "312e29e7-a99e-44db-b494-815ac1bb60a2",
+                    "distractor": "jember",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9cc7d403-e78b-4a52-bfa8-5dc58a7b4376",
+                    "distractor": "dauw",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "c34e59e9-5f68-42dd-9c30-002114f3d353",
+                    "distractor": "oosten",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "df7ccefc-cbd4-4ea0-a667-9718b45942e9",
+                    "distractor": "noorwegen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "80d9beb4-4672-4bbb-b7f8-58761faf9592",
+                    "distractor": "griekenland",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "85449735-f352-4c1b-901b-3c7bdaeb3c73",
+                    "distractor": "vriezen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5c728e4e-d912-4486-a626-074bdeb59757",
+                    "distractor": "vries",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "729f048b-6f41-44dd-942d-833e9c7cf5c9",
+            "question": "Wat is de Verbeke Foundation?",
+            "answers": "Openluchtmuseum",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Verlaten industrieterrein",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Stortplaats voor grofvuil.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "09218bcf-3b51-47d1-883a-993cfbde01d5",
+                    "distractor": "openbare bibliotheek",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "662dea77-4228-406b-8a0c-43b3b6fe390f",
+                    "distractor": "Renaissance-theater",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6f5e2736-0ced-4bd5-8cda-465264f91517",
+                    "distractor": "verhalen van wijn",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a3818ab3-25f9-4222-9302-f0028d83e134",
+                    "distractor": "kunstwerken",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "071906b1-b668-433d-8f77-119090e23e22",
+                    "distractor": "cultuurhistorische vijver",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "da5d6d10-59c8-4a70-9850-867c3acea059",
+                    "distractor": "paleisgebouw",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "dd084ca9-1249-471a-8d0c-cc9acf1befdb",
+                    "distractor": "schilderstuin",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "16bca3fe-833b-48b3-8de8-f2bd52027111",
+                    "distractor": "ge",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f08b8936-c4b4-4089-8370-ee1df82d35ac",
+                    "distractor": "Muzeum",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "e64d28f2-7fc9-438d-bfca-bd57ac8ca9da",
+                    "distractor": "museum",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a046fcfe-8981-4fb9-81f3-254004b319d2",
+            "question": "Hoeveel vluchten zijn er jaarlijks?",
+            "answers": "40 miljoen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "100 miljoen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "500 000",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "10 miljoen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "abc46e1e-6740-43e2-8a17-4e98cc53ef99",
+                    "distractor": "10 miljoen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "56f41327-1671-426d-80a1-7c89360f62c6",
+                    "distractor": "20 miljoen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d1f3f806-a002-44a5-8af0-820c7721e087",
+                    "distractor": "10 miljard",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a0287364-d526-4aff-9ad6-de81d49c6337",
+                    "distractor": "30 miljoen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a0179f14-5690-4029-b08f-64fe7c0da15d",
+                    "distractor": "50 miljon",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8bde0f81-cf34-4358-92a0-c6c28dc1e3eb",
+                    "distractor": "50 miljoen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d8aa5461-e36c-437f-9aae-05c0b74460a7",
+                    "distractor": "40 miljonen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "66177b5d-7a17-4727-98ac-4c491c23af23",
+                    "distractor": "60 miljoen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "eb92a284-2434-403f-9e30-af3526796435",
+                    "distractor": "16,5 miljard",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5a6f915e-ec82-4594-89f3-6fcc910fa0d4",
+                    "distractor": "70 miljoen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c5d7a5ba-d6d0-42ad-a9ba-e4f6e525366d",
+            "question": "Welke herkenningspunten zijn belangrijk voor een referentiekaart van Belgi\u00eb?",
+            "answers": "Autosnelwegen\n###\nLandsgrenzen\n###\nGrote waterlopen ### Grote steden",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Lokale wegen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Grote gebouwen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Dorpen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "222f2cc4-598a-4271-8e30-4151f1a82f15",
+                    "distractor": "autostraden",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "42b24c77-1ad6-4a6f-aabe-7b1fbd4970b0",
+                    "distractor": "autosnelwegen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "41a4bec8-313b-4db0-adfc-49ae9e6276f4",
+                    "distractor": "autowegen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "05f88a85-2843-4193-9ed4-e2a02414b560",
+                    "distractor": "autosnelsnelweg",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "1f92e988-282f-4c32-af80-50d5b42a86ad",
+                    "distractor": "spoorwegen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "71989cae-6344-41e4-bb00-97ca22b2aea0",
+                    "distractor": "elektrische snelwegen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5043f754-b355-43da-904e-7331f5cd1b1e",
+                    "distractor": "tramwegen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d038bfc2-965e-4e7c-9980-63d73d1bf360",
+                    "distractor": "onafhankelijk van de overheid",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "058eef93-7b5d-43c1-8715-4bcd4a03e283",
+                    "distractor": "alle verkeerspunten",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b2aa731e-b21d-4a49-b6b1-7aac6bdd5448",
+                    "distractor": "elk",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8064c79a-c422-4719-b816-111865dd554d",
+            "question": "Hoe snel kon het snelste commerci\u00eble vliegtuig ooit vliegen?",
+            "answers": "2000 km/u",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "1000 km/u",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "1500 km/u",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7fee28cb-88df-468b-8402-5ef34869edb9",
+                    "distractor": "1000 km/u",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e7d65b2f-313b-4163-9b0a-8b53e1132ec0",
+                    "distractor": "1500 km/u",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "1bf78ab8-1f8f-4fc2-abcf-6d3406cdcf14",
+                    "distractor": "2000 u",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8a1d0373-9ff8-46ea-8b7b-13919c3b2981",
+                    "distractor": "3000 km/u",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5b0351ab-39b4-4ab7-b1d6-a92ddcc7b9a0",
+                    "distractor": "3000 g/s",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "c3bfd038-6f39-499a-a4fe-4860fee30e4d",
+                    "distractor": "4000 km/u",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9a6060ca-dc15-4b15-9590-f513e1d29120",
+                    "distractor": "3200 l/o",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "9fa6be0e-f8b3-4132-8e59-a54e15d6cc0f",
+                    "distractor": "4800 km/u",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6fa52c9b-c7ab-45b4-9bc5-2f0491d41604",
+                    "distractor": "4000 i/n 7.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5d452f4e-3076-429d-be2d-83c104c690c1",
+                    "distractor": "5000 km/u",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "40f7f35d-8979-49af-96b7-532c30558c2d",
+            "question": "Hoeveel oceanen zijn er?",
+            "answers": "5",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "4",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "2",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "3",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "39cfedc7-60c1-4c96-b1c7-ac9aab37f0ec",
+                    "distractor": "1",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9404adde-f1e9-4cea-9894-cdda9faaef07",
+                    "distractor": "5",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "2e6e4ac2-226f-402f-a308-94f9e061a94a",
+                    "distractor": "2",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4debca18-7c2b-4c8c-b244-1cf4b8b63c0c",
+                    "distractor": "8",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5f2202eb-150f-4cb7-9378-9e1129849059",
+                    "distractor": "3",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "bf62c524-f52c-46d7-b0e7-c9433eee1e12",
+                    "distractor": "9",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "332f1152-a7c2-4b50-ab66-3338e3c9fce7",
+                    "distractor": "6",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "357f5494-79c7-4e9d-a8a4-96b7ff0354bf",
+                    "distractor": "10",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8c350832-09b3-4fc1-9f0f-7ea9a52eb76d",
+                    "distractor": "7",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3bb9737a-5dc8-4ba6-987a-310c4af2c2f3",
+                    "distractor": "11",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "cce75429-4b9f-4c73-9775-f32fb0726edc",
+            "question": "Wat is de hoofdstad van het Verenigd Koninkrijk?",
+            "answers": "Londen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Glasgow",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Manchester",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Liverpool",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "99d19d60-b74b-4e89-bc71-48d377ad2b6a",
+                    "distractor": "Edinburgh",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6e4865d7-b18d-4500-8f18-874a0df6fc82",
+                    "distractor": "Nottingham",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c704eba1-5e5e-4af7-86c9-d651e3591317",
+                    "distractor": "Brighton",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b169cfbe-3af3-4219-9ccb-ee652ea870e3",
+                    "distractor": "York",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "bb45cc1b-86e8-4cd1-9831-13fe14920226",
+                    "distractor": "Bristol",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "19ebde62-1c02-474e-9142-9117b169b9c4",
+                    "distractor": "eresburg",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7c8d51b3-55f8-4b01-82c5-2246e141bcac",
+                    "distractor": "Newcastle",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "a5ea0395-95d9-4ce6-bf0a-110ff40e5eae",
+                    "distractor": "de haven",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "91a1c472-dd02-44ac-9964-4e4d6257fdc0",
+                    "distractor": "antwerp",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "08a11ba5-3dc5-4771-afaf-0afb48bd8a0b",
+                    "distractor": "het paleis",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3401e93d-e746-4381-8649-c04c4c02c6aa",
+            "question": "Welke lijn deelt de wereld in het noordelijk en zuidelijk halfrond?",
+            "answers": "Evenaar",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Noordpoolcirkel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Steenbokskeerkring",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Nulmeridiaan",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b16c8426-d6f3-4af2-bea1-752d754a6643",
+                    "distractor": "noordelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "5566611f-27ce-4db4-947e-2837e30b428b",
+                    "distractor": "Antwerpen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0e3ec895-743a-475d-a693-069b10d1f0dc",
+                    "distractor": "zuidwestelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "56b7b70e-8c51-4b7d-8abe-638a7e99f8b5",
+                    "distractor": "Barcelona",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "351485b8-cd98-4e0d-afa0-d916d590880e",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f6bc6d34-fb10-4597-a675-5db05a6d832a",
+                    "distractor": "zee",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6d6361a1-a130-4eff-9a23-0e5cdb699d02",
+                    "distractor": "noordwestend halfrond",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "5641664e-fa08-4805-a187-08087f35c56f",
+                    "distractor": "haven",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "21948170-c495-426f-8072-4af81ee64728",
+                    "distractor": "zuidwestend halfrond",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "07f3f973-39b9-4cdb-8a29-6e4091f8163e",
+                    "distractor": "lam",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0c6fa182-78d8-4e28-8b9a-7908717f47fe",
+            "question": "In welk halfrond ligt Rio de Janeiro?",
+            "answers": "zuidelijk halfrond",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "noordelijk halfrond",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4df25ba1-aeb2-47fd-baaf-53a39a799b65",
+                    "distractor": "noordelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "8eaf8bc8-c1d0-42b6-9f5a-3a85f029a3ec",
+                    "distractor": "zuidend halfrond",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5d940122-fa44-41ec-bc62-c7021c1480d7",
+                    "distractor": "westelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d5c76830-324d-45e3-a775-dffc98b54567",
+                    "distractor": "noordelijk halfron",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9ab10907-8bbf-47c0-b94b-d2f5b041bd58",
+                    "distractor": "oostenrijk halfrond",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2fb79be8-ea68-43fb-8044-bfe0cdc1fd2a",
+                    "distractor": "oostenlijk half rond",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "94073f67-915a-4a4d-b22d-8fa4a5591721",
+                    "distractor": "vragend halfrand",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "90c06a89-c903-49fa-a387-0be1f633aa0f",
+                    "distractor": "noordhalfrond 7.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "1750b4c5-b451-4679-bca6-9147bce760f3",
+                    "distractor": "oostenlijk halfvolg",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "98bf6941-3842-471e-b7bf-cb8f18ac862e",
+                    "distractor": "oostenlijk halfrond",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5f0deb62-95b5-4fa2-b011-48afe08e591e",
+            "question": "Wat is de hoogte van de Feldberg?",
+            "answers": "1493 m",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "1458 m",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "1687 m",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e8fcda55-f009-4234-8a07-68175007476c",
+                    "distractor": "1495 m",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "08690213-8f37-4442-b60c-7b065ce4efbe",
+                    "distractor": "1462 m",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "af3eaa2a-9f9a-4f56-8a8e-e08d7091dfd2",
+                    "distractor": "1492 m",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "00d88dd9-0cf5-45ab-be7d-279308517f23",
+                    "distractor": "1490 m",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "582df4ed-aee6-430d-a3f2-b44b1dd175b7",
+                    "distractor": "1493 m",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8a3a2a2c-4179-42ab-afba-48fc8a594fff",
+                    "distractor": "1494 m",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d14deba1-8605-4c9d-992a-f73d51e493fb",
+                    "distractor": "2500 m",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "264e91f0-2055-4938-829b-2b26344a97e3",
+                    "distractor": "1499 m",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d55cae3f-1057-4d72-bd0e-2e4aa4292a2b",
+                    "distractor": "1500 m",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8932deb2-53aa-4adb-82b6-52558928574b",
+                    "distractor": "1498 m",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "af1161e8-d7a3-4f5c-89ae-c5cb878422c3",
+            "question": "Wat is de naam van het grootste meer dat door de Rh\u00f4ne wordt gevormd?",
+            "answers": "Meer van Gen\u00e8ve",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Meer van Sion",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Meer van Marseille",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c0b0bccc-2a72-47ef-9655-d20253c25f52",
+                    "distractor": "grootste meer van Frankrijk",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "f4c786a3-0151-4d6f-b6d8-e88888340baf",
+                    "distractor": "meer van Toulouse",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e17d1041-5fd9-4d45-8584-f39b7d37bedc",
+                    "distractor": "meer de Lyon",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4a362952-4c29-4c33-803c-a75c3030a69e",
+                    "distractor": "mer van les pieds",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "c374e95b-0e2c-482d-8d8f-08942210c3d0",
+                    "distractor": "meer om het strand 6.meer op den zevenhoven 7.",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "c4bdd997-686b-457f-98d5-f9df82ee6525",
+                    "distractor": "meer van avignon",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d1fcf162-8b3c-4e65-988b-62980d638615",
+                    "distractor": "meer de brussels",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "5383018a-85bd-4373-bf47-10ca8d61efd5",
+                    "distractor": "meer von marseille",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "7f5122d0-7c5c-47e7-b28d-d109bd55685d",
+                    "distractor": "meer frankrijk",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a77fb51e-bec7-4442-b7ff-7e0bef2df05e",
+                    "distractor": "mer des lapins",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a1a6b34a-ecc9-4b11-b8a3-fb7547eac8f9",
+            "question": "Welke van de volgende is een zijrivier.",
+            "answers": "Leie ### Drava ### Sava",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Taag",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Schelde",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Rijn",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7f65c054-f680-4c06-92b8-1144d6e724c9",
+                    "distractor": "rivier",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9e157815-cae5-4afc-a66d-17bbf4de8755",
+                    "distractor": "zoutwater",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a2323f10-2fe6-41cc-b526-d4aac3c27109",
+                    "distractor": "klei",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "04e884cb-f4ce-4aeb-99a7-9e5136ccd88c",
+                    "distractor": "waterstofgas",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "79669088-3a7c-4b3e-b378-16b8b3e65d06",
+                    "distractor": "windvloed",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "692442e8-4b24-4964-9b19-0ab82960cca2",
+                    "distractor": "zeegras",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4772de16-23e5-47d1-a809-eabaf36b5722",
+                    "distractor": "mergel",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "4702d971-5ead-424a-a497-2db281637cff",
+                    "distractor": "limburg",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "30149815-a7a1-42d0-915a-1b4bd4c49cb3",
+                    "distractor": "zuidrivier 10.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f6209763-eee7-473b-a99b-512d3c39d85e",
+                    "distractor": "de rivier",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b13934cb-264b-4164-a310-adffdba9d299",
+            "question": "In welk halfrond ligt New York?",
+            "answers": "noordelijk halfrond",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "zuidelijk halfrond",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7d4f0c0f-e986-4ff4-b72f-cc3ec46e2735",
+                    "distractor": "zuid halfrond",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e851aef8-a913-4003-ac5d-2006a6453281",
+                    "distractor": "oostendelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "36bffdbf-0ed8-44ed-9230-9b33b3ffdfb5",
+                    "distractor": "oostendelijk half rond",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "46831e74-b7af-4758-ab28-4cdbab4d872d",
+                    "distractor": "westelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "8a738e41-a89f-4430-8bdd-5230986f706d",
+                    "distractor": "noordwestelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "52986b78-7ce6-4cb4-bc34-c9b63fd5465f",
+                    "distractor": "noordwestend halfrand",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "72dcca9e-13f7-4e16-986f-32061bbdc61c",
+                    "distractor": "zuidwestelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c43b50a5-5b9c-4d32-baf6-7e38b69a0458",
+                    "distractor": "sudwestelijk",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c59f03d0-5d5f-4117-aa4b-3d56f4ba12e5",
+                    "distractor": "oostenrijkshalfrond",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5ef3decb-0f38-49bf-b709-eed0338c1003",
+                    "distractor": "westelijk half rond",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4278a95c-950b-47a3-a344-ae20faffb4de",
+            "question": "Wat is de hoofdstad van Schotland?",
+            "answers": "Edinburgh",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Dublin",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Londen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Cardiff",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Belfast",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6ce8061d-4f69-4ba4-bbac-030abc5a8752",
+                    "distractor": "Glasgow",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "338ec410-d421-4308-9a16-9ad917bf68b4",
+                    "distractor": "Newcastle",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6054c8de-1164-44d6-af79-a1a0faae1155",
+                    "distractor": "antwerp",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "e7b007ea-b004-4699-bb71-dad72ad8b028",
+                    "distractor": "zuidpool",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "abf4502a-8ed6-461d-813d-42c93a04fc94",
+                    "distractor": "brugge",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "dd4f91b4-44be-4fca-b9bc-7cd9cf09e725",
+                    "distractor": "oliver",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "3054f118-0ccb-4e43-81ea-f83b7f9e4425",
+                    "distractor": "wales",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "dff23c45-cdcd-444a-ba22-552353007c5b",
+                    "distractor": "brugges",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "97b4f8d8-d704-4b0a-9ff2-50dfeb957b03",
+                    "distractor": "petersburg 10.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d27e2fb5-4b1a-4e93-9343-934a830d0228",
+                    "distractor": "Edinburgh",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6b7a64ef-be58-4cd6-ac3b-03e546a707f3",
+            "question": "In welk halfrond ligt Kaapstad?",
+            "answers": "zuidelijk halfrond",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "noordelijk halfrond",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7af3306a-e0f9-4c42-84d6-5363ce4b163f",
+                    "distractor": "noordelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "76be5c96-948c-4de7-a818-f1f0bbb5d5c7",
+                    "distractor": "westelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d12c53be-cebf-4b6a-938d-751c886d4c2c",
+                    "distractor": "oostenrijkshalfrond",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "095ec914-4d83-4c08-954b-4e5cc88dccf5",
+                    "distractor": "oostenlijk halfrond",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5ad10950-a3cf-4165-87d8-da4ea1ed9c07",
+                    "distractor": "noordwestelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "aa8718ab-e3c7-4ae4-b2c2-315b6276e95c",
+                    "distractor": "oostenrijks halfrond",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "8831716e-4b1b-454c-bc59-974c3eccf504",
+                    "distractor": "noordenrijkse halvrond 6.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c0cec9d0-04a0-43ab-88e4-b9869e423761",
+                    "distractor": "oostendelijk halfrond",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "fd22ca8d-3568-4b53-82c5-b5be85ba1431",
+                    "distractor": "westelijk half rond",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0ed85990-8f8c-4012-950c-26a66b8cb3bc",
+                    "distractor": "noordelijk halvrond",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5136c81d-4414-45cf-879f-edbd03851508",
+            "question": "Welke autosnelweg loopt er tussen Namen en Luik?",
+            "answers": "E42",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "E313",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "E25",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "E40",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "702acab2-19cd-4965-a090-0cee9145c7dd",
+                    "distractor": "e40",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4aaa35cd-e38d-4141-86a3-fde28c5245ff",
+                    "distractor": "e44",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a22b6092-b25d-4638-8363-589291c09945",
+                    "distractor": "e41",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "dd27996b-89f1-4e8a-89ae-0c72e75d686f",
+                    "distractor": "a42",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "8a12d289-1218-4c07-abe3-a526a1abdcc7",
+                    "distractor": "e42",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ed484734-6792-4823-85ba-09648f17ecf7",
+                    "distractor": "b38",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4d9a8aa1-24d8-4cb8-bb5a-3efb80aa5a0d",
+                    "distractor": "e43",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b364be66-8475-471d-8760-597df7d7f0da",
+                    "distractor": "b36",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6c8e7a2c-ea65-43c5-a8b9-c2078aebd896",
+                    "distractor": "c34",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "bc92298d-53dd-4695-a013-c0321bc095fe",
+                    "distractor": "e45",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "617c188c-361b-49dd-8282-b55e8a9b18dc",
+            "question": "Welk gebergte ligt niet in Europa?",
+            "answers": "Andes",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Alpen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Pyrenee\u00ebn",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c0071422-e138-4093-b8a5-06a6a532315d",
+                    "distractor": "Sierra Leone",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "15268fe7-1c0b-48cc-9bbb-6e4f5e19ea0f",
+                    "distractor": "Bretagne",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f9b98f41-c553-4232-9dc6-f495437d69bf",
+                    "distractor": "Gibraltar",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c0ff047c-1915-419f-b6aa-b4d6915e585a",
+                    "distractor": "meren",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a608cd12-6535-4ab8-a910-5599b0aec1a4",
+                    "distractor": "Toscane",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ee6ac5af-8db8-4507-aa35-0f19ea01840b",
+                    "distractor": "oceaniet",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "652f505b-2598-4cc9-8daf-8293af8374a4",
+                    "distractor": "zuid-amerikaanische bergen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "3d196d6b-fc46-4474-9579-768c879b2992",
+                    "distractor": "paleis",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e283fe5d-2c3f-43f8-b2a1-899089d02b43",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3add0c5f-9d24-47ef-b3f5-c8c414e634c1",
+                    "distractor": "mythe",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3c6f3446-3a18-42d9-9839-c9461db09791",
+            "question": "Een Playmobilfiguurtje is 32x kleiner dan de gemiddelde leerling in het eerste middelbaar. Zet dit om in een juiste breukschaal.",
+            "answers": "1/32",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "32/1",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e70c4877-a129-4ce5-8525-e02ef18d0f94",
+                    "distractor": "2/32",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "bf6042c3-ec01-478f-8a24-9fd0dc10097d",
+                    "distractor": "1/20",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "2e2ded05-8b4f-49ec-ba35-693b4d33e06c",
+                    "distractor": "3/32",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "437e4347-0a99-48d2-bcd7-6d3ee34b2f69",
+                    "distractor": "4/32",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "db40c0dc-adc3-4a8e-8ec2-785f67a0d45a",
+                    "distractor": "11/16",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "cbe646b7-550d-4890-8827-350798cf7a76",
+                    "distractor": "6/32",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "86438e93-979c-4730-aaff-e5899ed60fc7",
+                    "distractor": "1/4",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "61e4b4ab-0bc8-4152-9d02-91a3eef85865",
+                    "distractor": "7/32",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "de8347f1-c8bd-45a9-81fa-79a5452c1c72",
+                    "distractor": "1/27",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "dd0c5fc1-8dd5-4239-a07a-bfbc1c6a5c94",
+                    "distractor": "8/32",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "305f4810-9758-4da7-8fad-35b04528b3de",
+            "question": "Wat is de hoofdstad van Itali\u00eb?",
+            "answers": "Rome",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Turijn",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Milaan",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Palermo",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3725258d-cd39-4c3e-b1ff-709f64449b81",
+                    "distractor": "Firenze",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "63a9a07d-3944-49ed-b5c8-3b15d6f42185",
+                    "distractor": "Cagliari",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "356706f2-641d-4c10-b285-0b0e7c33a07f",
+                    "distractor": "Genova",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "12b925f5-4414-41a1-9ada-9d6f8fccce7d",
+                    "distractor": "florence",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4dd0f74b-8d9f-4b97-9971-3cd8664aa82f",
+                    "distractor": "Palermo",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2b272ae3-cb11-424b-b9a4-34fec1e098cf",
+                    "distractor": "pisa",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "f723d3ad-a7f6-4ef0-8aef-ca410ec8fbca",
+                    "distractor": "zuid-oosten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d552ca73-16a3-4386-a35d-35bd3ec5aa8b",
+                    "distractor": "zuid-italie",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "76c136b3-90e8-48b8-8df1-06a516a3f61c",
+                    "distractor": "rome",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "e17fc14f-95df-4f3b-a805-37e0c2d28ea2",
+                    "distractor": "zuiden",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "bec26ff9-b154-4983-9202-d74740ac954c",
+            "question": "Van welk land is Lissabon de hoofdstad?",
+            "answers": "Portugal",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Spanje",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Itali\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Griekenland",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f3161cfe-82e6-4e91-a718-0fef5717e7c9",
+                    "distractor": "Frankrijk",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "60fcd22e-e548-4344-bf33-00fdb13e7d3d",
+                    "distractor": "Kroatie",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "53952337-01d6-451f-af2c-39e18c02c284",
+                    "distractor": "Liechtenstein",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "96c7a989-8023-45b8-ab15-63bd9b8c850a",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e22c9933-d59d-4dd3-9738-0ea5c9fe40ee",
+                    "distractor": "vlaamse minderheid",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "00f1f437-1073-4386-a7e5-27953ccc41af",
+                    "distractor": "griekenland",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d782e999-26ba-40f5-9318-e2580a22f943",
+                    "distractor": "frankrijk",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7c9b5078-69ce-4b90-9852-95168da9969a",
+                    "distractor": "zuid-italie",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d2104125-9bc9-4cf9-a7de-77ebdfdc273e",
+                    "distractor": "italie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "fbcdd125-beb4-4a4b-a316-bef212a2bcec",
+                    "distractor": "Cyprus",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d716781e-6727-4511-9f22-1587c7d360a2",
+            "question": "Wat is de hoofdstad van Ierland?",
+            "answers": "Dublin",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Edinburgh",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Belfast",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Cardiff",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Londen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e6cc2725-fa12-4018-91f2-d12d31472da4",
+                    "distractor": "Edinburgh",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "adb2944c-5b23-46df-b1a2-3a94b41a1531",
+                    "distractor": "Glasgow",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "1868ab57-6b82-4c05-b11a-b792f0cde7c3",
+                    "distractor": "Newcastle",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "386d9413-48c9-49dd-8a53-864aaf8a5cb4",
+                    "distractor": "antwerp",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4bf2270b-9f7a-4b3d-a27a-2edba76261ba",
+                    "distractor": "leuven",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "cf03e46d-055e-4c75-85fa-8144cdb7e351",
+                    "distractor": "zuid-ierland",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0c226721-59f8-47ae-a2e4-a320e1a6a722",
+                    "distractor": "la lounaise",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "05ad2923-4305-4c54-8d6e-08054145da7b",
+                    "distractor": "londres",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "eb77133b-c633-4315-ad88-0aec387721e9",
+                    "distractor": "gent",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "cc41740a-5907-4f53-bf62-3282cd99022e",
+                    "distractor": "gent 10.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

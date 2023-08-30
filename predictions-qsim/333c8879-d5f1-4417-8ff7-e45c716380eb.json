@@ -1,0 +1,124 @@
+{
+    "qid": "333c8879-d5f1-4417-8ff7-e45c716380eb",
+    "response": {
+        "Query": "Indiquez les bonnes suites de phrases . Elle a un drole d'accent .",
+        "Result": [
+            {
+                "answer": "Elle vient d'un autre pays ",
+                "answer_length": 5,
+                "distractors": [
+                    "C'est moche ",
+                    "Elle est comique "
+                ],
+                "language": "fr",
+                "question": "Indiquez les bonnes suites de phrases . Elle a un drole d'accent .",
+                "question_length": 13,
+                "score": 0.9992649723619036
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "1 . Enzo est tombe malade dans la nuit . Cochez la reponse qui convient .",
+                "question_length": 16,
+                "score": 0.9970244109977447
+            },
+            {
+                "answer": "J'ai deja dit que non ",
+                "answer_length": 5,
+                "distractors": [
+                    "J'ai deja dit que oui ",
+                    "J'ai deja dit que si "
+                ],
+                "language": "fr",
+                "question": "Regardez le fragment et indiquez la bonne reaction .",
+                "question_length": 9,
+                "score": 0.9969015838629182
+            },
+            {
+                "answer": "Mon pauvre ",
+                "answer_length": 2,
+                "distractors": [
+                    "Ca me met en colere ",
+                    "C'est moche "
+                ],
+                "language": "fr",
+                "question": "Comment est-ce qu'on reagit dans les situations suivantes ? Indiquez la reaction la plus logique . J'ai rompu avec ma copine .",
+                "question_length": 22,
+                "score": 0.9967494739537127
+            },
+            {
+                "answer": "une situation problematique ",
+                "answer_length": 3,
+                "distractors": [
+                    "les activites du week-end "
+                ],
+                "language": "fr",
+                "question": "Ce message decrit : Cochez la reponse qui convient .",
+                "question_length": 10,
+                "score": 0.9966090973031156
+            },
+            {
+                "answer": "Ne vous en faites pas ",
+                "answer_length": 5,
+                "distractors": [
+                    "Vous pouvez l'etre ",
+                    "C'est bon pour une fois "
+                ],
+                "language": "fr",
+                "question": "Laquelle des reponses possibles est une reponse positive ? Florent presente ses excuses : `` C'est de ma faute , vraiment , je m'en excuse , je suis desole '' .",
+                "question_length": 31,
+                "score": 0.9956268681925582
+            },
+            {
+                "answer": "Je ne vous derange pas ",
+                "answer_length": 5,
+                "distractors": [
+                    "J'adore la lecture "
+                ],
+                "language": "fr",
+                "question": "Indiquez la phrase qui n'est pas loqique . Vous parlez de vos habitudes de lecture :",
+                "question_length": 16,
+                "score": 0.9949909731845028
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "Lisez le document ci-dessous avant de repondre a la question . L'enfant a besoin d'etre stimule par les autres pour se developper emotionnellement et intellectuellement : Cochez la reponse qui convient .",
+                "question_length": 32,
+                "score": 0.9928554322365224
+            },
+            {
+                "answer": "Ce n'est pas grave ",
+                "answer_length": 4,
+                "distractors": [
+                    "Merci ",
+                    "Je suis fachee ",
+                    "C'est de votre faute "
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne reponse . ( *enregistrement : Luc : Pardonnez-moi , madame , je ne vous avais pas vue . ) Choisissez la reaction polie adequate .",
+                "question_length": 28,
+                "score": 0.9927547762172908
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Lisez le document ci-dessous avant de repondre a la question . La boucle peut servir de jeu pour l'enfant pendant les trajets : Cochez la reponse qui convient .",
+                "question_length": 29,
+                "score": 0.992154141818797
+            }
+        ]
+    }
+}

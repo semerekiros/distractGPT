@@ -1,0 +1,127 @@
+{
+    "qid": "426f66d0-82f2-44ac-adb4-b5be89f53c78",
+    "response": {
+        "Query": "Waarom is het niet levensbedreigend als iemands alvleesklier geen enzym meer produceert om zetmeel af te breken?",
+        "Result": [
+            {
+                "answer": "Nee",
+                "answer_length": 1,
+                "distractors": [
+                    "Ja"
+                ],
+                "language": "nl",
+                "question": "Houdt de gemiddelde Belg het meest van sportieve wandelvakanties ?",
+                "question_length": 10,
+                "score": 0.9920021163934841
+            },
+            {
+                "answer": "Intrekken bij zijn/haar partner ",
+                "answer_length": 4,
+                "distractors": [
+                    "Verblijf in een rusthuis "
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Het blijft een eigen woning als ze niet persoonlijk bewoond wordt voor professionele of sociale doeleinden . Wat wordt niet beschouwd als professionele of sociale doeleinden ?",
+                "question_length": 32,
+                "score": 0.9898100984321954
+            },
+            {
+                "answer": "teveel stappen",
+                "answer_length": 2,
+                "distractors": [
+                    "de wintermaanden",
+                    "te weinig beweging"
+                ],
+                "language": "nl",
+                "question": "Te lang rechtstaan of zitten en een te hoge abdominale druk kan veneuze insufficientie uitlokken . Wat kan nog een factor zijn ?",
+                "question_length": 23,
+                "score": 0.9785723976130387
+            },
+            {
+                "answer": "stakingen",
+                "answer_length": 1,
+                "distractors": [
+                    "bermbranden",
+                    "omgevallen bomen",
+                    "slecht weer"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In de uitzendingen worden verschillende oorzaken voor vertraging genoemd . Wat hoort daar niet bij ?",
+                "question_length": 23,
+                "score": 0.978274100330769
+            },
+            {
+                "answer": "uithouding",
+                "answer_length": 1,
+                "distractors": [
+                    "coordinatie",
+                    "kracht",
+                    "snelheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke basiseigenschap train je vooral bij een cardiotraining ?",
+                "question_length": 16,
+                "score": 0.9742908609197699
+            },
+            {
+                "answer": "Een sociometrische meting doen",
+                "answer_length": 4,
+                "distractors": [
+                    "Activiteiten die agressie kanaliseren vermijden"
+                ],
+                "language": "nl",
+                "question": "Een leekracht wil pestgedrag in de klas indijken . Wat kan hij doen ?",
+                "question_length": 14,
+                "score": 0.9730211138661913
+            },
+            {
+                "answer": "Handen wassen",
+                "answer_length": 2,
+                "distractors": [
+                    "Handen ontsmetten",
+                    "Handen wassen en ontsmetten"
+                ],
+                "language": "nl",
+                "question": "Op de afbeelding ziet u de 5 momenten waarop we handhygiene moeten toepassen om verspreiding van micro-organismen te voorkomen . Vraag : Wat doe je aan de start van je werkdag ?",
+                "question_length": 32,
+                "score": 0.9696468180443399
+            },
+            {
+                "answer": "6 dagen geen pil slikken",
+                "answer_length": 5,
+                "distractors": [
+                    "vrijen zonder condoom",
+                    "7 dagen geen pil slikken"
+                ],
+                "language": "nl",
+                "question": "Wat moet de vrouw , met een normale menstruatiecyclus van 28 dagen , doen bij normaal gebruik van de pil als de 22 pilletjes zijn geslikt ?",
+                "question_length": 27,
+                "score": 0.9694286770960611
+            },
+            {
+                "answer": "Een windhoos",
+                "answer_length": 2,
+                "distractors": [
+                    "Een wegverzakking"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke gebeurtenis wordt niet beschouwd als natuurramp ( volgens de wet van 4/4/2014 ) ?",
+                "question_length": 21,
+                "score": 0.9641882912694758
+            },
+            {
+                "answer": "snelheid",
+                "answer_length": 1,
+                "distractors": [
+                    "coordinatie",
+                    "kracht",
+                    "lenigheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De doelstelling van het onderstaande hardloopschema voor beginners is je uithoudingsvermogen te verbeteren . Als je twee tot drie keer per week traint , bijvoorbeeld op maandag , woensdag en vrijdag , zal je aardig wat vooruitgang boeken . Welke basiseigenschap wordt door het intervalkarakter van deze training ook gestimuleerd ?",
+                "question_length": 58,
+                "score": 0.9636949442533417
+            }
+        ]
+    }
+}

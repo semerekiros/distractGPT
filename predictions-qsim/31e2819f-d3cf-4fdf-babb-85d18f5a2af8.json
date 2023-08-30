@@ -1,0 +1,122 @@
+{
+    "qid": "31e2819f-d3cf-4fdf-babb-85d18f5a2af8",
+    "response": {
+        "Query": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Dans ... .. pays , la loi tolere la bigamie .",
+        "Result": [
+            {
+                "answer": "certains",
+                "answer_length": 1,
+                "distractors": [
+                    "quelques"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Dans ... .. pays , la loi tolere la bigamie .",
+                "question_length": 27,
+                "score": 0.8310989162741234
+            },
+            {
+                "answer": "le bilan",
+                "answer_length": 2,
+                "distractors": [
+                    "la balance"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Malgre les pertes importantes de ces dernieres semaines , ils esperent toujours que ... .. sera positif a la fin de l'exercice .",
+                "question_length": 39,
+                "score": 0.8151831582348184
+            },
+            {
+                "answer": "Les deux tiers",
+                "answer_length": 3,
+                "distractors": [
+                    "Deux tiers"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . ... .. des personnes interviewees ont refuse de repondre a des questions qui portent sur leur vie privee .",
+                "question_length": 35,
+                "score": 0.7964028595351029
+            },
+            {
+                "answer": "faire chanter",
+                "answer_length": 2,
+                "distractors": [
+                    "chanter"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Bien que le chantage soit puni par le code penal , elle n ' a jamais hesite a ... .. ses propres collegues .",
+                "question_length": 40,
+                "score": 0.7925542479702429
+            },
+            {
+                "answer": "plusieurs",
+                "answer_length": 1,
+                "distractors": [
+                    "quelques"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Je l'ai rencontre a ... .. reprises , mais il n ' a jamais fait la moindre allusion a cette transaction douteuse .",
+                "question_length": 39,
+                "score": 0.767147394052418
+            },
+            {
+                "answer": "A part",
+                "answer_length": 2,
+                "distractors": [
+                    "A part de"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . ... .. l'inconvenient des heures d'attente dans les aeroports , j'aime bien voyager en avion .",
+                "question_length": 32,
+                "score": 0.7473168935322886
+            },
+            {
+                "answer": "cependant",
+                "answer_length": 1,
+                "distractors": [
+                    "par consequent",
+                    "notamment",
+                    "en revanche"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse correcte . Parmi les quatre propositions , choisissez le mot qui convient pour completer la phrase suivante : Il avait ete convenu que la passation des actes auraient lieu au debut du mois d'avril , ... aucune date n ' a encore ete fixee .",
+                "question_length": 48,
+                "score": 0.7464718001081002
+            },
+            {
+                "answer": "cependant",
+                "answer_length": 1,
+                "distractors": [
+                    "par consequent",
+                    "notamment",
+                    "en revanche"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse correcte . Parmi les quatre propositions , choisissez le mot qui convient pour completer la phrase suivante : Il avait ete convenu que les marchandises nous seraient livrees au debut du mois d'avril , ... elles ne nous sont toujours pas parvenues .",
+                "question_length": 46,
+                "score": 0.7196651521027388
+            },
+            {
+                "answer": "d'un autre cote",
+                "answer_length": 3,
+                "distractors": [
+                    "de l'autre cote"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . D'un cote il y a la publicite parfois mensongere qui accroche l'attention du consommateur , ... .. il y a les associations de consommateurs qui se proposent de defendre ses interets .",
+                "question_length": 48,
+                "score": 0.7192326431297787
+            },
+            {
+                "answer": "en ce moment",
+                "answer_length": 3,
+                "distractors": [
+                    "a ce moment"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Il n ' y a pas beaucoup de promeneurs ... .. . C'est normal par un temps pareil .",
+                "question_length": 35,
+                "score": 0.7191851497109089
+            }
+        ]
+    }
+}

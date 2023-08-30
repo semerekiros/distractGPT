@@ -1,0 +1,125 @@
+{
+    "qid": "43706816-f0c8-44f9-90c7-2b90343417a3",
+    "response": {
+        "Query": "Cochez la reponse correcte . Que signifie l'expression `` Tiens-moi au courant '' , que l'on peut trouver dans un courriel ?",
+        "Result": [
+            {
+                "answer": "Informe-moi ",
+                "answer_length": 1,
+                "distractors": [
+                    "Comment vas-tu ?",
+                    "Ne m'oublie pas ",
+                    "Ne m'en veux pas "
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse correcte . Que signifie l'expression `` Tiens-moi au courant '' , que l'on peut trouver dans un courriel ?",
+                "question_length": 22,
+                "score": 0.9973102243954305
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "Pour communiquer il faut obligatoirement au moins un emetteur et un destinataire d'un message : COCHEZ la bonne re\u0301ponse .",
+                "question_length": 20,
+                "score": 0.9943418810509972
+            },
+            {
+                "answer": "Multiples chromosomes lineaires ",
+                "answer_length": 3,
+                "distractors": [
+                    "Transfert horizontal de l'information genetique ",
+                    "Absence de cloisonnement interne ",
+                    "Cellule de 1 um "
+                ],
+                "language": "fr",
+                "question": "Laquelle des propositions suivantes ne s'applique normalement pas a un procaryote ?",
+                "question_length": 12,
+                "score": 0.9941646442373323
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "3 . L'acces au lieu est gratuit : Cochez la reponse qui convient .",
+                "question_length": 14,
+                "score": 0.9930187895760445
+            },
+            {
+                "answer": "Non",
+                "answer_length": 1,
+                "distractors": [
+                    "Oui"
+                ],
+                "language": "fr",
+                "question": "... / 3 points Un client ne paie plus ses factures a votre cabinet d'experts-comptables , car il n'est pas satisfait des prestations fournies . Le client vous reclame tous ses livres et documents . Puisque les factures restent impayees , vous refusez de lui remettre ses livres et documents . En avez-vous le droit ?",
+                "question_length": 56,
+                "score": 0.9914857622342049
+            },
+            {
+                "answer": "a titre gratuit",
+                "answer_length": 3,
+                "distractors": [
+                    "eternel",
+                    "conclu intuitu personae",
+                    "temporaire"
+                ],
+                "language": "fr",
+                "question": "Indiquez le contraire du mot en gras . Avez-vous signe un contrat onereux ?",
+                "question_length": 14,
+                "score": 0.9900201710146423
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Lisez le document ci-dessous avant de repondre a la question . L'appareil peut passer au lave-vaisselle : Cochez la reponse qui convient .",
+                "question_length": 23,
+                "score": 0.9893351460145664
+            },
+            {
+                "answer": "vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "faux"
+                ],
+                "language": "fr",
+                "question": "2 points Avec l'application electronique `` declaration unique de chantier '' , l'entrepreneur peut faire la declaration de travaux de retrait d'amiante aupres du SPF Emploi , Travail et Concertation sociale .",
+                "question_length": 32,
+                "score": 0.9881132347783621
+            },
+            {
+                "answer": "Mon tracteur tondeuse",
+                "answer_length": 3,
+                "distractors": [
+                    "Ma Volvo",
+                    "Mon scooter Yamaha"
+                ],
+                "language": "fr",
+                "question": "Contenu assure : choisissez la reponse correcte",
+                "question_length": 7,
+                "score": 0.9879522628372385
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Pour imprimer un document , il est indispensable de l'enregistrer avant . COCHEZ la bonne re\u0301ponse .",
+                "question_length": 17,
+                "score": 0.9875793477964325
+            }
+        ]
+    }
+}

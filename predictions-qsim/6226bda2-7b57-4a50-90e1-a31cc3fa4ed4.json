@@ -1,0 +1,121 @@
+{
+    "qid": "6226bda2-7b57-4a50-90e1-a31cc3fa4ed4",
+    "response": {
+        "Query": "Indique la bonne traduction . Duid de juiste vertaling aan . Les pompiers arrivent !",
+        "Result": [
+            {
+                "answer": "de brandweer",
+                "answer_length": 2,
+                "distractors": [
+                    "brandweer"
+                ],
+                "language": "fr",
+                "question": "Indique la bonne traduction . Duid de juiste vertaling aan . Les pompiers arrivent !",
+                "question_length": 15,
+                "score": 0.9963865073511476
+            },
+            {
+                "answer": "de brandweer",
+                "answer_length": 2,
+                "distractors": [
+                    "brandweer"
+                ],
+                "language": "fr",
+                "question": "5.2 Indique la bonne traduction . Duid de juiste vertaling aan . Les pompiers arrivent !",
+                "question_length": 16,
+                "score": 0.9885864114886429
+            },
+            {
+                "answer": "een konijn",
+                "answer_length": 2,
+                "distractors": [
+                    "het konijn"
+                ],
+                "language": "nl",
+                "question": "5.2 Indique la bonne traduction . Duid de juiste vertaling aan . Bea a un lapin blanc .",
+                "question_length": 18,
+                "score": 0.9749843873437242
+            },
+            {
+                "answer": "de vriendinnen",
+                "answer_length": 2,
+                "distractors": [
+                    "vriendinnen"
+                ],
+                "language": "fr",
+                "question": "5.1 Indique la bonne traduction . Duid de juiste vertaling aan . Les copines sont a Paris .",
+                "question_length": 18,
+                "score": 0.9649755248741415
+            },
+            {
+                "answer": "de brandweer",
+                "answer_length": 2,
+                "distractors": [
+                    "brandweer"
+                ],
+                "language": "fr",
+                "question": "Les pompiers arrivent !",
+                "question_length": 4,
+                "score": 0.9417369977569833
+            },
+            {
+                "answer": "een konijn",
+                "answer_length": 2,
+                "distractors": [
+                    "het konijn"
+                ],
+                "language": "nl",
+                "question": "Bea a un lapin blanc .",
+                "question_length": 6,
+                "score": 0.928217303718489
+            },
+            {
+                "answer": "een konijn",
+                "answer_length": 2,
+                "distractors": [
+                    "het konijn"
+                ],
+                "language": "nl",
+                "question": "Indique la bonne traduction . Duid de juiste vertaling aan . Bea a un lapin blanc .",
+                "question_length": 17,
+                "score": 0.9136526766128469
+            },
+            {
+                "answer": "paarden",
+                "answer_length": 1,
+                "distractors": [
+                    "de paarden"
+                ],
+                "language": "fr",
+                "question": "5.2 Indique la bonne traduction . Duid de juiste vertaling aan . Les voisins ont des chevaux .",
+                "question_length": 18,
+                "score": 0.8558586525133366
+            },
+            {
+                "answer": "een chocoladebroodje",
+                "answer_length": 2,
+                "distractors": [
+                    "het chocoladebroodje"
+                ],
+                "language": "fr",
+                "question": "Louis mange un pain au chocolat .",
+                "question_length": 7,
+                "score": 0.8524294507085346
+            },
+            {
+                "answer": "15 april",
+                "answer_length": 2,
+                "distractors": [
+                    "vorige maandag",
+                    "in de maand juni",
+                    "1 april",
+                    "vorige week"
+                ],
+                "language": "nl",
+                "question": "Cherchez la bonne traduction . Nous rentrons le quinze avril .",
+                "question_length": 11,
+                "score": 0.8508395751632464
+            }
+        ]
+    }
+}

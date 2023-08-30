@@ -1,0 +1,126 @@
+{
+    "qid": "deb650a2-53a0-4162-a70e-cb95623b4f57",
+    "response": {
+        "Query": "Wanneer ongeveer in de menstruatiecyclus gebeurt de eisprong?",
+        "Result": [
+            {
+                "answer": "vroeger",
+                "answer_length": 1,
+                "distractors": [
+                    "nu",
+                    "toekomst"
+                ],
+                "language": "nl",
+                "question": "Bekijk het dvd-doosje . In welke tijd speelt het verhaal zich af ?",
+                "question_length": 13,
+                "score": 0.9966356843797298
+            },
+            {
+                "answer": "Niet waar",
+                "answer_length": 2,
+                "distractors": [
+                    "Waar"
+                ],
+                "language": "nl",
+                "question": "De beschermingswijze Ex e wordt hoofdzakelijk bereikt door de vonkende onderdelen in een gietmassa te plaatsen",
+                "question_length": 16,
+                "score": 0.9938325003179382
+            },
+            {
+                "answer": "Niet langer dan 2 maanden",
+                "answer_length": 5,
+                "distractors": [
+                    "Niet langer dan 1 maand",
+                    "Niet langer dan 3 maanden",
+                    "Niet langer dan 4 maanden"
+                ],
+                "language": "nl",
+                "question": "Elk geneesmiddel dat wordt bereid volgens een voorschrift voor een welbepaalde patient is een magistrale bereiding . Wat is de houdbaarheidsduur van magistrale bereidingen ? Er is slechts een antwoord juist .",
+                "question_length": 32,
+                "score": 0.9935532658175158
+            },
+            {
+                "answer": "Niet langer dan 2 maanden",
+                "answer_length": 5,
+                "distractors": [
+                    "Niet langer dan 6 maanden",
+                    "Niet langer dan 1 jaar",
+                    "Niet langer dan 2 jaar"
+                ],
+                "language": "nl",
+                "question": "Officinale bereidingen zijn geneesmiddelen die worden bereid volgens de aanwijzingen van een farmacopee of het Therapeutisch Magistraal Formularium en die bestemd zijn voor rechtstreekse aflevering aan patienten . Wat is de houdbaarheidsduur van officinale bereidingen ? Er is slechts een antwoord juist .",
+                "question_length": 43,
+                "score": 0.9934608748493514
+            },
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "niet juist"
+                ],
+                "language": "nl",
+                "question": "... /3 punten Een externe beroepsbeoefenaar mag , mits te voldoen aan de door de Raad gestelde voorwaarden , tegelijk zoveel mandaten van onafhankelijke bestuurder waarnemen als hij/zij wenst , zolang de voorwaarden van bekwaamheid en beschikbaarheid vervuld blijven . Is de stelling juist of niet juist ?",
+                "question_length": 48,
+                "score": 0.9932610532462995
+            },
+            {
+                "answer": "verleden",
+                "answer_length": 1,
+                "distractors": [
+                    "heden"
+                ],
+                "language": "nl",
+                "question": "Waarnaar refereert het 'behavioral description interview ' ?",
+                "question_length": 8,
+                "score": 0.9928201568390598
+            },
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Juist"
+                ],
+                "language": "nl",
+                "question": "Het drukken op de brandknop heeft alleen als gevolg dat de interventieploeg gealarmeerd wordt .",
+                "question_length": 15,
+                "score": 0.9903787377959037
+            },
+            {
+                "answer": "heden",
+                "answer_length": 1,
+                "distractors": [
+                    "toekomst",
+                    "verleden",
+                    "verre toekomst"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke tijd komt het meeste aan bod in de tekst ?",
+                "question_length": 18,
+                "score": 0.9893268543293312
+            },
+            {
+                "answer": "Langgeleden",
+                "answer_length": 1,
+                "distractors": [
+                    "gecruis e t",
+                    "Middellandse Zeegebied"
+                ],
+                "language": "nl",
+                "question": "Langgeleden heb ik nog gecruiset in het Middellandse Zeegebied .",
+                "question_length": 10,
+                "score": 0.9890844011813961
+            },
+            {
+                "answer": "Altijd",
+                "answer_length": 1,
+                "distractors": [
+                    "Niet in dringende omstandigheden"
+                ],
+                "language": "nl",
+                "question": "De voorschriften van het ARAB en de Codex moeten nageleefd worden :",
+                "question_length": 12,
+                "score": 0.9890073272745685
+            }
+        ]
+    }
+}

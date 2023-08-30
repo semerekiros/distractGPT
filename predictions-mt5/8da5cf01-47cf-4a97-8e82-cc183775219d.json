@@ -1,0 +1,5 @@
+{
+    "qid": "8da5cf01-47cf-4a97-8e82-cc183775219d",
+    "input": "Tot welke geografische streek hoort Sint-Niklaas? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Zandig Vlaanderen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. noord-west-vlaanderen\n2. Limburg\n3. zuid-west-vlaanderen\n4. oostenrijk\n5. west-west-vlaanderen\n6. zuid-italie\n7. woestijn\n8. bos\n9. dalende vlaanderen\n10. noordelijk Itali"
+}

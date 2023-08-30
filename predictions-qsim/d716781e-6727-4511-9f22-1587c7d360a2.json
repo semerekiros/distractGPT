@@ -1,0 +1,130 @@
+{
+    "qid": "d716781e-6727-4511-9f22-1587c7d360a2",
+    "response": {
+        "Query": "Wat is de hoofdstad van Ierland?",
+        "Result": [
+            {
+                "answer": "Washington DC",
+                "answer_length": 2,
+                "distractors": [
+                    "New-York",
+                    "Tokio"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan , er is maar een antwoord mogelijk . Wat is de hoofdstad van de VS ?",
+                "question_length": 21,
+                "score": 0.9816381514513727
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Lille",
+                    "Lyons",
+                    "Bordeaux"
+                ],
+                "language": "nl",
+                "question": "De hoofdstad van Frankriijk is",
+                "question_length": 5,
+                "score": 0.9811308969390562
+            },
+            {
+                "answer": "Amsterdam",
+                "answer_length": 1,
+                "distractors": [
+                    "Rotterdam",
+                    "Den Haag"
+                ],
+                "language": "nl",
+                "question": "Vraag 1 multiple choice test - wat is de hoofdstad van Nederland ?",
+                "question_length": 13,
+                "score": 0.9808064176782512
+            },
+            {
+                "answer": "Washington DC",
+                "answer_length": 2,
+                "distractors": [
+                    "New York",
+                    "Miami"
+                ],
+                "language": "nl",
+                "question": "Wat is de hoofdstad van de VS ?",
+                "question_length": 8,
+                "score": 0.9800731229396309
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Arras",
+                    "Bordeaux",
+                    "Rennes"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van onderstaande steden is de hoofdstad van Frankrijk ?",
+                "question_length": 17,
+                "score": 0.9789514784296995
+            },
+            {
+                "answer": "Paris",
+                "answer_length": 1,
+                "distractors": [
+                    "Lille",
+                    "Toulouse",
+                    "Bordeaux"
+                ],
+                "language": "en",
+                "question": "What is the capital of France ?",
+                "question_length": 7,
+                "score": 0.9766351055366111
+            },
+            {
+                "answer": "Londres",
+                "answer_length": 1,
+                "distractors": [
+                    "New York"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de l'angleterre ?",
+                "question_length": 7,
+                "score": 0.9749677597378987
+            },
+            {
+                "answer": "Londres",
+                "answer_length": 1,
+                "distractors": [
+                    "",
+                    "Manchester"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de l'Angleterre ?",
+                "question_length": 7,
+                "score": 0.9749677597378987
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Madrid",
+                    "Lissabon"
+                ],
+                "language": "nl",
+                "question": "Maak uw keuze . Wat is de hoofstad van Frankrijk ?",
+                "question_length": 11,
+                "score": 0.9746602975045813
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Karijs",
+                    "Harijs"
+                ],
+                "language": "nl",
+                "question": "Kies je antwoord uit volgende mogelijkheden Wat is de hoofdstad van Frankrijk ?",
+                "question_length": 13,
+                "score": 0.9743081447955833
+            }
+        ]
+    }
+}

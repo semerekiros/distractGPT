@@ -1,0 +1,139 @@
+{
+    "qid": "bf721eb4-976f-42b2-93a0-682c626cd70d",
+    "response": {
+        "Query": "Wat was de grootste militaire macht van Athene?",
+        "Result": [
+            {
+                "answer": "zelfstandigen",
+                "answer_length": 1,
+                "distractors": [
+                    "kinderen",
+                    "studenten",
+                    "zieken"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wie behoorde niet tot de niet-actieve bevolking in de 19de eeuw ?",
+                "question_length": 25,
+                "score": 0.9907701533367126
+            },
+            {
+                "answer": "burgemeester",
+                "answer_length": 1,
+                "distractors": [
+                    "college van burgemeester en schepenen",
+                    "gemeentelijke overheid",
+                    "college van schepenen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke instelling is belast met de uitvoering van de wetten , decreten , de verordeningen en besluiten en is het hoofd van de lokale politie in een gemeente ?",
+                "question_length": 36,
+                "score": 0.9881786141527026
+            },
+            {
+                "answer": "college van burgemeester en schepenen",
+                "answer_length": 5,
+                "distractors": [
+                    "burgemeester",
+                    "gemeentelijke overheid",
+                    "lokale politie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke instelling is bevoegd voor de uitvoerende macht in een gemeente ?",
+                "question_length": 19,
+                "score": 0.9844345171620388
+            },
+            {
+                "answer": "seksualiteit",
+                "answer_length": 1,
+                "distractors": [
+                    "alcoholgebruik",
+                    "druggebruik",
+                    "naaktheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Met welk ander onderwerp vergelijkt de spreker `` geweld '' en de manier waarop mensen met het taboe omgaan ?",
+                "question_length": 27,
+                "score": 0.9812482812356506
+            },
+            {
+                "answer": "neemt altijd maar toe",
+                "answer_length": 4,
+                "distractors": [
+                    "neemt altijd af",
+                    "blijft ongeveer gelijk"
+                ],
+                "language": "nl",
+                "question": "Maak je keuze uit de volgende antwoorden . Er is slechts een juist antwoord mogelijk . Veel succes ! De administratie in de economie",
+                "question_length": 24,
+                "score": 0.9799776506951879
+            },
+            {
+                "answer": "gemeenteraad",
+                "answer_length": 1,
+                "distractors": [
+                    "burgemeester",
+                    "college van burgemeester en schepenen",
+                    "lokale politie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke instelling is bevoegd voor de wetgevende macht in een gemeente ?",
+                "question_length": 19,
+                "score": 0.9772812218377297
+            },
+            {
+                "answer": "grondlegger",
+                "answer_length": 1,
+                "distractors": [
+                    "rapper",
+                    "vice-president",
+                    "zakenman"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Deze rap gaat over een historische figuur . Als wat is hij bekend ?",
+                "question_length": 21,
+                "score": 0.9767358878525582
+            },
+            {
+                "answer": "Hatsjepsoet",
+                "answer_length": 1,
+                "distractors": [
+                    "Toetanchamon",
+                    "Echnaton",
+                    "Amenemhat III",
+                    "Ramses XI",
+                    "Antef I"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wie is de vrouwelijk farao in dit lijstje ?",
+                "question_length": 22,
+                "score": 0.9758300099382506
+            },
+            {
+                "answer": "sp.a",
+                "answer_length": 1,
+                "distractors": [
+                    "CD `` V",
+                    "Groen",
+                    "Open Vld"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bekijk het filmpje . Welke Vlaamse politieke partij past bij deze standpunten en heeft dus ook het filmpje gemaakt ?",
+                "question_length": 27,
+                "score": 0.9755884434732399
+            },
+            {
+                "answer": "klasseloze maatschappij",
+                "answer_length": 2,
+                "distractors": [
+                    "de president wordt verkozen",
+                    "het parlement wordt verkozen",
+                    "alle mensen zijn gelijk"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wat is geen kenmerk van een democratische staat ?",
+                "question_length": 22,
+                "score": 0.971647980065991
+            }
+        ]
+    }
+}

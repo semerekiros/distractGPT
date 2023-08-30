@@ -1,0 +1,138 @@
+{
+    "qid": "83d55a4c-4f4f-47e4-97bd-103f55fecc72",
+    "response": {
+        "Query": "Welke Griekse gebied werd bondgenoot van de Perzen?",
+        "Result": [
+            {
+                "answer": "Hercules",
+                "answer_length": 1,
+                "distractors": [
+                    "Mercurius",
+                    "Neptunus",
+                    "Saturnus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op welke Romeinse god moet de gezochte held lijken ?",
+                "question_length": 17,
+                "score": 0.9664646201493589
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Neptunus",
+                    "Uranus",
+                    "Saturnus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke planeet is afgebeeld op onderstaande foto ?",
+                "question_length": 15,
+                "score": 0.9648930180307612
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Mars",
+                    "Pluto",
+                    "Venus"
+                ],
+                "language": "nl",
+                "question": "Van welke planeet zijn de manen Io , Ganymede en Hades ?",
+                "question_length": 12,
+                "score": 0.9642223751321559
+            },
+            {
+                "answer": "Mars",
+                "answer_length": 1,
+                "distractors": [
+                    "Jupiter",
+                    "Mercurius",
+                    "Venus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke planeet is afgebeeld op de foto ?",
+                "question_length": 15,
+                "score": 0.9603098563099585
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Mars",
+                    "Pluton",
+                    "Venus"
+                ],
+                "language": "fr",
+                "question": "A quelle planete appartiennent les lunes Io , Ganymede et Hades ?",
+                "question_length": 12,
+                "score": 0.95666830493584
+            },
+            {
+                "answer": "Neptunus",
+                "answer_length": 1,
+                "distractors": [
+                    "Mercurius",
+                    "Jupiter",
+                    "Uranus"
+                ],
+                "language": "nl",
+                "question": "In de tabel vind je de zwaarteveldsterktes terug op verschillende planeten . Op de grafiek stelt de rode curve de Fz ( m ) -grafiek voor op aarde . Voor welke planeet is de zwarte curve geldig ?",
+                "question_length": 38,
+                "score": 0.9562402993132442
+            },
+            {
+                "answer": "Bacchus",
+                "answer_length": 1,
+                "distractors": [
+                    "Jupiter",
+                    "Neptunus",
+                    "Mars",
+                    "Vulcanus",
+                    "Mercurius"
+                ],
+                "language": "nl",
+                "question": "Welke Romeinse god ( in ) herken je op de foto ?",
+                "question_length": 12,
+                "score": 0.952961932737521
+            },
+            {
+                "answer": "Neptunus",
+                "answer_length": 1,
+                "distractors": [
+                    "Mercurius",
+                    "Jupiter",
+                    "Uranus"
+                ],
+                "language": "nl",
+                "question": "04 . In de tabel vind je de zwaarteveldsterktes terug op verschillende planeten . Op de grafiek stelt de rode curve de Fz ( m ) -grafiek voor op aarde . Voor welke planeet is de zwarte curve geldig ?",
+                "question_length": 40,
+                "score": 0.9512114437244368
+            },
+            {
+                "answer": "Neptunus",
+                "answer_length": 1,
+                "distractors": [
+                    "Jupiter"
+                ],
+                "language": "la",
+                "question": "Van wie krijgt Hercules de paarden ? Hercules laborem non fugit , nam quinque deorum dona secum [ bij zich ] fert : Mercurii gladium , Apollinis arcum [ boog ] sagittasque , Vulcani loricam [ harnas ] auream , Neptuni equos et Iovis scutum [ schild ] eburneum [ van ivoor ] . Clavam [ knuppel ] quoque ipse [ zelf ] facit et dextra [ rechterhand ] gerit .",
+                "question_length": 71,
+                "score": 0.9444839187633857
+            },
+            {
+                "answer": "Mercurius",
+                "answer_length": 1,
+                "distractors": [
+                    "Venus",
+                    "Mars",
+                    "Neptunus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Kenmerken : - atmosfeer : verwaarloosbaar - satellieten : geen - temperatuur : 350 degrees C overdag , -170 degrees C 's nachts - omlooptijd rond de zon : 88 dagen Welke planeet voldoet aan deze kenmerken ?",
+                "question_length": 45,
+                "score": 0.9428482969405904
+            }
+        ]
+    }
+}

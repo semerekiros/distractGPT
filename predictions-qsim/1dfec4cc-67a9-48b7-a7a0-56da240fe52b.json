@@ -1,0 +1,129 @@
+{
+    "qid": "1dfec4cc-67a9-48b7-a7a0-56da240fe52b",
+    "response": {
+        "Query": "Welke tweelingen lijken het best op elkaar?",
+        "Result": [
+            {
+                "answer": "de vuilniszakken buitenzetten",
+                "answer_length": 3,
+                "distractors": [
+                    "boodschappen doen",
+                    "het eten klaarmaken",
+                    "schoonmaken"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Met welk huishoudelijk klusje helpt Aurore Lucette ?",
+                "question_length": 15,
+                "score": 0.7077501707729703
+            },
+            {
+                "answer": "In de gele netzak",
+                "answer_length": 4,
+                "distractors": [
+                    "In de witte plastiekzak"
+                ],
+                "language": "nl",
+                "question": "In welke zak kan je de netbroekjes van de bewoners verzamelen : Duid het juiste antwoord aan :",
+                "question_length": 18,
+                "score": 0.6864709045135252
+            },
+            {
+                "answer": "In de Koningstraat ",
+                "answer_length": 3,
+                "distractors": [
+                    "Op de snelweg "
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Choisissez la bonne reponse . Choose the right answer . Waar bevindt het bedrijf zich ?",
+                "question_length": 21,
+                "score": 0.6415591303007278
+            },
+            {
+                "answer": "luider spreken , alstublieft ?",
+                "answer_length": 5,
+                "distractors": [
+                    "meer hard , alstublieft ?"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Kan u een beetje ...",
+                "question_length": 11,
+                "score": 0.5814832960491471
+            },
+            {
+                "answer": "unser Personalleiter ",
+                "answer_length": 2,
+                "distractors": [
+                    "unseren Personalleiter ",
+                    "unserem Personalleiter "
+                ],
+                "language": "de",
+                "question": "Erganzen Sie den Satz . Herr Maier ist ...",
+                "question_length": 9,
+                "score": 0.5587151026975361
+            },
+            {
+                "answer": "13/04/2019",
+                "answer_length": 1,
+                "distractors": [
+                    "18/06/2020",
+                    "02/09/2018",
+                    "27/05/2020"
+                ],
+                "language": "nl",
+                "question": "Wat is de vervaldag van het pasje 'VGW ' van Ismet Sonmez ?",
+                "question_length": 13,
+                "score": 0.5553004468156655
+            },
+            {
+                "answer": "Een HS-zekering",
+                "answer_length": 2,
+                "distractors": [
+                    "Een thermostaat met uitschakelspoel",
+                    "Beide"
+                ],
+                "language": "nl",
+                "question": "Op welke van onderstaande manieren beveiligen we een transformator tegen kortsluiting ?",
+                "question_length": 12,
+                "score": 0.5475701695770162
+            },
+            {
+                "answer": "B",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Welke foto is een jongen ?",
+                "question_length": 6,
+                "score": 0.5253602467556724
+            },
+            {
+                "answer": "Den",
+                "answer_length": 1,
+                "distractors": [
+                    "Eik",
+                    "Kastanje"
+                ],
+                "language": "nl",
+                "question": "Meerkeuze oefening . Welke houtsoort zal men niet gebruiken voor de rijping van calvados :",
+                "question_length": 15,
+                "score": 0.4965547701243795
+            },
+            {
+                "answer": "Een ingeschreven vorkheftruck",
+                "answer_length": 3,
+                "distractors": [
+                    "Een niet-ingeschreven zelfrijdende schaarlift",
+                    "Een niet-ingeschreven bandenkraan",
+                    "Een niet-ingeschreven bulldozer"
+                ],
+                "language": "nl",
+                "question": "Welk van de onderstaande zelfrijdende werktuigen zal naar aanleiding van een verkeersrisico op de binnenplaats van het bedrijf niet gedekt zijn door het contract BA Onderneming ?",
+                "question_length": 27,
+                "score": 0.49534713262075886
+            }
+        ]
+    }
+}

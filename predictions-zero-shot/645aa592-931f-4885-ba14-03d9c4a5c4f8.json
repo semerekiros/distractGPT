@@ -1,0 +1,5 @@
+{
+    "qid": "645aa592-931f-4885-ba14-03d9c4a5c4f8",
+    "input": "question: Choose the opposite of the word in bold . He bought a beautiful tailor-made suit .\nanswer: ready-to-wear\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. Custom-made\n2. Ugly\n3. Ill-fitting\n4. Inexpensive\n5. Rented\n6. Off-the-rack\n7. Second-hand\n8. Shabby\n9. Oversized\n10. Unfashionable\n11. Worn-out\n12. Cheap-looking\n13. Untailored\n14. Generic\n15. Mass-produced\n16. Standardized\n17. Frumpy\n18. Ordinary\n19. Plain\n20. Bland"
+}

@@ -1,0 +1,122 @@
+{
+    "qid": "abc0390c-10f9-4f75-97db-31582b58928a",
+    "response": {
+        "Query": "Choose the right form . We ca n't buy ... fresh fruit in this shop . They only have tinned and canned food .",
+        "Result": [
+            {
+                "answer": "any",
+                "answer_length": 1,
+                "distractors": [
+                    "some"
+                ],
+                "language": "en",
+                "question": "Choose the right form . We ca n't buy ... fresh fruit in this shop . They only have tinned and canned food .",
+                "question_length": 24,
+                "score": 0.832003258969978
+            },
+            {
+                "answer": "any",
+                "answer_length": 1,
+                "distractors": [
+                    "some"
+                ],
+                "language": "en",
+                "question": "Choose the right form . I need to do some more shopping , because I have n't bought ... bread yet .",
+                "question_length": 22,
+                "score": 0.7955300323733017
+            },
+            {
+                "answer": "any",
+                "answer_length": 1,
+                "distractors": [
+                    "some"
+                ],
+                "language": "en",
+                "question": "Choose the right form . Have you got ... idea how many people shop at your local supermarket every day ?",
+                "question_length": 21,
+                "score": 0.7830430892163519
+            },
+            {
+                "answer": "any",
+                "answer_length": 1,
+                "distractors": [
+                    "some"
+                ],
+                "language": "en",
+                "question": "Choose the right form . I want to bake some muffins this afternoon but I 'm out of eggs . Do you have ... eggs I can borrow ? Sure ! Here you are .",
+                "question_length": 35,
+                "score": 0.7187438194590391
+            },
+            {
+                "answer": "some",
+                "answer_length": 1,
+                "distractors": [
+                    "any"
+                ],
+                "language": "en",
+                "question": "Choose the right form . I have just made a pizza . Would you like ... ?",
+                "question_length": 17,
+                "score": 0.7018028020327441
+            },
+            {
+                "answer": "some",
+                "answer_length": 1,
+                "distractors": [
+                    "any"
+                ],
+                "language": "en",
+                "question": "Choose the right form . Would you like ... milk with that ? Yes , please !",
+                "question_length": 17,
+                "score": 0.6930924961193065
+            },
+            {
+                "answer": "Some",
+                "answer_length": 1,
+                "distractors": [
+                    "Any"
+                ],
+                "language": "en",
+                "question": "Choose the right form . Not all the people like shopping malls . ... prefer shopping at the local stores .",
+                "question_length": 21,
+                "score": 0.6534674309319618
+            },
+            {
+                "answer": "few",
+                "answer_length": 1,
+                "distractors": [
+                    "little",
+                    "many",
+                    "much"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate quantifier ! She is n't very popular . She 's got ... .. friends .",
+                "question_length": 18,
+                "score": 0.6524601512686533
+            },
+            {
+                "answer": "some",
+                "answer_length": 1,
+                "distractors": [
+                    "any"
+                ],
+                "language": "en",
+                "question": "Choose the right form . Would you like to invite ... friends to your birthday party ?",
+                "question_length": 17,
+                "score": 0.6369368613620567
+            },
+            {
+                "answer": "much",
+                "answer_length": 1,
+                "distractors": [
+                    "a lot of",
+                    "lots",
+                    "many"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate quantifier ! We 'll have to hurry . We have n't got ... .. time .",
+                "question_length": 19,
+                "score": 0.6280502424454697
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "qid": "863c4c32-482e-4731-817c-4b6e4480d246",
+    "response": {
+        "Query": "Wat raadpleeg je om te weten wat de benodigdheden zijn bij een proef?",
+        "Result": [
+            {
+                "answer": "Om verbeteracties te kunnen uitvoeren",
+                "answer_length": 5,
+                "distractors": [
+                    "Voor de statistieken"
+                ],
+                "language": "nl",
+                "question": "Waarom moet ik een incident melden ?",
+                "question_length": 7,
+                "score": 0.9463339443918717
+            },
+            {
+                "answer": "boek indelen",
+                "answer_length": 2,
+                "distractors": [
+                    "boek openen",
+                    "notities aan boek toevoegen",
+                    "weergave van een boek wijzigen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van een boek zijn bepaalde voorzieningen beschikbaar . Wat kan je niet doen ?",
+                "question_length": 21,
+                "score": 0.9409467034502116
+            },
+            {
+                "answer": "Garage Thuy",
+                "answer_length": 2,
+                "distractors": [
+                    "Garage Vermant",
+                    "Garage Joly"
+                ],
+                "language": "nl",
+                "question": "Ik heb een Skoda als bedrijfswagen . Ik ga voor een onderhoud van mijn wagen naar ... .",
+                "question_length": 18,
+                "score": 0.937833712558817
+            },
+            {
+                "answer": "wassen van de handen",
+                "answer_length": 4,
+                "distractors": [
+                    "ontsmetten van de handen",
+                    ""
+                ],
+                "language": "nl",
+                "question": "KLIK HET JUISTE ANTWOORD AAN : Wat doe je bij het beginnen van je dagtaak ?",
+                "question_length": 16,
+                "score": 0.9362491839440503
+            },
+            {
+                "answer": "Mooie liedjes duren niet lang ",
+                "answer_length": 5,
+                "distractors": [
+                    "Het is altijd hetzelfde liedje ",
+                    "Ik zing het hoogste lied ",
+                    "Jullie liedje is uitgezongen "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke boodschap geeft Miss Hannigan mee aan de kinderen ?",
+                "question_length": 17,
+                "score": 0.9349920524441424
+            },
+            {
+                "answer": "zich onderscheiden van hun ouders",
+                "answer_length": 5,
+                "distractors": [
+                    "de filmwereld nabootsen",
+                    "de mode volgen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat willen jongeren via hun taal doen ?",
+                "question_length": 15,
+                "score": 0.9235270550149132
+            },
+            {
+                "answer": "Sergio maakt het eten klaar ",
+                "answer_length": 5,
+                "distractors": [
+                    "Sergio ontbijt ",
+                    "Sergio poetst de keuken ",
+                    "Sergio doet de afwas "
+                ],
+                "language": "nl",
+                "question": "Kijk naar de foto . Wat doet Sergio ? ( Kies het juiste antwoord uit onderstaande reeks . )",
+                "question_length": 19,
+                "score": 0.9194762765154352
+            },
+            {
+                "answer": "Over niets",
+                "answer_length": 2,
+                "distractors": [
+                    "Over iets",
+                    "Ik weet het niet",
+                    "Het interesseert me niet"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Waar gaat rapportage over ?",
+                "question_length": 11,
+                "score": 0.9079299021020476
+            },
+            {
+                "answer": "de dieren aaien en voederen",
+                "answer_length": 5,
+                "distractors": [
+                    "de dieren verzorgen en voederen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat mogen bezoekers van de zoo doen ?",
+                "question_length": 15,
+                "score": 0.9051430780162029
+            },
+            {
+                "answer": "Ja",
+                "answer_length": 1,
+                "distractors": [
+                    "Nee"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Ben je je ervan bewust dat alle activiteiten die je onder jouw login doet steeds opvraagbaar en traceerbaar zijn ?",
+                "question_length": 26,
+                "score": 0.9025190050872547
+            }
+        ]
+    }
+}

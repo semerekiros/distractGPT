@@ -1,0 +1,134 @@
+{
+    "qid": "b6155655-ab70-4039-932f-8fe6664638bf",
+    "response": {
+        "Query": "Complete la phrase suivante en choisissant le mode et le temps qui conviennent . My sister will call you when she ____________ close to arriving .",
+        "Result": [
+            {
+                "answer": "is",
+                "answer_length": 1,
+                "distractors": [
+                    "was",
+                    "will be"
+                ],
+                "language": "en",
+                "question": "Complete la phrase suivante en choisissant le mode et le temps qui conviennent . My sister will call you when she ____________ close to arriving .",
+                "question_length": 26,
+                "score": 0.8860321123742303
+            },
+            {
+                "answer": "has worked",
+                "answer_length": 2,
+                "distractors": [
+                    "worked",
+                    "did work",
+                    "has been working"
+                ],
+                "language": "en",
+                "question": "Choose the correct form . Only one in 100 female managers ... for a female boss and enjoyed it",
+                "question_length": 19,
+                "score": 0.8632150353153067
+            },
+            {
+                "answer": "make",
+                "answer_length": 1,
+                "distractors": [
+                    "do",
+                    "meet",
+                    "appoint"
+                ],
+                "language": "en",
+                "question": "Which word is missing in this phone conversation ? Rupert : Rupert Everton speaking . Jenny : Hello Rupert , it 's Jenny here . Thanks for your information about the new procedures . Can we meet to discuss the details ? What about next week , let 's say Tuesday 15th . Can you ... .. it ? Rupert : I 'm afraid not Jenny . I 'll be in Paris next week .",
+                "question_length": 75,
+                "score": 0.8346806888397656
+            },
+            {
+                "answer": "parked",
+                "answer_length": 1,
+                "distractors": [
+                    "rented",
+                    "has",
+                    "asked"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . She ... the car in front of the shop .",
+                "question_length": 15,
+                "score": 0.8268075698972952
+            },
+            {
+                "answer": "put",
+                "answer_length": 1,
+                "distractors": [
+                    "take",
+                    "go",
+                    "make"
+                ],
+                "language": "en",
+                "question": "Choose the word or phrase which best completes the sentence . ( select 1 answer ) If our suppliers ... up their prices , we 'll have to reflect this in what we charge our customers .",
+                "question_length": 37,
+                "score": 0.8250873328575746
+            },
+            {
+                "answer": "did",
+                "answer_length": 1,
+                "distractors": [
+                    "do",
+                    "make",
+                    "made"
+                ],
+                "language": "en",
+                "question": "Choose TO DO or TO MAKE in the correct conjugation ! Kies TO DO of TO MAKE in de juiste vervoeging ! Choisissez la bonne forme de TO DO ou de TO MAKE ! I know you ... your best last week .",
+                "question_length": 43,
+                "score": 0.8111422349346125
+            },
+            {
+                "answer": "were undergoing",
+                "answer_length": 2,
+                "distractors": [
+                    "underwent",
+                    "undergone",
+                    "are undergoing"
+                ],
+                "language": "en",
+                "question": "Choose the correct form . By the mid nineteen sixties , many parts of Europe ... a huge economic revival . This took some time .",
+                "question_length": 26,
+                "score": 0.7927423261927495
+            },
+            {
+                "answer": "recovered",
+                "answer_length": 1,
+                "distractors": [
+                    "grew dim",
+                    "dropped",
+                    "resumed"
+                ],
+                "language": "en",
+                "question": "Share prices fell dramatically in 2008 but they ... very well later",
+                "question_length": 12,
+                "score": 0.7877420543751318
+            },
+            {
+                "answer": "were",
+                "answer_length": 1,
+                "distractors": [
+                    "was"
+                ],
+                "language": "en",
+                "question": "If I _____ you , I would try to organise trade negotiations as soon as possible .",
+                "question_length": 17,
+                "score": 0.7851863675052094
+            },
+            {
+                "answer": "due",
+                "answer_length": 1,
+                "distractors": [
+                    "issued",
+                    "sent"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence : When is the second payment ____________ ? Could you find it in the contract , please ?",
+                "question_length": 22,
+                "score": 0.7733395135994731
+            }
+        ]
+    }
+}

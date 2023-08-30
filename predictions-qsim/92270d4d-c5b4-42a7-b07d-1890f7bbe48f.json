@@ -1,0 +1,134 @@
+{
+    "qid": "92270d4d-c5b4-42a7-b07d-1890f7bbe48f",
+    "response": {
+        "Query": "Welke van volgende symptomen zijn symptomen van bronchitis?",
+        "Result": [
+            {
+                "answer": "Koorts",
+                "answer_length": 1,
+                "distractors": [
+                    "Aanhoudende jeuk",
+                    "Roodheid",
+                    "Blaarvorming"
+                ],
+                "language": "nl",
+                "question": "U observeert uw patient dagelijks . Er zijn heel wat symptomen die erop kunnen wijzen dat het minder goed gaat met uw patient . Wat is het belangrijkste klinisch symptoom van een kathetersepsis ? Duid hieronder het correcte aantwoord aan .",
+                "question_length": 41,
+                "score": 0.9755826765842485
+            },
+            {
+                "answer": "opgezwollen benen",
+                "answer_length": 2,
+                "distractors": [
+                    "jeuk",
+                    "kortademigheid",
+                    "uitslag"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is geen symptoom van een allergische reactie ?",
+                "question_length": 16,
+                "score": 0.9668252599377266
+            },
+            {
+                "answer": "hidratenitis",
+                "answer_length": 1,
+                "distractors": [
+                    "herpes zoster",
+                    "eczeem"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke huidaandoening gaat vaak gepaard met pusvorming ?",
+                "question_length": 14,
+                "score": 0.9517850206813896
+            },
+            {
+                "answer": "hoge bloeddruk en diabetes",
+                "answer_length": 4,
+                "distractors": [
+                    "hoge bloeddruk",
+                    "hoge bloeddruk en astma"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke ziekte of welke ziektes zijn af te leiden uit dit voorschrift ?",
+                "question_length": 20,
+                "score": 0.9447949597013796
+            },
+            {
+                "answer": "droge mond",
+                "answer_length": 2,
+                "distractors": [
+                    "diarree",
+                    "koorts",
+                    "spierpijn"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Er zijn meer dan 600 geneesmiddelen waarvan bekend is dat ze , in meerdere of mindere mate , anticholinerge effecten hebben . Welke bijwerking kan bij het gebruik van deze geneesmiddelen optreden ?",
+                "question_length": 40,
+                "score": 0.9364807435164394
+            },
+            {
+                "answer": "wratten",
+                "answer_length": 1,
+                "distractors": [
+                    "eczeem",
+                    "acne"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Bevriezing wordt dikwijls toegepast bij de medische behandeling van :",
+                "question_length": 16,
+                "score": 0.9233783701589597
+            },
+            {
+                "answer": "braken en diarree",
+                "answer_length": 3,
+                "distractors": [
+                    "huiduitslag",
+                    "longinfectie",
+                    "hersenvliesontsteking"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk symptoom zullen de kinderen vertonen die opgenomen zijn in het ziekenhuis door deze salmonella-besmetting ?",
+                "question_length": 23,
+                "score": 0.9177977963639237
+            },
+            {
+                "answer": "spierpijn",
+                "answer_length": 1,
+                "distractors": [
+                    "hypertensie",
+                    "leverproblemen",
+                    "prikkelhoest"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke bijwerking wordt bij gebruik van statines door ongeveer 10 % van de patienten waargenomen ?",
+                "question_length": 23,
+                "score": 0.9104207151129123
+            },
+            {
+                "answer": "sedatie",
+                "answer_length": 1,
+                "distractors": [
+                    "hypertensie",
+                    "leverproblemen",
+                    "prikkelhoest"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke bijwerking wordt bij gebruik van bepaalde H1-antihistaminica frequent waargenomen ?",
+                "question_length": 18,
+                "score": 0.9026319039552027
+            },
+            {
+                "answer": "hepatitis",
+                "answer_length": 1,
+                "distractors": [
+                    "reuma",
+                    "diabetes"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Bij welke aandoening moeten strenge hygienische maatregelen worden getroffen teneinde besmetting bij anderen te voorkomen ?",
+                "question_length": 22,
+                "score": 0.9021690637159365
+            }
+        ]
+    }
+}

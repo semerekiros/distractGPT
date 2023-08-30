@@ -1,0 +1,133 @@
+{
+    "qid": "a2172620-3141-47b0-b4c0-2bb32248a6f1",
+    "response": {
+        "Query": "Op welke dag na de bevruchting nestelt de bevruchte eicel zich in het baarmoederslijmvlies?",
+        "Result": [
+            {
+                "answer": "Op 4 oktober 195 7",
+                "answer_length": 5,
+                "distractors": [
+                    "Op 4 oktober 1950",
+                    "Op 4 oktober 19 60",
+                    "Op 4 oktober 19 67"
+                ],
+                "language": "nl",
+                "question": "Op welke dag ging de eerste raket op weg naar de ruimte ?",
+                "question_length": 13,
+                "score": 0.9133487937539504
+            },
+            {
+                "answer": "21 juli 20 11",
+                "answer_length": 4,
+                "distractors": [
+                    "21 juli 2008",
+                    "21 juli 200 9",
+                    "21 juli 20 10"
+                ],
+                "language": "nl",
+                "question": "Op welke dag is de laatste spaceshuttle ( Atlantis ) geland ?",
+                "question_length": 12,
+                "score": 0.8580344478034095
+            },
+            {
+                "answer": "op de volgende bladzijde",
+                "answer_length": 4,
+                "distractors": [
+                    "op de vorige bladzijde"
+                ],
+                "language": "nl",
+                "question": "Zet het trefwoord op de juiste plaats . trimester",
+                "question_length": 9,
+                "score": 0.8481668886466538
+            },
+            {
+                "answer": "week 15",
+                "answer_length": 2,
+                "distractors": [
+                    "week 14",
+                    "week 16",
+                    "week 17"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op 22 maart leest Joe in zijn studieplan dat hij 1,5 uur zou moeten studeren . In welke week beginnen zijn examens ?",
+                "question_length": 30,
+                "score": 0.8405817861482054
+            },
+            {
+                "answer": "vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "faux"
+                ],
+                "language": "nl",
+                "question": "De trein komt van Oostende .",
+                "question_length": 6,
+                "score": 0.837961225251987
+            },
+            {
+                "answer": "overdag",
+                "answer_length": 1,
+                "distractors": [
+                    "'s nachts",
+                    "bij warm weer",
+                    "'s avonds"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Een zeewind is een wind die waait vanuit de zee naar het land toe . Wanneer treffen we zeewinden aan ?",
+                "question_length": 28,
+                "score": 0.8294963071891484
+            },
+            {
+                "answer": "In January ",
+                "answer_length": 2,
+                "distractors": [
+                    "In December ",
+                    "In March ",
+                    "In August "
+                ],
+                "language": "fr",
+                "question": "In which month do Belgians celebrate New Year ? Au cours de quel mois celebre-t-on le Nouvel An en Belgique ? In welke maand vieren de Belgen nieuwjaar ?",
+                "question_length": 29,
+                "score": 0.8289275900862557
+            },
+            {
+                "answer": "21 juli",
+                "answer_length": 2,
+                "distractors": [
+                    "21 juni",
+                    "21 augustus",
+                    "21 september"
+                ],
+                "language": "nl",
+                "question": "Wanneer vieren wij onze nationale feestdag ? Bekijk het filmpje . Duid de juiste datum van de nationale feestdag aan . https : //www.ketnet.be/karrewiet/22-juli-2015-herbeleef-de-nationale-feestdag",
+                "question_length": 24,
+                "score": 0.8055925352428643
+            },
+            {
+                "answer": "donderdag",
+                "answer_length": 1,
+                "distractors": [
+                    "zondag",
+                    "woensdag"
+                ],
+                "language": "nl",
+                "question": "1B gaat op uitstap naar Planckendael ...",
+                "question_length": 7,
+                "score": 0.7957990041802085
+            },
+            {
+                "answer": "In het Kortrijkse",
+                "answer_length": 3,
+                "distractors": [
+                    "In het Koksijdse",
+                    "In Kortrijk",
+                    "In Knokke-Heist"
+                ],
+                "language": "nl",
+                "question": "Waar woont Wim De Buck ? Luister naar dit fragment en kruis het juiste antwoord aan .",
+                "question_length": 17,
+                "score": 0.7944273564642785
+            }
+        ]
+    }
+}

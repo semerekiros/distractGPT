@@ -1,0 +1,136 @@
+{
+    "qid": "2fe49aa5-2e9a-43b3-821a-89830cacb534",
+    "response": {
+        "Query": "Welke van deze organen behoren tot het spijsverteringsstelsel?",
+        "Result": [
+            {
+                "answer": "slokdarm en middenrif",
+                "answer_length": 3,
+                "distractors": [
+                    "hart en longen",
+                    "maag en dunne darm",
+                    "hart en middenrif"
+                ],
+                "language": "nl",
+                "question": "Welke organen komen zowel voor in de borstholte als in de buikholte ?",
+                "question_length": 13,
+                "score": 0.5693903414576951
+            },
+            {
+                "answer": "blindedarm en appendix",
+                "answer_length": 3,
+                "distractors": [
+                    "alleen de blindedarm",
+                    "blindedarm en dikke darm",
+                    "alleen de dikke darm"
+                ],
+                "language": "nl",
+                "question": "Welke darmen zijn veel groter bij het konijn dan bij de mens ?",
+                "question_length": 13,
+                "score": 0.3794302773710353
+            },
+            {
+                "answer": "alleen inwendig",
+                "answer_length": 2,
+                "distractors": [
+                    "alleen uitwendig"
+                ],
+                "language": "nl",
+                "question": "Waar liggen de organen van het spijsverteringsstelsel bij de mens ?",
+                "question_length": 11,
+                "score": 0.37746330735686906
+            },
+            {
+                "answer": "hart en longen",
+                "answer_length": 3,
+                "distractors": [
+                    "hart en nieren",
+                    "nieren en longen",
+                    "hart , nieren en longen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De niet-selectieve beta-blokkers zoals propranolol blokkeren de beta1- en beta2-receptoren in het lichaam . Welke organen worden door deze geneesmiddelen beinvloed ?",
+                "question_length": 29,
+                "score": 0.33478664671421676
+            },
+            {
+                "answer": "cel 1 en 2",
+                "answer_length": 4,
+                "distractors": [
+                    "alle cellen",
+                    "cel 3",
+                    "geen enkele cel"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij het therapeutisch klonen is er geen sprake van geslachtelijke voortplanting . Bij geslachtelijke voortplanting versmelten eicel en zaadcel tot de vorming van een zygote zoals te zien op de figuur . Welke cellen uit de figuur zijn haploid ?",
+                "question_length": 47,
+                "score": 0.3264699123421209
+            },
+            {
+                "answer": "5 en 7",
+                "answer_length": 3,
+                "distractors": [
+                    "5 en 6",
+                    "5 , 6 en 10",
+                    "5 , 7 en 8"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op onderstaande figuur wordt een plantaardige cel voorgesteld . Welk van de aangeduide organellen tref je nooit aan in een dierlijke cel ?",
+                "question_length": 30,
+                "score": 0.2924652527168435
+            },
+            {
+                "answer": "1 en 11",
+                "answer_length": 3,
+                "distractors": [
+                    "2 en 8",
+                    "1 , 8 en 9",
+                    "1 , 8 en 9"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke organellen tref je nooit aan in een dierlijke cel ?",
+                "question_length": 18,
+                "score": 0.28747571802417515
+            },
+            {
+                "answer": "aders , slagaders en haarvaten",
+                "answer_length": 5,
+                "distractors": [
+                    "aders en haarvaten",
+                    "aders en slagaders",
+                    "aders"
+                ],
+                "language": "nl",
+                "question": "Welke bloedvaten vervoeren afvalstoffen zoals CO2 en afvalzouten ?",
+                "question_length": 9,
+                "score": 0.25927765644292655
+            },
+            {
+                "answer": "blindedarm en dikke darm",
+                "answer_length": 4,
+                "distractors": [
+                    "slokdarm en appendix",
+                    "blindedarm en appendix",
+                    "slokdarm en dikke darm"
+                ],
+                "language": "nl",
+                "question": "Welke organen zijn verbonden met de dunne darm ( zie blauwe pijl ) ?",
+                "question_length": 14,
+                "score": 0.22367865772376566
+            },
+            {
+                "answer": "water",
+                "answer_length": 1,
+                "distractors": [
+                    "zuurstofgas",
+                    "glucose",
+                    "rode bloedcellen"
+                ],
+                "language": "nl",
+                "question": "Waaruit bestaat bloedplasma voornamelijk ?",
+                "question_length": 5,
+                "score": 0.19171533987961836
+            }
+        ]
+    }
+}

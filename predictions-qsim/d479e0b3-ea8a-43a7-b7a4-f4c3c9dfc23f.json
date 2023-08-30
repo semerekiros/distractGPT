@@ -1,0 +1,139 @@
+{
+    "qid": "d479e0b3-ea8a-43a7-b7a4-f4c3c9dfc23f",
+    "response": {
+        "Query": "Who are we talking about ? Tick the right answer . Hi . My name is Greg . Julie is the daughter of my sister . Julie has to call me ...",
+        "Result": [
+            {
+                "answer": "Uncle",
+                "answer_length": 1,
+                "distractors": [
+                    "Father",
+                    "Aunt",
+                    "Grandfather",
+                    "Brother"
+                ],
+                "language": "en",
+                "question": "Who are we talking about ? Tick the right answer . Hi . My name is Greg . Julie is the daughter of my sister . Julie has to call me ...",
+                "question_length": 32,
+                "score": 0.9579242806700772
+            },
+            {
+                "answer": "Brother",
+                "answer_length": 1,
+                "distractors": [
+                    "Father",
+                    "Uncle",
+                    "Aunt",
+                    "Grandfather"
+                ],
+                "language": "en",
+                "question": "Who are we talking about ? Tick the right answer . Hello . I 'm Chrissy . Robert is the son of my mother and father . Robert is my ...",
+                "question_length": 31,
+                "score": 0.9368591629644942
+            },
+            {
+                "answer": "Grandfather",
+                "answer_length": 1,
+                "distractors": [
+                    "Father",
+                    "Uncle",
+                    "Aunt",
+                    "Brother"
+                ],
+                "language": "en",
+                "question": "Who are we talking about ? Tick the right answer . Hello there . My name is Jack . I have got a son Eric and a daughter Lisa . Lisa 's got two kids as well : Steve and Marie . I 'm Marie 's ...",
+                "question_length": 47,
+                "score": 0.9211816799974728
+            },
+            {
+                "answer": "Grandfather",
+                "answer_length": 1,
+                "distractors": [
+                    "Father",
+                    "Uncle",
+                    "Aunt",
+                    "Brother"
+                ],
+                "language": "en",
+                "question": "Who are we talking about ? Tick the right answer . Hello there . My name is Jack . I have got a son Eric , and a daughter , Lisa . Lisa 's got two kids as well : Steve and Marie . I 'm Marie 's ...",
+                "question_length": 49,
+                "score": 0.919551447123135
+            },
+            {
+                "answer": "Cousin",
+                "answer_length": 1,
+                "distractors": [
+                    "Father",
+                    "Uncle",
+                    "Grandfather",
+                    "Brother"
+                ],
+                "language": "en",
+                "question": "Who are we talking about ? Tick the right answer . Hi . I 'm Emma . The sister of my mother as a son , Steven . He is my ...",
+                "question_length": 32,
+                "score": 0.9155427299056806
+            },
+            {
+                "answer": "Cousin",
+                "answer_length": 1,
+                "distractors": [
+                    "Father",
+                    "Uncle",
+                    "Grandfather",
+                    "Brother"
+                ],
+                "language": "en",
+                "question": "Who are we talking about ? Tick the right answer . Hi . I 'm Emma . The sister of my mother has a son , Steven . He is my ...",
+                "question_length": 32,
+                "score": 0.91090585768139
+            },
+            {
+                "answer": "No , she does n't ",
+                "answer_length": 5,
+                "distractors": [
+                    "Yes , she does "
+                ],
+                "language": "en",
+                "question": "Listen to the text . Then tick the correct answer . 1st person talking : Arienne from the USA . Does Arienne have a favourite dish ?",
+                "question_length": 27,
+                "score": 0.8862798834960478
+            },
+            {
+                "answer": "Italian food",
+                "answer_length": 2,
+                "distractors": [
+                    "healthy food",
+                    "lots of fruit"
+                ],
+                "language": "en",
+                "question": "Listen to the text . Then tick the correct answer . 3rd person talking : Barbara from Australia . In the past , she ate ...",
+                "question_length": 26,
+                "score": 0.8387890915432226
+            },
+            {
+                "answer": "Rose ",
+                "answer_length": 1,
+                "distractors": [
+                    "Lissa "
+                ],
+                "language": "en",
+                "question": "Read through the panels . Then tick the correct answer . The main character 's name is ...",
+                "question_length": 18,
+                "score": 0.8359885200542735
+            },
+            {
+                "answer": "does n't she ?",
+                "answer_length": 4,
+                "distractors": [
+                    "does she ?",
+                    "is n't she ?",
+                    "did she ?"
+                ],
+                "language": "fr",
+                "question": "Give the correct question tag ! Maak de zin vragend met de gepaste vraag-constructie ! Completez la phrase et faites-en une phrase interrogative ! Sheila likes her job , ...",
+                "question_length": 30,
+                "score": 0.8043918537494642
+            }
+        ]
+    }
+}

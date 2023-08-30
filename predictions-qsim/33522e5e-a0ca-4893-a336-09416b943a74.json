@@ -1,0 +1,140 @@
+{
+    "qid": "33522e5e-a0ca-4893-a336-09416b943a74",
+    "response": {
+        "Query": "Ter ere van welke god werd de tempel van Kom Ombo opgericht?",
+        "Result": [
+            {
+                "answer": "Turkanajongen",
+                "answer_length": 1,
+                "distractors": [
+                    "Otzi",
+                    "Lucy",
+                    "Floresmens",
+                    "Laetoli"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Hoe wordt de bekendste homo erectus genoemd ?",
+                "question_length": 21,
+                "score": 0.8833497835081758
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Pluton",
+                    "Mars",
+                    "Cupidon",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Quel dieu de la mythologie romaine est l'equivalent du dieu grec Zeus ?",
+                "question_length": 13,
+                "score": 0.8830968442098984
+            },
+            {
+                "answer": "Hercules",
+                "answer_length": 1,
+                "distractors": [
+                    "Mercurius",
+                    "Neptunus",
+                    "Saturnus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op welke Romeinse god moet de gezochte held lijken ?",
+                "question_length": 17,
+                "score": 0.860011545597735
+            },
+            {
+                "answer": "Nederland",
+                "answer_length": 1,
+                "distractors": [
+                    "Noorse olievelden",
+                    "Quatar en Abu Dhabi"
+                ],
+                "language": "nl",
+                "question": "Het laagcalorisch aardgas op onze distributienetten is afkomstig van :",
+                "question_length": 10,
+                "score": 0.8387875038765619
+            },
+            {
+                "answer": "Lascaux",
+                "answer_length": 1,
+                "distractors": [
+                    "Altamira",
+                    "Chauvet",
+                    "Spy"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke belangrijke vindplaats van de homo sapiens wordt op de kaart aangeduid met het cijfer 1 ?",
+                "question_length": 24,
+                "score": 0.8129203439632763
+            },
+            {
+                "answer": "pieternel ( letje )",
+                "answer_length": 4,
+                "distractors": [
+                    "hemelbeestje",
+                    "lievevrouw ( e ) beestje"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk synoniem van 'lieveheersbeestje ' komt niet voor in beide provincies ?",
+                "question_length": 19,
+                "score": 0.7850374129965344
+            },
+            {
+                "answer": "naar een huis",
+                "answer_length": 3,
+                "distractors": [
+                    "naar een bos",
+                    "naar een heuvel",
+                    "naar een waterloop"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar verwijst het onderstreepte deel van het toponiem 'Affli gem ' oorspronkelijk naar ?",
+                "question_length": 21,
+                "score": 0.7747357454058539
+            },
+            {
+                "answer": "moeras",
+                "answer_length": 1,
+                "distractors": [
+                    "bos",
+                    "waterloop",
+                    "weiland"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar verwijst het onderstreepte deel van het toponiem 'Ruis broek ' oorspronkelijk naar ?",
+                "question_length": 21,
+                "score": 0.7225874634405677
+            },
+            {
+                "answer": "gebouw",
+                "answer_length": 1,
+                "distractors": [
+                    "dier",
+                    "heuvel",
+                    "waterloop"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar verwijst het onderstreepte deel van het toponiem 'Dadi zele ' oorspronkelijk naar ?",
+                "question_length": 21,
+                "score": 0.7113860994402722
+            },
+            {
+                "answer": "nijlpaard",
+                "answer_length": 1,
+                "distractors": [
+                    "zwijn",
+                    "giraf",
+                    "kameel"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoor aan . Japanse onderzoekers gingen op zoek naar de afstamming van de walvis . Hiertoe onderzochten ze het DNA van een aantal dieren . Door de overeenkomsten en verschillen tussen het DNA van deze dieren op te sporen , konden ze de afstamming van de walvis in kaart brengen . Kijk goed naar de afbeelding . Met welke diersoort komt het DNA van de walvis het meest overeen ?",
+                "question_length": 74,
+                "score": 0.7034507082945513
+            }
+        ]
+    }
+}

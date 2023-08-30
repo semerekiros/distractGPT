@@ -1,0 +1,5 @@
+{
+    "qid": "d479e0b3-ea8a-43a7-b7a4-f4c3c9dfc23f",
+    "input": "vraag: Who are we talking about ? Tick the right answer . Hi . My name is Greg . Julie is the daughter of my sister . Julie has to call me ...\nantwoord: Uncle\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. Doctor\n2. Mr. President\n3. Boss\n4. Sensei\n5. Captain\n6. King\n7. Chef\n8. Coach\n9. Professor\n10. Detective\n11. Rabbi\n12. Bishop\n13. Imam\n14. Wizard\n15. Director\n16. Senator\n17. Emperor\n18. Duke\n19. Sheriff\n20. Pope"
+}

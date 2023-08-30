@@ -1,0 +1,135 @@
+{
+    "qid": "42cc0183-ca71-4775-8102-ff98fac0e0c1",
+    "response": {
+        "Query": "Hoe worden de goden voorgesteld van het Grieks?",
+        "Result": [
+            {
+                "answer": "te weinig regen",
+                "answer_length": 3,
+                "distractors": [
+                    "de grote bevolkingsaangroei",
+                    "het gebrek aan financiele middelen",
+                    "het gebrek aan veevoeder"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In acht landen van de Sahel heersen grote voedseltekorten . Het gaat om Tsjaad , Burkina Faso , Mauretanie , Mali , Niger , Noord-Nigeria , Noord-Kameroen en delen in het noorden van Senegal . Wat is de oorzaak van deze voedseltekorten ?",
+                "question_length": 50,
+                "score": 0.9757139904297317
+            },
+            {
+                "answer": "rechtspraak en godsdienst",
+                "answer_length": 3,
+                "distractors": [
+                    "onderwijs en rechtspraak",
+                    "godsdienst , onderwijs en rechtspraak",
+                    "onderwijs en godsdienst"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke domeinen behoren , op basis van De Bello Gallico I , 13 , tot de bevoegdheden van de druiden ?",
+                "question_length": 28,
+                "score": 0.9267822925420427
+            },
+            {
+                "answer": "verschuivingen van de tektonische platen",
+                "answer_length": 5,
+                "distractors": [
+                    "radio-actieve straling uit de mantel",
+                    "wijzigingen in het aardmagnetisch veld"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is een oorzaak van aardbevingen ?",
+                "question_length": 14,
+                "score": 0.903991485740964
+            },
+            {
+                "answer": "Ze raadpleegden een orakel ",
+                "answer_length": 4,
+                "distractors": [
+                    "Ze stuurden een sms "
+                ],
+                "language": "nl",
+                "question": "Hoe consulteerden de Grieken de goden ? Duid het juiste antwoord aan .",
+                "question_length": 13,
+                "score": 0.8875759843856578
+            },
+            {
+                "answer": "defecte afzuiginstallaties",
+                "answer_length": 2,
+                "distractors": [
+                    "niet sluiten van de helmen",
+                    "te warme omgeving"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Tijdens een prive-evenement in 2017 in een gloednieuwe kartbaan in Waver raakten 70 personen bedwelmd door CO , vijf onder hen waren zwaar geintoxiceerd . Wat was hier de oorzaak van het probleem ?",
+                "question_length": 41,
+                "score": 0.8698709348050708
+            },
+            {
+                "answer": "in zee zwemmen",
+                "answer_length": 3,
+                "distractors": [
+                    "milieuverontreiniging",
+                    "medicatie",
+                    "alcohol"
+                ],
+                "language": "nl",
+                "question": "Wat is geen oorzaak van de vruchtbaarheidsdaling in het Westen ?",
+                "question_length": 11,
+                "score": 0.8556679201061822
+            },
+            {
+                "answer": "de zwervende mens",
+                "answer_length": 3,
+                "distractors": [
+                    "de handige mens",
+                    "de verstandige mens",
+                    "de zuidelijke aapmens"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de `` nomade '' ?",
+                "question_length": 14,
+                "score": 0.8468026873141643
+            },
+            {
+                "answer": "de botsing van 2 aardplaten",
+                "answer_length": 5,
+                "distractors": [
+                    "de aanwezigheid van vulkanen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In Japan zijn er regelmatig aardbevingen . Wat veroorzaakt deze aardbevingen in Japan ?",
+                "question_length": 21,
+                "score": 0.7247206744609489
+            },
+            {
+                "answer": "door het inkijken van boeken",
+                "answer_length": 5,
+                "distractors": [
+                    "door de ontmoeting met Jane"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoe komt Tarzan te weten dat hij niet is zoals de andere apen ?",
+                "question_length": 21,
+                "score": 0.7184299957461007
+            },
+            {
+                "answer": "zand",
+                "answer_length": 1,
+                "distractors": [
+                    "grind",
+                    "klei",
+                    "krijt",
+                    "leem",
+                    "conglomeraat",
+                    "zandsteen",
+                    "kalksteen",
+                    "leisteen"
+                ],
+                "language": "nl",
+                "question": "Bij onderzoek van enkele gesteentestalen kom je tot de volgende waarnemingen . Bepaal over welk gesteente het gaat . Waarneming : los gesteente , keien niet zichtbaar , maar wel te voelen .",
+                "question_length": 33,
+                "score": 0.6890931829333319
+            }
+        ]
+    }
+}

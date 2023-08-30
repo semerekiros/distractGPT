@@ -1,0 +1,136 @@
+{
+    "qid": "6dfc6d8e-31ac-450a-b44f-142692fd5d02",
+    "response": {
+        "Query": "Choose the correct form . Fixed costs ... by more than 10 per cent in the last five years , and there is no indication they will level off .",
+        "Result": [
+            {
+                "answer": "have risen",
+                "answer_length": 2,
+                "distractors": [
+                    "have been rising",
+                    "rose",
+                    "were rising"
+                ],
+                "language": "en",
+                "question": "Choose the correct form . Fixed costs ... by more than 10 per cent in the last five years , and there is no indication they will level off .",
+                "question_length": 30,
+                "score": 0.7075058934244968
+            },
+            {
+                "answer": "pool",
+                "answer_length": 1,
+                "distractors": [
+                    "sell",
+                    "validate",
+                    "boost"
+                ],
+                "language": "en",
+                "question": "Fill in the blank . We can ... our resources in order to lower costs .",
+                "question_length": 16,
+                "score": 0.6225011734473584
+            },
+            {
+                "answer": "earn",
+                "answer_length": 1,
+                "distractors": [
+                    "look at",
+                    "meet"
+                ],
+                "language": "en",
+                "question": "I have a student job and ... ... .. some money .",
+                "question_length": 12,
+                "score": 0.6049654688001329
+            },
+            {
+                "answer": "down",
+                "answer_length": 1,
+                "distractors": [
+                    "up",
+                    "through",
+                    "off"
+                ],
+                "language": "en",
+                "question": "She will need to break ... ..her idea to make it clearer",
+                "question_length": 12,
+                "score": 0.5967459234318269
+            },
+            {
+                "answer": "put",
+                "answer_length": 1,
+                "distractors": [
+                    "give",
+                    "send",
+                    "take"
+                ],
+                "language": "en",
+                "question": "Choose the right verb . Could you ... .. me through to Product Development , please ?",
+                "question_length": 17,
+                "score": 0.5524088413507996
+            },
+            {
+                "answer": "customer",
+                "answer_length": 1,
+                "distractors": [
+                    "sales",
+                    "clientele",
+                    "purchase"
+                ],
+                "language": "en",
+                "question": "Complete the following quote by Derek Brown Successful online merchants need to devote time to ... service . Companies need to realize customers do have fears and they need to address those fears head-on .",
+                "question_length": 35,
+                "score": 0.546894399298036
+            },
+            {
+                "answer": "back",
+                "answer_length": 1,
+                "distractors": [
+                    "front",
+                    "side",
+                    "end"
+                ],
+                "language": "en",
+                "question": "She did not have enough time today , so she put the issue on the ... .burner .",
+                "question_length": 18,
+                "score": 0.5435926729791222
+            },
+            {
+                "answer": "along",
+                "answer_length": 1,
+                "distractors": [
+                    "around",
+                    "about",
+                    "away"
+                ],
+                "language": "en",
+                "question": "How 's the report coming ... ... ... ... ... ... ... ... ... ... ? Will it be finished by this evening ?",
+                "question_length": 24,
+                "score": 0.5355223646240461
+            },
+            {
+                "answer": "cheapest",
+                "answer_length": 1,
+                "distractors": [
+                    "cheaper",
+                    "cheaply",
+                    "cheap"
+                ],
+                "language": "en",
+                "question": "We 've asked three software companies to give us quotes on the job and we 'll take whichever one is the",
+                "question_length": 21,
+                "score": 0.5328394165099456
+            },
+            {
+                "answer": "pliable",
+                "answer_length": 1,
+                "distractors": [
+                    "rigid",
+                    "loose"
+                ],
+                "language": "en",
+                "question": "flexible is a synonym for ...",
+                "question_length": 6,
+                "score": 0.5051947146313323
+            }
+        ]
+    }
+}

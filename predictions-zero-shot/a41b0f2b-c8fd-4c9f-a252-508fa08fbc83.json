@@ -1,0 +1,5 @@
+{
+    "qid": "a41b0f2b-c8fd-4c9f-a252-508fa08fbc83",
+    "input": "vraag: In welke bergketen ligt de hoogste berg, de Mount Everest, met een hoogte van 8848 m?\nantwoord: Himalaya\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Rocky Mountains\n2. Andesgebergte\n3. Alpen\n4. Karpaten\n5. Uralgebergte\n6. Pyrenee\u00ebn\n7. Kaukasusgebergte\n8. Atlasgebergte\n9. Appalachengebergte\n10. Kilimanjaro-gebergte\n11. Mount Fuji-gebergte\n12. Mount Kilimanjaro-gebergte\n13. Mont Blanc-gebergte\n14. Mount McKinley-gebergte\n15. Mount Rainier-gebergte\n16. Mount Shasta-gebergte\n17. Mount St. Helens-gebergte\n18. Rocky Mountain National Park-gebergte\n19. Sierra Nevada-gebergte\n20. Swiss Alps-gebergte"
+}

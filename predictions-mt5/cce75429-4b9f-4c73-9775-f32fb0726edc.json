@@ -1,0 +1,5 @@
+{
+    "qid": "cce75429-4b9f-4c73-9775-f32fb0726edc",
+    "input": "Wat is de hoofdstad van het Verenigd Koninkrijk? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Londen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. Edinburgh\n2. Nottingham\n3. Brighton\n4. York\n5. Bristol\n6. eresburg\n7. Newcastle\n8. de haven\n9. antwerp\n10. het paleis"
+}

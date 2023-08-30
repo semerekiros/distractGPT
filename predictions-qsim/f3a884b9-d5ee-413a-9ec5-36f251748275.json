@@ -1,0 +1,134 @@
+{
+    "qid": "f3a884b9-d5ee-413a-9ec5-36f251748275",
+    "response": {
+        "Query": "The Council discussed a proposal for a common corporate tax base in the EU , aimed ... the administrative burden",
+        "Result": [
+            {
+                "answer": "at reducing",
+                "answer_length": 2,
+                "distractors": [
+                    "to raising",
+                    "for cutting down",
+                    "at turning down"
+                ],
+                "language": "en",
+                "question": "The Council discussed a proposal for a common corporate tax base in the EU , aimed ... the administrative burden",
+                "question_length": 20,
+                "score": 0.8934945270302149
+            },
+            {
+                "answer": "staggered",
+                "answer_length": 1,
+                "distractors": [
+                    "scaled",
+                    "spread off",
+                    "graded"
+                ],
+                "language": "en",
+                "question": "... hours schemes is one way of easing problems of traffic congestion and over-burdened public transport at certain peak hours",
+                "question_length": 20,
+                "score": 0.7802628367896922
+            },
+            {
+                "answer": "running",
+                "answer_length": 1,
+                "distractors": [
+                    "organising",
+                    "fixed",
+                    "indirect"
+                ],
+                "language": "en",
+                "question": "Fill in the blank . The ... costs are the costs or the amount of money needed to operate an organization , system , machine etc .",
+                "question_length": 27,
+                "score": 0.7160129385545434
+            },
+            {
+                "answer": "aims",
+                "answer_length": 1,
+                "distractors": [
+                    "targets",
+                    "sets",
+                    "specifies"
+                ],
+                "language": "en",
+                "question": "Choose the best word to fill the space behind the numbers . ( 86 )",
+                "question_length": 15,
+                "score": 0.6666621386454631
+            },
+            {
+                "answer": "sight",
+                "answer_length": 1,
+                "distractors": [
+                    "focus",
+                    "clarity",
+                    "view"
+                ],
+                "language": "en",
+                "question": "Choose the best word to fill the space behind the numbers . ( 82 )",
+                "question_length": 15,
+                "score": 0.6637202213551211
+            },
+            {
+                "answer": "continue",
+                "answer_length": 1,
+                "distractors": [
+                    "persist",
+                    "keep",
+                    "maintain"
+                ],
+                "language": "en",
+                "question": "Choose the best word to fill the space behind the numbers . ( 83 )",
+                "question_length": 15,
+                "score": 0.6510800759868003
+            },
+            {
+                "answer": "-",
+                "answer_length": 1,
+                "distractors": [
+                    "+"
+                ],
+                "language": "nl",
+                "question": "1.1 Ecoute les phrases . Elles sont affirmatives ou negatives ? Indique . Luister naar de zinnen . Zijn ze bevestigend of ontkennend ? Duid aan .",
+                "question_length": 27,
+                "score": 0.6365674551800987
+            },
+            {
+                "answer": "power saving",
+                "answer_length": 2,
+                "distractors": [
+                    "power economy",
+                    "economic power",
+                    "saving power"
+                ],
+                "language": "en",
+                "question": "Because of budget shortages , the Ministry launched a ... programme : servers must be turned off after eight pm",
+                "question_length": 20,
+                "score": 0.6349664152933807
+            },
+            {
+                "answer": "complements",
+                "answer_length": 1,
+                "distractors": [
+                    "corresponds",
+                    "affiliates",
+                    "associates"
+                ],
+                "language": "en",
+                "question": "Choose the best word to fill the space behind the numbers . ( 85 )",
+                "question_length": 15,
+                "score": 0.6227405405614562
+            },
+            {
+                "answer": "+",
+                "answer_length": 1,
+                "distractors": [
+                    "-"
+                ],
+                "language": "nl",
+                "question": "1.2 Ecoute les phrases . Elles sont affirmatives ou negatives ? Indique . Luister naar de zinnen . Zijn ze bevestigend of ontkennend ? Duid aan .",
+                "question_length": 27,
+                "score": 0.6130937655833694
+            }
+        ]
+    }
+}

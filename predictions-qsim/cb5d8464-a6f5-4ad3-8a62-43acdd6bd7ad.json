@@ -1,0 +1,131 @@
+{
+    "qid": "cb5d8464-a6f5-4ad3-8a62-43acdd6bd7ad",
+    "response": {
+        "Query": "Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ?",
+        "Result": [
+            {
+                "answer": "below",
+                "answer_length": 1,
+                "distractors": [
+                    "underneath",
+                    "behind"
+                ],
+                "language": "en",
+                "question": "Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ?",
+                "question_length": 28,
+                "score": 0.9645157529123402
+            },
+            {
+                "answer": "wallet",
+                "answer_length": 1,
+                "distractors": [
+                    "bikini",
+                    "flip flops"
+                ],
+                "language": "en",
+                "question": "Complete the text by ticking the correct answer . 1",
+                "question_length": 10,
+                "score": 0.8962599173818209
+            },
+            {
+                "answer": "of",
+                "answer_length": 1,
+                "distractors": [
+                    "with",
+                    "from",
+                    "for"
+                ],
+                "language": "en",
+                "question": "He is quite aware ... ... ... ... ..of the problem .",
+                "question_length": 12,
+                "score": 0.890904285584329
+            },
+            {
+                "answer": "so as not to",
+                "answer_length": 4,
+                "distractors": [
+                    "to not",
+                    "in order to not",
+                    "so that not to"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Choisissez la reponse correcte . Kies het juiste antwoord . By the time I arrived , Mr Jackson 's talk had already started . I tiptoed to the nearest free chair ... disturb him .",
+                "question_length": 40,
+                "score": 0.8881734291019381
+            },
+            {
+                "answer": "may",
+                "answer_length": 1,
+                "distractors": [
+                    "must",
+                    "ought to",
+                    "must n't",
+                    "might"
+                ],
+                "language": "en",
+                "question": "Select the correct modal to express permission . The defendant ... stand up in court .",
+                "question_length": 16,
+                "score": 0.8835363784487233
+            },
+            {
+                "answer": "could have reached",
+                "answer_length": 3,
+                "distractors": [
+                    "have had",
+                    "could have",
+                    "could reach"
+                ],
+                "language": "en",
+                "question": "We ... an agreement yesterday had we met the boss of their company",
+                "question_length": 13,
+                "score": 0.8810933570589073
+            },
+            {
+                "answer": "should n't have",
+                "answer_length": 3,
+                "distractors": [
+                    "must n't have"
+                ],
+                "language": "en",
+                "question": "For each of the following sentences , choose the best alternative to complete the sentence . That newspaper ... printed news of the bankruptcy without concrete evidence .",
+                "question_length": 28,
+                "score": 0.8787294487810705
+            },
+            {
+                "answer": "whether",
+                "answer_length": 1,
+                "distractors": [
+                    "when",
+                    "as",
+                    "that"
+                ],
+                "language": "en",
+                "question": "She wanted to know ... he had applied for the job or not",
+                "question_length": 13,
+                "score": 0.8606057934706599
+            },
+            {
+                "answer": "so that",
+                "answer_length": 2,
+                "distractors": [
+                    "since"
+                ],
+                "language": "en",
+                "question": "Read the sentence , then tick the correct conjunction . My boyfriend came over last night ... he could talk to me privately .",
+                "question_length": 24,
+                "score": 0.8566229028971187
+            },
+            {
+                "answer": "until",
+                "answer_length": 1,
+                "distractors": [
+                    "while"
+                ],
+                "language": "en",
+                "question": "Read the sentence , then tick the correct conjunction . I 'm going to continue with my homework ... my mum comes back from work .",
+                "question_length": 26,
+                "score": 0.8559496994996604
+            }
+        ]
+    }
+}

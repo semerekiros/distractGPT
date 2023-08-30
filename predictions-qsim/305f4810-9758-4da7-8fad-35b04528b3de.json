@@ -1,0 +1,128 @@
+{
+    "qid": "305f4810-9758-4da7-8fad-35b04528b3de",
+    "response": {
+        "Query": "Wat is de hoofdstad van Itali\u00eb?",
+        "Result": [
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Lyon",
+                    "Bordeaux",
+                    "Marseille"
+                ],
+                "language": "nl",
+                "question": "Wat is de hoofdstad van Frankrijk ? Duid het juiste antwoord aan .",
+                "question_length": 13,
+                "score": 0.9780645320776316
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Londen",
+                    "Brussel"
+                ],
+                "language": "nl",
+                "question": "Wat is de hoofdstad van Frankrijk ? Kies het juiste antwoord .",
+                "question_length": 12,
+                "score": 0.977009637045094
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Bordeaux",
+                    "Lille"
+                ],
+                "language": "nl",
+                "question": "Wat is de hoofdstad van Frankrijk ?",
+                "question_length": 7,
+                "score": 0.9765645180768049
+            },
+            {
+                "answer": "Londres",
+                "answer_length": 1,
+                "distractors": [
+                    "New York"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de l'angleterre ?",
+                "question_length": 7,
+                "score": 0.975735507621271
+            },
+            {
+                "answer": "Londres",
+                "answer_length": 1,
+                "distractors": [
+                    "",
+                    "Manchester"
+                ],
+                "language": "fr",
+                "question": "Quelle est la capitale de l'Angleterre ?",
+                "question_length": 7,
+                "score": 0.975735507621271
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Karijs",
+                    "Harijs"
+                ],
+                "language": "nl",
+                "question": "Kies je antwoord uit volgende mogelijkheden Wat is de hoofdstad van Frankrijk ?",
+                "question_length": 13,
+                "score": 0.975355348069898
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Brussel",
+                    "Londen"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord Wat is de hoofdstad van Frankrijk ?",
+                "question_length": 11,
+                "score": 0.9684536668756524
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Marseille",
+                    "Bordeaux"
+                ],
+                "language": "nl",
+                "question": "Cochez la bonne reponse . Wat is de hoofdstad van Frankrijk ?",
+                "question_length": 12,
+                "score": 0.968089492362177
+            },
+            {
+                "answer": "Amsterdam",
+                "answer_length": 1,
+                "distractors": [
+                    "Rotterdam",
+                    "Den Haag"
+                ],
+                "language": "nl",
+                "question": "Vraag 1 multiple choice test - wat is de hoofdstad van Nederland ?",
+                "question_length": 13,
+                "score": 0.964965623778737
+            },
+            {
+                "answer": "Washington DC",
+                "answer_length": 2,
+                "distractors": [
+                    "New-York",
+                    "Tokio"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan , er is maar een antwoord mogelijk . Wat is de hoofdstad van de VS ?",
+                "question_length": 21,
+                "score": 0.9639873244615433
+            }
+        ]
+    }
+}

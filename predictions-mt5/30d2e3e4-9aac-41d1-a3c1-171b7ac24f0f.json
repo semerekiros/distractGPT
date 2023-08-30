@@ -1,0 +1,5 @@
+{
+    "qid": "30d2e3e4-9aac-41d1-a3c1-171b7ac24f0f",
+    "input": "Wat bouwden de Myceners? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Ze bouwden burchten.\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. ze bouwden gebouwen\n2. ze bouwden zand\n3. zijgebouwen\n4. zijbouwten grind\n5. stenen\n6. beton\n7. zuivel\n8. cement\n9. linnig\n10. ze bouwden ramen"
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "35f3ea89-1851-42ee-b94b-40c130836aa7",
+    "input": "Welk van deze dieren kan ultrasone geluiden horen? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. dolfijn\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. krokodil\n2. kat\n3. zebra\n4. schildpad\n5. konijn\n6. vlinder\n7. kameel\n8. amfibiee\n9. wolf\n10. giraffe"
+}

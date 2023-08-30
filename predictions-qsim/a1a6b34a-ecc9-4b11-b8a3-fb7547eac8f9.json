@@ -1,0 +1,130 @@
+{
+    "qid": "a1a6b34a-ecc9-4b11-b8a3-fb7547eac8f9",
+    "response": {
+        "Query": "Welke van de volgende is een zijrivier.",
+        "Result": [
+            {
+                "answer": "zee-egel",
+                "answer_length": 1,
+                "distractors": [
+                    "zeeegel",
+                    "zee egel"
+                ],
+                "language": "nl",
+                "question": "zee/egel",
+                "question_length": 1,
+                "score": 0.9070020818395447
+            },
+            {
+                "answer": "zeearend",
+                "answer_length": 1,
+                "distractors": [
+                    "zee-arend",
+                    "zee arend",
+                    "zeearend"
+                ],
+                "language": "eu",
+                "question": "zee/arend",
+                "question_length": 1,
+                "score": 0.9035767657891679
+            },
+            {
+                "answer": "antiwesters",
+                "answer_length": 1,
+                "distractors": [
+                    "anti-Westers",
+                    "anti Westers",
+                    "anti-westers"
+                ],
+                "language": "en",
+                "question": "anti/westers",
+                "question_length": 1,
+                "score": 0.8882889374780938
+            },
+            {
+                "answer": "B",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "C"
+                ],
+                "language": "nl",
+                "question": "Om een tweevoudig uurtarief meter aan te sluiten volgens de EDV standaard . Gebruiken wij het aansluitschema :",
+                "question_length": 18,
+                "score": 0.8824712186813697
+            },
+            {
+                "answer": "15/06",
+                "answer_length": 1,
+                "distractors": [
+                    "15/07",
+                    "16/06"
+                ],
+                "language": "nl",
+                "question": "KIes de juiste datum Selecteer het juiste antwoord",
+                "question_length": 8,
+                "score": 0.875753629879202
+            },
+            {
+                "answer": "+ 60 degrees",
+                "answer_length": 3,
+                "distractors": [
+                    "- 60 degrees",
+                    "+ 90 degrees",
+                    "- 90 degrees",
+                    "+ 120 degrees",
+                    "- 120 degrees"
+                ],
+                "language": "nl",
+                "question": "Vul aan . Alle driehoeken op de figuur zijn gelijkzijdig . Het rode ruitje wordt door een draaiing met centrum A afgebeeld op het groene ruitje . Geef de draaiingshoek .",
+                "question_length": 31,
+                "score": 0.8609205295247446
+            },
+            {
+                "answer": "fout",
+                "answer_length": 1,
+                "distractors": [
+                    "juist"
+                ],
+                "language": "nl",
+                "question": "De afstand van de aarde tot de zon bedraagt ongeveer 300.000 km . Let op : giscorrectie ( juist=+2 , fout=-1 , geen antwoord=0 ) Klik indien nodig op reset ( rechtsboven ) om je antwoord te wissen .",
+                "question_length": 39,
+                "score": 0.8599048192334878
+            },
+            {
+                "answer": "Waar",
+                "answer_length": 1,
+                "distractors": [
+                    "Niet waar"
+                ],
+                "language": "nl",
+                "question": "Een magneet heeft altijd een noord- en zuidpool . Waar of niet ? Bekijk het filmpje . Duid het juiste antwoord aan . Klik hier voor het filmpje .",
+                "question_length": 29,
+                "score": 0.8286087225367537
+            },
+            {
+                "answer": "Keuze 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Keuze 2",
+                    "Keuze 3"
+                ],
+                "language": "eu",
+                "question": "vul in",
+                "question_length": 2,
+                "score": 0.8232554101759673
+            },
+            {
+                "answer": "foutaansprakelijkheid",
+                "answer_length": 1,
+                "distractors": [
+                    "foutloze aansprakeljkheid"
+                ],
+                "language": "nl",
+                "question": "Burenhinder is",
+                "question_length": 2,
+                "score": 0.8224108879241016
+            }
+        ]
+    }
+}

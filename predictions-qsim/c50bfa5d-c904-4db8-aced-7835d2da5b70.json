@@ -1,0 +1,133 @@
+{
+    "qid": "c50bfa5d-c904-4db8-aced-7835d2da5b70",
+    "response": {
+        "Query": "Welke pati\u00ebnten krijgen soms het hormoon insuline kunstmatig toegediend?",
+        "Result": [
+            {
+                "answer": "hoge bloeddruk en diabetes",
+                "answer_length": 4,
+                "distractors": [
+                    "hoge bloeddruk",
+                    "hoge bloeddruk en astma"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke ziekte of welke ziektes zijn af te leiden uit dit voorschrift ?",
+                "question_length": 20,
+                "score": 0.9936056459881506
+            },
+            {
+                "answer": "geen van beiden",
+                "answer_length": 3,
+                "distractors": [
+                    "Forlax",
+                    "Ibuprofen"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Je vindt het antwoord in een van de bijsluiters . Jorens zusje is vier en heeft koorts . Welk medicijn kan zij nemen ?",
+                "question_length": 30,
+                "score": 0.9875536101857122
+            },
+            {
+                "answer": "Schoen 4",
+                "answer_length": 2,
+                "distractors": [
+                    "Schoen 1",
+                    "Schoen 2",
+                    "Schoen 3"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Je voeten zijn een van de meest kwetsbare onderdelen van je lichaam . Het is daarom logisch dat de voeten , tijdens het uitvoeren van werk met een hogere risicofactor , extra beschermd moeten worden . Door het dragen van de juiste werkschoenen wordt de kans op schade aanzienlijk kleiner . ( Verplichte ) werkschoenen kun je in verschillende soorten en maten vinden . Hieronder zie je een overzicht van de Europese normering voor veiligheidsschoenen . Van de preventieadviseur verneem je dat je het magazijn enkel mag betreden met veiligheidsschoenen klasse 1 die geschikt zijn voor vochtige omstandigheden . Welk van onderstaande veiligheidsschoenen voldoet aan de eisen ?",
+                "question_length": 115,
+                "score": 0.9870832584102912
+            },
+            {
+                "answer": "hyperventilatie",
+                "answer_length": 1,
+                "distractors": [
+                    "hartinfarct",
+                    "hersenschudding",
+                    "kortademigheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Een dame klaagt over een pijnlijk gevoel op de borst en tintelingen in de vingers . De klachten zijn begonnen toen ze vernam dat haar vader was overleden . Welke aandoening is het meest waarschijnlijk ?",
+                "question_length": 43,
+                "score": 0.9851322339804091
+            },
+            {
+                "answer": "Fysische gevaren",
+                "answer_length": 2,
+                "distractors": [
+                    "Biochemische gevaren",
+                    "Biologische gevaren",
+                    "Chemische gevaren"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van de volgende gevaren met betrekking tot voedselveiligheid zijn zichtbare gevaren ?",
+                "question_length": 20,
+                "score": 0.9807249205472139
+            },
+            {
+                "answer": "hordenlopen",
+                "answer_length": 1,
+                "distractors": [
+                    "hink-stap-springen",
+                    "atletiek"
+                ],
+                "language": "nl",
+                "question": "Zowel hink-stap-springen als hordenlopen zijn niet te onderschatten disciplines in de atletiek .",
+                "question_length": 13,
+                "score": 0.9803326461979854
+            },
+            {
+                "answer": "buikkrampen",
+                "answer_length": 1,
+                "distractors": [
+                    "abnormale gedragingen",
+                    "braakneigingen",
+                    "misselijkheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van de volgende symptomen wordt niet vermeld als mogelijk signaal van de ziekte van Reye ?",
+                "question_length": 24,
+                "score": 0.9776203922205432
+            },
+            {
+                "answer": "Metformine",
+                "answer_length": 1,
+                "distractors": [
+                    "Glibenclamide",
+                    "Insuline",
+                    "Pioglitazon"
+                ],
+                "language": "nl",
+                "question": "Beantwoord onderstaande meerkeuzevraag . 29 . Welke is de eerste keuze behandeling van zwangerschapsdiabetes",
+                "question_length": 14,
+                "score": 0.9770329516293766
+            },
+            {
+                "answer": "beven of tremor",
+                "answer_length": 3,
+                "distractors": [
+                    "spierstijfheid of rigiditeit",
+                    "uitdrukkingloos gezicht of akinesie"
+                ],
+                "language": "nl",
+                "question": "Wat is GEEN symptoom van de ziekte van Parkinson ? Kruis het juiste ( in dit geval : wat geen symptoom is ) antwoord aan .",
+                "question_length": 26,
+                "score": 0.9750897003615274
+            },
+            {
+                "answer": "uticaria",
+                "answer_length": 1,
+                "distractors": [
+                    "onychomycose",
+                    "clavus"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke van volgende aandoeningen heeft meestal een endogene oorzaak ?",
+                "question_length": 16,
+                "score": 0.9747507332020751
+            }
+        ]
+    }
+}

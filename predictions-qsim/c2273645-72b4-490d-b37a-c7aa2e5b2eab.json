@@ -1,0 +1,129 @@
+{
+    "qid": "c2273645-72b4-490d-b37a-c7aa2e5b2eab",
+    "response": {
+        "Query": "36 . They do n't speak English and can not make ... ... ... ... ... ..understood .",
+        "Result": [
+            {
+                "answer": "which",
+                "answer_length": 1,
+                "distractors": [
+                    "whom",
+                    "that",
+                    "him who"
+                ],
+                "language": "en",
+                "question": "They should choose ... would be best suited for the job",
+                "question_length": 11,
+                "score": 0.7072891602059821
+            },
+            {
+                "answer": "Yes",
+                "answer_length": 1,
+                "distractors": [
+                    "No"
+                ],
+                "language": "en",
+                "question": "Select the right answer . I want to win a brand new ipod !",
+                "question_length": 14,
+                "score": 0.7033849814800286
+            },
+            {
+                "answer": "heat",
+                "answer_length": 1,
+                "distractors": [
+                    "eat"
+                ],
+                "language": "fr",
+                "question": "Ecoute attentivement le fichier audio en appuyant sur play et choisis le mot que tu as entendu .",
+                "question_length": 18,
+                "score": 0.6727400790700729
+            },
+            {
+                "answer": "which",
+                "answer_length": 1,
+                "distractors": [
+                    "what",
+                    "whom",
+                    "where"
+                ],
+                "language": "en",
+                "question": "The new e-ticketing system , ... ... ... ... was installed last month , is working well .",
+                "question_length": 18,
+                "score": 0.6702637149226585
+            },
+            {
+                "answer": "themselves",
+                "answer_length": 1,
+                "distractors": [
+                    "them",
+                    "us",
+                    "you"
+                ],
+                "language": "en",
+                "question": "36 . They do n't speak English and can not make ... ... ... ... ... ..understood .",
+                "question_length": 18,
+                "score": 0.6503433682360588
+            },
+            {
+                "answer": "While I was opening",
+                "answer_length": 4,
+                "distractors": [
+                    "Because I opened",
+                    "If I opened"
+                ],
+                "language": "en",
+                "question": "Choose the correct synonym . Choisissez le synonyme correct . Kies de juiste synoniem . I cut myself opening a tuna tin .",
+                "question_length": 23,
+                "score": 0.6360372767273725
+            },
+            {
+                "answer": "Chirs 's",
+                "answer_length": 2,
+                "distractors": [
+                    "Chris"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . I went to ... party this weekend .",
+                "question_length": 13,
+                "score": 0.6342268589725203
+            },
+            {
+                "answer": "leave",
+                "answer_length": 1,
+                "distractors": [
+                    "benefit",
+                    "living",
+                    "allocation"
+                ],
+                "language": "en",
+                "question": "What happens to your holiday entitlement when you 're on maternity ... ... ... ... ... ... ... ... ?",
+                "question_length": 20,
+                "score": 0.6334327370023414
+            },
+            {
+                "answer": "swinging",
+                "answer_length": 1,
+                "distractors": [
+                    "waving",
+                    "swaying",
+                    "fluctuating"
+                ],
+                "language": "en",
+                "question": "Despite their setbacks , they decided to go down ... ..",
+                "question_length": 11,
+                "score": 0.6325880714835043
+            },
+            {
+                "answer": "at Chancery Lane on Saturday ",
+                "answer_length": 5,
+                "distractors": [
+                    "in Waterloo station yesterday "
+                ],
+                "language": "en",
+                "question": "Choose the right answer . The accident happened ...",
+                "question_length": 9,
+                "score": 0.6269173771850054
+            }
+        ]
+    }
+}

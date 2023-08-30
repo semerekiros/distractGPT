@@ -1,0 +1,136 @@
+{
+    "qid": "961bfccc-ceeb-4b43-919f-a8839db0291f",
+    "response": {
+        "Query": "His successor , ... ... ... ... ... ... ... ... appointment was announced last month , is a very different kind of person .",
+        "Result": [
+            {
+                "answer": "whose",
+                "answer_length": 1,
+                "distractors": [
+                    "who",
+                    "whom",
+                    "which"
+                ],
+                "language": "en",
+                "question": "His successor , ... ... ... ... ... ... ... ... appointment was announced last month , is a very different kind of person .",
+                "question_length": 25,
+                "score": 0.8932194978931131
+            },
+            {
+                "answer": "after",
+                "answer_length": 1,
+                "distractors": [
+                    "during",
+                    "along",
+                    "behind"
+                ],
+                "language": "en",
+                "question": "Choose the correct preposition to complete this instruction about asking questions . You were asked to talk to BMW dealers about the current status of airbag technology to enable them to better answer customer questions . You have structured your presentation like this : 1. welcoming your audience and introducing yourself and the subject 2. body of the presentation = the current status of airbag technology 3. summing up and recommendations 4. questions `` I 'll try to answer all of your questions ... .. the presentation . ''",
+                "question_length": 89,
+                "score": 0.7822427099160509
+            },
+            {
+                "answer": "of",
+                "answer_length": 1,
+                "distractors": [
+                    "with",
+                    "from",
+                    "for"
+                ],
+                "language": "en",
+                "question": "He is quite aware ... ... ... ... ..of the problem .",
+                "question_length": 12,
+                "score": 0.7761390801540395
+            },
+            {
+                "answer": "should",
+                "answer_length": 1,
+                "distractors": [
+                    "ought",
+                    "need",
+                    "had"
+                ],
+                "language": "en",
+                "question": "We ... ... ... ... ... ... ... ... ... ... ... ..get in touch with him . He had some very good ideas .",
+                "question_length": 25,
+                "score": 0.7131049506335531
+            },
+            {
+                "answer": "sympathetic to",
+                "answer_length": 2,
+                "distractors": [
+                    "sensitive of",
+                    "aware about",
+                    "enthusiastic of"
+                ],
+                "language": "en",
+                "question": "Although they said they were ... ... ... ... ... ... ... ... our cause , they were not prepared to support us officially .",
+                "question_length": 25,
+                "score": 0.6807819440510344
+            },
+            {
+                "answer": "below",
+                "answer_length": 1,
+                "distractors": [
+                    "underneath",
+                    "behind"
+                ],
+                "language": "en",
+                "question": "Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ?",
+                "question_length": 28,
+                "score": 0.6747017687206517
+            },
+            {
+                "answer": "coherent , articulate",
+                "answer_length": 3,
+                "distractors": [
+                    "sensitive , reserved",
+                    "focused , extrovert",
+                    "versatile , talkative"
+                ],
+                "language": "en",
+                "question": "If you express your ideas in a clear and structured way , you are ... ... ... ... ... ... ..and ... ... ... ... ... ... ... ...",
+                "question_length": 29,
+                "score": 0.6554496731536784
+            },
+            {
+                "answer": "have a beneficial effect on",
+                "answer_length": 5,
+                "distractors": [
+                    "distort",
+                    "have a bad effect on",
+                    "change"
+                ],
+                "language": "en",
+                "question": "Que veut dire \u201c enhanced \u201d dans la phrase suivante ? It has enhanced the quality of life of people in the developing world .",
+                "question_length": 25,
+                "score": 0.648384660208455
+            },
+            {
+                "answer": "prefere",
+                "answer_length": 1,
+                "distractors": [
+                    "passionne",
+                    "engage"
+                ],
+                "language": "fr",
+                "question": "Indique la reponse la plus logique . Le plat ... de mon frere ? C'est la truite .",
+                "question_length": 18,
+                "score": 0.6203426049275861
+            },
+            {
+                "answer": "were seeing",
+                "answer_length": 2,
+                "distractors": [
+                    "see",
+                    "are seeing",
+                    "saw"
+                ],
+                "language": "en",
+                "question": "We ... ... ... ... ... ... ... ... each other later that day , but I had to phone and cancel .",
+                "question_length": 23,
+                "score": 0.6185902518446157
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "fda3ae21-59a5-4dd1-b5e9-3ffbf2c1754a",
+    "input": "Tot welk continent behoort Lesotho? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Afrika\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. noord-amerika\n2. aantal continenten\n3. oostenrijk\n4. hele wereld\n5. zuid-amerika\n6. zuiden\n7. noorwegen\n8. europa\n9. tropische oceanieten 9.\n10. afrika"
+}

@@ -1,0 +1,128 @@
+{
+    "qid": "aec5e9a4-39ea-465d-91ba-1fe6e4e6556c",
+    "response": {
+        "Query": "Indiquez l'adjectif possessif correct . Il veut battre ... record .",
+        "Result": [
+            {
+                "answer": "son",
+                "answer_length": 1,
+                "distractors": [
+                    "sa",
+                    "ses"
+                ],
+                "language": "fr",
+                "question": "Indiquez l'adjectif possessif correct . Il veut battre ... record .",
+                "question_length": 11,
+                "score": 0.930540072304375
+            },
+            {
+                "answer": "Qu'est-ce que",
+                "answer_length": 2,
+                "distractors": [
+                    "Est-ce que"
+                ],
+                "language": "fr",
+                "question": "Completez les questions par Est-ce que ou Qu'est-ce que . Cochez la bonne reponse . ... c'est ?",
+                "question_length": 18,
+                "score": 0.9046264169097277
+            },
+            {
+                "answer": "cette",
+                "answer_length": 1,
+                "distractors": [
+                    "ce",
+                    "cet",
+                    "ces"
+                ],
+                "language": "fr",
+                "question": "Ecoutez bien . Indiquez quel mot vous entendez .",
+                "question_length": 9,
+                "score": 0.8907542993773128
+            },
+            {
+                "answer": "Se resout",
+                "answer_length": 2,
+                "distractors": [
+                    "Se resoud"
+                ],
+                "language": "fr",
+                "question": "Tolia ... a rendre a son pere le fruit de son larcin ( AB ) .",
+                "question_length": 16,
+                "score": 0.8760707949540978
+            },
+            {
+                "answer": "son",
+                "answer_length": 1,
+                "distractors": [
+                    "sa"
+                ],
+                "language": "nl",
+                "question": "Mon , ton , son of ma , ta , sa ? Meer uitleg nodig ? Klik op G en kijk naar Sous la loupe 10 . C'est ... bureau .",
+                "question_length": 31,
+                "score": 0.8677009528682154
+            },
+            {
+                "answer": "le",
+                "answer_length": 1,
+                "distractors": [
+                    "la",
+                    "les",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... frere",
+                "question_length": 6,
+                "score": 0.8648813696654551
+            },
+            {
+                "answer": "Aline",
+                "answer_length": 1,
+                "distractors": [
+                    "Nos chiens",
+                    "Les garcons"
+                ],
+                "language": "fr",
+                "question": "Lis les phrases suivantes et indique le ( s ) sujet ( s ) qui convient / conviennent . ... s'est fort plu chez les Dumortier .",
+                "question_length": 27,
+                "score": 0.8639344230524896
+            },
+            {
+                "answer": "une",
+                "answer_length": 1,
+                "distractors": [
+                    "un"
+                ],
+                "language": "fr",
+                "question": "Cochez le genre correct du mot suivant . Peugeot",
+                "question_length": 9,
+                "score": 0.8632367240414077
+            },
+            {
+                "answer": "les",
+                "answer_length": 1,
+                "distractors": [
+                    "le",
+                    "la",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... bandes dessinees",
+                "question_length": 7,
+                "score": 0.863162335409448
+            },
+            {
+                "answer": "le",
+                "answer_length": 1,
+                "distractors": [
+                    "la",
+                    "les",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... garcon",
+                "question_length": 6,
+                "score": 0.8577999794242549
+            }
+        ]
+    }
+}

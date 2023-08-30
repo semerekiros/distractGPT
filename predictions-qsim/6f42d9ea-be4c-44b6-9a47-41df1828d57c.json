@@ -1,0 +1,142 @@
+{
+    "qid": "6f42d9ea-be4c-44b6-9a47-41df1828d57c",
+    "response": {
+        "Query": "2 . The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours",
+        "Result": [
+            {
+                "answer": "has been working for",
+                "answer_length": 4,
+                "distractors": [
+                    "has been working since",
+                    "is working for",
+                    "had been working since"
+                ],
+                "language": "en",
+                "question": "2 . The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours",
+                "question_length": 19,
+                "score": 0.957408794521153
+            },
+            {
+                "answer": "is working for",
+                "answer_length": 3,
+                "distractors": [
+                    "has been working since",
+                    "has been working for",
+                    "had been working since"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours",
+                "question_length": 21,
+                "score": 0.9554808163682625
+            },
+            {
+                "answer": "has been working for",
+                "answer_length": 4,
+                "distractors": [
+                    "has been working since",
+                    "is working for",
+                    "had been working since"
+                ],
+                "language": "en",
+                "question": "1.2 The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours",
+                "question_length": 18,
+                "score": 0.9476001105031402
+            },
+            {
+                "answer": "prends la moto",
+                "answer_length": 3,
+                "distractors": [
+                    "prends le velo",
+                    "prennent le taxi",
+                    "prend le train",
+                    "prenons la moto",
+                    "prenez le velo"
+                ],
+                "language": "nl",
+                "question": "Bekijk de tekening en kies de juiste woorden om de zin aan te vullen . Klik op de tekening als je ze wilt vergroten . Meer uitleg nodig ? Klik op G en kijk naar Sous la loupe 12 . Tu ... ?",
+                "question_length": 43,
+                "score": 0.03517838263534599
+            },
+            {
+                "answer": "to endorse",
+                "answer_length": 2,
+                "distractors": [
+                    "to gossip",
+                    "to chat",
+                    "to fret"
+                ],
+                "language": "en",
+                "question": "2.24 Antonyms / antonymes : to oppose :",
+                "question_length": 8,
+                "score": 0.007357842473106952
+            },
+            {
+                "answer": "ora",
+                "answer_length": 1,
+                "distractors": [
+                    "attimo",
+                    "presto",
+                    "pronto"
+                ],
+                "language": "it",
+                "question": "22 . Un sinonimo di `` adesso '' :",
+                "question_length": 9,
+                "score": 0.005051876143323897
+            },
+            {
+                "answer": "to endorse",
+                "answer_length": 2,
+                "distractors": [
+                    "to gossip",
+                    "to chat",
+                    "to fret"
+                ],
+                "language": "en",
+                "question": "74 . Antonyms / antonymes : to oppose :",
+                "question_length": 9,
+                "score": 0.003422167631930505
+            },
+            {
+                "answer": "prend le velo",
+                "answer_length": 3,
+                "distractors": [
+                    "prends le velo",
+                    "prennent la moto",
+                    "prenons la moto",
+                    "prenez le taxi",
+                    "prends le train"
+                ],
+                "language": "nl",
+                "question": "Bekijk de tekening en kies de juiste woorden om de zin aan te vullen . Klik op de tekening als je ze wilt vergroten . Meer uitleg nodig ? Klik op G en kijk naar Sous la loupe 12 . Il ... .",
+                "question_length": 43,
+                "score": 0.0032449831462433337
+            },
+            {
+                "answer": "than sound waves do",
+                "answer_length": 4,
+                "distractors": [
+                    "than sound waves are",
+                    "do sound waves",
+                    "sound waves"
+                ],
+                "language": "en",
+                "question": "114 . Although thunder and lightning are produced at the same time , light waves travel faster ... ... , so we see lightning before we hear the thunder .",
+                "question_length": 30,
+                "score": 0.0013201993048474036
+            },
+            {
+                "answer": "to lend",
+                "answer_length": 2,
+                "distractors": [
+                    "to let",
+                    "to barter",
+                    "to withdraw"
+                ],
+                "language": "en",
+                "question": "2.25 . Antonyms / antonymes : to borrow :",
+                "question_length": 9,
+                "score": 0.0009291055428080481
+            }
+        ]
+    }
+}

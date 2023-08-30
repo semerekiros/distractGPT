@@ -1,0 +1,5 @@
+{
+    "qid": "08dc610a-36ad-4490-835a-31b5698bc5e9",
+    "input": "Welk bloemdeel is mannelijk? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. meeldraad\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. bloemdeel\n2. vrucht\n3. bloemdeel 2\n4. bloemen\n5. bloemdeel 3\n6. blad\n7. bloemdeel 4\n8. leem\n9. bloemdeel 5\n10. pistil"
+}

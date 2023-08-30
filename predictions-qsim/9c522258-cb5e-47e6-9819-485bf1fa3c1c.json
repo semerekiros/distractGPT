@@ -1,0 +1,138 @@
+{
+    "qid": "9c522258-cb5e-47e6-9819-485bf1fa3c1c",
+    "response": {
+        "Query": "They were badly ... ... ... ... ..in the accident .",
+        "Result": [
+            {
+                "answer": "injured",
+                "answer_length": 1,
+                "distractors": [
+                    "broken",
+                    "wounded",
+                    "illness"
+                ],
+                "language": "en",
+                "question": "They were badly ... ... ... ... ..in the accident .",
+                "question_length": 11,
+                "score": 0.8875211592930442
+            },
+            {
+                "answer": "injured",
+                "answer_length": 1,
+                "distractors": [
+                    "broken",
+                    "wounded",
+                    "illness"
+                ],
+                "language": "en",
+                "question": "They were badly ... ... ... ... ... ... ... . In the accident .",
+                "question_length": 15,
+                "score": 0.8541142252339795
+            },
+            {
+                "answer": "deceiving",
+                "answer_length": 1,
+                "distractors": [
+                    "disappointed",
+                    "deception",
+                    "lying"
+                ],
+                "language": "en",
+                "question": "He hopes she will come back , but he is ... ... ... ... ... ... ..himself .",
+                "question_length": 18,
+                "score": 0.6273831314355195
+            },
+            {
+                "answer": "should have made",
+                "answer_length": 3,
+                "distractors": [
+                    "will have made",
+                    "had made",
+                    "might have had"
+                ],
+                "language": "en",
+                "question": "He was charismatic and decisive . We ... ... ... ... ... ... him team leader .",
+                "question_length": 17,
+                "score": 0.5216667800174939
+            },
+            {
+                "answer": "turn up",
+                "answer_length": 2,
+                "distractors": [
+                    "look up",
+                    "put off",
+                    "tie up"
+                ],
+                "language": "en",
+                "question": "I do n't mind at all when people ... ... ... ... ... ... ... ... ... ... ... ... unexpectedly for appointments or discussions .",
+                "question_length": 26,
+                "score": 0.49905278021928134
+            },
+            {
+                "answer": "always listen carefully",
+                "answer_length": 3,
+                "distractors": [
+                    "carefully always listen",
+                    "carefully listen always",
+                    "listen always carefully"
+                ],
+                "language": "en",
+                "question": "Effective staff members ... ... ... ... ... ... ... ... ... ..to instructions .",
+                "question_length": 15,
+                "score": 0.48080872081222215
+            },
+            {
+                "answer": "help him make",
+                "answer_length": 3,
+                "distractors": [
+                    "helping him making",
+                    "helping him make",
+                    "help him making"
+                ],
+                "language": "en",
+                "question": "The Cabinet consists of secretaries of departments who report to the president , give him , and ... ... ... ... ... ... ..decisions .",
+                "question_length": 25,
+                "score": 0.4171595206620984
+            },
+            {
+                "answer": "Consumers",
+                "answer_length": 1,
+                "distractors": [
+                    "The consumers",
+                    "A consumer",
+                    "The consumer"
+                ],
+                "language": "en",
+                "question": "... ... ... ... ... ... ... ... ..choose to watch adverts only if they want to .",
+                "question_length": 18,
+                "score": 0.39963081323753874
+            },
+            {
+                "answer": "broke down",
+                "answer_length": 2,
+                "distractors": [
+                    "has broken",
+                    "braked down",
+                    "broken"
+                ],
+                "language": "en",
+                "question": "Sam was driving back home when his car ... ... ... ... ... ... ... .",
+                "question_length": 16,
+                "score": 0.39804391905738346
+            },
+            {
+                "answer": "resented being given",
+                "answer_length": 3,
+                "distractors": [
+                    "has resented to give",
+                    "will resent to be given",
+                    "resents giving"
+                ],
+                "language": "en",
+                "question": "Adam had worked in the company for 30 years and he rather ... ... ... ... ..orders by people who had been there only weeks .",
+                "question_length": 26,
+                "score": 0.39684258242797693
+            }
+        ]
+    }
+}

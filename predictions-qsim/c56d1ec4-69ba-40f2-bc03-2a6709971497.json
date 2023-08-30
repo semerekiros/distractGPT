@@ -1,0 +1,143 @@
+{
+    "qid": "c56d1ec4-69ba-40f2-bc03-2a6709971497",
+    "response": {
+        "Query": "In welk groot gebied hebben de archeologen vondsten teruggevonden van de La T\u00e8ne-periode?",
+        "Result": [
+            {
+                "answer": "sociale domein",
+                "answer_length": 2,
+                "distractors": [
+                    "politieke domein",
+                    "economische domein",
+                    "culturele domein"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij welk domein hoort de bevolkingsdaling ten gevolge van de pest ?",
+                "question_length": 19,
+                "score": 0.955096655784506
+            },
+            {
+                "answer": "Azie",
+                "answer_length": 1,
+                "distractors": [
+                    "Afrika",
+                    "Amerika",
+                    "Europa"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Uit welk continent komt Balkia ?",
+                "question_length": 13,
+                "score": 0.9362179825777289
+            },
+            {
+                "answer": "Griekenland",
+                "answer_length": 1,
+                "distractors": [
+                    "N.O.-Portugal",
+                    "Wit-Rusland",
+                    "Estland en Letland",
+                    "Denemarken"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'gemengde bedrijven ' ?",
+                "question_length": 16,
+                "score": 0.9287586085177283
+            },
+            {
+                "answer": "Scandinavie",
+                "answer_length": 1,
+                "distractors": [
+                    "Z.W.-Ierland",
+                    "Schotland",
+                    "Bulgarije"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'extensieve veeteelt ' ?",
+                "question_length": 16,
+                "score": 0.9284925252921378
+            },
+            {
+                "answer": "Zuiden van Zweden",
+                "answer_length": 3,
+                "distractors": [
+                    "Belgie",
+                    "Centraal Italie",
+                    "de noordpool"
+                ],
+                "language": "nl",
+                "question": "Bekijk de vegetatie op deze foto . Van welk gebied zou dit de natuurlijke vegetatie kunnen zijn ?",
+                "question_length": 18,
+                "score": 0.9142484014060779
+            },
+            {
+                "answer": "Azie",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Noord-Amerika",
+                    "Zuid-Amerika",
+                    "Afrika"
+                ],
+                "language": "nl",
+                "question": "In welk werelddeel ligt Syrie ? Duid het juiste werelddeel aan .",
+                "question_length": 12,
+                "score": 0.9103585311061544
+            },
+            {
+                "answer": "Gebied 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Gebied 2",
+                    "Gebied 3",
+                    "Gebied 4"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk gebied op de kaart is de windkracht het grootst ?",
+                "question_length": 19,
+                "score": 0.9073279590734273
+            },
+            {
+                "answer": "N.W.-Rusland",
+                "answer_length": 1,
+                "distractors": [
+                    "Wales en Cornwall",
+                    "Ardennen",
+                    "N.-Nederland",
+                    "Taagvallei"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'intensieve veeteelt ' ?",
+                "question_length": 16,
+                "score": 0.8990518620184352
+            },
+            {
+                "answer": "North",
+                "answer_length": 1,
+                "distractors": [
+                    "Humberside",
+                    "South East",
+                    "South West"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke deel van Engeland is deze hybride geboren ?",
+                "question_length": 17,
+                "score": 0.8907028561079985
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Azie",
+                    "Oceanie",
+                    "Noord-Amerika",
+                    "Zuid-Amerika"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk werelddeel herken je in het midden van de afbeelding ?",
+                "question_length": 17,
+                "score": 0.8810974726346567
+            }
+        ]
+    }
+}

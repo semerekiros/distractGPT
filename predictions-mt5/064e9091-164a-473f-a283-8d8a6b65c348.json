@@ -1,0 +1,5 @@
+{
+    "qid": "064e9091-164a-473f-a283-8d8a6b65c348",
+    "input": "Wat is de hoofdstad van Duitsland? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Berlijn\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. Antwerpen\n2. Bremen\n3. zuid-frankrijk\n4. Hamburg\n5. Riga\n6. M\u00fcnchen\n7. luxemburg\n8. wolfsburg\n9. brussel\n10. oostenrijk"
+}

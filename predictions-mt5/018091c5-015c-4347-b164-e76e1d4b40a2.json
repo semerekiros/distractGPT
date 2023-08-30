@@ -1,0 +1,5 @@
+{
+    "qid": "018091c5-015c-4347-b164-e76e1d4b40a2",
+    "input": "Welke periode komt overeen met het oude rijk van Egypte? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 2650 v.C.-2150 v.C.\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 2650 v.c.-2150 v.c.\n2. 2650 v.C.-2520 v\n3. 2650 v.c.-2200 v.c.\n4. 2300 v\n5. 2650 v.c.-2500 v.c.\n6. 2050 v\n7. 2650 v.c.-2800 v.c.\n8. 1830 v\n9. 2650 v.c.-1800 v.c.\n10. 3000 v"
+}

@@ -1,0 +1,127 @@
+{
+    "qid": "75b54a27-be23-45a3-80b3-3bf5f136f65c",
+    "response": {
+        "Query": "Indique la bonne forme . Duid de juiste vorm aan . On prend des oranges ... des pommes ?",
+        "Result": [
+            {
+                "answer": "ou",
+                "answer_length": 1,
+                "distractors": [
+                    "ou"
+                ],
+                "language": "fr",
+                "question": "Indique la bonne forme . Duid de juiste vorm aan . On prend des oranges ... des pommes ?",
+                "question_length": 19,
+                "score": 0.5814154067697919
+            },
+            {
+                "answer": "acheter",
+                "answer_length": 1,
+                "distractors": [
+                    "achete"
+                ],
+                "language": "nl",
+                "question": "Attention a l'orthographe ! Indique la forme correcte . Let op voor de schrijfwijze ! Duid de correcte vorm aan . Vous voulez ... quelque chose ?",
+                "question_length": 27,
+                "score": 0.35187006708524976
+            },
+            {
+                "answer": "du",
+                "answer_length": 1,
+                "distractors": [
+                    "de la",
+                    "de l '"
+                ],
+                "language": "fr",
+                "question": "Du , de la ou de l ' : coche la forme correcte . ... fromage",
+                "question_length": 16,
+                "score": 0.3397543343786872
+            },
+            {
+                "answer": "Toutes les reponses sont correctes",
+                "answer_length": 5,
+                "distractors": [
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Completez l'analogie suivante : \u00ab le cafe est a la cafetiere ce que ... \u00bb",
+                "question_length": 15,
+                "score": 0.2967566463316199
+            },
+            {
+                "answer": "de l '",
+                "answer_length": 3,
+                "distractors": [
+                    "du",
+                    "de la",
+                    "des"
+                ],
+                "language": "fr",
+                "question": "Indique l'article contracte avec \u00ab de \u00bb correct . Duid het juiste samengetrokken lidwoord met \u00ab de \u00bb aan . Tu connais le numero ... appel d'urgence en Europe ?",
+                "question_length": 30,
+                "score": 0.2961573838622305
+            },
+            {
+                "answer": "Volontiers",
+                "answer_length": 1,
+                "distractors": [
+                    "Delicieux",
+                    "De rien"
+                ],
+                "language": "fr",
+                "question": "Indique la reponse correcte . - Tu veux encore de la viande ? degrees ... !",
+                "question_length": 16,
+                "score": 0.2770435343721686
+            },
+            {
+                "answer": "de la",
+                "answer_length": 2,
+                "distractors": [
+                    "du",
+                    "de l '"
+                ],
+                "language": "fr",
+                "question": "La viande Indiquez l'article correct . Est-ce que vous aimez manger ... charcuterie ?",
+                "question_length": 14,
+                "score": 0.27568098955810555
+            },
+            {
+                "answer": "et",
+                "answer_length": 1,
+                "distractors": [
+                    "est"
+                ],
+                "language": "fr",
+                "question": "Indique la bonne forme . Duid de juiste vorm aan . Christophe ... Soraya regardent un DVD .",
+                "question_length": 18,
+                "score": 0.26630121570150345
+            },
+            {
+                "answer": "quelle",
+                "answer_length": 1,
+                "distractors": [
+                    "quel",
+                    "quels",
+                    "quelles"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme . - C'est a ... heure ? - A trois heures .",
+                "question_length": 16,
+                "score": 0.2597487756567289
+            },
+            {
+                "answer": "depliant",
+                "answer_length": 1,
+                "distractors": [
+                    "recette",
+                    "produit"
+                ],
+                "language": "fr",
+                "question": "Indique le bon mot . Cette boutique a un nouveau ... avec toutes les informations .",
+                "question_length": 16,
+                "score": 0.24949455035407753
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "qid": "d46ad73b-93bd-4653-92e7-3683f58cb260",
+    "response": {
+        "Query": "I read ... ... ... book and listened to ... ... ... ... ..music .",
+        "Result": [
+            {
+                "answer": "enough chairs",
+                "answer_length": 2,
+                "distractors": [
+                    "chairs enough",
+                    "enough of chairs"
+                ],
+                "language": "en",
+                "question": "There are n't ... ... ... ... ... ... ... ... ... ... .for everybody .",
+                "question_length": 16,
+                "score": 0.7214850241741546
+            },
+            {
+                "answer": "a , some",
+                "answer_length": 3,
+                "distractors": [
+                    "the , any",
+                    "these , the",
+                    "the , many"
+                ],
+                "language": "en",
+                "question": "I read ... ... ... book and listened to ... ... ... ... ..music .",
+                "question_length": 15,
+                "score": 0.7068516411569724
+            },
+            {
+                "answer": "those",
+                "answer_length": 1,
+                "distractors": [
+                    "that",
+                    "the",
+                    "these"
+                ],
+                "language": "en",
+                "question": "Who are ... ... people over there ?",
+                "question_length": 8,
+                "score": 0.7043245894449628
+            },
+            {
+                "answer": "prohibit",
+                "answer_length": 1,
+                "distractors": [
+                    "surpass",
+                    "remove",
+                    "fix"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . BAN ON 75W BULBS Starting today , it is illegal to manufacture or import 75W incandescent light bulbs in the European Union . The phaseout started last year when 100W light bulbs were outlawed . Bulbs of 60W will be phased out next year , and incandescent lighting of all types will be phased out in 2012 . The phase-out of incandescent light bulbs is part of the EU 's strategy to cut greenhouse gases by 20 % by 2020 . Replacing the old lamps with more efficient models is expected to reduce energy consumption for lighting by 60 % in the EU , equivalent to saving 30 million tons of CO2 pollution every year . Although energy-saving bulbs were available since 1998 , their relatively high purchase price has inhibited take-up . When the decision for the ban was taken in 2008 , it was estimated that around 2,000 to 3,000 jobs would become redundant in the light bulb industry . What is a synonym for `` outlaw '' ?",
+                "question_length": 176,
+                "score": 0.6874037716963506
+            },
+            {
+                "answer": "loan , repayments",
+                "answer_length": 3,
+                "distractors": [
+                    "lend , repaid",
+                    "allocation , costs",
+                    "insurance , fixed amount"
+                ],
+                "language": "en",
+                "question": "I have a ... ... ..to buy a car . The ... ... ..for this are 120 euros per month .",
+                "question_length": 21,
+                "score": 0.6715460427660638
+            },
+            {
+                "answer": "all the time , sometimes",
+                "answer_length": 5,
+                "distractors": [
+                    "at once , each time"
+                ],
+                "language": "en",
+                "question": "I 'm working ... ... ..and I want to do something relaxing ... ... ... ..",
+                "question_length": 16,
+                "score": 0.6252202612166308
+            },
+            {
+                "answer": "taking , to finish",
+                "answer_length": 4,
+                "distractors": [
+                    "bringing , to check",
+                    "to carry , writing"
+                ],
+                "language": "en",
+                "question": "I do n't enjoy ... ... ... ... ... ... ... .work home , I like ... ... ... ... ... ... ... .my reports on time .",
+                "question_length": 28,
+                "score": 0.6248341391169472
+            },
+            {
+                "answer": "has n't lived",
+                "answer_length": 3,
+                "distractors": [
+                    "does n't live",
+                    "lived",
+                    "do n't live"
+                ],
+                "language": "en",
+                "question": "She did n't know the area because she ... ... ... ... ... ... ... .there since she was a child .",
+                "question_length": 22,
+                "score": 0.6113390614410683
+            },
+            {
+                "answer": "grown apart",
+                "answer_length": 2,
+                "distractors": [
+                    "split up",
+                    "went out",
+                    "taken up"
+                ],
+                "language": "en",
+                "question": "We used to be good friends , but we 've ... ... ... ... ... .over the last year .",
+                "question_length": 20,
+                "score": 0.6102149652751275
+            },
+            {
+                "answer": "course",
+                "answer_length": 1,
+                "distractors": [
+                    "tuition",
+                    "classes",
+                    "studies"
+                ],
+                "language": "en",
+                "question": "I did a four-week ... ... ... ... ... ... .in English in San Francisco .",
+                "question_length": 16,
+                "score": 0.6061655631757253
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "048c0097-18d8-4db3-91b1-fe8cb60a1e69",
+    "input": "De evenaar is het nulpunt van de breedtelijnen. Wat is dan de breedteligging van de evenaar? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 0\u00b0\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 0\u00b0\n2. -5\u00b0\n3. -1\n4. -0,8\n5. 0,1\n6. 0,8\n7. 1,0\n8. 0,5\n9. 0,9\n10. 0,41"
+}

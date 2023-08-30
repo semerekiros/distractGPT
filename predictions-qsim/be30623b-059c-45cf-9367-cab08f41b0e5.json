@@ -1,0 +1,135 @@
+{
+    "qid": "be30623b-059c-45cf-9367-cab08f41b0e5",
+    "response": {
+        "Query": "Completez la citation humoristique de Philippe Bouvard . Cotation en Bourse : possibilite de ... a des gens qu'on ne connait pas un produit qu'ils ignorent .",
+        "Result": [
+            {
+                "answer": "vendre",
+                "answer_length": 1,
+                "distractors": [
+                    "fournir",
+                    "donner",
+                    "passer"
+                ],
+                "language": "fr",
+                "question": "Completez la citation humoristique de Philippe Bouvard . Cotation en Bourse : possibilite de ... a des gens qu'on ne connait pas un produit qu'ils ignorent .",
+                "question_length": 27,
+                "score": 0.7322086195124313
+            },
+            {
+                "answer": "Le crayon ?",
+                "answer_length": 3,
+                "distractors": [
+                    "La lampe de poche ?",
+                    "L'assiette ?",
+                    "Les cahiers ?"
+                ],
+                "language": "fr",
+                "question": "Indique toutes les bonnes combinaisons . Duid alle juiste combinaties aan . Je le donne a mon petit frere .",
+                "question_length": 20,
+                "score": 0.7079703362210913
+            },
+            {
+                "answer": "crediter",
+                "answer_length": 1,
+                "distractors": [
+                    "preter",
+                    "payer",
+                    "offrir"
+                ],
+                "language": "fr",
+                "question": "Cherchez le contraire du mot en gras . Je peux lui debiter un montant de 125 euros .",
+                "question_length": 18,
+                "score": 0.6425967314387122
+            },
+            {
+                "answer": "subir",
+                "answer_length": 1,
+                "distractors": [
+                    "faire face a",
+                    "resister a",
+                    "defier"
+                ],
+                "language": "fr",
+                "question": "Quel mot ne pourrait pas remplacer le mot en gras ? Nous nous trouvons bien places pour affronter la concurrence de l'Est .",
+                "question_length": 23,
+                "score": 0.6208755272323545
+            },
+            {
+                "answer": "preter",
+                "answer_length": 1,
+                "distractors": [
+                    "emprunter"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Maxime n'aime pas ... .. des livres parce qu'on ne les lui rend jamais .",
+                "question_length": 31,
+                "score": 0.6079389234521361
+            },
+            {
+                "answer": "debiter",
+                "answer_length": 1,
+                "distractors": [
+                    "creancier",
+                    "donner",
+                    "preter"
+                ],
+                "language": "fr",
+                "question": "Cherchez le contraire du mot en gras . Je peux lui crediter un montant de 125 euros .",
+                "question_length": 18,
+                "score": 0.5927917714587041
+            },
+            {
+                "answer": "devaloriser",
+                "answer_length": 1,
+                "distractors": [
+                    "devaluer",
+                    "completer",
+                    "complimenter"
+                ],
+                "language": "fr",
+                "question": "Cherchez le contraire du mot en gras . Il faut valoriser ses collaborateurs . Il ne faut pas les ... .",
+                "question_length": 21,
+                "score": 0.5886038359609572
+            },
+            {
+                "answer": "le guide d'entretien",
+                "answer_length": 3,
+                "distractors": [
+                    "le petit livre",
+                    "le mode d'entretien",
+                    "la manutention"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase en cochant le mot qui convient . Quand on travaille pour un service apres-vente , il faut bien connaitre le fonctionnement d'un appareil concerne . Il faut avoir ... sous la main .",
+                "question_length": 36,
+                "score": 0.5849830753386253
+            },
+            {
+                "answer": "la recherche",
+                "answer_length": 2,
+                "distractors": [
+                    "le blesse",
+                    "le temoin",
+                    "la victime",
+                    "le coupable"
+                ],
+                "language": "fr",
+                "question": "Quel mot n'est pas a sa place ?",
+                "question_length": 8,
+                "score": 0.5823609260919865
+            },
+            {
+                "answer": "evaluer",
+                "answer_length": 1,
+                "distractors": [
+                    "resoudre"
+                ],
+                "language": "fr",
+                "question": "Indique le mot qui convient . Le jury va maintenant ... le travail des eleves .",
+                "question_length": 16,
+                "score": 0.5799804912080347
+            }
+        ]
+    }
+}

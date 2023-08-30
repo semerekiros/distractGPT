@@ -1,0 +1,128 @@
+{
+    "qid": "1a76f718-2448-4623-bf2f-6ca3926d44dd",
+    "response": {
+        "Query": "'degager ' un arome signifie ...",
+        "Result": [
+            {
+                "answer": "le repandre",
+                "answer_length": 2,
+                "distractors": [
+                    "le creer",
+                    "le sentir"
+                ],
+                "language": "fr",
+                "question": "'degager ' un arome signifie ...",
+                "question_length": 6,
+                "score": 0.8766375178931097
+            },
+            {
+                "answer": "pomme - poirier",
+                "answer_length": 3,
+                "distractors": [
+                    "pomme - pommier",
+                    "poire - peche",
+                    "fraise - framboisier"
+                ],
+                "language": "fr",
+                "question": "Completez l'analogie suivante : ... est a pommier ce que poire est a ... .",
+                "question_length": 15,
+                "score": 0.6743751762976111
+            },
+            {
+                "answer": "melanger",
+                "answer_length": 1,
+                "distractors": [
+                    "cuire dans une poele",
+                    "remuer"
+                ],
+                "language": "fr",
+                "question": "'panacher ' signifie ...",
+                "question_length": 4,
+                "score": 0.6361714909245436
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "Les legumes secs comprennent des proteines : COCHEZ la bonne re\u0301ponse .",
+                "question_length": 12,
+                "score": 0.5840982802610869
+            },
+            {
+                "answer": "branchies",
+                "answer_length": 1,
+                "distractors": [
+                    "poumons",
+                    "nageoires"
+                ],
+                "language": "fr",
+                "question": "'kieuwen ' en francais ?",
+                "question_length": 5,
+                "score": 0.5609781678517822
+            },
+            {
+                "answer": "prevention medicale",
+                "answer_length": 2,
+                "distractors": [
+                    "une phytopathologie",
+                    "une zoopathologie"
+                ],
+                "language": "fr",
+                "question": "la prophylaxie = ...",
+                "question_length": 4,
+                "score": 0.4979835661020782
+            },
+            {
+                "answer": "maligne",
+                "answer_length": 1,
+                "distractors": [
+                    "benigne",
+                    "benin"
+                ],
+                "language": "fr",
+                "question": "un cancer est une tumeur ...",
+                "question_length": 6,
+                "score": 0.4922572606715695
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "La viande et les poissons sont les seules sources de proteines qui existent : COCHEZ la bonne re\u0301ponse .",
+                "question_length": 19,
+                "score": 0.43091887826297764
+            },
+            {
+                "answer": "entrainement - echec",
+                "answer_length": 3,
+                "distractors": [
+                    "effort - loisir",
+                    "travail - plaisir",
+                    "envie - desir"
+                ],
+                "language": "fr",
+                "question": "Completez l'analogie suivante : ... est a reussite ce que oisivete est a ... .",
+                "question_length": 15,
+                "score": 0.41589156876277994
+            },
+            {
+                "answer": "pus",
+                "answer_length": 1,
+                "distractors": [
+                    "jus",
+                    "crus"
+                ],
+                "language": "fr",
+                "question": "un abces contient du ...",
+                "question_length": 5,
+                "score": 0.34263928631060353
+            }
+        ]
+    }
+}

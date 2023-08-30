@@ -1,0 +1,5 @@
+{
+    "qid": "c5d7a5ba-d6d0-42ad-a9ba-e4f6e525366d",
+    "input": "Welke herkenningspunten zijn belangrijk voor een referentiekaart van Belgi\u00eb? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Autosnelwegen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. autostraden\n2. autosnelwegen\n3. autowegen\n4. autosnelsnelweg\n5. spoorwegen\n6. elektrische snelwegen\n7. tramwegen\n8. onafhankelijk van de overheid\n9. alle verkeerspunten\n10. elk"
+}

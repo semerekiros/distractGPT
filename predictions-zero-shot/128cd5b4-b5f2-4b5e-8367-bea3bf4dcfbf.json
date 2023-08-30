@@ -1,0 +1,5 @@
+{
+    "qid": "128cd5b4-b5f2-4b5e-8367-bea3bf4dcfbf",
+    "input": "vraag: Van welk land is Amsterdam de hoofdstad?\nantwoord: Nederland\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Belgi\u00eb\n2. Luxemburg\n3. Zweden\n4. Finland\n5. Ierland\n6. Noorwegen\n7. Zwitserland\n8. Denemarken\n9. Oostenrijk\n10. Tsjechi\u00eb\n11. Polen\n12. Roemeni\u00eb\n13. Bulgarije\n14. Griekenland\n15. Itali\u00eb\n16. Spanje\n17. Portugal\n18. Frankrijk\n19. Verenigd Koninkrijk\n20. Rusland"
+}

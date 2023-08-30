@@ -1,0 +1,128 @@
+{
+    "qid": "5e80a098-3255-4bbc-84a7-0ed6e2a43aa8",
+    "response": {
+        "Query": "to shrink is ...",
+        "Result": [
+            {
+                "answer": "to contract",
+                "answer_length": 2,
+                "distractors": [
+                    "to expand",
+                    "to boost"
+                ],
+                "language": "en",
+                "question": "to shrink is ...",
+                "question_length": 4,
+                "score": 0.7430227649578613
+            },
+            {
+                "answer": "to mow",
+                "answer_length": 2,
+                "distractors": [
+                    "to harvest",
+                    "to lift"
+                ],
+                "language": "en",
+                "question": "to cut crops is ...",
+                "question_length": 5,
+                "score": 0.2997778961148126
+            },
+            {
+                "answer": "to boost",
+                "answer_length": 2,
+                "distractors": [
+                    "to slow down",
+                    "to hinder"
+                ],
+                "language": "en",
+                "question": "to enhance is ...",
+                "question_length": 4,
+                "score": 0.23870945268071886
+            },
+            {
+                "answer": "to strengthen",
+                "answer_length": 2,
+                "distractors": [
+                    "to use in a preparation",
+                    "to remove from a preparation"
+                ],
+                "language": "en",
+                "question": "to invigorate is ...",
+                "question_length": 4,
+                "score": 0.2011696762597871
+            },
+            {
+                "answer": "ADH",
+                "answer_length": 1,
+                "distractors": [
+                    "antidigestive hormone",
+                    "antidiabetic hormone"
+                ],
+                "language": "en",
+                "question": "'vasopressin ' is ...",
+                "question_length": 4,
+                "score": 0.17675394121213048
+            },
+            {
+                "answer": "picked",
+                "answer_length": 1,
+                "distractors": [
+                    "lifted",
+                    "mowed"
+                ],
+                "language": "en",
+                "question": "when asparagus is harvested , it is ...",
+                "question_length": 8,
+                "score": 0.15265489436815935
+            },
+            {
+                "answer": "a litter",
+                "answer_length": 2,
+                "distractors": [
+                    "a bird species",
+                    "a young sow"
+                ],
+                "language": "en",
+                "question": "a farrow is ...",
+                "question_length": 4,
+                "score": 0.10463439466544118
+            },
+            {
+                "answer": "to close hermetically",
+                "answer_length": 3,
+                "distractors": [
+                    "to hide away",
+                    "to slice"
+                ],
+                "language": "en",
+                "question": "to seal is ...",
+                "question_length": 4,
+                "score": 0.09597391173517154
+            },
+            {
+                "answer": "to dice",
+                "answer_length": 2,
+                "distractors": [
+                    "to slice",
+                    "to trice"
+                ],
+                "language": "en",
+                "question": "to cut into cubes is ...",
+                "question_length": 6,
+                "score": 0.0905025857860156
+            },
+            {
+                "answer": "a vineyard",
+                "answer_length": 2,
+                "distractors": [
+                    "a vinegary",
+                    "a vinery"
+                ],
+                "language": "en",
+                "question": "a plantation of grapes is ...",
+                "question_length": 6,
+                "score": 0.0852157211301387
+            }
+        ]
+    }
+}

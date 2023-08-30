@@ -1,0 +1,5 @@
+{
+    "qid": "e17ed1bd-57c8-467a-b6aa-bf3399750ee7",
+    "input": "In welk werelddeel ligt Noord-Korea? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Azi\u00eb\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. noord-korea\n2. zuid-korea\n3. zuidkorea\n4. oostenrijk\n5. europa\n6. noordoosten\n7. japanse eilanden\n8. tropische landen\n9. kust\n10. zuiden"
+}

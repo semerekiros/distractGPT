@@ -1,0 +1,118 @@
+{
+    "qid": "fab2715e-1608-4a9d-a783-6d4ae0c26e8a",
+    "response": {
+        "Query": "Chaque mercredi pendant votre intervention , vous faites une partie de jeu de societe avec Madame LULU . Cette semaine , vous vous etes rendu compte qu'elle ne se souvient plus des regles du jeu . Que faites-vous ? COCHEZ la bonne re\u0301ponse .",
+        "Result": [
+            {
+                "answer": "J'en parle a la famille",
+                "answer_length": 5,
+                "distractors": [
+                    "J'appelle immediatement le medecin"
+                ],
+                "language": "fr",
+                "question": "Chaque mercredi pendant votre intervention , vous faites une partie de jeu de societe avec Madame LULU . Cette semaine , vous vous etes rendu compte qu'elle ne se souvient plus des regles du jeu . Que faites-vous ? COCHEZ la bonne re\u0301ponse .",
+                "question_length": 44,
+                "score": 0.9959337804297766
+            },
+            {
+                "answer": "J'en parle a la famille",
+                "answer_length": 5,
+                "distractors": [
+                    "J'appelle immediatement le medecin"
+                ],
+                "language": "fr",
+                "question": "Chaque mercredi pendant votre intervention , vous faites une partie de jeu de societe avec Madame LULU . Cette semaine , vous vous etes rendu compte qu'elle ne se souvient plus des regles du jeu . Que faites-vous ? COCHEZ la bonne re\u0301ponse",
+                "question_length": 43,
+                "score": 0.9769281502392354
+            },
+            {
+                "answer": "Oui",
+                "answer_length": 1,
+                "distractors": [
+                    "Non"
+                ],
+                "language": "fr",
+                "question": "Vous etes assistant maternel . Vous avez 2 enfants a vous qui ont plus de 15 ans . Vous allez accueillir deux enfants de moins de 5 ans . L'activite preferee des enfants est la piscine de votre jardin . Il n'est jamais rien arrive . Etes-vous obligee de securiser cette piscine ? COCHEZ la bonne re\u0301ponse .",
+                "question_length": 58,
+                "score": 0.7664997746800729
+            },
+            {
+                "answer": "J'alerte ses parents",
+                "answer_length": 3,
+                "distractors": [
+                    "J'appelle le medecin de famille"
+                ],
+                "language": "fr",
+                "question": "Janyce ne veut plus du tout manger de legumes . Que faites-vous ? COCHEZ la bonne re\u0301ponse .",
+                "question_length": 18,
+                "score": 0.7509466756579066
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "8 . Romain va a un cours de musique 1 fois toutes les deux semaines : Cochez la reponse qui convient .",
+                "question_length": 22,
+                "score": 0.6729850814696253
+            },
+            {
+                "answer": "Oui",
+                "answer_length": 1,
+                "distractors": [
+                    "Non"
+                ],
+                "language": "fr",
+                "question": "Vous travaillez chez Mme PINPON . Elle vous demande de l'accompagner pour acheter des bananes dans le supermarche qui se trouve a 15 minutes de chez elle . Acceptez-vous ? COCHEZ la bonne re\u0301ponse .",
+                "question_length": 35,
+                "score": 0.6631277449223963
+            },
+            {
+                "answer": "Oui",
+                "answer_length": 1,
+                "distractors": [
+                    "Non"
+                ],
+                "language": "fr",
+                "question": "Votre collegue vous fait part de ses idees pour realiser des activites avec des enfants . Les enfants ont 5 ans . Elle propose : raconter une histoire avec des marionnettes ou creer une chasse au tresor . Selon vous , ces activites d'animation sont-elles adaptees ? COCHEZ la bonne reponse .",
+                "question_length": 52,
+                "score": 0.6616650899384091
+            },
+            {
+                "answer": "Je me place devant elle",
+                "answer_length": 5,
+                "distractors": [
+                    "Je me place derriere elle"
+                ],
+                "language": "fr",
+                "question": "Comment devez-vous vous placer pour aider une personne peu sure d'elle , a descendre les escaliers ? COCHEZ la bonne re\u0301ponse .",
+                "question_length": 22,
+                "score": 0.6035281636879472
+            },
+            {
+                "answer": "De faire de la peinture",
+                "answer_length": 5,
+                "distractors": [
+                    "D'aller vite a la piscine"
+                ],
+                "language": "fr",
+                "question": "Que pouvez-vous proposer comme activite a des enfants d'environ 5/7 ans , qui sont en vacances , apres leur repas ? COCHEZ la bonne re\u0301ponse .",
+                "question_length": 26,
+                "score": 0.6013517558574434
+            },
+            {
+                "answer": "Oui",
+                "answer_length": 1,
+                "distractors": [
+                    "Non"
+                ],
+                "language": "fr",
+                "question": "Votre collegue vous fait part de ses idees pour realiser des activites avec des enfants de 5 ans . Elle propose : raconter une histoire avec des marionnettes ou creer une chasse au tresor . Ces deux activites sont-elles adaptees ? COCHEZ la bonne reponse .",
+                "question_length": 46,
+                "score": 0.5589884171620798
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "qid": "9526948f-31a7-4079-a447-7517b6314d9c",
+    "response": {
+        "Query": "Choose the correct answer . Did you like the ... ending ?",
+        "Result": [
+            {
+                "answer": "book 's",
+                "answer_length": 2,
+                "distractors": [
+                    "book",
+                    "books"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Did you like the ... ending ?",
+                "question_length": 12,
+                "score": 0.8292412345290147
+            },
+            {
+                "answer": "any",
+                "answer_length": 1,
+                "distractors": [
+                    "some"
+                ],
+                "language": "en",
+                "question": "Choose the right form . I do n't drink ... alcohol at all . What about you ?",
+                "question_length": 18,
+                "score": 0.8280563768523538
+            },
+            {
+                "answer": "too",
+                "answer_length": 1,
+                "distractors": [
+                    "two",
+                    "to"
+                ],
+                "language": "en",
+                "question": "Choose the correct spelling . I 'm sorry , Jane , but I am really ... .. busy at the moment ! Can I call you back later ?",
+                "question_length": 29,
+                "score": 0.8086388394647734
+            },
+            {
+                "answer": "This",
+                "answer_length": 1,
+                "distractors": [
+                    "That",
+                    "These",
+                    "Those"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Kies het correcte antwoord . I brought you a new pen . ... one is much better than yours .",
+                "question_length": 25,
+                "score": 0.804381847193917
+            },
+            {
+                "answer": "too",
+                "answer_length": 1,
+                "distractors": [
+                    "to",
+                    "two"
+                ],
+                "language": "en",
+                "question": "Choose the correct spelling . I 'm sorry , Jane , but I 'm really ... .. busy right now . Can I call you back later ?",
+                "question_length": 28,
+                "score": 0.7936986444623568
+            },
+            {
+                "answer": "Chirs 's",
+                "answer_length": 2,
+                "distractors": [
+                    "Chris"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . I went to ... party this weekend .",
+                "question_length": 13,
+                "score": 0.7848115635543865
+            },
+            {
+                "answer": "this",
+                "answer_length": 1,
+                "distractors": [
+                    "that"
+                ],
+                "language": "en",
+                "question": "Choose the correct demonstrative pronoun ! Kies het juiste aanwijzend voornaamwoord ! Choisissez le pronom demonstratif approprie ! Look at the poor quality ! Would you buy ... product ?",
+                "question_length": 30,
+                "score": 0.757701589600232
+            },
+            {
+                "answer": "your",
+                "answer_length": 1,
+                "distractors": [
+                    "yours",
+                    "you 're",
+                    "her"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . This is where you work in the office . This is ... desk .",
+                "question_length": 29,
+                "score": 0.7514643384348363
+            },
+            {
+                "answer": "at Chancery Lane on Saturday ",
+                "answer_length": 5,
+                "distractors": [
+                    "in Waterloo station yesterday "
+                ],
+                "language": "en",
+                "question": "Choose the right answer . The accident happened ...",
+                "question_length": 9,
+                "score": 0.7513519637207325
+            },
+            {
+                "answer": "yours",
+                "answer_length": 1,
+                "distractors": [
+                    "your",
+                    "yourself",
+                    "yours own"
+                ],
+                "language": "en",
+                "question": "1.25 I forgot my book . Can you lend me ... ... ... ... . ?",
+                "question_length": 16,
+                "score": 0.7510773017233409
+            }
+        ]
+    }
+}

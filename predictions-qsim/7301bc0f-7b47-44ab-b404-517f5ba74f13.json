@@ -1,0 +1,135 @@
+{
+    "qid": "7301bc0f-7b47-44ab-b404-517f5ba74f13",
+    "response": {
+        "Query": "Baarmoederhalskanker is een van de meest voorkomende kankers bij vrouwen. Door welk organisme wordt het veroorzaakt?",
+        "Result": [
+            {
+                "answer": "de armen",
+                "answer_length": 2,
+                "distractors": [
+                    "de benen",
+                    "de billen",
+                    "de buik"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk lichaamsdeel zal het eerst effect ondervinden van het gebruik van het apparaat ?",
+                "question_length": 21,
+                "score": 0.9381448639542458
+            },
+            {
+                "answer": "Koorts",
+                "answer_length": 1,
+                "distractors": [
+                    "Aanhoudende jeuk",
+                    "Roodheid",
+                    "Blaarvorming"
+                ],
+                "language": "nl",
+                "question": "U observeert uw patient dagelijks . Er zijn heel wat symptomen die erop kunnen wijzen dat het minder goed gaat met uw patient . Wat is het belangrijkste klinisch symptoom van een kathetersepsis ? Duid hieronder het correcte aantwoord aan .",
+                "question_length": 41,
+                "score": 0.9064833790053807
+            },
+            {
+                "answer": "A",
+                "answer_length": 1,
+                "distractors": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk organisme wordt penicilline op natuurlijke wijze aangemaakt ?",
+                "question_length": 17,
+                "score": 0.8835235942232361
+            },
+            {
+                "answer": "Scheelzien",
+                "answer_length": 1,
+                "distractors": [
+                    "Cataract",
+                    "Astigmatisme",
+                    "Nachtblindheid"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke oogziekte is afgebeeld ?",
+                "question_length": 16,
+                "score": 0.8671096099830116
+            },
+            {
+                "answer": "Stelsel",
+                "answer_length": 1,
+                "distractors": [
+                    "Weefsel",
+                    "Orgaan",
+                    "Organisme"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Tot welk organisatieniveau in een organisme behoort het skelet ?",
+                "question_length": 21,
+                "score": 0.8555422592549305
+            },
+            {
+                "answer": "tot de grote bloedsomloop",
+                "answer_length": 4,
+                "distractors": [
+                    "tot de kleine bloedsomloop",
+                    "tot geen enkele bloedsomloop"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Tot welke bloedsomloop behoort de kransslagader ?",
+                "question_length": 18,
+                "score": 0.8554780244199961
+            },
+            {
+                "answer": "luchtpijp",
+                "answer_length": 1,
+                "distractors": [
+                    "maag",
+                    "dikke darm",
+                    "slokdarm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk begrip hoort niet thuis in onderstaande lijst ?",
+                "question_length": 16,
+                "score": 0.8516737766667964
+            },
+            {
+                "answer": "urineblaas",
+                "answer_length": 1,
+                "distractors": [
+                    "dikke darm",
+                    "maag",
+                    "slokdarm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk begrip hoort NIET thuis in onderstaande lijst ?",
+                "question_length": 16,
+                "score": 0.851672171083667
+            },
+            {
+                "answer": "Orthosympathicus",
+                "answer_length": 1,
+                "distractors": [
+                    "Parasympathicus"
+                ],
+                "language": "nl",
+                "question": "Beantwoord onderstaande meerkeuzevraag . 20 . Pseudo-efedrine werkt via de",
+                "question_length": 10,
+                "score": 0.8506546798061478
+            },
+            {
+                "answer": "overgewicht",
+                "answer_length": 1,
+                "distractors": [
+                    "ondergewicht",
+                    "normaal gewicht",
+                    "ernstig overgewicht"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lies meet 1,65 meter en weegt 72 kilogram . Tot welke categorie behoort ze volgens de tabel van het BMI ( Body Mass Index ) ?",
+                "question_length": 33,
+                "score": 0.8436025148123184
+            }
+        ]
+    }
+}

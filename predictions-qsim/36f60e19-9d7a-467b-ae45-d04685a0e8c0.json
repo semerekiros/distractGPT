@@ -1,0 +1,130 @@
+{
+    "qid": "36f60e19-9d7a-467b-ae45-d04685a0e8c0",
+    "response": {
+        "Query": "Waar ligt je schildklier?",
+        "Result": [
+            {
+                "answer": "BRUSSEL",
+                "answer_length": 1,
+                "distractors": [
+                    "GENT"
+                ],
+                "language": "en",
+                "question": "WAARBZIJN WE",
+                "question_length": 2,
+                "score": 0.935833515477093
+            },
+            {
+                "answer": "Ieper",
+                "answer_length": 1,
+                "distractors": [
+                    "Brugge"
+                ],
+                "language": "da",
+                "question": "Waar ligt Jan Yperman ?",
+                "question_length": 5,
+                "score": 0.9344833162296231
+            },
+            {
+                "answer": "Brugge",
+                "answer_length": 1,
+                "distractors": [
+                    "Kortrijk"
+                ],
+                "language": "nl",
+                "question": "MAak je keuze Waat bevindt VIVES Noord zich ?",
+                "question_length": 9,
+                "score": 0.923129394446946
+            },
+            {
+                "answer": "Toscane",
+                "answer_length": 1,
+                "distractors": [
+                    "Umbrie",
+                    "Vlaanderen",
+                    "Rome"
+                ],
+                "language": "nl",
+                "question": "Hoe heet het gebied van de Etrusken vandaag ?",
+                "question_length": 9,
+                "score": 0.9227218539999374
+            },
+            {
+                "answer": "Firenze",
+                "answer_length": 1,
+                "distractors": [
+                    "Pisa",
+                    "Rome",
+                    "Siena"
+                ],
+                "language": "lb",
+                "question": "Waar bevinden zich de kunstgaleries Pitti en Uffizi ?",
+                "question_length": 9,
+                "score": 0.9184945902026262
+            },
+            {
+                "answer": "In het noorden van Europa ",
+                "answer_length": 5,
+                "distractors": [
+                    "In het zuiden van Europa "
+                ],
+                "language": "nl",
+                "question": "Bekijk onderstaande figuur . Waar wordt de grootste oppervlakte beschenen door een bundel zonnestralen ?",
+                "question_length": 15,
+                "score": 0.914528393521378
+            },
+            {
+                "answer": "Izegem",
+                "answer_length": 1,
+                "distractors": [
+                    "Ruddervoorde",
+                    "Marke"
+                ],
+                "language": "nl",
+                "question": "Waar ligt Televic HQ ?",
+                "question_length": 5,
+                "score": 0.8901860556143515
+            },
+            {
+                "answer": "Latijns-Amerika",
+                "answer_length": 1,
+                "distractors": [
+                    "Azie",
+                    "Europa",
+                    "Afrika",
+                    "Noord-Amerika"
+                ],
+                "language": "nl",
+                "question": "Waar is de verstedelijkingsgraad het hoogst ?",
+                "question_length": 7,
+                "score": 0.8841565768557141
+            },
+            {
+                "answer": "tussen voorhoofdslob en slaaplob",
+                "answer_length": 4,
+                "distractors": [
+                    "tussen slaaplob en achterhoofdslob",
+                    "tussen voorhoofdslob en wandlob",
+                    "tussen achterhoofdslob en voorhoofdslob"
+                ],
+                "language": "nl",
+                "question": "11 Waar bevindt zich de groef van Sylvius ?",
+                "question_length": 9,
+                "score": 0.8831990854598194
+            },
+            {
+                "answer": "Geraardsbergen",
+                "answer_length": 1,
+                "distractors": [
+                    "Brussel",
+                    "Gent",
+                    "Brugge"
+                ],
+                "language": "nl",
+                "question": "klik de juiste optie aan waar staat de oudste Manneke Pis ?",
+                "question_length": 12,
+                "score": 0.869408906682531
+            }
+        ]
+    }
+}

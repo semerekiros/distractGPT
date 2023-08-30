@@ -1,0 +1,5 @@
+{
+    "qid": "2ececec4-51de-4580-8262-3d03dadadbe7",
+    "input": "question: what 's 'Bourgogne ' in English ?\nanswer: Burgundy\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "1. Bordeaux\n2. Bavaria\n3. Budapest\n4. Burundi\n5. Bogota\n6. Barbados\n7. Belize\n8. Bahamas\n9. Bali\n10. Bangladesh\n11. Bhutan\n12. Beijing\n13. Bermuda\n14. Berlin\n15. Baghdad\n16. Buenos Aires\n17. Bologna\n18. Brussels\n19. Birmingham\n20. Boston"
+}

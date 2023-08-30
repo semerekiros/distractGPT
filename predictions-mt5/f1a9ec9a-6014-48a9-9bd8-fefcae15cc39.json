@@ -1,0 +1,5 @@
+{
+    "qid": "f1a9ec9a-6014-48a9-9bd8-fefcae15cc39",
+    "input": "Welke lens van de microscoop zit het dichtst bij het oog? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. oculair\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. vingerafdrukscherm\n2. earpiece\n3. oogspiegel\n4. iris\n5. lip\n6. ooglid\n7. hele haar\n8. ogenrand\n9. oorlijn\n10. navel"
+}

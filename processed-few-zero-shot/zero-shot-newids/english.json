@@ -1,0 +1,4121 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "english.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "0",
+            "question": "36 . They do n't speak English and can not make ... ... ... ... ... ..understood .",
+            "answers": "themselves",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "them",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "us",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "you",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c1f83213-2f85-484c-b33a-8d61c64f0b7d",
+                    "distractor": "pancakes",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "342ba33c-b785-4ebe-a49e-66e2293a41b8",
+                    "distractor": "sandwiches",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "195325ed-996e-47b6-9285-78ad82639b46",
+                    "distractor": "macrame",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "2657fd38-9dc1-45c6-8b95-1e330c029c5f",
+                    "distractor": "pizza",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "e0e6a9a8-09e0-4f3f-ab01-ae2505d76004",
+                    "distractor": "pottery",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "69fea578-3ced-441d-a1fa-441dfba9758a",
+                    "distractor": "car repairs",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "ac2edb6f-9565-49d3-8a14-4a402f9f1a95",
+                    "distractor": "tap dancing",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "43b20d81-ac45-44db-b010-14ebb8aed7c4",
+                    "distractor": "origami",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c0db8762-2d87-43d1-ae34-4b7db8a3e1e1",
+                    "distractor": "astrology",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "8ae5bd21-2dac-410c-bcbb-d039e1fce325",
+                    "distractor": "calculus",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1",
+            "question": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? The question of the supervisors is interesting .",
+            "answers": "the supervisors ' question",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "the supervisors 's questions",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "the supervisor 's question",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "the supervisors ' questions",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e4cf7d85-68c9-4e9d-95b1-14d501adc572",
+                    "distractor": "the interesting supervisors' question",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "d032c85e-0901-41f3-813e-aec4f4e4086b",
+                    "distractor": "question interesting of the supervisors",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "16008d08-4043-4058-b82e-da36e3743540",
+                    "distractor": "question of interesting supervisors",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "50533d2f-cd00-4ba2-8369-774d0e85539e",
+                    "distractor": "interesting question of supervisors",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "789b3f8b-c56e-44ac-bbbb-ce799d1bd68d",
+                    "distractor": "question of the interesting supervisors'",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "596a6207-ea16-447b-a586-4ca3651b4f3f",
+                    "distractor": "the supervisors interesting question",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "555c0639-53ae-42f7-a55c-ad95cb07755e",
+                    "distractor": "interesting question of the supervisors'",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "9644cd87-c26a-461e-afe7-dba3e4161d17",
+                    "distractor": "question of supervisors' interesting",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "7e36af9a-a86d-434a-912d-ead99486a005",
+                    "distractor": "supervisors question of interest",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "3f2b3409-f8ab-4662-aa55-1b1f0893d9db",
+                    "distractor": "the question of the interesting supervisors'",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2",
+            "question": "Choose the correct answer . Did you like the ... ending ?",
+            "answers": "book 's",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "book",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "books",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "020f144c-de40-4d62-b398-6cf0cbb7d70b",
+                    "distractor": "movie's",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "96b8e630-3d82-499d-9849-810f6914536c",
+                    "distractor": "play's",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "83895be4-66bc-4f63-863b-ea2c6c517a5b",
+                    "distractor": "music's",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6b3f8a84-8402-41da-a54b-9af979625120",
+                    "distractor": "restaurant's",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "de1ec3fa-3607-43d9-9c88-f8fe3111a0d8",
+                    "distractor": "painting's",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "0cc62dcd-7392-42a0-b9e5-0b2782e77cb8",
+                    "distractor": "vacation's",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "0a023cbc-b914-4466-b727-ee397dfc3b0a",
+                    "distractor": "party's",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "2a0ea766-c59f-4976-9caf-24c278023d82",
+                    "distractor": "game's",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "fc6e490d-22a2-4c3d-aa89-9682e3bc8e24",
+                    "distractor": "TV show's",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "8169b6d9-51ad-4a76-afe0-7ff1bb28ebdb",
+                    "distractor": "conversation's",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3",
+            "question": "Choose the opposite of the word in bold . I have some money to make an investment .",
+            "answers": "disinvestment",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "purchase",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "share",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "saving",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6d8997a4-603a-4e98-8edd-bfbced8e19c8",
+                    "distractor": "divestment",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "48e3b9df-7588-4115-b865-031cddbc36a4",
+                    "distractor": "loss",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "86794151-0d92-40b1-9ccf-3bd4561a16fb",
+                    "distractor": "donation",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6bb8543c-970f-4cc5-92d6-8adcefdd6b67",
+                    "distractor": "expenditure",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "b6c00298-74af-4749-9641-1cb29e54c640",
+                    "distractor": "debt",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "56bb7beb-6612-45cf-aef6-12f4c955b663",
+                    "distractor": "charity",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "51fa8fb2-f4b2-46c9-a2ad-6c994c4ed887",
+                    "distractor": "squandering",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "3fa5fa12-0cba-445c-bb32-75de083008c1",
+                    "distractor": "gambling",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "157fe5d2-bbcd-498d-b53a-4bb5cbae601f",
+                    "distractor": "splurging",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "1392bfb3-0f86-45ba-86f0-b62ee247b9c9",
+                    "distractor": "waste",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4",
+            "question": "Linking sentences Choisis . Use ... to give several options .",
+            "answers": "or",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "and",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "but",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "so",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4a7d832e-1e5d-49ab-9097-613aa301d0a5",
+                    "distractor": "and",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "11fb3546-35cb-41a6-93e3-6e8d1a311221",
+                    "distractor": "because",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "05068557-b88e-475d-81c2-d24d49f35044",
+                    "distractor": "but",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d31a295f-5de0-4ccd-ad77-c9d931b0384e",
+                    "distractor": "not only... but also",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "513e9fc7-02d0-4aa9-96d2-4346a7fb835a",
+                    "distractor": "since",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "b392b16d-6a69-4e52-ab31-a826c913f7b3",
+                    "distractor": "therefore",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "ced9ab04-0dd0-4e64-86c5-4ef86446e6a1",
+                    "distractor": "while",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "148a84cc-971b-4850-9999-a803aa24f96e",
+                    "distractor": "after",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "03d78147-a5d4-4e8a-a071-a822c0fc8cab",
+                    "distractor": "although",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "cecee215-72f3-440c-8748-c10e8fb60d10",
+                    "distractor": "as",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5",
+            "question": "Who are we talking about ? Tick the right answer . Hi . My name is Greg . Julie is the daughter of my sister . Julie has to call me ...",
+            "answers": "Uncle",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Father",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Aunt",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Grandfather",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Brother",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fd141c5e-acae-4400-b1f4-caf5c30db6dc",
+                    "distractor": "Doctor",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "6e88a78a-2661-4390-bae4-44132c32ce49",
+                    "distractor": "Mr. President",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "1aad9db6-0ce1-4171-89a9-8b914cc78011",
+                    "distractor": "Boss",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "2ed59812-9d54-4222-afae-f983862dac89",
+                    "distractor": "Sensei",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "322c17fb-8871-4f8b-9762-21f8fef10d2b",
+                    "distractor": "Captain",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "531cfb5d-38ff-4494-a81f-233056175dcb",
+                    "distractor": "King",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4728f544-8476-45b5-9cc5-019635f0a06b",
+                    "distractor": "Chef",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c9fa70d2-e0ef-4834-ba40-63d23da7323f",
+                    "distractor": "Coach",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5046361a-2b8c-4c38-9c7f-e5051cf3f803",
+                    "distractor": "Professor",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "335a8a3e-734b-4390-abff-38e6a52e6711",
+                    "distractor": "Detective",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6",
+            "question": "Determination to keep trying to do something difficult is called ... ... ... ... ... .",
+            "answers": "perseverance",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "loyalty",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "retention",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "satisfaction",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7d87da36-00f4-430d-af79-2b9c4224c285",
+                    "distractor": "Insistence",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "c46bceb8-12c4-46d5-a01f-ea09a7a0891d",
+                    "distractor": "Stubbornness",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "0a064edc-cde9-44f8-9608-d0c48e222df9",
+                    "distractor": "Endurance",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "b8d87742-3f90-4416-93fc-b601981c46ff",
+                    "distractor": "Tenacity",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0f0a6256-14ce-42cd-ac48-0146da063b72",
+                    "distractor": "Pertinacity",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "ad40c729-8d6b-4b8d-990a-4e402dcb381e",
+                    "distractor": "Fortitude",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "35160c5b-f4e9-4411-8dff-8dce7cdd7551",
+                    "distractor": "Resilience",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "8ebd5116-cc86-4941-8eb4-a5621ae211f6",
+                    "distractor": "Grit",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "102eb6a5-479d-4c74-9313-eebc6d332aae",
+                    "distractor": "Doggedness",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "a917a53d-37fe-4cf4-9a1a-4a9f5c3ff0bb",
+                    "distractor": "Indomitability",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7",
+            "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you allow .",
+            "answers": "would",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "do",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "should",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "have to",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b4c7eb9b-4e1f-4ff3-b72d-4065e4ab68cd",
+                    "distractor": "could",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "20078129-39d3-40db-8108-3ef7241c0ac4",
+                    "distractor": "will",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "1f0189d6-4909-432d-8969-11691e681db2",
+                    "distractor": "should",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "cf7ffc1d-47e2-478d-8d6a-215c32534276",
+                    "distractor": "might",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "70fec693-7f84-4e13-8f26-3ad1f4c5540e",
+                    "distractor": "can",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "351fa2d8-9621-4038-a924-3f4301979111",
+                    "distractor": "have to",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "40fe3a07-fa79-4282-8f75-c832081a0a2e",
+                    "distractor": "must",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "8224527f-e561-4843-9225-17766b0a6f92",
+                    "distractor": "need",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5a215757-ee3e-4a6e-ae91-22a6b44553aa",
+                    "distractor": "shall",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "21f90d59-10c8-4d63-af85-ec1f0f89e6f4",
+                    "distractor": "gonna",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8",
+            "question": "1.47 How do I get to the airport from here ? Do n't worry , I ... ... ... ... you .",
+            "answers": "'ll show",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "show",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "am showing",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "'m going to",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e62c5774-5a63-4b66-afd5-fae5550b02bd",
+                    "distractor": "I'll race you there!",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "fac7a79d-c6e2-4f56-9b79-a7124f4c39ac",
+                    "distractor": "Just follow the unicorns, they know the way.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "a1acc301-5e60-4bc6-b58e-c890b6b25545",
+                    "distractor": "Hop on one leg all the way there, it's faster.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "987589e2-0650-4899-b50c-bb955d4dbc24",
+                    "distractor": "There's a shortcut through the jungle.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "45e6f30d-ea42-4818-982d-c002990beb29",
+                    "distractor": "I'll leave a trail of breadcrumbs for you to follow.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "24e5d4fd-0ab2-49c1-af82-88a544eefb1f",
+                    "distractor": "Just use your teleportation powers.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "95763da0-ad9d-4621-8aed-dcb6091c6b23",
+                    "distractor": "It's easy, just climb to the top of that mountain and glide over.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "755397e9-f3ae-4bc3-ad9d-cd26e0f1467f",
+                    "distractor": "Take a left at the moon, and then a right at the stars.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "61510cd0-33fe-414e-a2f6-54c36a2b6dbc",
+                    "distractor": "Have you tried riding a giant bird?",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "795dd3f9-e89a-4681-af3d-b943390e9d39",
+                    "distractor": "You can swim there, it's not that far.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9",
+            "question": "Choose the appropriate response . How do you do ?",
+            "answers": "How do you do ?",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Fine , thank you",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "How are you ?",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3cdc4d00-15b7-4262-a7c4-0e6917754894",
+                    "distractor": "I'm doing great, thanks for asking!",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "3f358035-1f69-4e3a-9f03-39f307d07d02",
+                    "distractor": "Sorry, I don't understand the question.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "d2dc31a3-65a6-4c05-b727-ab401feb62b2",
+                    "distractor": "What do you mean by that?",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "37c8efbc-f206-4cc6-b9ac-9986d148b81d",
+                    "distractor": "I'm doing well, but I'm a bit tired.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0a030ac5-5637-4390-be37-f57ea3e2fcfe",
+                    "distractor": "How do I do what?",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "04862bd8-1594-4a74-8611-7ad588d6d181",
+                    "distractor": "I'm doing terrible, thanks for bringing it up.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "606b4c57-f1de-43ab-9690-ff72deb4ad48",
+                    "distractor": "I'm doing okay, how about you?",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "cf55bf93-070b-4836-a43d-9c94c3e10b9f",
+                    "distractor": "I'm not sure what you're asking.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "94506cef-4623-4043-85d3-042d079f70d6",
+                    "distractor": "I'm doing fantastic, how about yourself?",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "fa54ee57-17c2-4e6e-9b5c-48d0218fdec4",
+                    "distractor": "How do I do what, exactly?",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "10",
+            "question": "to shrink is ...",
+            "answers": "to contract",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "to expand",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "to boost",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "df7bdf78-5ff4-47a6-81c9-8e4452ef3957",
+                    "distractor": "to expand",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "7caac551-a38e-4c80-a4d3-12325b2dd870",
+                    "distractor": "to inflate",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "ed9aaff4-ebf5-4845-9b8d-eaaa3a5d18de",
+                    "distractor": "to enlarge",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "130bbdf4-270e-4df2-a9e4-60fd7db43dba",
+                    "distractor": "to grow",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0006ea67-6946-4f2f-b9ac-e16ab8cd75b8",
+                    "distractor": "to stretch",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "b913874f-69f2-498b-8a4a-df65d21d2827",
+                    "distractor": "to bloom",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "dec93b5f-3af3-4982-b33c-fe76e4636dcf",
+                    "distractor": "to develop",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "9faefba4-29c8-4487-ac2f-a6f136b8dca2",
+                    "distractor": "to increase",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "9257e808-0cb9-4e81-aa05-153b38253a8b",
+                    "distractor": "to magnify",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "e65d5824-bde6-4053-b168-e84e64147024",
+                    "distractor": "to spread",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "11",
+            "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you offer .",
+            "answers": "would",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "do",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "should",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "have to",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e7943426-a0cb-45a6-8ef0-39221801d537",
+                    "distractor": "will",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "557662ca-36fc-4706-9d02-8c925895d7f2",
+                    "distractor": "may",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "60322962-a823-4eca-8c03-54c2026f3b59",
+                    "distractor": "can",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "b29a7be7-675d-4921-8320-4026f8b07072",
+                    "distractor": "shall",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d2c81bc2-6699-4780-a3f1-0a99f5e32620",
+                    "distractor": "could",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "6ef8e958-2ed1-4c7d-afd3-38ea9f5c7299",
+                    "distractor": "might",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "dd756549-e498-48be-bdf9-fb368069ac04",
+                    "distractor": "should",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "f4d0f91f-eb5a-4973-a5a9-ccc379b20c37",
+                    "distractor": "must",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5b7dcd69-2676-4428-941a-a33b6f8b4863",
+                    "distractor": "wish",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "5a5e4a47-e49c-4369-bb7d-c528a1c19e79",
+                    "distractor": "want",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "12",
+            "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Although the CEO has been accused of corruption , he is still refusing to _______________ .",
+            "answers": "step down",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "wind down",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "trade in",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "rule out",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "I do n't know",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b3be9a9d-fd4f-4e48-81a5-219e20a41422",
+                    "distractor": "Admit guilt",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "403eb2a5-5e8e-4e0c-8e54-ed1a0f135f87",
+                    "distractor": "Increase his salary",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "0f136f5d-074f-4634-8cc5-3261365992f6",
+                    "distractor": "Fire his accusers",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "8c47a568-3763-499e-a180-4d17c9263d7a",
+                    "distractor": "Run for president",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "fc69e320-1328-4c82-8768-2decd7b80c6b",
+                    "distractor": "Give a public apology",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "7b20c12d-e145-47cf-9214-c8dc31483dd0",
+                    "distractor": "Promote his accusers",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "798a6f4e-a0c8-4732-a4f8-1053e2ad421a",
+                    "distractor": "Hide in a secret location",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "609950cc-410e-46f4-a731-46bfb824b7df",
+                    "distractor": "Donate money to charity",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "1e7d74bf-a3a3-4099-8e64-9097846549d8",
+                    "distractor": "Start a new company",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "b2bda24e-7d97-47e3-893d-692dc23a419f",
+                    "distractor": "Blame his subordinates",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "13",
+            "question": "to remove buds from a plant is ...",
+            "answers": "to disbud",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "to entbud",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "to withbud",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "8fa1ff18-1c5a-41b3-8ae5-9f48e4a266af",
+                    "distractor": "to debudgerize",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "11f1ec36-2898-45ef-844b-9d8c8bbaa84c",
+                    "distractor": "to unbloom",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "8aa3e9fe-5641-4c1e-8024-e2f649925bf8",
+                    "distractor": "to unflourish",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "df444c28-e7b3-49fc-bd2e-70f2fde000aa",
+                    "distractor": "to depetalize",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "ed491434-6002-41e9-bb64-4d1f3bd2d712",
+                    "distractor": "to decapitate",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "6450617a-e936-442c-a3cd-ca4607ab758b",
+                    "distractor": "to unspout",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "063c4e4a-d0ff-46ee-b869-c71e4170fd0a",
+                    "distractor": "to deflower",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "4d1d37fc-3a6a-4e69-9fe7-54dc53bd8757",
+                    "distractor": "to debranch",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "434de75b-9ec7-49bd-84c0-bc8214545a6d",
+                    "distractor": "to demature",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "cfe7b21d-a082-4183-95a8-f8fd7c070ee9",
+                    "distractor": "to deroot",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "14",
+            "question": "Choose the appropriate conjugation to express something completed in the future ! By this time next month we ... .. the designs .",
+            "answers": "will have finished",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are finishing",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will finish",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "go to finish",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "69c13c24-c27c-41fb-a355-7ec46b144d9a",
+                    "distractor": "will finish",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "bdedbdd5-3ac7-49a1-9f1d-389e2a094a6c",
+                    "distractor": "will be finishing",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "cbaf22b8-bc80-443d-874b-9b5f65cf4346",
+                    "distractor": "will have been finishing",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d812adad-789b-495e-98b2-56ce8ceff37a",
+                    "distractor": "will had finished",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "2450dbb7-0758-4e83-8b23-b89a055af92a",
+                    "distractor": "will have finish",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "21ffe6ed-23d3-42b7-99b7-9a0dcaad8e9d",
+                    "distractor": "will have finishing",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b357f3ca-af80-459b-8a4a-042afe6685e9",
+                    "distractor": "will be finished",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "8525a31b-22c4-4616-8e9e-90acc5b46414",
+                    "distractor": "will be have finished",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5e73e13d-1495-4041-9b57-289fc670d6fe",
+                    "distractor": "will have done",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "a650ea31-7b37-41df-a1d2-223bc376f37b",
+                    "distractor": "will have made",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "15",
+            "question": "2 . The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours",
+            "answers": "has been working for",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "has been working since",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "is working for",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "had been working since",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "74948621-7255-4886-afce-b65bb88125ab",
+                    "distractor": "was on vacation for",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "4fad3a5d-9316-4671-b87d-aafdd689548d",
+                    "distractor": "forgot about the appointment for",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "4d2a8dd7-931b-4f65-b563-65e9e732cb36",
+                    "distractor": "will start working in",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6498447f-e925-4af4-a876-452684b4c792",
+                    "distractor": "finished the job in",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "be624b9f-353e-43de-a5c4-93df08d9b622",
+                    "distractor": "called in sick for",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "33ded647-d0c1-40e0-910c-2f97b1e2ff6c",
+                    "distractor": "quit the job after",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "81ed8bc1-e249-4d57-b37d-571209365d09",
+                    "distractor": "was fired before",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "4089c047-5a64-416e-a931-1ad46279416d",
+                    "distractor": "got lost on the way to the job and arrived in",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "3798481d-a21d-48b8-9d99-492b065cb149",
+                    "distractor": "was waiting for the parts for",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "1c2f2369-00b2-4f12-9848-a44aed4ec8df",
+                    "distractor": "took a lunch break after",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "16",
+            "question": "when something is indispensable , ...",
+            "answers": "it 's essential",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "it 's hard to find",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "it 's very expensive",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b3c4ee30-ec8b-424b-8ff8-90c847a6aefc",
+                    "distractor": "it's optional",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "aedd0a0a-8f41-4f27-981e-eb00e52ea6da",
+                    "distractor": "it's trivial",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "97f9d850-113b-4728-9c4f-e6ebe9788e5c",
+                    "distractor": "it's insignificant",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "9d7b164d-b61c-486c-a782-d4e55501f123",
+                    "distractor": "it's unnecessary",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "e6599941-79e3-4dbb-bd73-244b05311735",
+                    "distractor": "it's superfluous",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "f52982d4-6378-4172-be90-a60ed18a0ff4",
+                    "distractor": "it's dispensable",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "69961be3-b37a-41c9-9ecb-3ac113217d77",
+                    "distractor": "it's expendable",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "6487c2cb-2abc-41e6-b673-0b2f5d964e0c",
+                    "distractor": "it's unimportant",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a7c1078e-44c5-4d4c-a44c-1270b39e8cc6",
+                    "distractor": "it's inconsequential",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "c73b8291-34f8-4746-bfcb-1663daad7128",
+                    "distractor": "it's replaceable",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "17",
+            "question": "The Council discussed a proposal for a common corporate tax base in the EU , aimed ... the administrative burden",
+            "answers": "at reducing",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "to raising",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "for cutting down",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "at turning down",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "df231b6f-5c2b-4de7-8eeb-c6c034739cd4",
+                    "distractor": "at increasing",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e15d72db-1f56-497e-ad1e-db92f1898d11",
+                    "distractor": "at complicating",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "aa960f62-1c94-4ce9-a4ae-b170ca797d14",
+                    "distractor": "at abolishing",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "b2b4c7e4-2c04-4845-a1d1-c320fdae1eb7",
+                    "distractor": "at ignoring",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "394290fb-b024-4a41-8fb1-cb7c64e44ffe",
+                    "distractor": "at inflating",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "0a68c69e-f45b-4944-9ef9-24b83901e926",
+                    "distractor": "at decentralizing",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "76571f64-1190-404b-b342-93f370d4fc6e",
+                    "distractor": "at eliminating",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c03820c1-eedf-4a8a-b1fd-682f0335c7bd",
+                    "distractor": "at complicating further",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c94e2a9a-594f-4071-a3c9-35c8de3962ba",
+                    "distractor": "at imposing",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "9d35ee9a-f17e-49c3-bfc4-d22256cd9bb5",
+                    "distractor": "at doubling",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "18",
+            "question": "Personal pronoun Coche la bonne reponse . 1 . Oi , those are my records . Do n't touch ... !",
+            "answers": "them",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "they",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "it",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "937b0294-499e-4586-9920-b52cd1667214",
+                    "distractor": "he",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "3cafe8dd-1796-4f34-9450-2654830fca9a",
+                    "distractor": "she",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "d4b60d12-1d79-4ec7-afd0-2bda69a98d19",
+                    "distractor": "it",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "effb00fb-daa8-4cac-9441-e47684497f7c",
+                    "distractor": "you",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "efc95875-3351-40ee-b682-891713ecb864",
+                    "distractor": "we",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "ce375c17-f737-4c88-b789-f2a9d83c2774",
+                    "distractor": "us",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "b658c112-be96-4a37-bfb0-bf86ade1d790",
+                    "distractor": "him",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "b763b796-b9ed-4493-a857-1ec97024180d",
+                    "distractor": "her",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "fc9dc47c-60ab-4775-b6fd-c79f770489fc",
+                    "distractor": "they",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "2baf7ab1-3015-484b-9a90-7556dbb5b6ec",
+                    "distractor": "theirs",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "19",
+            "question": "1.4 When you ... ... ... ... ... ... Henry , tell him the truth .",
+            "answers": "meet",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "met",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will meet",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "would meet",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "046e1803-096c-4545-827c-0add605e2c73",
+                    "distractor": "Ignore",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "ef610227-7880-4b96-8a62-75d17ef1d94f",
+                    "distractor": "Hear",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "3e4dc783-c8ac-48b4-9e3e-299f12f8754e",
+                    "distractor": "Prank",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "98552f6e-65c3-42d2-95cb-6abf3525592d",
+                    "distractor": "Insult",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "21310cf0-74db-4d76-8f15-fa3da3b98de0",
+                    "distractor": "Help",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "664a6039-5e94-456f-a5e8-edffa0c5aca7",
+                    "distractor": "Lie to",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "3d079151-4436-48ae-a8b5-a103d0d4b538",
+                    "distractor": "Avoid",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c9f8ad79-f7fe-4348-95ce-b1294c0d5b9b",
+                    "distractor": "Criticize",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "8c38b486-df26-46fa-945b-06b51ad34b97",
+                    "distractor": "Befriend",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "348420d9-ab2f-44aa-9477-d0fa3c586f05",
+                    "distractor": "Rob",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "20",
+            "question": "Choose the appropriate conjugation ! I ... .. in marketing before I joined my present company .",
+            "answers": "had already worked",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "already worked",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "am already working",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "was already working",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d97c358b-bba7-4f06-8ce5-2030c96ace00",
+                    "distractor": "was already working",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "a8eebd4c-d93d-4cbd-ad02-ecb8025a874b",
+                    "distractor": "have already worked",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "3225d0f2-e4a9-4a0d-931a-9e0ba2f7d685",
+                    "distractor": "will already work",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "929e1199-a22b-46c4-b467-35e1a7e1f525",
+                    "distractor": "had been already working",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "6b038376-ef13-47ec-be44-4125e7e75e2e",
+                    "distractor": "would already work",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "311fe160-1349-43c7-af5e-100db2579089",
+                    "distractor": "am already working",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "230b9f28-9eb1-477a-aece-443bea745f70",
+                    "distractor": "had worked already",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "7e04700b-1355-43d0-80c7-5421968f3e8e",
+                    "distractor": "already worked",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a7ade867-5a0e-410f-9a37-e30b27e1904b",
+                    "distractor": "has already worked",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "0764f5c9-0ec1-4df2-8009-12bf0310d8a3",
+                    "distractor": "had already been working",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "21",
+            "question": "Choose the opposite of the word in bold . He bought a beautiful tailor-made suit .",
+            "answers": "ready-to-wear",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "well-sized",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "expensive",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "fitted",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a59e8433-55a8-4550-b20f-2f632cea3170",
+                    "distractor": "Custom-made",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "cf30e22a-de82-40cf-ac65-078b7c324fe0",
+                    "distractor": "Ugly",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "94c64bc3-b495-47d8-bc14-57cb752277a2",
+                    "distractor": "Ill-fitting",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "4944422a-5c49-4e1c-b3f7-aca3aaaac18e",
+                    "distractor": "Inexpensive",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "c034ce1e-c418-47c8-8525-abc73ed697d3",
+                    "distractor": "Rented",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "6a6a2e3e-5818-4667-95e4-3ca50244774a",
+                    "distractor": "Off-the-rack",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "bc3df991-fa3b-4b50-be5a-d427a61f1396",
+                    "distractor": "Second-hand",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e2653e67-0740-4bb6-8e0c-a54a0dc65c50",
+                    "distractor": "Shabby",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "fd7fa6fb-7ab9-4ff5-b436-897b384a1c85",
+                    "distractor": "Oversized",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "68cec2ea-51d1-4458-a4cd-ccfbd848dce9",
+                    "distractor": "Unfashionable",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "22",
+            "question": "Choose the correct answer . Kies het correcte antwoord . He ... funny .",
+            "answers": "is n't",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are n't",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "am not",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c7c40269-8f7a-4911-b755-fe6b37c5877d",
+                    "distractor": "isn't being",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "0b80035a-0f56-4fcc-aa1b-0df6a76749ea",
+                    "distractor": "are not",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "49d784b4-d2e1-4aa9-a0af-8451069d7dfa",
+                    "distractor": "wasn't",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "bea56f99-6607-45c4-b08e-9c7797a46d12",
+                    "distractor": "haven't been",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "08f5dbac-636d-45ab-b596-9f2d0116ed3e",
+                    "distractor": "weren't",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "4f32a39c-7fc9-433f-af86-d0e3352f408f",
+                    "distractor": "isn't always",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "2078a593-13c0-4456-bdba-e1eee278a45e",
+                    "distractor": "aren't consistently",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "570a106d-d1e5-4216-a8ac-9419c7b897e9",
+                    "distractor": "wasn't acting",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "ceb8d6fe-0193-499e-82ac-0ed1f5e04d15",
+                    "distractor": "won't be",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "8cf983b9-c95a-45c3-81de-d2533af857b5",
+                    "distractor": "isn't really",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "23",
+            "question": "Choose the right word . There is a lot of ... .. on this line .",
+            "answers": "interference",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "problems",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "disturbance",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "noises",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f6d0a338-fa5c-40c7-a1e3-3d84e9064682",
+                    "distractor": "Insulation",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f88656ec-0357-472f-b90e-e5b1d42f5718",
+                    "distractor": "Connection",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "9b9f210a-9a0f-4221-a35e-ee7f520767a2",
+                    "distractor": "Electricity",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "2664430e-744f-4231-abb3-dee47bdb40b4",
+                    "distractor": "Signal",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "212b68b1-36df-418b-ae33-1f471b2e0a59",
+                    "distractor": "Current",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "6657f07f-02b5-4131-9e04-4212e43c2f90",
+                    "distractor": "Transmission",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "9a3f3a03-1309-4d33-aef6-2474355bd695",
+                    "distractor": "Noise",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "ded7ba5f-53e2-4ff1-bb7d-e70dba36279a",
+                    "distractor": "Static",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "3674a772-736a-4a7d-98da-a6be0f097fa9",
+                    "distractor": "Congestion",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "c4d2373a-4a92-4407-834d-1dd51386bb33",
+                    "distractor": "Resistance",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "24",
+            "question": "Because of huge protests the Minister finally decided to ... the bill",
+            "answers": "scrap",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "supersede",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "cancel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "push back",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4bdfafb8-6305-45f2-b2fe-86eace8b10ac",
+                    "distractor": "veto",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "ff06f58c-7fbd-4ec0-a1ac-0102b406dfb9",
+                    "distractor": "amend",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "10a40da9-6b86-44c9-bf46-3a671b816c90",
+                    "distractor": "pass",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "42018ac7-533a-4c29-ae6f-b707edd5fe6d",
+                    "distractor": "delay",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "45991b15-7fea-447c-b403-1367dc01e931",
+                    "distractor": "enforce",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "61489427-a52f-4fdc-9313-7119a91cdef9",
+                    "distractor": "support",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "acbd8ffd-2c04-41da-bfe1-a3324f2aa442",
+                    "distractor": "propose",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "5ae12708-99eb-4222-aee9-1ee724344d90",
+                    "distractor": "revoke",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6a2562b5-a256-4994-99c3-71d400fee6f1",
+                    "distractor": "modify",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "b9768262-8f2c-4b66-9a12-8beac486f5a3",
+                    "distractor": "ignore",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "25",
+            "question": "2.50 How do you ... ... ... ... if a journalist or other writer is telling the truth ?",
+            "answers": "find out",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "carry on",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "think back",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "speak out",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5da1643a-55a0-4b2f-81b8-0fcb39951044",
+                    "distractor": "Flip a coin and hope for the best.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "a93bfc52-1e4d-4c94-be50-76e934f30660",
+                    "distractor": "Read their horoscope and see if it matches their writing.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "1d76ee20-39e8-47b5-8efc-d25840decb42",
+                    "distractor": "Ask a psychic for their opinion.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d0ba12e0-fd5f-441c-9503-e9e6a8927e80",
+                    "distractor": "Use a magic eight ball to determine the truthfulness.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "6d233867-5d8f-49aa-bf76-dc45e38643c5",
+                    "distractor": "Check if their zodiac sign is compatible with honesty.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "304076df-26ec-47f6-9f6f-f30b008ecc4a",
+                    "distractor": "Use a lie detector app on your phone.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "c8203309-3788-431f-a5ac-49a343080706",
+                    "distractor": "Ask a random stranger on the street for their intuition.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "d8a33de4-2df9-4b82-8dc2-28657e2e6e23",
+                    "distractor": "Check if their name has a meaning related to truthfulness.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "ea27cdda-cb0a-4309-a94a-b46eeacc7665",
+                    "distractor": "See if their writing rhymes.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "67ad5c05-47e3-42e2-8b7f-792c2d2f4962",
+                    "distractor": "Look for hidden messages in their writing using a decoder.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "26",
+            "question": "His successor , ... ... ... ... ... ... ... ... appointment was announced last month , is a very different kind of person .",
+            "answers": "whose",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "who",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "whom",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "which",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c8f69fa9-b72c-40ad-85e8-e98b0b86937f",
+                    "distractor": "It's rumored that his cat's appointment was announced last month.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "3d43417c-b784-45f7-b549-67f9b5d7ba0c",
+                    "distractor": "Unfortunately, his successor's appointment was never announced.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "94726593-e50f-4ff4-bf91-0fdc3cdaa7b7",
+                    "distractor": "Her predecessor, who was fired last month, had a very different personality.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "0410a10d-85ee-4790-bfa2-0df23dda35d8",
+                    "distractor": "His successor's dog, whose appointment was announced last month, is a very different kind of animal.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "f6355641-ad44-4c39-8213-0f7d8bf394c7",
+                    "distractor": "His successor's appointment was announced last month, but nobody knows who it is.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "af251be8-49a5-46f8-bcd4-555eb63506ed",
+                    "distractor": "His successor's appointment was announced last month, but it was later revealed to be a hoax.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "bc93c08e-2b60-4fbd-a2b0-9179775636cc",
+                    "distractor": "His successor's appointment was announced last month, but it was delayed due to COVID-19.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "4cba0352-c450-4a7e-b710-f53e68031323",
+                    "distractor": "His successor's appointment was announced last month, but it was actually a robot.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "a5837d0f-281a-436d-b06d-22bb0cc421dd",
+                    "distractor": "His successor's appointment was announced last month, but it turned out to be a typo.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "e11b2f1b-e28f-4b6f-86b8-71f03fb6c36f",
+                    "distractor": "His successor's appointment was announced last month, but it was only temporary.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "27",
+            "question": "They were badly ... ... ... ... ..in the accident .",
+            "answers": "injured",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "broken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "wounded",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "illness",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "faa3cf3c-1b89-41c3-b19d-ae736af39ca3",
+                    "distractor": "cooked",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "25c273c0-8d72-4d55-b9ee-8e8d5ae69a35",
+                    "distractor": "puzzled",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "2940daad-ccd2-4463-84a8-2f83e6e4e449",
+                    "distractor": "decorated",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6e352821-8c08-4864-9718-13e19f4ce633",
+                    "distractor": "organized",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "facb5bfe-4b60-445a-b44f-5038246db536",
+                    "distractor": "mesmerized",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "e622647f-aeb6-4a3e-9d82-56871cbab2a8",
+                    "distractor": "entertained",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "e274ff19-ca54-4483-9b2f-408174830727",
+                    "distractor": "repaired",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "15906c95-51fe-4d9b-92e0-13946801316b",
+                    "distractor": "inspired",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c8b5a2ba-c6d6-4c6c-a7aa-c70932bedf6d",
+                    "distractor": "celebrated",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "472b8ae1-b8cf-4211-b92c-d022410242f0",
+                    "distractor": "confused",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "28",
+            "question": "... .. number did you want ?",
+            "answers": "What",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Whose",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Which",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "What person 's",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b869b904-98b4-45f5-9830-a174c1d64511",
+                    "distractor": "Blue, because it's my favorite color.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "c6a1ef95-2bd1-4602-992b-9a3d4a0dc479",
+                    "distractor": "The square root of infinity.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "dbae6d9b-07c6-4bd8-853e-820814a06bc2",
+                    "distractor": "The number of hairs on a dog's back.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "a77646d9-6569-46ff-9db2-89209d4b6c69",
+                    "distractor": "The number of planets in our solar system.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "d0bf31d2-d1ab-42a3-8795-56dd95c65128",
+                    "distractor": "The answer to life, the universe, and everything.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "67104acc-a246-465b-a1df-6a8e4580c4af",
+                    "distractor": "The number of seconds in a day.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "27de6517-bf3b-4f63-9f73-2d69bb2eec69",
+                    "distractor": "The number of letters in the English alphabet.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c4bb13fb-6f5e-41d6-bd2f-f43e5a447537",
+                    "distractor": "The number of continents on Earth.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "93663d9a-0447-4a86-8391-244cc3458d25",
+                    "distractor": "The number of fingers on a hand.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "a24842e2-2240-4b83-98d0-965fd9d17468",
+                    "distractor": "The number of petals on a rose.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "29",
+            "question": "combustion is a synonym for ...",
+            "answers": "burning",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "respiration",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "breathing",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "62e20beb-3163-4bff-a1b3-c8122b7469b6",
+                    "distractor": "Disintegration",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e43af922-25de-4e09-86b9-ce7d62f7bc47",
+                    "distractor": "Vaporization",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "af38bb8a-a562-4ed1-8e0c-1f99078f1e29",
+                    "distractor": "Dissolution",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "342f18ec-3f7d-45ef-9974-0d69458d23ee",
+                    "distractor": "Freezing",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "54450e29-afcf-43bd-9927-72f2e5682b72",
+                    "distractor": "Evaporation",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "3341e308-8e87-4516-8136-b5b91f6e094c",
+                    "distractor": "Fission",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "12c78273-a68e-4b1c-aeed-57f3c5f1722f",
+                    "distractor": "Melting",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "2abadd10-0de9-4837-b0de-007006f7b37c",
+                    "distractor": "Sublimation",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6f6b586c-6bd5-40e2-aa75-983e6180cf0f",
+                    "distractor": "Crystallization",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "c8165684-34bf-4d53-8004-543bc5ced553",
+                    "distractor": "Decomposition",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "30",
+            "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The next train to Aberdeen _______________ at 2pm .",
+            "answers": "leaves",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "leaving",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "leave",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "be leaving",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "I do n't know",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "aeb356c9-b3ad-41fd-bd26-bfaeb5711e98",
+                    "distractor": "arrived",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "0b5297d2-a8bb-40fe-9ada-07e651607bbb",
+                    "distractor": "departed",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "5a8b461c-70ab-4ab2-b21d-324aaa1f27a3",
+                    "distractor": "crashes",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "824e232b-0b5d-488b-9f9a-c2c159b690fa",
+                    "distractor": "canceled",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "b7e3d758-4835-4795-b9a3-25afb2b0d160",
+                    "distractor": "delays",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "b0da1033-ca5f-4df1-8e53-54c0067db353",
+                    "distractor": "breaks down",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "81f2a0ea-3900-4ec6-a279-eb2b87e0bd67",
+                    "distractor": "never arrives",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "ca704116-3a96-4fdd-98db-9169e5d93113",
+                    "distractor": "stops",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "4b0017c7-ba26-4b5a-95d3-5d1e5e71189e",
+                    "distractor": "changes route",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "65d5a2ba-ac2d-4c7d-9322-e465dd97c7c5",
+                    "distractor": "takes a detour",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "31",
+            "question": "Choose the right form . We ca n't buy ... fresh fruit in this shop . They only have tinned and canned food .",
+            "answers": "any",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "some",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1c86ba3f-47c0-4bb9-8560-c6da84a91c62",
+                    "distractor": "Much",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "4da4211d-c112-4cd7-8131-f3a9ec4ed03b",
+                    "distractor": "Few",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "f20917a4-a40d-46d8-84fc-3fe3bcdf6136",
+                    "distractor": "A lot of",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "8063b143-b6cf-4433-a5bd-f61537964891",
+                    "distractor": "Some",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "80b8bcd3-bdca-4237-849f-0f0fccf894c5",
+                    "distractor": "Every",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "821d2fda-5e2b-4d70-a7d3-966c8e130f42",
+                    "distractor": "All",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "038ea5f6-9ab5-4c03-ad9b-8fc6c2eda836",
+                    "distractor": "Most",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "c4d1d65e-eee1-4f3a-92f3-b0cea8ee1da1",
+                    "distractor": "Enough",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "00c87338-150d-44ff-b1c5-bc53508de00d",
+                    "distractor": "Several",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "7b089cbf-d425-4482-806f-19c7c11aed2b",
+                    "distractor": "Plenty",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "32",
+            "question": "Choose the correct form . Fixed costs ... by more than 10 per cent in the last five years , and there is no indication they will level off .",
+            "answers": "have risen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "have been rising",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "rose",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "were rising",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "091be28e-4e19-4b4f-bf6c-a4f491c7a9c6",
+                    "distractor": "have been rising",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "788dfe28-06c0-47ef-aef3-db38e237767b",
+                    "distractor": "will rise",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "2b4d7911-9d77-4dab-988c-a0ada791bcce",
+                    "distractor": "rose",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "cc968d48-0ccf-4c02-8720-09c9aa1681a9",
+                    "distractor": "were rising",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "7fad1309-b652-4671-aa01-bebdb43ae440",
+                    "distractor": "are rising",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "908cd1e5-6963-48d5-91cb-92432a0cd320",
+                    "distractor": "are going to rise",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "d049649d-3bdf-4326-957a-4d5da1aecf6c",
+                    "distractor": "have been increased",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e4976362-9f9f-4c14-af30-e2f10643319d",
+                    "distractor": "will be increasing",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "c7acf423-5c5b-4ea6-953d-37208c4f5fd0",
+                    "distractor": "will have risen",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "d1016413-cd40-4e80-a369-11d819455c8d",
+                    "distractor": "were increased",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "33",
+            "question": "I read ... ... ... book and listened to ... ... ... ... ..music .",
+            "answers": "a , some",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "the , any",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "these , the",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "the , many",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "86dcd239-dd9c-4cfa-85fb-4ca3d17394ef",
+                    "distractor": "The phonebook and classical music.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "8c3b016a-955e-4673-b438-9ced01019715",
+                    "distractor": "The dictionary and heavy metal.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "a23b5e53-e4f7-453c-ba41-82c4a3d7c160",
+                    "distractor": "The recipe book and rap music.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "1ead7fa0-aeca-405e-bf2d-930685bc067c",
+                    "distractor": "The newspaper and country music.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "9761e805-a33c-4c64-99bf-95c1dadd240e",
+                    "distractor": "The encyclopedia and jazz music.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "0e72a3b0-9461-4f12-b0ac-0fa4dd6ea906",
+                    "distractor": "The comic book and techno music.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "50e82f8e-b2a8-476c-b5e8-297fff3e8fad",
+                    "distractor": "The magazine and reggae music.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "176a7497-a06c-4959-a078-53e32fcff7de",
+                    "distractor": "The instruction manual and opera.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "4f57c042-911a-4b2e-a21d-b0f4c2a943c7",
+                    "distractor": "The novel and EDM music.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "8361179c-8023-4e43-8bdc-6210d1652df9",
+                    "distractor": "The diary and folk music.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "34",
+            "question": "1.43 The children ... ... ... ..for ten minutes .",
+            "answers": "have been fighting",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will be fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "wo n't be fighting",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e18bb0b2-3c61-47b4-86d7-84d94db539f3",
+                    "distractor": "Have been sleeping",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "88d6bbb0-d095-4a8b-83cc-54c527cd2bdc",
+                    "distractor": "Have been singing",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "7feaceee-4d2a-49bf-8d47-d4b2c2ef1f98",
+                    "distractor": "Have been reading",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "0a3072f7-61d5-4741-90d2-ff86968881cf",
+                    "distractor": "Have been playing",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "331a0bee-efe2-4ed3-b8d8-2253f7703043",
+                    "distractor": "Have been dancing",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "2438b58c-e3da-4197-8c2e-ed6d7638a1b0",
+                    "distractor": "Have been studying",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "1e7b1b90-cddf-450f-b246-cbc20ed2b34f",
+                    "distractor": "Have been laughing",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "dff9049e-a41c-4a41-afb9-9e4551afa59d",
+                    "distractor": "Have been hugging",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "5d0209cd-2175-4b5a-820f-53bab1d73308",
+                    "distractor": "Have been drawing",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "42840b4b-5f2c-4cd1-91c7-a15899de9f91",
+                    "distractor": "Have been eating",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "35",
+            "question": "Complete la phrase suivante en choisissant le mode et le temps qui conviennent . My sister will call you when she ____________ close to arriving .",
+            "answers": "is",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "was",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will be",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3d1d3cf0-9c3f-449c-b7cd-57e1a78eaf96",
+                    "distractor": "will be",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "e5c36328-5ec5-4948-ba5a-df3c001cb288",
+                    "distractor": "has been",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "a814a31d-83ed-4b48-bca2-06c5f0a347f8",
+                    "distractor": "was",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "48f33b11-153e-484b-9232-f66a259d059e",
+                    "distractor": "had been",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "477d21e8-716c-4d94-a257-1e21d015fa9a",
+                    "distractor": "will have been",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "b625b48e-de23-4d91-a52a-7072f11993c6",
+                    "distractor": "has arrived",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "88bd481f-ae73-40c3-80de-ddebb50c24af",
+                    "distractor": "had arrived",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e40adda2-3fd7-4175-bffe-a806dc8679cd",
+                    "distractor": "will arrive",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "12a6abbb-7256-4bc4-87ec-334a5961acde",
+                    "distractor": "would arrive",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "fc364242-79e2-4703-b009-753c503bfbd6",
+                    "distractor": "is going to be",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "36",
+            "question": "132 . The first white explorer ... ... ... ... ... ... ... ... ... . the far north of Australia was Ludwig Leichhardt , who was awarded the prize for geographic discovery by the Paris Geographical Society in 1847 , along with the French explorer Rochet d'Hericourt .",
+            "answers": "to reach",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "that he reached",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "reached",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "reaching it",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "228e73b1-15ab-4a8f-af25-e7b86c00d4c4",
+                    "distractor": "to conquer",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "83572aa3-b777-41cd-8c1e-0dd5c909bf0c",
+                    "distractor": "to colonize",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "5705842a-025c-4dce-b03d-e29259fc40ab",
+                    "distractor": "to trade with",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "e0bd67df-09c0-4dfc-bc43-4d043ba97a50",
+                    "distractor": "to study the flora and fauna of",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "7a3997c8-f172-47e7-a38d-2af8d8d1155e",
+                    "distractor": "to find gold in",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "62f78a46-0b14-4c4c-bcd4-ccec5d88fe24",
+                    "distractor": "to establish a settlement in",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a4f597b9-1d81-4c08-ac5c-c984565c8fc9",
+                    "distractor": "to map the coastline of",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "28d09997-cc45-4c2e-b00d-ed489c57f0e2",
+                    "distractor": "to negotiate with the indigenous people of",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "f7409bdf-5ed1-42e0-a8d1-8f3fe5b73d7e",
+                    "distractor": "to hunt for rare species in",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "3555a836-7c6a-44da-a7c4-0d63a2f37497",
+                    "distractor": "to search for a lost city in",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "37",
+            "question": "Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ?",
+            "answers": "below",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "underneath",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "behind",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "87e4c2aa-5c0e-469f-af8e-bd1c66c3c5c5",
+                    "distractor": "beside",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "15442404-aade-4155-a5a8-c46f69760014",
+                    "distractor": "above",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "013db27e-b191-4729-b86b-4329425df1ab",
+                    "distractor": "parallel to",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "1d9ba4bd-ba0a-4242-870f-cd9660396637",
+                    "distractor": "opposite of",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "ad523d51-f13c-45d4-aec0-3e66be8a433c",
+                    "distractor": "equal to",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "9cd17443-dbb7-4b71-9ad4-c4630b0ac457",
+                    "distractor": "superior to",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "ee9cdf90-4d28-457f-895b-ddbde3ce3d48",
+                    "distractor": "inferior to",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "a04615f2-f21c-4590-9b7c-c57179721a90",
+                    "distractor": "adjacent to",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "ab61cf21-7e28-4b95-8097-38b07c208528",
+                    "distractor": "congruent with",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "5c89330d-5f60-412d-a757-30ffe80b9738",
+                    "distractor": "analogous to",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "38",
+            "question": "43 . The children ... ... ... ..for ten minutes .",
+            "answers": "have been fighting",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will be fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "wo n't be fighting",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "254edb6a-d0fa-4f40-9702-1089abfe630a",
+                    "distractor": "have been singing",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "331428f3-ca5d-4564-8ee3-a43bfd228b7b",
+                    "distractor": "have been sleeping",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "fb2bfce9-c252-414a-b9ac-d31fc2a0ed88",
+                    "distractor": "have been dancing",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "7f7bcc4a-5545-4306-a972-c337860dbd38",
+                    "distractor": "have been studying",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "5ab22116-3527-4064-a38f-f8d9e6da7c08",
+                    "distractor": "have been laughing",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "9591663e-b87a-4beb-8ac5-06fe3b85bbf3",
+                    "distractor": "have been playing",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "c7226d21-79e6-4e69-a02d-48d508ed41b2",
+                    "distractor": "have been eating",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "5bb65cca-efd6-4f28-ae02-7b855fbafbba",
+                    "distractor": "have been drawing",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "30b76b88-7712-48fd-ad68-e68bf1eaebaa",
+                    "distractor": "have been swimming",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "9baed5c1-4cea-44e9-b367-13f991807fd6",
+                    "distractor": "have been hugging",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "39",
+            "question": "This is some introduction Another introduction",
+            "answers": "Choice 1",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Choice 2",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "83cd7f31-dbd3-430d-87d8-369ed917e545",
+                    "distractor": "The sky is actually green and we've been seeing it wrong all along.",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "04a502b6-0fb7-4663-bf5b-785df10e8e87",
+                    "distractor": "Humans have only 5 senses, and taste is one of them.",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "6a52af7b-df16-4c46-91fd-f39759b3e7ed",
+                    "distractor": "The sun revolves around the Earth.",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "f4929d6f-0706-4aff-854c-8df7dd74691f",
+                    "distractor": "Water is not actually composed of hydrogen and oxygen atoms.",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "502f31a6-629c-4548-8bf5-80bb91e7e465",
+                    "distractor": "The Great Wall of China was built by aliens.",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "5d23eedf-caf8-464e-a438-9dfce9962c9f",
+                    "distractor": "The moon is made of cheese.",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "a0d40558-9e7b-442c-958e-617a6bd18680",
+                    "distractor": "Dogs can talk but they choose not to communicate with humans.",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "f99e27c5-78c8-46c8-b81d-b9e21798820f",
+                    "distractor": "The Earth is flat.",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "27a5ecaa-3053-4625-8c0b-21e444fad46c",
+                    "distractor": "The Loch Ness Monster is a real creature.",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "f490b564-5875-402a-9d5b-dd345331ad60",
+                    "distractor": "The Bermuda Triangle is a portal to another dimension.",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "40",
+            "question": "1.15 ... ... ..do you call this machine ?",
+            "answers": "What",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Which",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "How",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Which name",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "50952d9b-830a-4981-9f8b-5045371110aa",
+                    "distractor": "The popcorn maker",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "7d4759b1-8e8e-4197-a090-395053388cbf",
+                    "distractor": "The time traveler",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "e49c185e-b2bb-4419-9375-97bb818e3d93",
+                    "distractor": "The pizza oven",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "755807d6-6397-4771-a276-7fd4fdb37c2f",
+                    "distractor": "The mood ring",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "3f542471-bf62-4eb8-8562-0a4be8c994ba",
+                    "distractor": "The teleporter",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "9fe3857b-8e27-41d6-a50e-c1c342698d47",
+                    "distractor": "The dream catcher",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f51ea4e7-2cc3-45a8-be63-52728e68bc08",
+                    "distractor": "The fortune teller",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "3249952f-8010-4bef-beee-3ef23113e6a7",
+                    "distractor": "The ice cream maker",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "eca9e975-e29a-44b6-8915-7f695dbb82df",
+                    "distractor": "The weather predictor",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "052e69cb-8109-427d-bef6-91493e7ce94e",
+                    "distractor": "The mind reader",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "41",
+            "question": "Which time indication expresses the PAST ? Welke tijdsaanduiding geeft het VERLEDEN aan ? Quelle indication de temps indique le PASSE ?",
+            "answers": "last week",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "next month",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "at the moment",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "every day",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "442812df-836a-4288-9367-4ea71c23e3e4",
+                    "distractor": "Next year",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "43807164-bf2f-4637-899c-a53bf14163c0",
+                    "distractor": "Tomorrow",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "1eda7550-8611-4092-94e9-5d54b352f6bd",
+                    "distractor": "In five minutes",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "694c7b61-3bb6-4d69-a618-9dbf75578967",
+                    "distractor": "Yesterday",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "122ce376-30ae-4a2d-b497-45db955d1585",
+                    "distractor": "In the future",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "0cb9f09b-13d1-46c3-b995-2c9e08581605",
+                    "distractor": "Now",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f73127b7-23a7-4b4e-bfa8-2a5f36e5125f",
+                    "distractor": "Today",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "7975bdcf-0664-414a-9774-0d946c0d455c",
+                    "distractor": "In a few seconds",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "6d1a9450-c744-487e-8e8b-75fa565227d1",
+                    "distractor": "In an hour",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "8f043744-4a01-4eb6-ade1-173da0ee6763",
+                    "distractor": "In the present",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "42",
+            "question": "what 's 'Bourgogne ' in English ?",
+            "answers": "Burgundy",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Bourgondy",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Bourgundy",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f1c1bbfa-517e-43fb-af8b-d98a53c422cb",
+                    "distractor": "Bordeaux",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "6b47983e-7a15-4668-ba1f-27744a18063b",
+                    "distractor": "Bavaria",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "3a42ad1e-bec3-483e-b53c-9b76d8906abe",
+                    "distractor": "Budapest",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "623654f8-2b45-432a-b843-607cd7241ca2",
+                    "distractor": "Burundi",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "14388781-3215-4d27-a4f5-d25087f7ad5b",
+                    "distractor": "Bogota",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "721c47ed-68d0-4427-a3c9-c96566d2162b",
+                    "distractor": "Barbados",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4b33d4f3-eb9e-4322-a6be-ff5c19ed1aa6",
+                    "distractor": "Belize",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "e88c2804-4a8b-43a8-83bc-efef793c40aa",
+                    "distractor": "Bahamas",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "3309c874-84a2-4ad8-8a99-af7ef1be04f1",
+                    "distractor": "Bali",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "bd0f7271-7acb-4ef2-a98b-692591ee0968",
+                    "distractor": "Bangladesh",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "43",
+            "question": "Choose the opposite of the word in bold . He is the creditor . We owe money to him .",
+            "answers": "debtor",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "debit",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "debate",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "decay",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "763373d2-37fa-4be1-b968-d1c2669bf2d5",
+                    "distractor": "Borrower",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "4945348c-7609-4b02-88f5-94685d44c433",
+                    "distractor": "Lender",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "2c577557-94b0-44f6-bf3e-6144540b41e9",
+                    "distractor": "Banker",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "42d2ba0d-c6d3-4c08-8986-c174c8f8ea90",
+                    "distractor": "Investor",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "6d7c0f77-f09c-4e89-9a8a-6af2a5f92ae0",
+                    "distractor": "Trustee",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "67009a59-775b-45e6-9466-cd387356739a",
+                    "distractor": "Debtor-in-possession",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "4d3eba25-7c35-49fe-8f01-62771d5e785c",
+                    "distractor": "Mortgagee",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "41f20323-fb51-4080-ac43-a27ea896d77d",
+                    "distractor": "Pawnbroker",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "849e85e1-b70e-4ecf-ad07-552d37563b9c",
+                    "distractor": "Collateral",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "186ece8c-ef59-4e5a-b074-96dc91bcc80e",
+                    "distractor": "Beneficiary",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "44",
+            "question": "Select the right word . I 'm pretty ... . up tomorrow afternoon . Would Wednesday morning be all right ?",
+            "answers": "tied",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "taken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "busy",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "fixed",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5195c5f6-2741-43f4-9c38-7359235d642f",
+                    "distractor": "sick",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f6ab35f6-2fa9-4235-a3b1-9301db1139ac",
+                    "distractor": "exhausted",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "d839463e-e8d5-4344-a1a2-11ca76dd0b07",
+                    "distractor": "free",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6bfe10f9-2808-4b90-b6f1-926cb3d0912a",
+                    "distractor": "hungry",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "f98b4400-25c7-4cd3-8e6b-dffefbd19fb6",
+                    "distractor": "upset",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "5c15fa88-ee61-4ce3-a345-2bab98ec1fdc",
+                    "distractor": "grumpy",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "f302b0a1-af67-4047-a89d-811db9fd3216",
+                    "distractor": "busy",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "fca0a11d-df47-4628-997c-20c86b479d51",
+                    "distractor": "nervous",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "e82549dc-77e9-4740-a8d9-187186e7e403",
+                    "distractor": "confused",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "304f789f-8b50-497c-bdc1-2ab7f2cee9f0",
+                    "distractor": "angry",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "45",
+            "question": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! Go ... .",
+            "answers": "straight ahead ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ahead",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "on",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "ahead on",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "90921c30-5685-46bc-855c-bbd322a4125d",
+                    "distractor": "Left",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "1db31aa9-e14b-440c-a96c-a355fa16af28",
+                    "distractor": "Right",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "fabffd39-f126-4a22-aafc-c74a60486e10",
+                    "distractor": "Backwards",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "6ac69f6f-18d8-4154-8b24-267239565c38",
+                    "distractor": "Up",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "0f78c449-8622-4a57-bcbe-477692c608ce",
+                    "distractor": "Down",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "e072cb29-4c5f-41a3-a584-f59597b29d64",
+                    "distractor": "Stop",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "84997ce2-eabe-461a-8c6a-3dc6e20fcd09",
+                    "distractor": "Turn around",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "8e72a5a6-80d3-4201-8de6-ef13e2cb6b65",
+                    "distractor": "Sideways",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "65876268-334f-4ade-9661-c64e8657efc1",
+                    "distractor": "Take a detour",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "5dc0a4aa-f5fa-4f90-8db9-9f18358cb725",
+                    "distractor": "Follow the crowd",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "46",
+            "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . I would like to _______________ our meeting to this Wednesday rather than next week , if that 's alright with you .",
+            "answers": "back up",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "cross off",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "carry out",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "bring forward",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "I do n't know",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e72d8f1b-3b12-423c-883d-9fbbf7590708",
+                    "distractor": "bring forward",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "778e498d-8374-45f9-9404-5d9c32fd733f",
+                    "distractor": "delay",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "8068e2dc-6329-4e87-a110-686aef1e0822",
+                    "distractor": "reschedule",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "d11da3a6-03c0-412c-b775-d84ed9da38fa",
+                    "distractor": "cancel",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "8101f8af-beb2-4471-9f13-89ce8d79b0c4",
+                    "distractor": "push out",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "df8d6297-b477-4448-9f3a-86ff5e4cffa0",
+                    "distractor": "hold off",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "8092150a-e430-414a-867f-9ac217410c77",
+                    "distractor": "move up",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "45dec39c-c521-4d20-a897-c8f0d7de29a4",
+                    "distractor": "put off",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "cf51c56d-2f49-422a-91c5-ccb0236e7c5b",
+                    "distractor": "advance",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "41db9f3e-342e-4bd0-a097-28a5705c3918",
+                    "distractor": "adjourn",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "47",
+            "question": "Complete with the right idiom ( Moni Arora ) In this age of rising electric bills everyone is _________ the pinch . Unfortunately , too many people think that rising utility cost is just a fact of life that can not be changed .",
+            "answers": "feeling",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "sweating",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "getting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "hearing",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "81b4907e-b6fe-49c4-982e-c1eede82bf8b",
+                    "distractor": "biting",
+                    "modelid": "zero-shot",
+                    "score": "1."
+                },
+                {
+                    "distid": "f21579fe-8f86-43d9-a965-b4ff0f9cb33f",
+                    "distractor": "sensing",
+                    "modelid": "zero-shot",
+                    "score": "2."
+                },
+                {
+                    "distid": "8d50a656-6378-4c78-aeb1-45279d86e143",
+                    "distractor": "grabbing",
+                    "modelid": "zero-shot",
+                    "score": "3."
+                },
+                {
+                    "distid": "31bf60ec-986e-4cff-83a9-25c3cc073e4a",
+                    "distractor": "punching",
+                    "modelid": "zero-shot",
+                    "score": "4."
+                },
+                {
+                    "distid": "4635d808-9bbc-499f-8ad6-35caa1d0768a",
+                    "distractor": "licking",
+                    "modelid": "zero-shot",
+                    "score": "5."
+                },
+                {
+                    "distid": "a617c6af-015a-41ec-bb89-4c45f3407ed7",
+                    "distractor": "smelling",
+                    "modelid": "zero-shot",
+                    "score": "6."
+                },
+                {
+                    "distid": "706a28d1-4577-48c4-8eff-be855e7c541d",
+                    "distractor": "tickling",
+                    "modelid": "zero-shot",
+                    "score": "7."
+                },
+                {
+                    "distid": "1013e29c-862e-4871-a51f-e0fe41e97f3e",
+                    "distractor": "scratching",
+                    "modelid": "zero-shot",
+                    "score": "8."
+                },
+                {
+                    "distid": "4130d1f2-1180-4e6a-95d3-4d50aa2fdbae",
+                    "distractor": "tasting",
+                    "modelid": "zero-shot",
+                    "score": "9."
+                },
+                {
+                    "distid": "72e2b441-9592-4f57-841b-f296f3da45fb",
+                    "distractor": "kicking",
+                    "modelid": "zero-shot",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "qid": "3914cb0c-a59b-4cc6-b1d3-d6394fe52452",
+    "response": {
+        "Query": "Vanuit de oogzenuw lopen er ook zenuwen naar de iris. Wat is het nut hiervan?",
+        "Result": [
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Juist"
+                ],
+                "language": "nl",
+                "question": "In de nabijheid van een snelblusser is altijd een branddrukknop te vinden . Gelieve aan het duiden of bovenstaande stelling al dan niet correct is .",
+                "question_length": 26,
+                "score": 0.9973927338000065
+            },
+            {
+                "answer": "via de longen",
+                "answer_length": 3,
+                "distractors": [
+                    "via de huid",
+                    "via de maag"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Eenzelfde dosis gif wordt aan een proefdier op verschillende manieren en in verschillende aggregatietoestanden toegediend . In welk geval is de vergiftiging meestal het ergste ?",
+                "question_length": 33,
+                "score": 0.994155648065
+            },
+            {
+                "answer": "via longen",
+                "answer_length": 2,
+                "distractors": [
+                    "via kieuwen",
+                    "via de huid",
+                    "via longen en huid"
+                ],
+                "language": "nl",
+                "question": "Hoe gebeurt de ademhaling bij vogels ?",
+                "question_length": 7,
+                "score": 0.9911190465059889
+            },
+            {
+                "answer": "Tussen 2 en 5 mbar",
+                "answer_length": 5,
+                "distractors": [
+                    "Ongeveer 0,5 mbar",
+                    "Ongeveer 0,3 mbar"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . De longenautomaat is ingeschakeld . Wat is de overdruk in het masker ?",
+                "question_length": 18,
+                "score": 0.9890875380037919
+            },
+            {
+                "answer": "via de zweetklier",
+                "answer_length": 3,
+                "distractors": [
+                    "transdermaal",
+                    "via het sebum",
+                    "via de haarfollikel"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bekijk de figuur aandachtig . Werkzame bestanddelen uit cosmetica kunnen de huid op verschillende manieren binnendringen . Hoe verloopt dit ter hoogte van pijl 3 ?",
+                "question_length": 33,
+                "score": 0.9862168290056873
+            },
+            {
+                "answer": "hoogwater",
+                "answer_length": 1,
+                "distractors": [
+                    "eb",
+                    "brak water"
+                ],
+                "language": "nl",
+                "question": "Vink het juiste antwoord aan . Hoe noemt men het hoogste peil van vloed ?",
+                "question_length": 15,
+                "score": 0.986104149364134
+            },
+            {
+                "answer": "via longen en huid",
+                "answer_length": 4,
+                "distractors": [
+                    "via kieuwen",
+                    "via longen",
+                    "via de huid"
+                ],
+                "language": "nl",
+                "question": "Hoe gebeurt de ademhaling bij amfibieen ?",
+                "question_length": 7,
+                "score": 0.9857371119776575
+            },
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Juist"
+                ],
+                "language": "nl",
+                "question": "Om een brandglaasje te breken heb ik een hamer nodig . Gelieve aan te duiden of deze stelling al dan niet correct is .",
+                "question_length": 24,
+                "score": 0.9845198138405505
+            },
+            {
+                "answer": "door de rolklem",
+                "answer_length": 3,
+                "distractors": [
+                    "door de hoogte"
+                ],
+                "language": "nl",
+                "question": "Hoe kan de druppelsnelheid ingesteld worden bij sondevoeding op zwaartekracht ?",
+                "question_length": 11,
+                "score": 0.9827065341093608
+            },
+            {
+                "answer": "via kieuwen",
+                "answer_length": 2,
+                "distractors": [
+                    "via longen",
+                    "via de huid",
+                    "via longen en huid"
+                ],
+                "language": "nl",
+                "question": "Hoe gebeurt de ademhaling bij vissen ?",
+                "question_length": 7,
+                "score": 0.9675294207338543
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "2ececec4-51de-4580-8262-3d03dadadbe7",
+    "input": "question: what 's 'Bourgogne ' in English ?\nanswer: Burgundy\nIncorrect answers: \n1. Bourgondy\n2. Bourgundy\n\nquestion: silt ...\nanswer: is an alluvial sediment\nIncorrect answers: \n1. is the same as loam\n2. is sandy soil\n\nquestion: What 's this ?\nanswer: a tag cloud\nIncorrect answers: \n1. a tweet\n2. a stream\n3. a bookmark list\n4. a word jumble\n\nquestion: what 's a rooster ?\nanswer: a cock\nIncorrect answers: \n1. a boiler\n2. a grill\n\nquestion: zzz zzzz zz zzzzzz zz zzzz ?\nanswer: aaaa\nIncorrect answers: \n1. bbbb\n2. cccc\n\nquestion: : what 's 'Bourgogne ' in English ?\nanswer: : Burgundy\n\nGenerate 20 incorrect answers: ",
+    "response": "\n\n1. Bordeaux\n2. Champagne\n3. Provence\n4. Normandy\n5. Loire Valley\n6. Alsace\n7. Rhone Valley\n8. Cote d'Or\n9. Beaujolais\n10. Merlot\n11. Pinot Noir\n12. Cabernet Sauvignon\n13. Chardonnay\n14. Sauvignon Blanc\n15. Riesling\n16. Shiraz\n17. Malbec\n18. Rioja\n19. Chianti\n20. Syrah"
+}

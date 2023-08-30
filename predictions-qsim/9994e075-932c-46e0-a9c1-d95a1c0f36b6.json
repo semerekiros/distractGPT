@@ -1,0 +1,136 @@
+{
+    "qid": "9994e075-932c-46e0-a9c1-d95a1c0f36b6",
+    "response": {
+        "Query": "Welk mineraal is er aanwezig in het bloed van elke gezonde mens?",
+        "Result": [
+            {
+                "answer": "jodium",
+                "answer_length": 1,
+                "distractors": [
+                    "kalium",
+                    "calcium",
+                    "magnesium"
+                ],
+                "language": "nl",
+                "question": "Welk mineraal zout heeft een gunstige invloed op de werking van de schildklier ?",
+                "question_length": 14,
+                "score": 0.792287416021019
+            },
+            {
+                "answer": "in hartspierweefsel",
+                "answer_length": 2,
+                "distractors": [
+                    "in de huid",
+                    "in het spijsverteringskanaal",
+                    "in dwarsgestreept spierweefsel"
+                ],
+                "language": "nl",
+                "question": "Waar komen gap junctions het meeste voor ?",
+                "question_length": 8,
+                "score": 0.7255092260330422
+            },
+            {
+                "answer": "kalium",
+                "answer_length": 1,
+                "distractors": [
+                    "calcium",
+                    "fosfor",
+                    "magnesium"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wel mineraal wordt omschreven ? Dit mineraal is samen met natrium en chloor betrokken bij het regelen van de bloeddruk ?",
+                "question_length": 28,
+                "score": 0.6854984271802065
+            },
+            {
+                "answer": "vruchten , zaden en bloemen",
+                "answer_length": 5,
+                "distractors": [
+                    "vruchten , zaden en bladeren",
+                    "stengel , wortel en bloemen",
+                    "stengel , vruchten en bloemen"
+                ],
+                "language": "nl",
+                "question": "Welke plantendelen staan in voor de voortplanting ?",
+                "question_length": 8,
+                "score": 0.6821293297091024
+            },
+            {
+                "answer": "lysosoom",
+                "answer_length": 1,
+                "distractors": [
+                    "celkern",
+                    "vacuole"
+                ],
+                "language": "nl",
+                "question": "Wat werd het laatst door de mens ontdekt ?",
+                "question_length": 9,
+                "score": 0.6575010328976987
+            },
+            {
+                "answer": "kubische kristalstelsel",
+                "answer_length": 2,
+                "distractors": [
+                    "hexagonale kristalstelsel",
+                    "orthorombische kristalstelsel",
+                    "trikleine kristalstelsel"
+                ],
+                "language": "nl",
+                "question": "Welke van de opgesomde kristalstelsels is een metaalkristalrooster ?",
+                "question_length": 9,
+                "score": 0.5572395529074681
+            },
+            {
+                "answer": "in bindweefsels",
+                "answer_length": 2,
+                "distractors": [
+                    "in dwarsgestreept spierweefsel",
+                    "in epitheelweefsel"
+                ],
+                "language": "nl",
+                "question": "Duid het enige correcte antwoord aan . In welk weefsel bevinden zich veel collageen vezels ?",
+                "question_length": 16,
+                "score": 0.5346313149800886
+            },
+            {
+                "answer": "koolhydraten",
+                "answer_length": 1,
+                "distractors": [
+                    "calcium",
+                    "vitamine C",
+                    "koolhydraten en vitamine C"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Op de figuur is te zien welke voedselbestanddelen hoofdzakelijk aanwezig zijn in melk en fruit . Welk bestanddeel of welke bestanddelen moeten nog afgebroken worden tot voedingsstoffen voor ze in het lichaam werkzaam zijn ?",
+                "question_length": 42,
+                "score": 0.4963791312618388
+            },
+            {
+                "answer": "Veel kalk in de bodem ",
+                "answer_length": 5,
+                "distractors": [
+                    "Veel stikstof in de bodem ",
+                    "Veel zwavel in de bodem ",
+                    "Veel fosfaten in de bodem "
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Er zijn in een bepaalde biotoop veel martetakken waar te nemen . Waar wijst dit op ?",
+                "question_length": 23,
+                "score": 0.4762843597174138
+            },
+            {
+                "answer": "zuurstof",
+                "answer_length": 1,
+                "distractors": [
+                    "fluor",
+                    "natrium",
+                    "zwavel"
+                ],
+                "language": "nl",
+                "question": "Welk element zal de edelgasconfiguratie van neon bereiken bij het vormen van een ion met lading -2 ?",
+                "question_length": 18,
+                "score": 0.457707192896081
+            }
+        ]
+    }
+}

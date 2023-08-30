@@ -1,0 +1,5 @@
+{
+    "qid": "9da29b19-6374-4ad2-9a2e-40a0cb28f1f3",
+    "input": "Poser sa candidature : choisissez le mot approprie een vacature </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. une vacance\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. un contrat\n2. un placement\n3. une offre\n4. une location\n5. la depose\n6. toutes les reponses sont correctes\n7. aucune des reponses n'est correcte\n8. aucune des recette\n9. un emploi\n10. une assurance"
+}

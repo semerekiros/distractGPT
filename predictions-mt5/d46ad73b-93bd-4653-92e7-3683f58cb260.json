@@ -1,0 +1,5 @@
+{
+    "qid": "d46ad73b-93bd-4653-92e7-3683f58cb260",
+    "input": "I read ... ... ... book and listened to ... ... ... ... ..music . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. a , some\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. a, the\n2. a, many\n3. none of them\n4. no one\n5. nothing\n6. every 7.n't\n7. every\n8. not\n9. a, some\n10. i - so"
+}

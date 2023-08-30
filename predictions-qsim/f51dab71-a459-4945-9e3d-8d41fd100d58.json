@@ -1,0 +1,134 @@
+{
+    "qid": "f51dab71-a459-4945-9e3d-8d41fd100d58",
+    "response": {
+        "Query": "Wat was Diodorus' reden om het verhaal van Dionysos op te schrijven?",
+        "Result": [
+            {
+                "answer": "een workshop in de klas",
+                "answer_length": 5,
+                "distractors": [
+                    "een bezoek aan het sorteercentrum",
+                    "een video over recycleren"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat raadt men aan voor leerlingen van het eerste jaar middelbaar ?",
+                "question_length": 19,
+                "score": 0.9918175531817339
+            },
+            {
+                "answer": "federale overheid",
+                "answer_length": 2,
+                "distractors": [
+                    "landelijke overheid",
+                    "lokale overheid",
+                    "regionale overheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoe heet de overheid die wetten uitvaardigt en uitvoert die gelden voor het gehele grondgebied van Belgie ?",
+                "question_length": 25,
+                "score": 0.9910252515456135
+            },
+            {
+                "answer": "Hun toekomst",
+                "answer_length": 2,
+                "distractors": [
+                    "Hun opkomst",
+                    "Hun uitkomst",
+                    "Hun komst"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Wat is de belangrijkste motivatie om deze kinderen Nederlands te leren ?",
+                "question_length": 17,
+                "score": 0.9896560959478947
+            },
+            {
+                "answer": "de Vlaamse Gemeenschap",
+                "answer_length": 3,
+                "distractors": [
+                    "de Federale Staat",
+                    "de Steden en Gemeenten",
+                    "het Vlaams Gewest"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke instantie is bevoegd voor Onderwijs in Vlaanderen ?",
+                "question_length": 16,
+                "score": 0.9835791718588162
+            },
+            {
+                "answer": "Un toit , deux ages",
+                "answer_length": 5,
+                "distractors": [
+                    "Atout'age loue chambre d'etudiants"
+                ],
+                "language": "fr",
+                "question": "Duid het enige juiste antwoord aan . Welke titel past het best bij dit artikel ?",
+                "question_length": 16,
+                "score": 0.9800163728781298
+            },
+            {
+                "answer": "borden met onduidelijke symbolen",
+                "answer_length": 4,
+                "distractors": [
+                    "borden die mekaar tegenspreken",
+                    "onleesbare en beschadigde borden"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke reden voor onveilige verkeerssituaties met verkeersborden geeft de tekst niet ?",
+                "question_length": 19,
+                "score": 0.9770100811285876
+            },
+            {
+                "answer": "Toeristen",
+                "answer_length": 1,
+                "distractors": [
+                    "Milieuactivisten",
+                    "Industrie",
+                    "Automobilisten"
+                ],
+                "language": "nl",
+                "question": "Welke belangengroep neemt dit standpunt in ? Lees de tekstballon . Duid het juiste antwoord aan . De burgemeester van een grote stad geeft toestemming voor de bouw van een groot winkelcentrum .",
+                "question_length": 33,
+                "score": 0.9768211370208153
+            },
+            {
+                "answer": "scheiding der machten",
+                "answer_length": 3,
+                "distractors": [
+                    "burgerrechten",
+                    "regering",
+                    "volkssoevereiniteit"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees de onafhankelijkheidsverklaring . Welk idee vind je in de onafhankelijkheidsverklaring van de VSA in 1776 NIET terug ?",
+                "question_length": 26,
+                "score": 0.9754478272575924
+            },
+            {
+                "answer": "Immer weniger Deutsche heiraten",
+                "answer_length": 4,
+                "distractors": [
+                    "Immer mehr Homo-Ehen in Deutschland",
+                    "Immer mehr neu zusammengesetzte Familien",
+                    "Immer weniger klassische Familien"
+                ],
+                "language": "de",
+                "question": "Duid het enige juiste antwoord aan . Welke titel past het beste bij dit artikel ?",
+                "question_length": 16,
+                "score": 0.9701240721163832
+            },
+            {
+                "answer": "Beste schoolkrant gezocht",
+                "answer_length": 3,
+                "distractors": [
+                    "Beste buitenlandse schoolkrant gezocht",
+                    "Beste Duitse schoolkrant gezocht",
+                    "Beste Duitstalige schoolkrant gezocht"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de best passende titel van deze tekst ?",
+                "question_length": 17,
+                "score": 0.96778803833668
+            }
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "qid": "08507f53-5a25-4778-95ad-b98327dedd9a",
+    "response": {
+        "Query": "Hoe groot is de oogbol ongeveer?",
+        "Result": [
+            {
+                "answer": "1,5 tot 2m2",
+                "answer_length": 3,
+                "distractors": [
+                    "0,5 tot 1m2",
+                    "2,5 tot 3m2",
+                    "3,5 tot 4m2"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Hoe groot is het huidoppervlak van een normaal gebouwde volwassene ongeveer ?",
+                "question_length": 23,
+                "score": 0.9642036838718295
+            },
+            {
+                "answer": "60 cm",
+                "answer_length": 2,
+                "distractors": [
+                    "80 cm",
+                    "70 cm"
+                ],
+                "language": "nl",
+                "question": "De minimale ingraafdiepte van een LD dienstleiding buitenshuis is :",
+                "question_length": 10,
+                "score": 0.9084534233181543
+            },
+            {
+                "answer": "1,5 m ",
+                "answer_length": 2,
+                "distractors": [
+                    "1 m ",
+                    "2 m "
+                ],
+                "language": "nl",
+                "question": "Een metalen lichtmast met arm , waarvan de lichtpunthoogte 10 m is , heeft een inplantingsdiepte van :",
+                "question_length": 18,
+                "score": 0.8871167719603494
+            },
+            {
+                "answer": "711 gr",
+                "answer_length": 2,
+                "distractors": [
+                    "890 gr",
+                    "2.950 gr",
+                    "520 gr"
+                ],
+                "language": "nl",
+                "question": "wat is het leeggewicht van een glock 17AMS met lege lader ?",
+                "question_length": 12,
+                "score": 0.8784082903597533
+            },
+            {
+                "answer": "100cm",
+                "answer_length": 1,
+                "distractors": [
+                    "80cm",
+                    "120cm",
+                    "90cm"
+                ],
+                "language": "nl",
+                "question": "Welke minimum dekking is er van toepassing voor waterleidingen ?",
+                "question_length": 10,
+                "score": 0.8711864719685974
+            },
+            {
+                "answer": "50 mm",
+                "answer_length": 2,
+                "distractors": [
+                    "3 mm",
+                    "6 mm",
+                    "10 mm"
+                ],
+                "language": "nl",
+                "question": "De aansluitklemmen van de intrinsiek veilige stroombanen dienen voldoende te zijn gescheiden van de aansluitklemmen van niet-intrinsiek veilige stroombanen . Indien men hiervoor tussenruimte gebruikt , hoe groot dient deze ruimte minimaal te zijn ?",
+                "question_length": 35,
+                "score": 0.843486928860799
+            },
+            {
+                "answer": "... 1,5 m ",
+                "answer_length": 3,
+                "distractors": [
+                    "... 1 m ",
+                    "... 2 m "
+                ],
+                "language": "nl",
+                "question": "Een metalen lichtmast met arm waarvan de lichtpunthoogte 10 m is heeft een inplantingsdiepte van ...",
+                "question_length": 16,
+                "score": 0.8059979375815666
+            },
+            {
+                "answer": "2,5 mm",
+                "answer_length": 2,
+                "distractors": [
+                    "2 mm",
+                    "3 mm",
+                    "3,5 mm"
+                ],
+                "language": "nl",
+                "question": "Hoeveel millimiter groeit haar per week ?",
+                "question_length": 7,
+                "score": 0.7939120796017771
+            },
+            {
+                "answer": "800 mm",
+                "answer_length": 2,
+                "distractors": [
+                    "100 mm",
+                    "400 mm",
+                    "1000 mm"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wat is de gemiddelde jaarneerslag van Belgie ?",
+                "question_length": 14,
+                "score": 0.7924004594281717
+            },
+            {
+                "answer": "100cm",
+                "answer_length": 1,
+                "distractors": [
+                    "80cm",
+                    "120cm",
+                    "90cm"
+                ],
+                "language": "nl",
+                "question": "Welke minimum dekking is er van toepassing voor waterleidingen ? Dit is een open boek vraag - je mag dit opzoeken in het lastenboek OGL",
+                "question_length": 25,
+                "score": 0.7786490169639321
+            }
+        ]
+    }
+}

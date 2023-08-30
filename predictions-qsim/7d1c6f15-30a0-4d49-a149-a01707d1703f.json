@@ -1,0 +1,129 @@
+{
+    "qid": "7d1c6f15-30a0-4d49-a149-a01707d1703f",
+    "response": {
+        "Query": "... est le photopigment present dans les batonnets et les cones de l'oeil .",
+        "Result": [
+            {
+                "answer": "Cis -retinal",
+                "answer_length": 2,
+                "distractors": [
+                    "Carotene",
+                    "Photochrome",
+                    "Chlorophylle"
+                ],
+                "language": "fr",
+                "question": "... est le photopigment present dans les batonnets et les cones de l'oeil .",
+                "question_length": 14,
+                "score": 0.9469804339319846
+            },
+            {
+                "answer": "ambler",
+                "answer_length": 1,
+                "distractors": [
+                    "trotter",
+                    "galopper"
+                ],
+                "language": "no",
+                "question": "'in telgang lopen ' en francais ?",
+                "question_length": 7,
+                "score": 0.8273966311406763
+            },
+            {
+                "answer": "zygote ; noyau primaire d'albumen",
+                "answer_length": 5,
+                "distractors": [
+                    "noyau primaire d'albumen ; microspore",
+                    "antipode ; zygote",
+                    "noyaux polaires ; zygote"
+                ],
+                "language": "fr",
+                "question": "Lors de la double fecondation , une cellule spermatique produit un ... diploide et l'autre donne un ... triploide .",
+                "question_length": 20,
+                "score": 0.7994852412605516
+            },
+            {
+                "answer": "une dysfonction de la circulation",
+                "answer_length": 5,
+                "distractors": [
+                    "une hypersensibilite a certains aliments"
+                ],
+                "language": "fr",
+                "question": "2 points Des engelures aux pieds sont souvent dues a :",
+                "question_length": 11,
+                "score": 0.7393666140387893
+            },
+            {
+                "answer": "b et c",
+                "answer_length": 3,
+                "distractors": [
+                    "aux caracteristiques des organismes hermaphrodites ",
+                    "Tout ce qui precede"
+                ],
+                "language": "fr",
+                "question": "1 . Le dimorphisme sexuel se refere",
+                "question_length": 7,
+                "score": 0.7276328726704522
+            },
+            {
+                "answer": "Des tracheides",
+                "answer_length": 2,
+                "distractors": [
+                    "Des mycorhizes",
+                    "Des rhizoides",
+                    "Des gametophytes photosynthetiques"
+                ],
+                "language": "fr",
+                "question": "Dans ce qui suit ; qu'est-ce qu'on ne trouverait pas chez les bryophytes ?",
+                "question_length": 14,
+                "score": 0.6398207211560576
+            },
+            {
+                "answer": "ebullition",
+                "answer_length": 1,
+                "distractors": [
+                    "congelation rapide"
+                ],
+                "language": "fr",
+                "question": "qu'est-ce qui ne va PAS ( past niet ) avec lyophilisation ?",
+                "question_length": 12,
+                "score": 0.6230011803105663
+            },
+            {
+                "answer": "physiologique",
+                "answer_length": 1,
+                "distractors": [
+                    "psychologique",
+                    "psychique"
+                ],
+                "language": "fr",
+                "question": "un autre mot pour 'corporel , somatique ' ?",
+                "question_length": 9,
+                "score": 0.6073854047424749
+            },
+            {
+                "answer": "ebullition",
+                "answer_length": 1,
+                "distractors": [
+                    "ebouillement",
+                    "ecoulement"
+                ],
+                "language": "fr",
+                "question": "quand un liquide est en train de bouillir , il est en ...",
+                "question_length": 13,
+                "score": 0.5583840780553073
+            },
+            {
+                "answer": "mortifier",
+                "answer_length": 1,
+                "distractors": [
+                    "macerer",
+                    "abattre"
+                ],
+                "language": "fr",
+                "question": "un synonyme pour 'faisander ' est ...",
+                "question_length": 7,
+                "score": 0.5419516404180267
+            }
+        ]
+    }
+}

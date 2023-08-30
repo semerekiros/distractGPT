@@ -1,0 +1,145 @@
+{
+    "qid": "b17226ed-4008-4e13-906d-872decf367c1",
+    "response": {
+        "Query": "Hoeveel continenten zijn er?",
+        "Result": [
+            {
+                "answer": "20.000",
+                "answer_length": 1,
+                "distractors": [
+                    "3500",
+                    "30.000",
+                    "10.000"
+                ],
+                "language": "nl",
+                "question": "Hoeveel banen schrapt dit bedrijf ?",
+                "question_length": 6,
+                "score": 0.8538837632205282
+            },
+            {
+                "answer": "m",
+                "answer_length": 1,
+                "distractors": [
+                    "dam",
+                    "hm",
+                    "dm"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Vul de juiste lengte-eenheid in . De hoogte van de Eiffeltoren is 317 ... .",
+                "question_length": 21,
+                "score": 0.6765800714924698
+            },
+            {
+                "answer": "& # x2212 ; 10",
+                "answer_length": 5,
+                "distractors": [
+                    "99",
+                    "& # x2212 ; 98",
+                    "& # x2212 ; 89",
+                    "& # x2212 ; 99"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wat is het grootste negatief getal dat uit twee cijfers bestaat ?",
+                "question_length": 25,
+                "score": 0.6132048576445651
+            },
+            {
+                "answer": "13",
+                "answer_length": 1,
+                "distractors": [
+                    "& # x2212 ; 13",
+                    "& # x2212 ; 3",
+                    "3",
+                    "12"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . De getallen 3 en 7 liggen 4 eenheden van elkaar . Hoeveel eenheden liggen de getallen & # x2212 ; 8 en 5 van elkaar ?",
+                "question_length": 39,
+                "score": 0.5906112928251184
+            },
+            {
+                "answer": "3",
+                "answer_length": 1,
+                "distractors": [
+                    "2",
+                    "4",
+                    "5"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoeveel verschillende VSOE-treinen zijn er ?",
+                "question_length": 13,
+                "score": 0.5205498074866066
+            },
+            {
+                "answer": "m",
+                "answer_length": 1,
+                "distractors": [
+                    "dm",
+                    "cm",
+                    "dam",
+                    "hm"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wat stelt het cijfer 7 in 2374,89 dm voor ? Een aantal ...",
+                "question_length": 26,
+                "score": 0.48262747857566773
+            },
+            {
+                "answer": "tussen 7,85 en 7,86",
+                "answer_length": 4,
+                "distractors": [
+                    "tussen 7,7 en 7,8",
+                    "tussen 7,84 en 7,85",
+                    "tussen 7,845 en 7,855"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Tussen welke twee getallen ligt de 55/7 ?",
+                "question_length": 15,
+                "score": 0.4808238727164918
+            },
+            {
+                "answer": "264",
+                "answer_length": 1,
+                "distractors": [
+                    "26",
+                    "379",
+                    "2642",
+                    "3785"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . In de Verenigde Staten wordt een gallon als inhoudseenheid gebruikt : 1 gallon = 3,78541178 liter . Hoeveel gallons ( afgerond op een geheel ) is 1000 liter ?",
+                "question_length": 42,
+                "score": 0.4507780769946963
+            },
+            {
+                "answer": "Austrailia",
+                "answer_length": 1,
+                "distractors": [
+                    "Africa",
+                    "Europe",
+                    "South America",
+                    "Asia",
+                    "Antartica",
+                    "North America"
+                ],
+                "language": "en",
+                "question": "Select the correct answer Where is Dante 's HQ ?",
+                "question_length": 10,
+                "score": 0.42874614724605487
+            },
+            {
+                "answer": "6",
+                "answer_length": 1,
+                "distractors": [
+                    "9",
+                    "15",
+                    "30"
+                ],
+                "language": "nl",
+                "question": "Bekijk de opdrachten . Hoeveel orders zijn er al toegewezen in de Adolf De Landtsheerstraat ?",
+                "question_length": 16,
+                "score": 0.41846623789890186
+            }
+        ]
+    }
+}

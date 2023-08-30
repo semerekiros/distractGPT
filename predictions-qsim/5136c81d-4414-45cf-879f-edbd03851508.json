@@ -1,0 +1,127 @@
+{
+    "qid": "5136c81d-4414-45cf-879f-edbd03851508",
+    "response": {
+        "Query": "Welke autosnelweg loopt er tussen Namen en Luik?",
+        "Result": [
+            {
+                "answer": "Een droogkast ",
+                "answer_length": 2,
+                "distractors": [
+                    "Een strijkijzer ",
+                    "Een spaarlamp "
+                ],
+                "language": "nl",
+                "question": "Welk toestel verbruikt het meest per uur ?",
+                "question_length": 8,
+                "score": 0.529394606922436
+            },
+            {
+                "answer": "Rockville",
+                "answer_length": 1,
+                "distractors": [
+                    "Chicago",
+                    "Baltimore"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate answer . Where is the main ARDMS office located ?",
+                "question_length": 13,
+                "score": 0.389342760966478
+            },
+            {
+                "answer": "Een spaarlamp ",
+                "answer_length": 2,
+                "distractors": [
+                    "Een strijkijzer ",
+                    "Een droogkast "
+                ],
+                "language": "nl",
+                "question": "Welk toestel heeft het kleinste vermogen ?",
+                "question_length": 7,
+                "score": 0.3122724300948183
+            },
+            {
+                "answer": "een elektrische verwarming",
+                "answer_length": 3,
+                "distractors": [
+                    "een broodrooster",
+                    "een strijkijzer"
+                ],
+                "language": "nl",
+                "question": "Welk toestel heeft het grootste vermogen ?",
+                "question_length": 7,
+                "score": 0.29151597450071565
+            },
+            {
+                "answer": "Yes , there is ",
+                "answer_length": 4,
+                "distractors": [
+                    "No there is n't ",
+                    "Yes , there are ",
+                    "No , there are n't "
+                ],
+                "language": "en",
+                "question": "Look at the picture and tick the right answer to the question . Is there a clock in the classroom ?",
+                "question_length": 21,
+                "score": 0.2327541930723307
+            },
+            {
+                "answer": "Atomium in Brussel",
+                "answer_length": 3,
+                "distractors": [
+                    "ijzertoren in Diksmuide",
+                    "Eiffeltoren in Parijs"
+                ],
+                "language": "nl",
+                "question": "Welke van de opgesomde gebouwen is een macroscopische voorstelling van het ijzerkristal ?",
+                "question_length": 13,
+                "score": 0.21747623808318797
+            },
+            {
+                "answer": "Elektrische verwarming",
+                "answer_length": 2,
+                "distractors": [
+                    "Broodrooster",
+                    "Strijkijzer"
+                ],
+                "language": "nl",
+                "question": "Welk toestel is het duurste in gebruik ?",
+                "question_length": 8,
+                "score": 0.1799298409953849
+            },
+            {
+                "answer": "112",
+                "answer_length": 1,
+                "distractors": [
+                    "101"
+                ],
+                "language": "nl",
+                "question": "Je bent getuige van een ongeval . Een fietser steekt de straat over en wordt aangereden door een auto . De fietser valt gewond op de straat en blijft liggen De auto rijdt weg ... Je belt 112 . Lees de instructie hieronder . Welk nummer bel je ?",
+                "question_length": 49,
+                "score": 0.14668269654364488
+            },
+            {
+                "answer": "voor treincontainers conform IATA regels",
+                "answer_length": 5,
+                "distractors": [
+                    "spoorwegcontract",
+                    "voor computer geleid vervoer"
+                ],
+                "language": "nl",
+                "question": "Wat zijn 'teco lines ' ?",
+                "question_length": 6,
+                "score": 0.09661046447892309
+            },
+            {
+                "answer": "gemeente B",
+                "answer_length": 2,
+                "distractors": [
+                    "gemeente A"
+                ],
+                "language": "nl",
+                "question": "In gemeente A ( 60.000 inwoners ) worden jaarlijks 750 auto 's opengebroken . In gemeente B ( 270.000 inwonders ) zijn er jaarlijks 3.200 inbraken in auto 's . In welke gemeente staat jouw auto het veiligst ?",
+                "question_length": 39,
+                "score": 0.08168870295871626
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "qid": "e8da890e-fdf3-440d-b7b8-678f08d4e7b4",
+    "response": {
+        "Query": "Welke plant heeft geen gele bloemen?",
+        "Result": [
+            {
+                "answer": "ginseng",
+                "answer_length": 1,
+                "distractors": [
+                    "gember",
+                    "valeriaan",
+                    "vingerhoedskruid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke plant zal omnibionta nuttige bestanddelen bevatten ?",
+                "question_length": 16,
+                "score": 0.8401843141224387
+            },
+            {
+                "answer": "vingerhoedskruid",
+                "answer_length": 1,
+                "distractors": [
+                    "hop",
+                    "sint-janskruid",
+                    "nachtschade"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke plant levert het actief bestanddeel voor dit geneesmiddel ?",
+                "question_length": 17,
+                "score": 0.8256633293005218
+            },
+            {
+                "answer": "Linde",
+                "answer_length": 1,
+                "distractors": [
+                    "Amerikaanse eik",
+                    "Plataan"
+                ],
+                "language": "nl",
+                "question": "Van welke boom is dit blad ? Duid het juiste antwoord aan .",
+                "question_length": 13,
+                "score": 0.8006527203742205
+            },
+            {
+                "answer": "gele gentiaan",
+                "answer_length": 2,
+                "distractors": [
+                    "blauwe bosbes",
+                    "tijm",
+                    "vingerhoedskruid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke plant wordt beschouwd als de standaard-bitterstofplant ?",
+                "question_length": 15,
+                "score": 0.7894644278372129
+            },
+            {
+                "answer": "gewoon struikgras",
+                "answer_length": 2,
+                "distractors": [
+                    "scherpe boterbloem",
+                    "paardebloem",
+                    "koekoeksbloem"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke plant heeft volgens de tabel de grootste abundantie in de gehele berm ?",
+                "question_length": 21,
+                "score": 0.6930630069147162
+            },
+            {
+                "answer": "ginkgo",
+                "answer_length": 1,
+                "distractors": [
+                    "gember",
+                    "ginseng",
+                    "hop"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke plant wordt de geneeskundige kracht in volgende zin omschreven ? De aanwezige flavonoiden bevorderen de bloeddoorstroming in het lichaam .",
+                "question_length": 29,
+                "score": 0.6169792561739063
+            },
+            {
+                "answer": "vingerhoedskruid",
+                "answer_length": 1,
+                "distractors": [
+                    "ginkgo",
+                    "papaver",
+                    "sint-janskruid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke plant zijn de 2 soorten glycosiden aanwezig te zien op de figuur ?",
+                "question_length": 22,
+                "score": 0.6159161460305962
+            },
+            {
+                "answer": "ginkgo",
+                "answer_length": 1,
+                "distractors": [
+                    "gember",
+                    "hop",
+                    "papaver"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste atnwoord aan . Welke plant zal bij inname volgende fysiologische processen ondersteunen ?",
+                "question_length": 17,
+                "score": 0.6114986700934337
+            },
+            {
+                "answer": "sint-janskruid",
+                "answer_length": 1,
+                "distractors": [
+                    "gember",
+                    "valeriaan",
+                    "vingerhoedskruid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Zibrine forte : bevat aan totaal hypericine , uitgedrukt als hypericine : 0,40 - 1,3 mg. De andere stoffen in dit middel zijn calciumwaterstoffosfaat dihydraat , colloidaal siliciumdioxide , lactose monohydraat , cellulosepoeder , talk , magnesiumstearaat , gelatine , gezuiverd water , natriumdodecylsulfaat , titaandioxide ( E171 ) en ijzeroxide geel ( E172 ) , ijzeroxide rood ( E172 ) , chlorophyllin-koper complex E141 Welke plant levert de werkzame grondstof van Zibrine ?",
+                "question_length": 81,
+                "score": 0.6104891708891222
+            },
+            {
+                "answer": "dille",
+                "answer_length": 1,
+                "distractors": [
+                    "kamille",
+                    "mierikswortel"
+                ],
+                "language": "fr",
+                "question": "aneth en neerlandais ?",
+                "question_length": 4,
+                "score": 0.5713418928535768
+            }
+        ]
+    }
+}

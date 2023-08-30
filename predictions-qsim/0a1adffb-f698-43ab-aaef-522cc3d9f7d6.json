@@ -1,0 +1,128 @@
+{
+    "qid": "0a1adffb-f698-43ab-aaef-522cc3d9f7d6",
+    "response": {
+        "Query": "l'alouette en neerlandais ?",
+        "Result": [
+            {
+                "answer": "de leeuwerik",
+                "answer_length": 2,
+                "distractors": [
+                    "de merel",
+                    "de kwartel"
+                ],
+                "language": "fr",
+                "question": "l'alouette en neerlandais ?",
+                "question_length": 4,
+                "score": 0.9860198693996257
+            },
+            {
+                "answer": "rijpaard",
+                "answer_length": 1,
+                "distractors": [
+                    "zadelpaard",
+                    "renpaard"
+                ],
+                "language": "nl",
+                "question": "un 'cheval de selle ' en neerlandais correct ?",
+                "question_length": 9,
+                "score": 0.9034270984549619
+            },
+            {
+                "answer": "muilezel",
+                "answer_length": 1,
+                "distractors": [
+                    "ezelhengst",
+                    "muildier"
+                ],
+                "language": "nl",
+                "question": "le bardot en neerlandais ?",
+                "question_length": 5,
+                "score": 0.8562537110952945
+            },
+            {
+                "answer": "Citius altius fortius",
+                "answer_length": 3,
+                "distractors": [
+                    "Veni vidi vici",
+                    "Alea jacta est"
+                ],
+                "language": "fr",
+                "question": "Coche la reponse correcte . La devise des Jeux Olympiques modernes est \u00ab Plus vite - plus haut - plus fort \u00bb . Comment se dit-elle en latin ?",
+                "question_length": 29,
+                "score": 0.8485441188440288
+            },
+            {
+                "answer": "wei",
+                "answer_length": 1,
+                "distractors": [
+                    "wij",
+                    "stremsel"
+                ],
+                "language": "nl",
+                "question": "le caille en neerlandais ?",
+                "question_length": 5,
+                "score": 0.778588708598037
+            },
+            {
+                "answer": "raapzaad",
+                "answer_length": 1,
+                "distractors": [
+                    "koolzaad",
+                    "lijnzaad"
+                ],
+                "language": "nl",
+                "question": "la navette en neerlandais ?",
+                "question_length": 5,
+                "score": 0.7114302245658427
+            },
+            {
+                "answer": "een ploeg",
+                "answer_length": 2,
+                "distractors": [
+                    "een akkersleep",
+                    "een kruiwagen"
+                ],
+                "language": "nl",
+                "question": "une charrue en neerlandais ?",
+                "question_length": 5,
+                "score": 0.6929160920109909
+            },
+            {
+                "answer": "holhoornigen",
+                "answer_length": 1,
+                "distractors": [
+                    "runderen",
+                    "evenhoevigen"
+                ],
+                "language": "nl",
+                "question": "la traduction de 'bovides ' ?",
+                "question_length": 6,
+                "score": 0.6061019701671367
+            },
+            {
+                "answer": "snoepgoed",
+                "answer_length": 1,
+                "distractors": [
+                    "koekjes",
+                    "frambozen"
+                ],
+                "language": "nl",
+                "question": "Indiquez la bonne reponse . Waarvan houdt Sophie ?",
+                "question_length": 9,
+                "score": 0.6040454283012826
+            },
+            {
+                "answer": "Haas",
+                "answer_length": 1,
+                "distractors": [
+                    "Konijn",
+                    "Beide"
+                ],
+                "language": "nl",
+                "question": "Lees de tekst . Kies waar het gegeven het beste bij past . Zowel de haas als het konijn is een prooidier en dus altijd voorbereid op vluchten voor roofdieren . Een haas doet dit in zijn eentje , een konijn in groep . Een haas heeft een goed gehoor en merkt vlugger het gevaar op . Konijnen gaan eerder af op hun neus . Een haas heeft een sterkere lichaamsbouw en kan snel en lang rennen . Een konijn daarentegen heeft een korter uithoudingsvermogen en probeert zo vlug mogelijk in zijn hol te vluchten . De jongen van een konijn worden geboren na een draagtijd van dertig dagen . Ze blijven nog een hele tijd in het nest . De jongen van de haas worden geboren na ongeveer vijfenveertig dagen . Het zijn nestvlieders . Ze zijn direct na de geboorte al erg zelfstandig . Hazen leven in een soort kuil , een hazenleger . Het konijn graaft een hol , met verschillende gangen . Het zijn allebei planteneters . Ze zijn het meest actief in de vooravond en de nacht . nestvlieder",
+                "question_length": 184,
+                "score": 0.5950412102182506
+            }
+        ]
+    }
+}

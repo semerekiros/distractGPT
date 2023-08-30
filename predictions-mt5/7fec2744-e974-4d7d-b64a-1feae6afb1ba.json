@@ -1,0 +1,5 @@
+{
+    "qid": "7fec2744-e974-4d7d-b64a-1feae6afb1ba",
+    "input": "Wat zit het dichtst bij de bladschijf? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. bladvoet\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. bladschikking\n2. bladschaam\n3. bladschijf\n4. wortel\n5. bladspier\n6. dikke huid\n7. struik\n8. vlinder\n9. navel\n10. kat"
+}

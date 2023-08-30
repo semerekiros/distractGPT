@@ -1,0 +1,132 @@
+{
+    "qid": "86c80b5a-cb71-4a72-aabd-30c9e7a527e1",
+    "response": {
+        "Query": "Wat zit er in het netvlies van het oog, waarmee je kleuren waarneemt?",
+        "Result": [
+            {
+                "answer": "Om plannen op te vragen",
+                "answer_length": 5,
+                "distractors": [
+                    "Om palen te beklimmen"
+                ],
+                "language": "nl",
+                "question": "Waarvoor gebruiken we Klip en Klim ?",
+                "question_length": 7,
+                "score": 0.9485224723092763
+            },
+            {
+                "answer": "in de longblaasjes",
+                "answer_length": 3,
+                "distractors": [
+                    "in de luchtpijptakken",
+                    "in de longtakjes",
+                    "in de luchtpijp"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de gasuitwisseling in de longen ?",
+                "question_length": 8,
+                "score": 0.9091580445127597
+            },
+            {
+                "answer": "Terug naar economaat",
+                "answer_length": 3,
+                "distractors": [
+                    "In de vuilbak",
+                    "In het geel vat"
+                ],
+                "language": "nl",
+                "question": "Een leeg inkpatroon , cartridge of toner ... wat doet u ermee ? Vink het correcte antwoord aan . Er is slechts een antwoord mogelijk .",
+                "question_length": 26,
+                "score": 0.9030016733796457
+            },
+            {
+                "answer": "hartkleppen tussen linkerkamer en aorta",
+                "answer_length": 5,
+                "distractors": [
+                    "hartkleppen in de longaders",
+                    "hartkleppen tussen rechterkamer en longslagader"
+                ],
+                "language": "nl",
+                "question": "Wat is aangeduid door de groene pijl ?",
+                "question_length": 8,
+                "score": 0.8990677353006931
+            },
+            {
+                "answer": "dunne darm",
+                "answer_length": 2,
+                "distractors": [
+                    "endeldarm",
+                    "dikke darm",
+                    "twaalfvingerige darm"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de absorptie van glucose ( suiker ) in het lichaam ?",
+                "question_length": 13,
+                "score": 0.8962155332544646
+            },
+            {
+                "answer": "unipolair",
+                "answer_length": 1,
+                "distractors": [
+                    "multipolair",
+                    "bipolair"
+                ],
+                "language": "nl",
+                "question": "Hoe noemt men de cel waar de dendrieten en het axon in elkaar overlopen en het cellichaam ligt aan een zijde ?",
+                "question_length": 22,
+                "score": 0.8712807573149531
+            },
+            {
+                "answer": "urineleider",
+                "answer_length": 1,
+                "distractors": [
+                    "urinebuis",
+                    "urineblaas",
+                    "urineslagader"
+                ],
+                "language": "nl",
+                "question": "Welk buisje is aangeduid door de pijl ?",
+                "question_length": 8,
+                "score": 0.8678108325289866
+            },
+            {
+                "answer": "deeltjes",
+                "answer_length": 1,
+                "distractors": [
+                    "cellen",
+                    "zuivere stoffen",
+                    "mengsels"
+                ],
+                "language": "nl",
+                "question": "Wat zijn de kleinste bouwstenen van voorwerpen ?",
+                "question_length": 8,
+                "score": 0.8665683653350083
+            },
+            {
+                "answer": "oren",
+                "answer_length": 1,
+                "distractors": [
+                    "vingers",
+                    "hart",
+                    "rudimentaire ogen"
+                ],
+                "language": "nl",
+                "question": "Wat is er bij de baby na 8 weken nog niet zichtbaar of voelbaar ?",
+                "question_length": 15,
+                "score": 0.8467471296838022
+            },
+            {
+                "answer": "Shana",
+                "answer_length": 1,
+                "distractors": [
+                    "Magali",
+                    "Isabelle"
+                ],
+                "language": "nl",
+                "question": "Wat is de naam dat genoteerd staat op de 1ste slide :",
+                "question_length": 12,
+                "score": 0.8109741837834713
+            }
+        ]
+    }
+}

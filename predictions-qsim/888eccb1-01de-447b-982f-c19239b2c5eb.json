@@ -1,0 +1,134 @@
+{
+    "qid": "888eccb1-01de-447b-982f-c19239b2c5eb",
+    "response": {
+        "Query": "Op welke drie manieren voorkomt de pil een zwangerschap?",
+        "Result": [
+            {
+                "answer": "records",
+                "answer_length": 1,
+                "distractors": [
+                    "Guinness Book of Records",
+                    "dierenleed",
+                    "de organisatie"
+                ],
+                "language": "nl",
+                "question": "Wat is het onderwerp van de tekst ? Als je een record wil breken moet je drie regels respecteren : je moet het record kunnen breken . Het record mag je leven niet in gevaar brengen en het mag geen dierenleed veroorzaken . Guinness World Records beslist of een poging aan die eisen voldoet . De meeste records komen niet in het Guinness Book of Records terecht . De organisatie houdt ze wel bij .",
+                "question_length": 75,
+                "score": 0.9542165074992924
+            },
+            {
+                "answer": "een voedselpiramide",
+                "answer_length": 2,
+                "distractors": [
+                    "een biotoop",
+                    "een habitat",
+                    "een voedselweb"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste uitspraak aan . Er is slechts 1 juist antwoord . Hoe noemen we een illustratief overzicht van voedselrelaties binnen een ecosysteem waarin de verhoudingen in aantallen zichtbaar zijn gemaakt ?",
+                "question_length": 33,
+                "score": 0.9534220059554896
+            },
+            {
+                "answer": "Grondstapeling",
+                "answer_length": 1,
+                "distractors": [
+                    "Stellingstapeling"
+                ],
+                "language": "nl",
+                "question": "Over welke soort stapeling gaat het in de afbeelding ?",
+                "question_length": 10,
+                "score": 0.9523398946965488
+            },
+            {
+                "answer": "menselijke handelingen",
+                "answer_length": 2,
+                "distractors": [
+                    "de techniek",
+                    "de organisatie",
+                    "de werkplek"
+                ],
+                "language": "nl",
+                "question": "Bekijk eerst onderstaand filmpje ! Waardoor worden 80 % van de arbeidongevallen veroorzaakt ?",
+                "question_length": 14,
+                "score": 0.930107854714676
+            },
+            {
+                "answer": "inpoldering",
+                "answer_length": 1,
+                "distractors": [
+                    "Verlanding",
+                    "Vergronding",
+                    "grondificatie"
+                ],
+                "language": "nl",
+                "question": "Hoe wordt het proces genoemd ( o.a . in de baai van Tokio ) waarbij land wordt gewonnen op het water ?",
+                "question_length": 22,
+                "score": 0.9169235900189265
+            },
+            {
+                "answer": "sublimeren , verdampen , smelten",
+                "answer_length": 5,
+                "distractors": [
+                    "sublimeren , stollen , verdampen",
+                    "sublimeren , stollen , condenseren",
+                    "sublimeren , verdampen , condenseren"
+                ],
+                "language": "nl",
+                "question": "Bij welke faseovergangen gaan de materiedeeltjes verder uit elkaar ?",
+                "question_length": 10,
+                "score": 0.8570613695256035
+            },
+            {
+                "answer": "Amelie `` louise",
+                "answer_length": 3,
+                "distractors": [
+                    "Amelie",
+                    "Geen van beide"
+                ],
+                "language": "nl",
+                "question": "Vraag 1 : Hoe noemen uw kindjes ?",
+                "question_length": 8,
+                "score": 0.8526170402798827
+            },
+            {
+                "answer": "waarom toeristen naar Antwerpen komen",
+                "answer_length": 5,
+                "distractors": [
+                    "nieuwe jeugdherberg in Antwerpen",
+                    "de geschiedenis van Antwepen",
+                    "Antwerpen winkelparadijs"
+                ],
+                "language": "nl",
+                "question": "Wat is het onderwerp van deze tekst ?",
+                "question_length": 8,
+                "score": 0.8199410616675902
+            },
+            {
+                "answer": "oppervlaktespanning",
+                "answer_length": 1,
+                "distractors": [
+                    "oplosbaarheid",
+                    "zuurgraad",
+                    "concentratie"
+                ],
+                "language": "nl",
+                "question": "Watermoleculen oefenen een bepaalde aantrekkingskracht uit op elkaar . Daardoor is het net of er vliesje op het water ligt . We noemen dat verschijnsel :",
+                "question_length": 26,
+                "score": 0.805778454463551
+            },
+            {
+                "answer": "Kracht 3",
+                "answer_length": 2,
+                "distractors": [
+                    "Kracht 1",
+                    "Kracht 2"
+                ],
+                "language": "nl",
+                "question": "Er zijn vele soorten krachten . Drie belangrijke krachten worden op de figuren hieronder uitgelegd : Als je een groot blok langs een helling naar boven trekt , dan treden ook hier die 3 krachten op . Welke van die drie pijlen is de wrijvingskracht ?",
+                "question_length": 46,
+                "score": 0.7698939298521125
+            }
+        ]
+    }
+}

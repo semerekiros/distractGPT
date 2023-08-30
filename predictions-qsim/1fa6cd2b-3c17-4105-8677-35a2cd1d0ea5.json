@@ -1,0 +1,134 @@
+{
+    "qid": "1fa6cd2b-3c17-4105-8677-35a2cd1d0ea5",
+    "response": {
+        "Query": "Hoe wordt de ziekte COVID-19 overgedragen?",
+        "Result": [
+            {
+                "answer": "fhrfjzrflkfjzl",
+                "answer_length": 1,
+                "distractors": [
+                    "jrfjizrhrzelk",
+                    "fnjrzfklzrnklz"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan Wat is het gevolg van de brand ?",
+                "question_length": 13,
+                "score": 0.8442087347501089
+            },
+            {
+                "answer": "Fietsers en voetgangers",
+                "answer_length": 3,
+                "distractors": [
+                    "Kinderen",
+                    "Ouderen"
+                ],
+                "language": "nl",
+                "question": "Wie verstaan we onder zwakke weggebruikers ?",
+                "question_length": 7,
+                "score": 0.8141218389950581
+            },
+            {
+                "answer": "zwangerschap bij een vliegtuigreis",
+                "answer_length": 4,
+                "distractors": [
+                    "eerste manifestatie van een depressie ",
+                    "ongeval tijdens een bergwandeling",
+                    "vliegtuigongeval "
+                ],
+                "language": "nl",
+                "question": "In het kader van een hulpverlening aan personen , wat kan worden uitgesloten ? Hulpverlening als gevolg van een ...",
+                "question_length": 20,
+                "score": 0.8078586612949434
+            },
+            {
+                "answer": "natuurrampen",
+                "answer_length": 1,
+                "distractors": [
+                    "brand en ontploffing",
+                    "waterschade",
+                    "diefstal"
+                ],
+                "language": "nl",
+                "question": "duid het juiste antwoord aan : Duid aan welk van de volgende waarborgen wettelijk verplicht is in een contract brand voor eenvoudige risico 's :",
+                "question_length": 25,
+                "score": 0.7958387161210007
+            },
+            {
+                "answer": "Al de antwoorden zijn juist ",
+                "answer_length": 5,
+                "distractors": [
+                    "een onoordeelkundig gebruik",
+                    "beschadigde isolatie",
+                    "slecht onderhoud"
+                ],
+                "language": "nl",
+                "question": "Wat kan de oorzaak zijn van een elektrisch ongeval ?",
+                "question_length": 10,
+                "score": 0.7770260246817507
+            },
+            {
+                "answer": "Diepzeeduiken",
+                "answer_length": 1,
+                "distractors": [
+                    "Skien",
+                    "Deltavliegen",
+                    "Ski"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke activiteit is niet gedekt in een klassieke ongevallenverzekering ?",
+                "question_length": 16,
+                "score": 0.7363423638405051
+            },
+            {
+                "answer": "maturatiefase",
+                "answer_length": 1,
+                "distractors": [
+                    "granulatiefase",
+                    "littekenfase",
+                    "ontstekingsfase"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke van de vier fasen van de wondheling komt epithelialisatie voor ?",
+                "question_length": 20,
+                "score": 0.7354233740849782
+            },
+            {
+                "answer": "Stelsel",
+                "answer_length": 1,
+                "distractors": [
+                    "Weefsel",
+                    "Orgaan",
+                    "Organisme"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Tot welk organisatieniveau in een organisme behoort het skelet ?",
+                "question_length": 21,
+                "score": 0.7206033257349421
+            },
+            {
+                "answer": "stijgt het eigen vermogen",
+                "answer_length": 4,
+                "distractors": [
+                    "daalt het kapitaal",
+                    "stijgt het kapitaal",
+                    "daalt het eigen vermogen"
+                ],
+                "language": "nl",
+                "question": "Vul aan . Door de aanleg van reserves ...",
+                "question_length": 9,
+                "score": 0.6839154052621437
+            },
+            {
+                "answer": "Een windhoos",
+                "answer_length": 2,
+                "distractors": [
+                    "Een wegverzakking"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke gebeurtenis wordt niet beschouwd als natuurramp ( volgens de wet van 4/4/2014 ) ?",
+                "question_length": 21,
+                "score": 0.6814553065869595
+            }
+        ]
+    }
+}

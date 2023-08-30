@@ -1,0 +1,134 @@
+{
+    "qid": "db3c6798-8299-4598-a4c7-338a2b2dcab6",
+    "response": {
+        "Query": "Welke drank is de meest gebruikte drug op aarde?",
+        "Result": [
+            {
+                "answer": "Marihuana ",
+                "answer_length": 1,
+                "distractors": [
+                    "Cafeine",
+                    "Guarana",
+                    "Alcohol"
+                ],
+                "language": "af",
+                "question": "Welke drug is illegaal in Belgie ?",
+                "question_length": 7,
+                "score": 0.9847866802024366
+            },
+            {
+                "answer": "Chloorhexidine",
+                "answer_length": 1,
+                "distractors": [
+                    "Isobetadine",
+                    "Hibidil"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan ! Welk ontsmettingsmiddel gebruik je best ?",
+                "question_length": 12,
+                "score": 0.9694004185640656
+            },
+            {
+                "answer": "bakeliet",
+                "answer_length": 1,
+                "distractors": [
+                    "rubber",
+                    "nylon",
+                    "celluloid"
+                ],
+                "language": "nl",
+                "question": "Een brokje geschiedenis om mee te starten : Welke stof luidde in 1909 het tijdperk in van de synthetische kunststoffen ?",
+                "question_length": 21,
+                "score": 0.9346545916375394
+            },
+            {
+                "answer": "opium",
+                "answer_length": 1,
+                "distractors": [
+                    "lood",
+                    "suiker",
+                    "lithium"
+                ],
+                "language": "nl",
+                "question": "Duid aan . Van welke substantie is de pijnstiller morphine afkomstig ?",
+                "question_length": 12,
+                "score": 0.9319188866606021
+            },
+            {
+                "answer": "vitamine P",
+                "answer_length": 2,
+                "distractors": [
+                    "menthol",
+                    "citroen"
+                ],
+                "language": "nl",
+                "question": "2 punten Welke werkstof heeft een bloedvatverstevigende werking ?",
+                "question_length": 9,
+                "score": 0.9035306478584885
+            },
+            {
+                "answer": "O/W-creme",
+                "answer_length": 1,
+                "distractors": [
+                    "W/O-creme",
+                    "pasta",
+                    "zalf"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke galenische vorm uit dit rijtje krijgt de voorkeur bij de behandeling van een vette huid ?",
+                "question_length": 24,
+                "score": 0.9021173453688888
+            },
+            {
+                "answer": "vet",
+                "answer_length": 1,
+                "distractors": [
+                    "alcohol",
+                    "vitamine",
+                    "water"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Aan welke voedingsstof hebben peuters in vergelijking met volwassenen een hogere behoefte ?",
+                "question_length": 20,
+                "score": 0.8993351057887821
+            },
+            {
+                "answer": "Assertclean",
+                "answer_length": 1,
+                "distractors": [
+                    "Rilan"
+                ],
+                "language": "nl",
+                "question": "Welke product wordt gebruikt voor sterk vervuilde oppervlaken ?",
+                "question_length": 9,
+                "score": 0.8982202653820427
+            },
+            {
+                "answer": "chloorhexidine",
+                "answer_length": 1,
+                "distractors": [
+                    "eosine",
+                    "iso-betadine",
+                    "waterstofperoxide"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hieronder kan je een korte omschrijving terugvinden van 4 verschillende soorten ontsmettingsmiddelen voor de huid . Welke van de volgende ontsmettingsmiddelen is het meest ideale ontsmettingsmiddel ? Eosine : uitdrogende werking weinig bacteriedodend gekleurd Chloorhexidine : breed spectrum actief in aanwezigheid van bloed weinig irriterend kleurloos Iso-betadine : breed spectrum weinig irriterend gekleurd Waterstofperoxide : goede reinigende werking kleurloos oxiderende eigenschappen",
+                "question_length": 68,
+                "score": 0.8855007853613617
+            },
+            {
+                "answer": "perdolan-compositum",
+                "answer_length": 1,
+                "distractors": [
+                    "afebryl",
+                    "aspirine",
+                    "tramadol"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In de BCFI staat het volgende te lezen over combinatiepreparaten tegen pijn en koorts : In principe zijn preparaten met een enkel actief bestanddeel te verkiezen . Associeren van hoge doses coffeine ( meer dan 100 mg ) met paracetamol of NSAID 's zou mogelijk een beperkt additief analgetisch effect geven . Toevoegen van ascorbinezuur ( vitamine C ) heeft geen zin . Het associeren van coffeine met acetylsalicylzuur of paracetamol , zou chronisch gebruik en misbruik ervan in de hand werken . Welk preparaat bevat zowel coffeine , paracetamol als acetylsalicylzuur ?",
+                "question_length": 100,
+                "score": 0.8828699245054809
+            }
+        ]
+    }
+}

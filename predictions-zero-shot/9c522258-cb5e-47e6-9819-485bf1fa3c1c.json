@@ -1,0 +1,5 @@
+{
+    "qid": "9c522258-cb5e-47e6-9819-485bf1fa3c1c",
+    "input": "question: They were badly ... ... ... ... ..in the accident .\nanswer: injured\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. cooked\n2. puzzled\n3. decorated\n4. organized\n5. mesmerized\n6. entertained\n7. repaired\n8. inspired\n9. celebrated\n10. confused\n11. enlightened\n12. transformed\n13. painted\n14. fulfilled\n15. frustrated\n16. revitalized\n17. cured\n18. enchanted\n19. satisfied\n20. energized"
+}

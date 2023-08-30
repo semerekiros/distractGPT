@@ -1,0 +1,5 @@
+{
+    "qid": "abc0390c-10f9-4f75-97db-31582b58928a",
+    "input": "Choose the right form . We ca n't buy ... fresh fruit in this shop . They only have tinned and canned food . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. any\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. a\n2. everybody\n3. u\n4. b\n5. v\n6. i\n7. n\n8. m\n9. c\n10. we"
+}

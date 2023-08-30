@@ -1,0 +1,5 @@
+{
+    "qid": "1fb1f161-e9a9-40c2-a253-495e5c4bda6d",
+    "input": "vraag: Bij een breukschaal van 1 : 100 000 is 1 cm gelijk aan...\nantwoord: 1 km\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. 10 km\n2. 100 m\n3. 500 m\n4. 1.5 km\n5. 2 km\n6. 5 km\n7. 0.5 km\n8. 20 km\n9. 50 m\n10. 200 m\n11. 800 m\n12. 2.5 km\n13. 150 m\n14. 10 m\n15. 7 km\n16. 30 km\n17. 3 km\n18. 4 km\n19. 250 m\n20. 75 km"
+}

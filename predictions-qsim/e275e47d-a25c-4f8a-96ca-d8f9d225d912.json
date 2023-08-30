@@ -1,0 +1,132 @@
+{
+    "qid": "e275e47d-a25c-4f8a-96ca-d8f9d225d912",
+    "response": {
+        "Query": "Clitoridectomie is in Belgi\u00eb en alle westerse landen strafbaar en wordt ook actief vervolgd. Wat betekent dat woord?",
+        "Result": [
+            {
+                "answer": "Kwaadaardigheid",
+                "answer_length": 1,
+                "distractors": [
+                    "Moisture van de wonde",
+                    "Genezing",
+                    "Goedaardigheid"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Klinische tekenen van maligniteit . Wat betekent maligniteit ?",
+                "question_length": 15,
+                "score": 0.999864029417639
+            },
+            {
+                "answer": "Gevarenanalyse en kritische controlepunten",
+                "answer_length": 4,
+                "distractors": [
+                    "Voedselveiligheid",
+                    "Situationele inschatting en effectieve tussenkomst"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . HACCP is een Engels letterwoord . Wat is de beste Nederlands vertaling voor dit woord ?",
+                "question_length": 22,
+                "score": 0.9985668953198981
+            },
+            {
+                "answer": "tabernakel",
+                "answer_length": 1,
+                "distractors": [
+                    "preekstoel",
+                    "ambo",
+                    "biechtstoel"
+                ],
+                "language": "nl",
+                "question": "Rondleiding in de kerk Hoe noemt dit kerkmeubilair ? Stip het juiste antwoord aan .",
+                "question_length": 15,
+                "score": 0.9937373922265642
+            },
+            {
+                "answer": "Ja",
+                "answer_length": 1,
+                "distractors": [
+                    "Nee"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Casus : Is dit een voorbeeld van een therapeutische relatie ?",
+                "question_length": 17,
+                "score": 0.9935586611059929
+            },
+            {
+                "answer": "schadelijk",
+                "answer_length": 1,
+                "distractors": [
+                    "corrosief",
+                    "explosiegevaar",
+                    "giftig"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Onderstaand veiligheidspictogram hoort bij chroomsulfaat . Wat is de betekenis van dit pictogram ?",
+                "question_length": 21,
+                "score": 0.9924883436460078
+            },
+            {
+                "answer": "Hypobaropathie",
+                "answer_length": 1,
+                "distractors": [
+                    "Hypoxie",
+                    "Hyperventilatie",
+                    "Hyperbaropathie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de correcte wetenschappelijke benaming van hoogteziekte ?",
+                "question_length": 16,
+                "score": 0.992384570500094
+            },
+            {
+                "answer": "giftig",
+                "answer_length": 1,
+                "distractors": [
+                    "kankerverwekkend",
+                    "ontvlambaar",
+                    "oxiderend"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Alcohol ( ethanol ) is een giftig product dat bij de mens allerlei schadelijke en nadelige reacties kan veroorzaken . En toch wordt het vrijwillig , vaak en veel door mensen ingenomen . Op de figuur zie je de pictogrammen die op het etiket staan van een fles ethanol . Welk gevaar hoort NIET bij alcohol ?",
+                "question_length": 64,
+                "score": 0.9913313434401952
+            },
+            {
+                "answer": "zachte talgregulerende producten",
+                "answer_length": 3,
+                "distractors": [
+                    "sterke talgregulerende producten",
+                    "zware peelings"
+                ],
+                "language": "nl",
+                "question": "2 punten Acne wordt momenteel het vaakst behandeld met",
+                "question_length": 9,
+                "score": 0.9911708833664191
+            },
+            {
+                "answer": "oxiderend",
+                "answer_length": 1,
+                "distractors": [
+                    "irriterend",
+                    "ontvlambaar"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Alcohol ( ethanol ) is een giftig product dat bij de mens allerlei schadelijke en nadelige effecten kan veroorzaken . En toch wordt het vrijwillig , vaak en veel door mensen ingenomen . Op de figuur zie je de pictogrammen die op het etiket staan van een fles ethanol . Welk gevaar hoort NIET bij alcohol ?",
+                "question_length": 64,
+                "score": 0.9897903707824977
+            },
+            {
+                "answer": "een metro",
+                "answer_length": 2,
+                "distractors": [
+                    "een hogesnelheidstrein",
+                    "een gammele trein"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wat betekent het Afrikaanse woord : moltrein ?",
+                "question_length": 14,
+                "score": 0.9890398142834664
+            }
+        ]
+    }
+}

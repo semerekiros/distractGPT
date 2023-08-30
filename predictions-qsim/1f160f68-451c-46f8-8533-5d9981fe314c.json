@@ -1,0 +1,135 @@
+{
+    "qid": "1f160f68-451c-46f8-8533-5d9981fe314c",
+    "response": {
+        "Query": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you allow .",
+        "Result": [
+            {
+                "answer": "would",
+                "answer_length": 1,
+                "distractors": [
+                    "do",
+                    "should",
+                    "have to"
+                ],
+                "language": "en",
+                "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you offer .",
+                "question_length": 26,
+                "score": 0.8832574245930678
+            },
+            {
+                "answer": "would",
+                "answer_length": 1,
+                "distractors": [
+                    "do",
+                    "should",
+                    "have to"
+                ],
+                "language": "en",
+                "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you allow .",
+                "question_length": 26,
+                "score": 0.8774006114441333
+            },
+            {
+                "answer": "might",
+                "answer_length": 1,
+                "distractors": [
+                    "should",
+                    "can",
+                    "will"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate modal verb expressing FUTURE POSSIBILITY ! Because of the health risk we ... .. have to review safety procedures .",
+                "question_length": 23,
+                "score": 0.8360356380083844
+            },
+            {
+                "answer": "must not",
+                "answer_length": 2,
+                "distractors": [
+                    "do not have to",
+                    "should not"
+                ],
+                "language": "en",
+                "question": "Choose the correct word . Selectionnez le mot correct . Kies het juiste woord . A flight attendant is explaining some rules to the passengers . Passengers ... smoke during the entire flight .",
+                "question_length": 34,
+                "score": 0.8328927287060672
+            },
+            {
+                "answer": "can",
+                "answer_length": 1,
+                "distractors": [
+                    "must",
+                    "should",
+                    "would"
+                ],
+                "language": "en",
+                "question": "Choose the correct modal verb ! You want to stress door-to-door deliveries are possible . We ... ... offer door-to-door delivery services .",
+                "question_length": 23,
+                "score": 0.8258489192526464
+            },
+            {
+                "answer": "disturb",
+                "answer_length": 1,
+                "distractors": [
+                    "discuss",
+                    "divert",
+                    "diminish"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . She is in a meeting . I can not ... her now .",
+                "question_length": 18,
+                "score": 0.7985442747544306
+            },
+            {
+                "answer": "meet",
+                "answer_length": 1,
+                "distractors": [
+                    "have got",
+                    "received",
+                    "bringing"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . He failed and did not ... the deadline .",
+                "question_length": 14,
+                "score": 0.7898809285993497
+            },
+            {
+                "answer": "must",
+                "answer_length": 1,
+                "distractors": [
+                    "had to",
+                    "has to",
+                    "can"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate modal verb expressing POSITIVE LOGICAL DEDUCTION ! The money was sent a week ago . It ... .. have arrived by now .",
+                "question_length": 26,
+                "score": 0.7897485951974026
+            },
+            {
+                "answer": "may not",
+                "answer_length": 2,
+                "distractors": [
+                    "do not have to"
+                ],
+                "language": "en",
+                "question": "For each of the following sentences , choose the best alternative to complete the sentence . Company policy : you ... to walk into this area without a hard hat .",
+                "question_length": 31,
+                "score": 0.7877166624121295
+            },
+            {
+                "answer": "may",
+                "answer_length": 1,
+                "distractors": [
+                    "must",
+                    "should",
+                    "have to"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate modal verb to express possibility : With a little luck we ________ land the contract .",
+                "question_length": 19,
+                "score": 0.7812788685203955
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "qid": "f261972e-7dab-42a2-ad5e-655080fd5850",
+    "response": {
+        "Query": "Welk vaatweefsel zorgt voor opwaarts transport?",
+        "Result": [
+            {
+                "answer": "baarmoedermond",
+                "answer_length": 1,
+                "distractors": [
+                    "vagina",
+                    "binnenste schaamlippen",
+                    "eileider"
+                ],
+                "language": "nl",
+                "question": "Wat is er ontsloten bij de ontsluiting ?",
+                "question_length": 8,
+                "score": 0.9260230287809665
+            },
+            {
+                "answer": "Inwendige luchtkamertjes",
+                "answer_length": 2,
+                "distractors": [
+                    "Longblaasjes",
+                    "Longholte",
+                    "Luchtzakjes"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar gebeurt de gasuitwisseling bij reptielen ?",
+                "question_length": 18,
+                "score": 0.9232375831238631
+            },
+            {
+                "answer": "in de longblaasjes",
+                "answer_length": 3,
+                "distractors": [
+                    "in de luchtpijptakken",
+                    "in de longtakjes",
+                    "in de luchtpijp"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de gasuitwisseling in de longen ?",
+                "question_length": 8,
+                "score": 0.9180463490749935
+            },
+            {
+                "answer": "Om bloedklonters te voorkomen",
+                "answer_length": 4,
+                "distractors": [
+                    "Om hevige bloedingen te voorkomen",
+                    "Tegen de pijn"
+                ],
+                "language": "nl",
+                "question": "Waarom geeft men inspuitingen om het bloed te verdunnen ? Duid het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.911448152096169
+            },
+            {
+                "answer": "embryo",
+                "answer_length": 1,
+                "distractors": [
+                    "bevruchte eicel",
+                    "foetus",
+                    "eicel"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat wordt verwijderd tijdens een abortus ?",
+                "question_length": 18,
+                "score": 0.8813993887045821
+            },
+            {
+                "answer": "rond de longblaasjes",
+                "answer_length": 3,
+                "distractors": [
+                    "rond de longtakjes",
+                    "rond de longtakken",
+                    "rond de luchtpijp"
+                ],
+                "language": "nl",
+                "question": "Waarrond bevinden zich haarvaten voor de gasuitwisseling ( zuurstofgas in het bloed en koolstofdioxide uit het bloed ) ?",
+                "question_length": 19,
+                "score": 0.8717992568154308
+            },
+            {
+                "answer": "Hart trekt normaal samen",
+                "answer_length": 4,
+                "distractors": [
+                    "Hart klopt vanaf nu altijd",
+                    "Hartslag wordt verlaagd",
+                    "Hartpauze wordt niet overgeslagen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat is het nut van een kunstmatige pacemaker ?",
+                "question_length": 20,
+                "score": 0.8368676511245362
+            },
+            {
+                "answer": "regenwater",
+                "answer_length": 1,
+                "distractors": [
+                    "zeewater",
+                    "ijs",
+                    "rivierwater"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke erosievorm heeft dit karrenlandschap van Dent de Crolles in Frankrijk gevormd ?",
+                "question_length": 20,
+                "score": 0.8254077519712715
+            },
+            {
+                "answer": "urineleider",
+                "answer_length": 1,
+                "distractors": [
+                    "urinebuis",
+                    "vagina",
+                    "eileider"
+                ],
+                "language": "nl",
+                "question": "Welk orgaantje is aangeduid op de foto ?",
+                "question_length": 8,
+                "score": 0.8156846474301332
+            },
+            {
+                "answer": "via receptorgemedieerde endocytose",
+                "answer_length": 3,
+                "distractors": [
+                    "via pinocytose",
+                    "via fagocytose",
+                    "via diffusie"
+                ],
+                "language": "nl",
+                "question": "Hoe kan cholesterol de celmembraan binnen en buitenkomen ?",
+                "question_length": 9,
+                "score": 0.8037700819604023
+            }
+        ]
+    }
+}

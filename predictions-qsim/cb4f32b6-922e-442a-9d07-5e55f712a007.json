@@ -1,0 +1,138 @@
+{
+    "qid": "cb4f32b6-922e-442a-9d07-5e55f712a007",
+    "response": {
+        "Query": "Hoe werden goederen 'gekocht' in Mesopotami\u00eb?",
+        "Result": [
+            {
+                "answer": "wind",
+                "answer_length": 1,
+                "distractors": [
+                    "gletsjer",
+                    "rivier",
+                    "zee"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat heeft de zanden afgezet in het noorden van Vlaanderen ?",
+                "question_length": 18,
+                "score": 0.9572917664866776
+            },
+            {
+                "answer": "wind",
+                "answer_length": 1,
+                "distractors": [
+                    "waterkwaliteit",
+                    "vochtigheid"
+                ],
+                "language": "nl",
+                "question": "Vink het meest passende antwoord aan . Welke omgevingsfactor is belangrijk in voor landduinen ?",
+                "question_length": 15,
+                "score": 0.9532802598170315
+            },
+            {
+                "answer": "hagel",
+                "answer_length": 1,
+                "distractors": [
+                    "regen ",
+                    "vorst",
+                    "wind"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke natuurevenementen maken zeker deel uit van de wettelijk verplichte dekkingen in een verzekering brand eenvoudige risico 's ? De schade aan de verzekerde goederen door ...",
+                "question_length": 33,
+                "score": 0.9349234783076473
+            },
+            {
+                "answer": "aardolie",
+                "answer_length": 1,
+                "distractors": [
+                    "steenkool",
+                    "waterkracht",
+                    "aardwarmte"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Welke is de belangrijkste primaire energiebron in de wereld ?",
+                "question_length": 23,
+                "score": 0.9309533659651285
+            },
+            {
+                "answer": "kanaal",
+                "answer_length": 1,
+                "distractors": [
+                    "zee",
+                    "rivier",
+                    "beek"
+                ],
+                "language": "nl",
+                "question": "Welk landschapselement is niet natuurlijk ?",
+                "question_length": 6,
+                "score": 0.9242313107159181
+            },
+            {
+                "answer": "de publiciteit over de dienstverlener ",
+                "answer_length": 5,
+                "distractors": [
+                    "verlangens en behoeften ",
+                    "onpartijdig analyse van de markt "
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke gegevens moeten NIET worden bijgehouden om de naleving van de zorgplicht te kunnen bewijzen ? Informatie over de ...",
+                "question_length": 26,
+                "score": 0.8767170651573954
+            },
+            {
+                "answer": "steenkool",
+                "answer_length": 1,
+                "distractors": [
+                    "aardwarmte",
+                    "waterkracht",
+                    "wind",
+                    "zonne-energie"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Welke is geen duurzame energiebron ?",
+                "question_length": 19,
+                "score": 0.8363779947752836
+            },
+            {
+                "answer": "Aardappelen",
+                "answer_length": 1,
+                "distractors": [
+                    "Water",
+                    "Honing",
+                    "Graan",
+                    "Druiven",
+                    "Olijven"
+                ],
+                "language": "nl",
+                "question": "Welk landbouwgewas of -product herken je op de foto ?",
+                "question_length": 10,
+                "score": 0.8044528572335617
+            },
+            {
+                "answer": "Papier van keukenrol",
+                "answer_length": 3,
+                "distractors": [
+                    "Boomschors",
+                    "Theezakje",
+                    "Zand"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat hoort niet thuis bij het GFT-afval ?",
+                "question_length": 15,
+                "score": 0.7858397067930757
+            },
+            {
+                "answer": "vochtigheid",
+                "answer_length": 1,
+                "distractors": [
+                    "wind",
+                    "temperatuur"
+                ],
+                "language": "nl",
+                "question": "Vink het meest passende antwoord aan . Welke omgevingsfactor speelt een belangrijke rol in de droge en natte heide ?",
+                "question_length": 20,
+                "score": 0.7470427714554837
+            }
+        ]
+    }
+}

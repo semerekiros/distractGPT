@@ -1,0 +1,5 @@
+{
+    "qid": "3f404aba-efcf-439a-99a5-e409f56fc21a",
+    "input": "vraag: In welk seizoen zijn de temperaturen het hoogst?\nantwoord: zomer\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Winter\n2. Lente\n3. Herfst\n4. Lente en herfst\n5. Lente, zomer en herfst\n6. Het hangt af van de locatie\n7. Het hangt af van het jaar\n8. Temperaturen zijn het hele jaar door hetzelfde\n9. De temperaturen zijn het hoogst in de ochtend\n10. De temperaturen zijn het hoogst 's nachts\n11. De temperaturen zijn het hoogst in de poolgebieden\n12. De temperaturen zijn het hoogst in de woestijn\n13. De temperaturen zijn het hoogst in de bergen\n14. De temperaturen zijn het hoogst tijdens de maand december\n15. De temperaturen zijn het hoogst tijdens de maand januari\n16. De temperaturen zijn het hoogst tijdens de maand februari\n17. De temperaturen zijn het hoogst tijdens de maand maart\n18. De temperaturen zijn het hoogst tijdens de maand april\n19. De temperaturen zijn het hoogst tijdens de maand mei\n20. De temperaturen zijn het hoogst tijdens de maand november."
+}

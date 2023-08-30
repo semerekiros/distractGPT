@@ -1,0 +1,5 @@
+{
+    "qid": "d7280b33-6158-4a42-8636-395243cdbd44",
+    "input": "vraag: Choose the appropriate response . How do you do ?\nantwoord: How do you do ?\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. I'm doing great, thanks for asking!\n2. Sorry, I don't understand the question.\n3. What do you mean by that?\n4. I'm doing well, but I'm a bit tired.\n5. How do I do what?\n6. I'm doing terrible, thanks for bringing it up.\n7. I'm doing okay, how about you?\n8. I'm not sure what you're asking.\n9. I'm doing fantastic, how about yourself?\n10. How do I do what, exactly?\n11. I'm doing fine, thanks for asking.\n12. I don't know, how do I do?\n13. I'm doing good, how about you?\n14. I'm doing great, how about you?\n15. How do I do what, specifically?\n16. I'm doing pretty good, thanks.\n17. I'm doing alright, thanks for asking.\n18. What are you asking me?\n19. How do I do what you're asking me to do?\n20. I'm doing wonderful, thanks for inquiring."
+}

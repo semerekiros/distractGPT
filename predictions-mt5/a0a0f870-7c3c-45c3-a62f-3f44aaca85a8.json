@@ -1,0 +1,5 @@
+{
+    "qid": "a0a0f870-7c3c-45c3-a62f-3f44aaca85a8",
+    "input": "Om welke activiteit staat het Nieuwe Rijk van Egypte bekend? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Bouwen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. werken\n2. Mining\n3. transport\n4. optuigen\n5. lading\n6. dekken\n7. zaadrijden\n8. landbouw\n9. industrie\n10. visserij"
+}

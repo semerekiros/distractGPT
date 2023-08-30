@@ -1,0 +1,130 @@
+{
+    "qid": "5996eed8-0f3e-40dd-9c25-bc2a69392b8c",
+    "response": {
+        "Query": "Rond welk tijd situeer je prehistorisch \u00c7atalh\u00f6y\u00fck?",
+        "Result": [
+            {
+                "answer": "niet lang",
+                "answer_length": 2,
+                "distractors": [
+                    "erg lang",
+                    "heel haar leven",
+                    "nog niet"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoe lang woont de verteller in de stad ?",
+                "question_length": 16,
+                "score": 0.9845155712070365
+            },
+            {
+                "answer": "vroeger",
+                "answer_length": 1,
+                "distractors": [
+                    "nu",
+                    "toekomst"
+                ],
+                "language": "nl",
+                "question": "Bekijk het dvd-doosje . In welke tijd speelt het verhaal zich af ?",
+                "question_length": 13,
+                "score": 0.9837253364137934
+            },
+            {
+                "answer": "dag 19 tot 25",
+                "answer_length": 4,
+                "distractors": [
+                    "dag 1 tot 4",
+                    "dag 26 tot 28",
+                    "dag 15 tot 18"
+                ],
+                "language": "nl",
+                "question": "Welke periode in de menstruatiecyclus vindt plaats op de figuur hieronder ?",
+                "question_length": 12,
+                "score": 0.9733009603336613
+            },
+            {
+                "answer": "Altijd",
+                "answer_length": 1,
+                "distractors": [
+                    "Niet in dringende omstandigheden"
+                ],
+                "language": "nl",
+                "question": "De voorschriften van het ARAB en de Codex moeten nageleefd worden :",
+                "question_length": 12,
+                "score": 0.9682463110609475
+            },
+            {
+                "answer": "Geeft mogelijks problemen",
+                "answer_length": 3,
+                "distractors": [
+                    "Mag niet",
+                    "Moet gebeuren"
+                ],
+                "language": "nl",
+                "question": "Het aansluiten van de zender op de PEN-geleider :",
+                "question_length": 9,
+                "score": 0.9678786657488491
+            },
+            {
+                "answer": "3500 kWh",
+                "answer_length": 2,
+                "distractors": [
+                    "1500 kWh",
+                    "5500 kWh"
+                ],
+                "language": "nl",
+                "question": "Wat is het verbruik van een doorsnee gezin in Vlaanderen ?",
+                "question_length": 11,
+                "score": 0.9563010596547333
+            },
+            {
+                "answer": "Na vierentwintig uren ",
+                "answer_length": 3,
+                "distractors": [
+                    "Na een uur ",
+                    "Na twaalf uren ",
+                    "Na achtenveertig uren "
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Na welke periode begint tandplak te verharden tot tandsteen ?",
+                "question_length": 21,
+                "score": 0.9483738768270074
+            },
+            {
+                "answer": "Dun bevolkt",
+                "answer_length": 2,
+                "distractors": [
+                    "Matig dicht bevolkt",
+                    "Dicht bevolkt"
+                ],
+                "language": "nl",
+                "question": "Vink de overeenkomstige bevolkingsdichtheid van een natuurlandschap in Belgie aan .",
+                "question_length": 11,
+                "score": 0.9392170215802271
+            },
+            {
+                "answer": "net voor de geboorte",
+                "answer_length": 4,
+                "distractors": [
+                    "vanaf de geboorte",
+                    "vanaf de puberteit",
+                    "net voor de puberteit"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wanneer zijn de primaire geslachtskenmerken zichtbaar ?",
+                "question_length": 18,
+                "score": 0.9376075075203221
+            },
+            {
+                "answer": "Altijd",
+                "answer_length": 1,
+                "distractors": [
+                    "Enkel tijdens de werkuren"
+                ],
+                "language": "nl",
+                "question": "Wanneer staat het magneetveld van de scanner aan ?",
+                "question_length": 9,
+                "score": 0.9306189069090962
+            }
+        ]
+    }
+}

@@ -1,0 +1,2934 @@
+{
+    "0": {
+        "via de dorsale wortel": [
+            "1d8f4d54-c59f-4441-b52b-e439da3da3a7"
+        ],
+        "via de laterale wortel": [
+            "d81f2763-31e2-4ddd-b035-0b895e3cd040"
+        ],
+        "via de spinale wortel": [
+            "92f6b347-58ea-4a99-a9f4-5f0d8073659c"
+        ],
+        "via de posterieure wortel": [
+            "34f0c862-d26a-4aa3-a44a-d21d589b0f38"
+        ],
+        "via de anterieure wortel": [
+            "64eb7d6d-c68b-482a-9e79-674efed82761"
+        ],
+        "via de proximale wortel": [
+            "e88c68c3-540e-41e9-88b6-e3ae1788d7ef"
+        ],
+        "via de distale wortel": [
+            "d673a8ee-d174-4e83-909e-d2e16571b5a7"
+        ],
+        "via de laterale zenuwvezel": [
+            "539db875-b0e6-409d-9303-8ea4139bee7c"
+        ],
+        "via de mediale zenuwvezel": [
+            "db618269-46ad-4020-ae66-cbef866fcc0b"
+        ],
+        "via de dorsale zenuwvezel": [
+            "252d798d-f50a-4b72-94b9-e31137c5fe1e"
+        ],
+        "Via een geheime ondergrondse tunnel.": [
+            "5aeef1d1-155a-4f6f-9f4a-79ae2176efce"
+        ],
+        "Door middel van een magische spreuk.": [
+            "a5c6976e-9d5b-43f4-91a3-cf351fb7d11e"
+        ],
+        "Via een draadloos netwerk.": [
+            "dc96b356-646c-478c-99d5-711d180726e3"
+        ],
+        "Via de bloedbaan.": [
+            "e420d183-3aab-4d4e-abb9-f44275aa1f4e"
+        ],
+        "Door te teleporteren.": [
+            "5b6ac2ef-ec0c-4fd7-8272-68be8e4d5fc0"
+        ],
+        "Via een uitgebreid systeem van hamsters die in wielen rennen.": [
+            "4eb0d504-e588-463c-99aa-fbb77d3f1cf0"
+        ],
+        "Via een lopende band.": [
+            "6ed8b560-2bf8-4338-afb8-54df7b0fa511"
+        ],
+        "Door middel van een serie brieven die van het neuron naar de effector worden gestuurd.": [
+            "62fc7ac7-9ae7-4af1-81c5-96380b35fb69"
+        ],
+        "Via een ingewikkeld netwerk van kabels en stekkers.": [
+            "2373821d-a094-41ea-a1d8-537df7be6c73"
+        ],
+        "Door middel van telekinese.": [
+            "107550e0-59a9-4a0a-b7b2-2aef9b374001"
+        ]
+    },
+    "1": {
+        "wortels": [
+            "89acd0ff-9700-4d4a-ac06-f4e5e0d4b654"
+        ],
+        "broccoli": [
+            "d42a91b1-5671-4e4f-bbba-a0cf72877439"
+        ],
+        "bananen": [
+            "6f56fad2-5a70-4ca3-8094-24db24a45bd1"
+        ],
+        "eieren": [
+            "d8a5e5f8-1dac-4741-ba23-3fb7c7108192"
+        ],
+        "pindakaas": [
+            "e59a79cd-bd4a-42b0-97e9-4cd9057d9fa0"
+        ],
+        "avocado's": [
+            "0f7cf3a3-b3e9-4bde-be5e-adde4b44fb3a"
+        ],
+        "rijst": [
+            "014bbf25-4529-40a4-95f9-cf97895e9155"
+        ],
+        "yoghurt": [
+            "ba18cb44-440a-43d0-a2fe-9b10580f23bf"
+        ],
+        "chocolade": [
+            "56484f66-3bab-467a-9f72-132b70943054"
+        ],
+        "kaas": [
+            "4d81ff48-0281-4783-920f-0b919061cee0"
+        ],
+        "Brood": [
+            "fc67057b-e960-4eca-b0bd-c5d12f85ab45"
+        ],
+        "Bananen": [
+            "5309e75c-e7f9-4398-bec0-b59682ef3425"
+        ],
+        "Kaas": [
+            "1132a419-248d-49ad-9ac9-7fd7812669f7"
+        ],
+        "Yoghurt": [
+            "af8695fc-febe-4e48-b709-075301e03430"
+        ],
+        "Komkommer": [
+            "c62463cf-f4cb-4acd-ad26-93661c31b9b8"
+        ],
+        "Appels": [
+            "f4836ef2-8be5-4cec-85fc-7e7aaeaba006"
+        ],
+        "Eieren": [
+            "f1aa8067-5834-4d0b-8881-2c652d150f1c"
+        ],
+        "Wortels": [
+            "3bf6ea57-554d-4c45-b79b-bb29f30899b3"
+        ],
+        "Pasta": [
+            "74d8f777-73f3-4cda-ad42-91b0afa7712a"
+        ],
+        "Boter": [
+            "5cf2ba7f-b1d4-4cce-9186-9e92dc29ec4b"
+        ]
+    },
+    "2": {
+        "Pati\u00ebnten met een hoge bloeddruk": [
+            "cd264df3-9137-4e6e-9759-535f6c3f5e85",
+            "a6d823fa-e67d-4652-8b41-b9c0c5a67008"
+        ],
+        "Mensen met een gebroken arm": [
+            "7eb919db-62db-4b69-9460-248e33d14309"
+        ],
+        "Pati\u00ebnten met astma": [
+            "7c1749be-6f31-4dd5-874e-1104681aefdb"
+        ],
+        "Mensen met overgewicht": [
+            "a6144a32-f9d7-4692-9c94-56e56f2cdceb"
+        ],
+        "Pati\u00ebnten met een te lage bloedsuikerspiegel": [
+            "b473732b-e11c-4552-b034-7c4f6573674e"
+        ],
+        "Mensen met hooikoorts": [
+            "2900ed89-6890-4bf5-8970-db8e79a3df9e"
+        ],
+        "Pati\u00ebnten met een oogontsteking": [
+            "73bd7b90-5108-4613-aad4-bd582dd83e40"
+        ],
+        "Mensen met een huidinfectie": [
+            "06a2463c-ce7b-4c40-b621-4c3718b744d9"
+        ],
+        "Pati\u00ebnten met een gebroken been": [
+            "6fcfb7b2-9f53-4d09-baf7-1607ec2abeff",
+            "24d2ea9c-a68c-43f8-b434-18e4a15354d4"
+        ],
+        "Mensen met rugklachten": [
+            "69296b25-2aea-4777-94d2-c362ce76332c"
+        ],
+        "Pati\u00ebnten met artritis": [
+            "0c25595a-4b90-45d5-9c06-6b2ac9b9543b"
+        ],
+        "Pati\u00ebnten met een schildklierprobleem": [
+            "675c7e9e-2083-4063-a01c-2b54f4ca32fb"
+        ],
+        "Pati\u00ebnten met een nierinfectie": [
+            "50e68006-ee89-498e-9b8d-c0023d640f60"
+        ],
+        "Pati\u00ebnten met hoge cholesterol": [
+            "ad1f1ef4-7e32-43b7-a76b-27e0173f1363"
+        ],
+        "Pati\u00ebnten met slaapapneu": [
+            "8943647c-62c1-4ec9-a3c4-bba80de6fdb0"
+        ],
+        "Pati\u00ebnten met een ooginfectie": [
+            "d6b2905e-056a-4f80-8eea-3d41f8fe3e9c"
+        ],
+        "Pati\u00ebnten met een huidallergie": [
+            "7133daaf-84cb-462a-98b3-86003c47dd80"
+        ],
+        "Pati\u00ebnten met een hartinfarct": [
+            "a691607e-5424-40ee-be14-e05ea89bef7d"
+        ]
+    },
+    "3": {
+        "olifant": [
+            "4faa1fbe-c9ee-4b39-b9cb-2045aa298241"
+        ],
+        "krokodil": [
+            "9fdcea78-ced8-411e-a2f9-d55e08383b72"
+        ],
+        "pingu\u00efn": [
+            "c2c67f7e-d5f0-4b97-a1fe-04ff63350a2b"
+        ],
+        "struisvogel": [
+            "2e6015f5-0139-4199-81b7-31de06be8d12"
+        ],
+        "miereneter": [
+            "446f2f90-89e1-495e-875a-7e6e83234cc4"
+        ],
+        "neushoorn": [
+            "0cc9f34d-53f0-4e89-8f88-90f7074dea4d"
+        ],
+        "kangoeroe": [
+            "eed7223a-0de5-4ef1-b047-76e6c43fb09a"
+        ],
+        "nijlpaard": [
+            "447a96fa-8368-4884-9119-f614b9a1e6b0"
+        ],
+        "giraffe": [
+            "24ceed29-e4d6-4436-bb0d-fa795d45cf7b"
+        ],
+        "luiaard": [
+            "37e1283b-6388-49ef-8bc4-5d5c2421b793"
+        ],
+        "Krokodil": [
+            "6b5fd3be-88fd-4e91-a1de-b77926718636"
+        ],
+        "Goudvis": [
+            "4914942e-c14a-43b7-a392-21fb37435caf"
+        ],
+        "Schildpad": [
+            "8f0396e6-a237-4c87-88dc-14d398dd9fb1"
+        ],
+        "Gorilla": [
+            "2ce8e9a8-6bbe-48dc-af70-8445fe006d04"
+        ],
+        "Nijlpaard": [
+            "4bfbbde3-ba64-4f00-a6ed-78d96ef0d918"
+        ],
+        "Olifant": [
+            "af650037-a2f1-47f3-9f6e-3eb4f87b9397"
+        ],
+        "Giraffe": [
+            "7f44bcfb-e8b6-4453-a11e-a6e061e08434"
+        ],
+        "Haai": [
+            "94cd4acc-8546-4d95-a4c4-a03d786e282e"
+        ],
+        "Koe": [
+            "6ac1cfb2-b83e-4bba-8bcc-b3771402187a"
+        ],
+        "Leeuw": [
+            "5c972121-92c2-4f2f-adc6-9718ef837286"
+        ]
+    },
+    "4": {
+        "wortel": [
+            "36346562-6e02-475d-a0d5-b0dfb61e22e6"
+        ],
+        "bloem": [
+            "f685515f-e03c-4807-862b-1c890801cd44"
+        ],
+        "stam": [
+            "c6d2c1e6-a874-4305-abdc-5f83fff83151"
+        ],
+        "vrucht": [
+            "46e70612-a91e-494d-94fc-914a6b61227e"
+        ],
+        "tak": [
+            "221d7473-5ba4-4c0a-b8fc-ce1114ed235b"
+        ],
+        "schors": [
+            "7768acd9-2bb0-4260-8915-12e73a52b4b1"
+        ],
+        "zaad": [
+            "1cefee75-c423-493f-883f-93c05e85429e"
+        ],
+        "knop": [
+            "72ff52f6-cbf9-4f21-9279-bed2cd6358b9"
+        ],
+        "bast": [
+            "cdfbca6d-2ae0-46b5-97ae-4502d8cd97c8"
+        ],
+        "bol": [
+            "8ec29f34-2869-4660-be94-0ae3195d0b1a"
+        ],
+        "Wortel": [
+            "3c979224-975f-4249-8e00-a9b2a22aa3a2"
+        ],
+        "Stengel": [
+            "235fb372-5bf0-48d0-be0e-60a49ed10d6d"
+        ],
+        "Bloem": [
+            "e595c907-440d-4be8-a695-76a1ad0aba54"
+        ],
+        "Vrucht": [
+            "994ccbff-ee22-4e05-a385-ca255ddfa480"
+        ],
+        "Stam": [
+            "33ada753-b7ef-408d-877b-14ed77820ad3"
+        ],
+        "Zaad": [
+            "44fc0629-7120-4787-bcf2-505467964f09"
+        ],
+        "Wortelhaar": [
+            "3801ec3d-1993-4155-9104-a4ce2d034840"
+        ],
+        "Kelkblad": [
+            "67f965a2-2ffe-4c27-b4d6-bd03d4b720d3"
+        ],
+        "Bladsteel": [
+            "1a95cc58-f48e-42d7-b2ad-7ed67f6cbad5"
+        ],
+        "Steelblad": [
+            "b00dce02-a1cd-4c22-870e-e4474b9a3c61"
+        ]
+    },
+    "5": {
+        "30 mm": [
+            "3f9efed6-447b-4acb-a169-a32d9455de6a",
+            "fbe2250b-a101-4aec-bb94-20f74acbbad9"
+        ],
+        "15 mm": [
+            "fde92f5f-2a71-406e-8063-372c570f86d8",
+            "adcf182e-6d03-427b-84da-b1cda29cc5de"
+        ],
+        "20 mm": [
+            "a845f279-397a-4497-936a-c82a86dc2a7a",
+            "06845a96-c5cc-4682-bc79-1e60e7bd3692"
+        ],
+        "35 mm": [
+            "e714c63c-014c-4615-875b-2e9ff7c87e66"
+        ],
+        "10 mm": [
+            "8412f4d4-0971-4a27-b29c-7024dd77e9c2",
+            "31c396db-78b8-4002-9f8f-22529999a968"
+        ],
+        "28 mm": [
+            "9a8bd0c8-a6ec-4537-8bc0-4cbcb7940786"
+        ],
+        "22 mm": [
+            "e967e8f2-77ad-4b17-8839-57a4657ee890",
+            "1e2f8344-4d12-4b3a-b27b-9fd554bd1097"
+        ],
+        "18 mm": [
+            "304f7be7-c8cc-4e94-9b5b-4fbd1132df3c",
+            "fdf6cb69-c417-44fb-b292-cef38263143b"
+        ],
+        "12 mm": [
+            "bd474edf-a459-4b13-9a6b-ba2ec57eb4c4"
+        ],
+        "27 mm": [
+            "9a3ab2a2-bb4d-4baa-96a4-52f81a43fdf1",
+            "045b5eac-0647-415e-8cbb-8555176f72a8"
+        ],
+        "23 mm": [
+            "74648272-afdf-4283-bd32-194fdc8d3b34"
+        ],
+        "21 mm": [
+            "a71fee2d-53ea-4ed1-b7df-49ae1c9dd17f"
+        ],
+        "24 mm": [
+            "b10345b7-8c54-499c-aa84-d8dfe7931de9"
+        ]
+    },
+    "6": {
+        "Grote hersenen": [
+            "3b6c8361-7151-4d74-8a5f-a5bb3127b5af"
+        ],
+        "Hersenstam": [
+            "4fe8eb74-b1a4-4f87-a730-9c6b9f9fff10"
+        ],
+        "Limbisch systeem": [
+            "0d59587e-604a-4c88-8fc9-982ec7ca7968"
+        ],
+        "Temporale kwab": [
+            "6b94b0d9-cf6a-41f4-8e50-d198a0823199"
+        ],
+        "Occipitale kwab": [
+            "c66e1fba-fdb5-4ab4-82b4-5ee144dd58bb"
+        ],
+        "Frontale kwab": [
+            "f5018057-5ae4-4b8f-8b82-1cbe8ff619e5"
+        ],
+        "Hippocampus": [
+            "f067db0b-2c7e-4806-af73-4c4f59e2fe4a"
+        ],
+        "Hypothalamus": [
+            "d2693d02-a907-4b3b-a98d-475ff4facc1b"
+        ],
+        "Amygdala": [
+            "0b4ded4f-2536-4bb4-aa25-53e7e87de3b0"
+        ],
+        "Pons": [
+            "b9f42772-7d6b-47eb-b45c-f2a3dec6b09e"
+        ],
+        "De neus": [
+            "4d99d538-9b5c-4089-b915-c62c245e3cee"
+        ],
+        "De grote teen": [
+            "a52ca777-8cc1-44e7-a5a0-d3787e409a2a"
+        ],
+        "De milt": [
+            "98e77c8f-cd4c-4966-ad79-0c96faf81c6c"
+        ],
+        "De elleboog": [
+            "f7e680c9-13df-4a61-8a20-ce43765dd19e"
+        ],
+        "De alvleesklier": [
+            "a1cea96b-329b-42a9-b245-84bf4ce730be"
+        ],
+        "De navel": [
+            "3f6a25ba-cb66-4f40-88d4-14265ea592e5"
+        ],
+        "De keel": [
+            "5e4a11c7-5774-416e-b64e-0745d2ea9433"
+        ],
+        "De blinde darm": [
+            "801bbc4e-a3a1-47a0-81a0-101aa173325b"
+        ],
+        "De knie": [
+            "eeb79f20-4f6a-4946-980d-3215b379feed"
+        ],
+        "De lever": [
+            "22114fbc-6b43-4c19-9098-3d1266e9fc55"
+        ]
+    },
+    "7": {
+        "Omdat het de puistjes erger maakt.": [
+            "2d45f791-6bb3-4c6b-9775-0ba033d20d6e"
+        ],
+        "Om de bacteri\u00ebn te verspreiden naar andere delen van het gezicht.": [
+            "b2aee99d-f098-4df6-a62a-d2e5f0200251"
+        ],
+        "Omdat het de genezing vertraagt.": [
+            "59b408f8-22d9-4a07-bdf8-0e00acfa6e6e"
+        ],
+        "Omdat het littekens kan veroorzaken.": [
+            "19f84879-e49b-4dfb-b3b8-28b077591df8"
+        ],
+        "Om de pijn te verergeren.": [
+            "889f9174-9d1d-4a05-a767-c65fb6db35c7"
+        ],
+        "Omdat het de huid kan beschadigen.": [
+            "8fcf1448-b4d5-4aef-b587-2c4c293273b6"
+        ],
+        "Om meer puistjes te veroorzaken.": [
+            "191e629f-a86d-4d02-a9a2-f56eb944f006"
+        ],
+        "Omdat het de pori\u00ebn kan verstoppen.": [
+            "a2bb6efd-39c9-43a2-bf45-3c8703ec90f9"
+        ],
+        "Omdat het de huid kan uitdrogen.": [
+            "018ca940-742d-4558-888c-3049f1c0c06a"
+        ],
+        "Omdat het allergische reacties kan veroorzaken.": [
+            "3f3ec681-901d-48fc-9ea3-0dff1b851df5"
+        ],
+        "Omdat het juist goed is om de bacteri\u00ebn te verspreiden over je gezicht.": [
+            "0e6ea503-36f8-4c57-ac80-f910dcdb2dc7"
+        ],
+        "Omdat het helpt om de pori\u00ebn beter te reinigen als je er hard op drukt.": [
+            "7cae8884-50f4-4a43-bbb3-3cafa9cfc58d"
+        ],
+        "Omdat het de kans op littekens verkleint als je de puistjes uitknijpt wanneer ze nog klein zijn.": [
+            "e36f901e-9ced-46bc-ba7c-232e92c8d46d"
+        ],
+        "Omdat het beter is om het met je nagels te doen, zodat je beter grip hebt.": [
+            "eb1c790f-9f93-4445-8a7c-701ff7b6099b"
+        ],
+        "Omdat het de doorbloeding van de huid verbetert als je de puistjes uitknijpt.": [
+            "20b91cc8-2bc2-49df-8d25-0c37e39f3fb0"
+        ],
+        "Omdat het een goede manier is om de overtollige olie uit je huid te krijgen.": [
+            "107f70f6-41fb-4621-8fdc-f0363b104fa2"
+        ],
+        "Omdat het een effectieve manier is om van puistjes af te komen.": [
+            "a15cd1a3-a99a-4fd1-b5de-9def4ac8527c"
+        ],
+        "Omdat het goed is om je handen te gebruiken in plaats van een papiertje, zodat je meer controle hebt.": [
+            "bab1082f-f27c-4766-84d5-e711f106aad8"
+        ],
+        "Omdat het de huid sneller doet genezen.": [
+            "cafd97a5-2a8f-41e1-8073-a6c4106524ae"
+        ],
+        "Omdat het beter is om het met tandpasta te doen in plaats van een papiertje.": [
+            "fb93075f-785c-4147-ab37-247793cd63fe"
+        ]
+    },
+    "8": {
+        "oogzenuwen": [
+            "9363c5f2-0375-4317-8471-d8619ee56096"
+        ],
+        "iris spieren": [
+            "e5f2d2e6-52f6-4822-a723-ecbc557cb59f"
+        ],
+        "oorbuizen": [
+            "1dccee46-7aba-43c6-85c3-535806fff93f"
+        ],
+        "neusholtes": [
+            "025c407d-2edd-4f77-ac69-4abc63ee140b"
+        ],
+        "speekselklieren": [
+            "ddf837f6-4e60-4dbd-bdfb-a159ceee1d05"
+        ],
+        "galblaas": [
+            "46aa149c-10bd-4936-a7fa-feb33ff3cff1"
+        ],
+        "nierbekken": [
+            "23a4fb18-25a3-4520-880f-a9a1a47448d6"
+        ],
+        "alvleesklier": [
+            "084f30ce-84eb-42e1-b21d-5b0f8be28fd0"
+        ],
+        "prostaatklieren": [
+            "676e5884-9860-4ca0-bc00-bd45e78f6ea6"
+        ],
+        "ademhalingsspieren": [
+            "ecc8b608-9341-42f5-b522-5de240b7fdbd"
+        ],
+        "Oogklieren": [
+            "7a98c7af-54b2-48cb-8973-9a20b47dbc5c"
+        ],
+        "Smoorklieren": [
+            "184b53e3-ab15-4cb7-8fd4-5cb1192c736d"
+        ],
+        "Olieklieren": [
+            "a2b7f3b6-ed04-4b9c-917b-f75553d9479b"
+        ],
+        "Neusklieren": [
+            "49306735-9980-42d8-b378-71b9512e7cb7"
+        ],
+        "Wenkbrauwklieren": [
+            "edeae5a5-43f0-43e0-9738-d2db766309aa"
+        ],
+        "Hoornvliesklieren": [
+            "a4266d87-94b1-4d70-aa33-75849562dab1"
+        ],
+        "Netvliesklieren": [
+            "3332910e-8349-4026-b9bb-c2f8f21f677d"
+        ],
+        "Lensklieren": [
+            "e87315ea-7a74-450d-8b22-5b72e4a86585"
+        ],
+        "Wimperklieren": [
+            "b33934bc-17a1-4434-8ea6-c253877fb1fa"
+        ],
+        "Oogbalholteklieren": [
+            "9eab3cf8-9850-4a86-bb50-d28f681ab51e"
+        ]
+    },
+    "9": {
+        "De zenuwen naar de iris zijn overbodig en hebben geen functie.": [
+            "9c1e5f03-deae-4876-be0c-1e83c7e09ffc"
+        ],
+        "De zenuwen naar de iris zijn alleen belangrijk voor het gevoel, niet voor de functie.": [
+            "fca693b5-c4e2-4e95-b058-fc0fbbb7e268"
+        ],
+        "De irisspieren werken zonder zenuwen naar de iris.": [
+            "65ceb724-e3f9-4d70-9c93-22a8493b6d9b"
+        ],
+        "De zenuwen naar de iris zijn alleen belangrijk voor de kleur van het oog.": [
+            "2aa76e92-84da-4213-9349-feec5277337f"
+        ],
+        "De zenuwen naar de iris hebben alleen invloed op het gezichtsvermogen, niet op de oogspieren.": [
+            "3409f62c-01ee-4213-80d4-11e0f460c4a2"
+        ],
+        "De irisspieren kunnen zonder zenuwen naar de iris ook functioneren.": [
+            "103b1a48-ad3a-4013-8a88-34017955bb1a"
+        ],
+        "De zenuwen naar de iris zijn alleen belangrijk bij bepaalde oogziekten.": [
+            "fa791639-95a9-4f66-9db0-bc6b6b76796b"
+        ],
+        "De irisspieren worden niet aangestuurd door zenuwen, maar door hormonen.": [
+            "791467e9-4af3-4e04-8cdf-6f52dfb74c8c"
+        ],
+        "De zenuwen naar de iris zijn alleen belangrijk voor de pupilgrootte, niet voor de kleur.": [
+            "82361bab-9d57-4464-b60e-eca15b810ed3"
+        ],
+        "De irisspieren hebben alleen zenuwen nodig als er sprake is van een oogafwijking.": [
+            "d392469d-6bc4-46c1-a603-b8f49bdc6922"
+        ],
+        "De zenuwen naar de iris zijn eigenlijk overbodig en hebben geen specifiek nut.": [
+            "255a0a12-08fa-4724-969b-38ba5e0647b3"
+        ],
+        "De zenuwen naar de iris helpen bij het horen van geluiden.": [
+            "752f34a1-5a94-4a31-8f6c-2cc6d54a5c06"
+        ],
+        "De zenuwen naar de iris geven informatie door over de smaak van voedsel.": [
+            "7ed0f8da-8bc7-4a2c-a22d-9aae489c7d27"
+        ],
+        "De zenuwen naar de iris zorgen ervoor dat de haren op ons lichaam rechtop gaan staan.": [
+            "71e27323-353a-4d27-b945-644b45f99317"
+        ],
+        "De zenuwen naar de iris sturen signalen naar onze voeten om te bewegen.": [
+            "bcad573d-31d5-4425-8f3a-948a895e6b09"
+        ],
+        "De zenuwen naar de iris zorgen ervoor dat onze huidskleur verandert.": [
+            "a654868f-19ba-4590-bf9e-306e1e85f66f"
+        ],
+        "De zenuwen naar de iris helpen ons om te ruiken.": [
+            "b6210b57-dd23-493c-bde0-ccf8c2a334ee"
+        ],
+        "De zenuwen naar de iris helpen bij het reguleren van onze lichaamstemperatuur.": [
+            "eee21d40-521b-47b2-87b7-add2debff34d"
+        ],
+        "De zenuwen naar de iris helpen ons om te zien in het donker.": [
+            "345c6645-590c-4240-8f69-579aecfcd9e8"
+        ],
+        "De zenuwen naar de iris helpen bij de spijsvertering.": [
+            "18ec1e53-f36e-4bba-b8a4-5fb88e7d54ac"
+        ]
+    },
+    "10": {
+        "Het produceren van hormonen": [
+            "74334cd7-10b0-4be5-b3cf-a7cc2a7fa7d5"
+        ],
+        "Het reguleren van de hartslag": [
+            "0cb079e3-cbc5-4e37-b757-5439bbf09b94"
+        ],
+        "Het stimuleren van de spijsvertering": [
+            "16909c2b-8a30-4067-a9a8-e649ea660f22"
+        ],
+        "Het produceren van vitamine D": [
+            "8b17be9f-fef9-4881-82f5-6bc358ace2cb"
+        ],
+        "Het opnemen van zuurstof": [
+            "43790e25-c54e-4e63-8585-4ad6ae91f939"
+        ],
+        "Het afscheiden van urine": [
+            "7993bf60-ff0b-441c-8c69-e414db050740"
+        ],
+        "Het opwekken van elektriciteit": [
+            "daa89039-3226-46a0-929e-e52b33c05e8a"
+        ],
+        "Het produceren van olie voor de huid": [
+            "a124a10b-00b0-4fa5-a785-f90a1ee7276a"
+        ],
+        "Het reguleren van de bloedsuikerspiegel": [
+            "c4e26010-edd4-4fda-b1ce-c1ccd5c44441"
+        ],
+        "Het produceren van antilichamen": [
+            "c609ea56-5e1e-4064-8eea-24e32feee747"
+        ],
+        "Zweetklieren produceren speeksel om de mond vochtig te houden.": [
+            "897d8e22-c597-4b49-ba4b-2afd404a843f"
+        ],
+        "Zweetklieren zijn verantwoordelijk voor het reguleren van het slaap-waakritme.": [
+            "31808e1b-1972-4374-bc94-e5c765667a39"
+        ],
+        "De belangrijkste functie van zweetklieren is het versterken van het immuunsysteem.": [
+            "5f2f9efc-66ea-4418-b281-f0c4b7f2baf0"
+        ],
+        "Zweetklieren helpen bij het filteren van giftige stoffen uit het bloed.": [
+            "b4efaba9-f69b-4ed0-8853-e1d1b31b36b3"
+        ],
+        "Zweetklieren produceren hormonen die betrokken zijn bij de stofwisseling.": [
+            "b8785c25-7de5-4ef7-9591-ffd3bd79c0fe"
+        ],
+        "Zweetklieren zijn verantwoordelijk voor de kleur van de huid.": [
+            "afeb5b00-e235-4eee-bc64-7700d32ff4ea"
+        ],
+        "Zweetklieren produceren een stof die de hersenfunctie verbetert.": [
+            "9d46daa2-7692-4a53-a19e-efcc22f2d642"
+        ],
+        "Zweetklieren zorgen voor de aanmaak van vitamine D in het lichaam.": [
+            "8f0fa487-576e-450a-bd54-f4636792a7eb"
+        ],
+        "Zweetklieren dragen bij aan het reguleren van de hartslag.": [
+            "caa20fd1-bd4c-4baa-b854-18714b874b23"
+        ],
+        "Zweetklieren produceren feromonen die aantrekkelijk zijn voor anderen.": [
+            "63f5029f-4b68-4a90-861b-76f596f870b2"
+        ]
+    },
+    "11": {
+        "Wortels": [
+            "9b5fd580-b39c-44e3-80a3-b042a7cfe0b9",
+            "ea963e9d-6cee-4ed6-87d7-3dbba040b7ad"
+        ],
+        "Bloem": [
+            "494977fa-a0bc-4c8f-a9bd-b520efbee349"
+        ],
+        "Stam": [
+            "93c54f39-e939-497b-ad09-2908e0e56d44",
+            "09f9f65c-526f-42b1-9361-64a413b5e74f"
+        ],
+        "Vrucht": [
+            "3aa82db2-ce37-402e-99b5-598df49616f5"
+        ],
+        "Grond": [
+            "36b4573f-96f6-48bb-b0cf-dc1ad87ec989"
+        ],
+        "Lucht": [
+            "a182a964-1626-4340-a536-d3ae483e7495"
+        ],
+        "Zonlicht": [
+            "a0fd61e6-c85f-4c9c-a61b-bbcbcd7ab51d"
+        ],
+        "Wortelhaar": [
+            "375f80da-91a8-4233-ada0-a3a344b2a04e"
+        ],
+        "Steel": [
+            "4f2ad35c-1781-4990-b5a0-cedd4ce39be9"
+        ],
+        "Wortelstok": [
+            "da6cb105-6f1b-4d3b-8ba8-ec418448a9a9"
+        ],
+        "Stengels": [
+            "4aafe4cf-7d1b-415d-894a-ac03ff08daca"
+        ],
+        "Bloemen": [
+            "bdbf2e5e-c047-4c5a-a686-633c0107a5e4"
+        ],
+        "Vruchten": [
+            "af5f2e69-c7e6-4685-9c61-7ab3fd872370"
+        ],
+        "Schors": [
+            "fca46901-9219-4554-b09c-c56a7d8040da"
+        ],
+        "Takken": [
+            "ca535454-e920-4b31-baf8-20557c25b2e1"
+        ],
+        "Zaden": [
+            "0152f09e-0d03-4247-a2fd-8265a752aebb"
+        ],
+        "Knoppen": [
+            "aa3c8846-734f-4aae-8e46-4ac47b890f4a"
+        ],
+        "Bladstelen": [
+            "03b820ed-5ba4-4518-9f0b-6e65aa762d11"
+        ]
+    },
+    "12": {
+        "Ooglapje": [
+            "e7710183-9432-44ca-a576-7f01b4872911"
+        ],
+        "Netvlies": [
+            "4355e9a6-d0d1-4626-8c29-22393c5571ac"
+        ],
+        "Pupillenvlies": [
+            "12420f03-34a8-45fa-87f5-0cf69cf63b5d"
+        ],
+        "Kegeltjes": [
+            "8c92625e-2208-4536-b0d9-ada52f28c2ae"
+        ],
+        "Staafjes": [
+            "b24125f3-9741-45a0-afa8-0a9041bb2681"
+        ],
+        "Ooglid": [
+            "d2066c88-276b-4f0f-95e5-606639906973"
+        ],
+        "Hoornvlies": [
+            "9f5e268d-1208-4fb8-b93e-dafbbe6ba4e6"
+        ],
+        "Oogbol": [
+            "52e524f9-3f11-4286-a56b-540bbc7f12fe"
+        ],
+        "Lens": [
+            "0088b9a3-9122-4374-9f21-f03ef6bff774"
+        ],
+        "Oogzenuw": [
+            "e6309f9d-0315-48cd-ad84-caaadac05f5f"
+        ],
+        "Oogbolhoop": [
+            "fa26518e-5b7e-4843-a5f2-c9ef638401db"
+        ],
+        "Netvliesplek": [
+            "355cae73-f163-4383-a7ac-9e5e61bf8cfe"
+        ],
+        "Gezichtspupil": [
+            "856871fc-5442-44f8-80e2-e188918735ab"
+        ],
+        "Oogcirkel": [
+            "bfd2df5f-87fd-4a1c-a458-9a334ec20283"
+        ],
+        "Zichtcentrum": [
+            "c7fca66b-d741-42a2-8154-41c3ff4a6353"
+        ],
+        "Kleuroogschijf": [
+            "fcb24994-f028-4d83-ac81-292936a42b44"
+        ],
+        "Irisvlek": [
+            "a9b7dad4-42ec-43f8-8708-7357b4f042a8"
+        ],
+        "Pupilring": [
+            "df3b8c00-1fa1-4e17-a4a8-6c991d1c2670"
+        ],
+        "Oogschijfje": [
+            "fe7e986b-3082-4f55-a3de-f89618bffb6e"
+        ],
+        "Gezichtsiris": [
+            "f3dada2c-dbfd-4eeb-a2a8-ab37e70ee097"
+        ]
+    },
+    "13": {
+        "Omdat de vos er graag fancy uit wil zien.": [
+            "1dfa1a39-6a6d-4d1b-b91e-1c7ee12cf0c0"
+        ],
+        "Om beter te kunnen zien in de regen.": [
+            "bb3e24e3-9a53-40d5-b242-7e17c8ad63d3"
+        ],
+        "Omdat het deel uitmaakt van het vosse-DNA.": [
+            "94d0d87e-07e1-4d0b-a432-61f840190dc7"
+        ],
+        "Omdat de vos anders niet kan communiceren met andere dieren.": [
+            "17382c3c-4da8-4d52-b3a3-de0f77f29754"
+        ],
+        "Om beter te kunnen horen.": [
+            "6935057b-ffe2-483b-96ff-cf337ea14b5c"
+        ],
+        "Zodat de vos kan glinsteren in de zon.": [
+            "6bdf0c6c-9c12-45d2-adf9-a6b5c160313d"
+        ],
+        "Omdat de vos anders geen vacht zou hebben.": [
+            "0cb73096-6f0a-4636-b74d-4504d00a16ac"
+        ],
+        "Om de vos te beschermen tegen schadelijke straling.": [
+            "9c57daf5-ebc0-4faa-954d-c150324a160a"
+        ],
+        "Omdat de vos anders niet zou kunnen rennen.": [
+            "aaf6e1ae-48af-4545-a959-6a466a9ed54e"
+        ],
+        "Omdat het de vos helpt bij het oplossen van wiskundige vraagstukken.": [
+            "5dad6dc5-7092-4715-945c-c733a3ff60c5"
+        ]
+    },
+    "14": {
+        "De neurotransmitters": [
+            "878f9dd7-305a-46d6-9e43-b72733c1163b",
+            "17819a1e-75f3-4961-be07-6275d9f9563e"
+        ],
+        "De bloedvaten": [
+            "6513443c-157a-430e-8d59-806583831b73"
+        ],
+        "De witte bloedcellen": [
+            "e1183004-42e1-4f8d-8877-83484d22e0e4"
+        ],
+        "De hersencellen": [
+            "c9889753-90f1-4f2c-8f30-410ce7b1e834",
+            "2ecdcc68-83b6-4665-b583-239b608bcf1f"
+        ],
+        "De spierkracht": [
+            "c02e452e-dbe4-4cfa-bca1-3937b43af7d3"
+        ],
+        "De hormoonproductie": [
+            "7fc95770-3911-4823-843a-c577594df0ee"
+        ],
+        "De zintuiglijke waarneming": [
+            "f6376960-2591-4530-ae22-8d9417b5fe2c"
+        ],
+        "De lichaamstemperatuur regulatie": [
+            "c9bef574-60dc-4671-9d39-0f946e32eb8d"
+        ],
+        "De zuurstofopname": [
+            "785cf9ad-5f53-4d74-9459-fe5d2c999a37"
+        ],
+        "De bloeddruk": [
+            "f2011ce2-91b0-41e7-88b2-84caa7cfe08a"
+        ],
+        "De cerebellumfunctie": [
+            "84f3a06f-d3ee-4d38-af1a-c4ac3600b0f8"
+        ],
+        "De synapsen": [
+            "65dd7031-dcf0-4a01-803d-3ae5eb9ea70f"
+        ],
+        "De grijze stof": [
+            "91471614-b182-43e2-947b-346560bc901b"
+        ],
+        "De witte stof": [
+            "d203680a-e0af-498e-b7d2-c42b5d953533"
+        ],
+        "De axonen": [
+            "7d273e6c-2300-4b89-ab0a-d0d75bdec9c1"
+        ],
+        "De zenuwcellen": [
+            "edd068f0-f1c8-45b9-8ad0-c03a6d06a85c"
+        ],
+        "De dendrieten": [
+            "d8e5226a-dbca-48d6-931d-2ad2e92b348c"
+        ],
+        "De gliacellen": [
+            "cc7c86cb-28bd-4c2f-adef-0894bcdfcd2e"
+        ]
+    },
+    "15": {
+        "Van de darmen": [
+            "952dd291-3c9e-46ae-9d3f-0a96d6c2f58b",
+            "97926962-0e8e-48b6-83e2-641d283e8ae4"
+        ],
+        "Van de lever": [
+            "3df765d7-1aa0-4891-85a0-8a44d27c62a4",
+            "d42065eb-9971-4e92-9b09-09618c031059"
+        ],
+        "Van de nieren": [
+            "be8ac1b4-aed7-49d0-b362-d05678abd65d",
+            "195eaf96-5ba3-4201-8daf-184c3c5f8c9e"
+        ],
+        "Van de longen": [
+            "60507f6c-5c62-414b-a864-12ddb9fc96ad",
+            "6da0c620-449e-4aef-8dda-b3aea1ef2eac"
+        ],
+        "Van de milt": [
+            "b378b861-163d-4158-8e1e-ce0e114c1ce2",
+            "f43e9375-02c9-4d9d-9143-9ddbd32320a5"
+        ],
+        "Van het hart": [
+            "9d95ebd3-c8ae-4463-93ff-cb933db8a45b",
+            "1fa9b57d-5490-4b9a-a02a-6541a37805a9"
+        ],
+        "Van de alvleesklier": [
+            "7da3c88c-6572-4fe5-a7c6-48e1ac4c3fe0",
+            "b98a9f31-ce59-4139-8e48-37f63b71320f"
+        ],
+        "Van de galblaas": [
+            "fd5ff1ce-b5b9-4c2f-8272-4af7360f1089"
+        ],
+        "Van de maag": [
+            "079e11f8-b807-4e69-b758-0eb29e9835f7"
+        ],
+        "Van de dikke darm": [
+            "3dd76a73-79b5-4ff3-aa04-90ca089f1c07"
+        ],
+        "Van de huid": [
+            "059411f5-9926-4627-91b8-6c4e6475590b"
+        ],
+        "Van de ogen": [
+            "52f084ec-fbfe-4e17-87ed-278af4270ee8"
+        ],
+        "Van de neus": [
+            "e3032e81-a657-4199-ab74-5114be023ace"
+        ]
+    },
+    "16": {
+        "Zweetklier": [
+            "e02fbb84-441e-4f02-b6ac-ed0a452c1be0"
+        ],
+        "Speekselklier": [
+            "38e99295-e5c9-42c6-b946-728994d00201"
+        ],
+        "Melkklier": [
+            "73294972-c954-401e-904c-96410f611c0f"
+        ],
+        "Traanklier": [
+            "a964dcb8-7f28-48af-b940-1357ec8717ef"
+        ],
+        "Alvleesklier": [
+            "d9fca531-d67f-4f38-ba47-da098fdc4c4f"
+        ],
+        "Schildklier": [
+            "f26a3bd4-0eb5-445a-b31f-d45a1e2e3817"
+        ],
+        "Bijnier": [
+            "3fee53a6-bdca-4d55-b0ad-5e9da7adc182"
+        ],
+        "Hypofyse": [
+            "1561da23-eb73-4725-a581-a09e65231ddd"
+        ],
+        "Prostaatklier": [
+            "b1e63fb9-d238-467f-a53c-c32274a8dda9"
+        ],
+        "Eierstokklier": [
+            "28702e04-bff5-48eb-8cbe-c266ff6891be"
+        ],
+        "De hartklier": [
+            "93f90c50-8c38-4069-a1db-0aaa7ad6b9a5"
+        ],
+        "De zweetklier": [
+            "b8ae342f-7dc4-461d-b945-99a48de5077c"
+        ],
+        "De traanklier": [
+            "32500275-e1a4-4cc3-8cd2-ee48895ad1db"
+        ],
+        "De hypofyse": [
+            "148f8645-6d2a-438b-ae7b-fabbf64ff6f8"
+        ],
+        "De epifyse": [
+            "d5f75651-4070-40db-b2df-a66ba8157f10"
+        ],
+        "De miltklier": [
+            "7baed10a-f7e8-47d2-a80e-e0c8360e9784"
+        ],
+        "De speekselklier": [
+            "d2f1c7e2-0560-45d0-918d-417b187d2d38"
+        ],
+        "De thymusklier": [
+            "5c7d437a-f854-44f3-af51-1aefafd518e8"
+        ],
+        "De lymfeklier": [
+            "77024673-1dd9-43b1-9560-82d97b0342f4"
+        ],
+        "De schildklier": [
+            "9543a1bf-9f55-4220-afb2-6a13dcdfbfc7"
+        ]
+    },
+    "17": {
+        "Het produceren van extra warmte in het lichaam.": [
+            "9cdba5e2-e21a-42d5-be6d-1a2184ed4e99"
+        ],
+        "Het reguleren van de bloeddruk.": [
+            "97829ad7-09d7-4322-8f60-5a242bb96170"
+        ],
+        "Het ondersteunen van de spijsvertering.": [
+            "e7583756-70e4-4ce3-9f77-6bb2f46b9015"
+        ],
+        "Het produceren van extra energie voor het lichaam.": [
+            "d3a43df6-a06b-4935-869a-f9a94e237909"
+        ],
+        "Het beschermen van het lichaam tegen infecties.": [
+            "c7b43586-0bbc-472d-97b3-1e6b0213f7bd"
+        ],
+        "Het ondersteunen van de hersenfunctie.": [
+            "d75ec0f5-943b-4a38-a0e0-46b297e12505"
+        ],
+        "Het vergemakkelijken van de ademhaling.": [
+            "62b63d25-18fb-4501-8c50-58bad77ddeee"
+        ],
+        "Het verhogen van de lichaamstemperatuur.": [
+            "7d436243-3771-4ed2-88af-285d41b7f4ea"
+        ],
+        "Het verminderen van de stofwisseling.": [
+            "b6fd7d64-f7ce-49fd-a118-859a6781cd9c"
+        ],
+        "Het aanmaken van extra bloedcellen.": [
+            "3df5e987-811d-406d-b7f7-d06ec451468e"
+        ],
+        "Het is een reservoir voor reservevocht in geval van uitdroging.": [
+            "990563b3-8205-4f54-947d-f8197b91ae40"
+        ],
+        "Om geur te cre\u00ebren die andere mensen aantrekkelijk vinden.": [
+            "f6a8145b-e6e9-4eeb-8cb2-e29d1079f00b"
+        ],
+        "Om een \u200b\u200bglanzende huid te behouden.": [
+            "0c3a6cf9-f803-4cef-a093-030348448afb"
+        ],
+        "Om het lichaam te helpen bij het opnemen van vitamines en mineralen.": [
+            "01072bd7-005a-468f-ad7a-7647ad490676"
+        ],
+        "Om de huid te beschermen tegen schade door UV-stralen.": [
+            "bf2add89-383a-423b-b020-d4f1f72d6355"
+        ],
+        "Om de huid te hydrateren.": [
+            "47b14d38-c8ce-4ca4-809b-ab9e67fef3e0"
+        ],
+        "Om voedingsstoffen aan de huid af te geven.": [
+            "14f16478-6b51-458f-90e5-cfcdaf711c4d"
+        ],
+        "Om het immuunsysteem te versterken.": [
+            "d6a33b70-86ca-4c20-b92a-b497e834f134"
+        ],
+        "Om de kleur van de huid te be\u00efnvloeden.": [
+            "d2c28258-f350-479c-b6fe-ac9c1538b5ac"
+        ],
+        "Om te helpen bij het reguleren van de bloeddruk.": [
+            "2e904e5b-4d1b-431f-a93c-b9f8222ccaf5"
+        ]
+    },
+    "18": {
+        "De nieren": [
+            "48d140c7-10d9-401e-9e3c-260c0c2c4d12",
+            "18347930-c639-4773-bc81-d39884f5815f"
+        ],
+        "De lever": [
+            "8c56c9ac-548c-4901-84ed-b95be363094d",
+            "e354aed5-91f3-4f90-a75e-84773169df93"
+        ],
+        "De milt": [
+            "2f73aa78-ff06-493c-aec8-59a0614fe4f6",
+            "c8c22da3-b748-416e-a01d-6060100663a8"
+        ],
+        "De longen": [
+            "491b7f99-62b2-4169-ad39-bd2ef3cbcf79",
+            "14888da6-880a-44a9-872b-9af7c3f01262"
+        ],
+        "De alvleesklier": [
+            "9b2ceb70-9881-4cf8-b82c-1e980709fc3c"
+        ],
+        "De galblaas": [
+            "8c21727f-8dfa-402d-9f48-80cddc8744c8",
+            "b4acbf32-28d8-4a38-aa8a-046c16d84da4"
+        ],
+        "De dikke darm": [
+            "c655662d-331b-4697-b60e-269a88c43534",
+            "67933b3a-6308-4019-9344-50f30e28bae2"
+        ],
+        "De maag": [
+            "d8a2ad04-2c75-444b-9968-034aa44779c0",
+            "0577a2df-3dd9-4b66-8d66-89fae72f12f0"
+        ],
+        "De dunne darm": [
+            "fbbfb76f-0e00-4a34-98e3-b79c15fc726d",
+            "b29b13f8-d959-4164-8cf3-4dbf576c82b6"
+        ],
+        "De appendix": [
+            "a9dcca7d-f160-4391-9bbe-907171156f33"
+        ],
+        "De pancreas": [
+            "29e6ebab-0536-4817-bcbe-b2e0d5d88766"
+        ],
+        "De blaas": [
+            "2dae4b78-6a1d-455b-8186-eeab87af7aa6"
+        ]
+    },
+    "19": {
+        "Luchtdruk": [
+            "e6f72792-4af2-4c3a-b960-26eb31c998b4"
+        ],
+        "Temperatuur": [
+            "c37d35d4-4c4b-457b-987d-e2ed52253818"
+        ],
+        "Snelheid": [
+            "88c0c2b2-da8b-4086-8cee-7a87da376e2d"
+        ],
+        "Elektrische weerstand": [
+            "7ce92375-ae21-457e-9af8-46466487dcd6"
+        ],
+        "Chemische reactiesnelheid": [
+            "86bf7789-3b9c-4ca2-a950-077c7bb19346"
+        ],
+        "Lichtintensiteit": [
+            "1f817196-aca9-43d5-a224-6378d5ddbbe7"
+        ],
+        "Magnetische fluxdichtheid": [
+            "9c8225f9-e211-46f0-b079-c58a77a895f5"
+        ],
+        "Luchtvochtigheid": [
+            "40aacf33-4a71-4b14-9d0d-d8d580b32bea"
+        ],
+        "Dichtheid": [
+            "94d1adb3-0865-46bd-bdff-585a79280c4b"
+        ],
+        "Elektrische spanning": [
+            "d680c80b-6e3f-4249-8958-df295f692a55"
+        ],
+        "De kleur van een object": [
+            "9bc76618-9667-4776-9f07-6f42a8457180"
+        ],
+        "De temperatuur van een vloeistof": [
+            "076506c8-e743-4c93-9e59-8b95eab0cffd"
+        ],
+        "De luchtvochtigheid": [
+            "7e2816a0-ed8c-4573-9f97-31c45d2ecaba"
+        ],
+        "De geurintensiteit": [
+            "5b1474fb-1112-4f97-ad30-30620084570a"
+        ],
+        "De textuur van een oppervlak": [
+            "0ce6a45d-baa5-432e-991e-40c489fec793"
+        ],
+        "De grootte van een object": [
+            "1c7156e4-a82a-40a9-8f75-3b13e069cd0e"
+        ],
+        "De smaak van voedsel": [
+            "9fe003d0-6e1f-4352-8159-3df1b44b175a"
+        ],
+        "De helderheid van een beeldscherm": [
+            "bdab5416-3c88-4a27-a4b4-f2a0ef4727c7"
+        ],
+        "De snelheid van een voertuig": [
+            "c1510056-0636-4730-b9a4-de7c7c074a95"
+        ],
+        "De dichtheid van een vloeistof": [
+            "5f34d92b-9027-4bc6-8962-11e9a3c27b3e"
+        ]
+    },
+    "20": {
+        "Oogbol": [
+            "e50b4727-cc21-4463-9020-eb60cd263ed6"
+        ],
+        "Hartklep": [
+            "ae13fffc-9edb-4411-9e65-9e8bae02dbac"
+        ],
+        "Milt": [
+            "56686ce8-6b41-4438-83be-75e9885e54b3"
+        ],
+        "Longblaasjes": [
+            "81f3680b-e6da-4895-9d81-9a3974d19b8c"
+        ],
+        "Tandglazuur": [
+            "48eced2c-8970-4764-8d80-ac4264043b4d"
+        ],
+        "Hersenstam": [
+            "850256f5-1b06-4009-8171-8ef5d36d39e4"
+        ],
+        "Galblaas": [
+            "a7589c53-b091-4e61-ba62-a7e1c9bd4fbf"
+        ],
+        "Blaas": [
+            "200f3a87-62ee-4b6e-84a8-01d6272e4762"
+        ],
+        "Nierbekken": [
+            "92b42338-694b-4654-89d6-76b8929fad00"
+        ],
+        "Slokdarm": [
+            "031dfd5a-fb92-45e3-99b4-22bfd923e74c"
+        ],
+        "Elleboog": [
+            "6680b2a5-1af8-4705-a11b-7a7b676e17ec"
+        ],
+        "Tonsil": [
+            "8cbe95aa-13ea-4120-a210-d7f7f28ccc4f"
+        ],
+        "Lever": [
+            "2e733b0b-0acb-4046-b7b7-79bd6ec62c6e"
+        ],
+        "Knieschijf": [
+            "7ccbe233-75dc-4329-8fe4-7969d27a519b"
+        ],
+        "Hart": [
+            "ed7556b9-204e-4944-9677-ee4411be9681"
+        ],
+        "Nier": [
+            "2d641bed-1892-49e3-9262-5d8ea9a78d99"
+        ],
+        "Ankle": [
+            "c2bee216-8387-425a-b95d-2aa641a0ef13"
+        ],
+        "Oogbal": [
+            "b7528aae-7dad-42e8-b9eb-f2190f94ea56"
+        ],
+        "Tandvlees": [
+            "ef4296f3-2ceb-45f0-95b4-7740f209055e"
+        ],
+        "Neusgat": [
+            "95170b73-63c7-46d1-aac6-99245c68596b"
+        ]
+    },
+    "21": {
+        "speekselklier": [
+            "5e0efa4c-6dd0-465e-b631-94aaec9ef717",
+            "71d594b1-2962-41be-9f31-62f00d89101c"
+        ],
+        "zweetklier": [
+            "4405c1ea-1782-44ba-bbf1-ad252594cb6a",
+            "4944cb35-aa8e-41b3-a524-55734b942b92"
+        ],
+        "traanklier": [
+            "b9c01cf9-4499-4b8d-9533-bee101a43f66",
+            "957b0b0b-67d8-4d51-940f-ec8f8d4e878a"
+        ],
+        "talgklier": [
+            "2527dd25-00ca-4240-9b6c-e74882c3e9d5",
+            "02019cbe-ac1d-4f2b-96aa-1e01d67967cd"
+        ],
+        "lever": [
+            "2b993e3b-e82e-43f2-bed0-65373594b52e",
+            "96726a7f-6909-459e-a0a0-2c28cb5229fb"
+        ],
+        "nier": [
+            "1a7cd785-e336-4bca-a89a-0030b9356f95"
+        ],
+        "maag": [
+            "a4f90267-7caf-455d-af4f-436967674d41"
+        ],
+        "pancreas": [
+            "56424bd7-d2d4-4e94-a0b9-4902eb70be3a"
+        ],
+        "galblaas": [
+            "12260eff-4930-4f02-9719-e475b5a8e738"
+        ],
+        "blindedarm": [
+            "0e564c20-fd8c-4a9e-adc4-b12157892d80"
+        ],
+        "alvleesklier": [
+            "a2391e68-a7e0-4e10-8227-67cb77ce37b8"
+        ],
+        "prostaatklier": [
+            "be0529fe-22db-4e31-ae36-784dbd9fa938"
+        ],
+        "zoutklier": [
+            "70cb01f0-e03c-47d9-9267-f98c5645fb2e"
+        ],
+        "lymfeklier": [
+            "d5c68816-87ce-43f6-b158-1d0ab9dadd3e"
+        ],
+        "melkklier": [
+            "35ef4d54-5c43-4635-82dd-ba5aaaa69b5c"
+        ]
+    },
+    "22": {
+        "nieren": [
+            "088b1561-749a-465a-9d1a-498fe9f103f4"
+        ],
+        "lever": [
+            "08bed348-35ee-4f5f-8f07-4d8a6e3c965f"
+        ],
+        "milt": [
+            "95d6e61a-51bf-4509-be6f-e5f5f25140e1"
+        ],
+        "alvleesklier": [
+            "1d77a716-fb75-49b6-bcce-7db3f9d530f2"
+        ],
+        "dikke darm": [
+            "fe5c4483-502b-40df-adac-826edf3c343d"
+        ],
+        "dunne darm": [
+            "2f926150-3af1-4c54-8ef4-2ea592567777"
+        ],
+        "longen": [
+            "e0adb7d1-fb1c-4b5d-b91b-151baeb3b861"
+        ],
+        "maag": [
+            "6bb77fa9-0b08-458e-9a3a-34106f81637a"
+        ],
+        "galblaas": [
+            "06846faa-faf0-46f0-9b00-86c4ee3a81df"
+        ],
+        "eierstokken": [
+            "78313064-ca71-4198-bf0f-4d7449f47d18"
+        ],
+        "Longen": [
+            "c643691d-85a0-4e65-9e6e-2af697a62cb9"
+        ],
+        "Lever": [
+            "8a9e6149-06e1-4489-9706-b3908d86703b"
+        ],
+        "Nieren": [
+            "2b096da4-7803-4716-96ee-2c1aee3ba5c0"
+        ],
+        "Darmen": [
+            "9d1b0aeb-6f3d-4eb6-a341-7a4dc97cf930"
+        ],
+        "Milt": [
+            "0058568e-7d64-4a21-b966-cb8848a209cb"
+        ],
+        "Galblaas": [
+            "28c39f6a-a486-4d77-b360-13a00b52f526"
+        ],
+        "Alvleesklier": [
+            "44bfde86-bf04-4909-a1a4-accc0641cb19"
+        ],
+        "Maag": [
+            "f2d22cc3-9f74-4a05-a99b-0fc7d0ba861a"
+        ],
+        "Blaas": [
+            "e40aa892-8cc4-4a61-8de8-69449fa0bc4d"
+        ],
+        "Prostaat": [
+            "46594751-0e2b-49d0-87e7-3af0569c68a9"
+        ]
+    },
+    "23": {
+        "Haaruitval": [
+            "038ad43f-69a4-48b7-81b1-db28e47668c9"
+        ],
+        "Verkleuring van de huid": [
+            "ef76ad22-4b1a-4433-afd9-a1bee602d7a0",
+            "6fe3fc7a-7fad-40d8-ad74-0894efb5a5cb"
+        ],
+        "Wazig zien": [
+            "a9867322-f27c-4240-86ba-74cedda1268f"
+        ],
+        "Verhoogde bloeddruk": [
+            "1d291560-1250-4c4c-ac48-b9de0b91cc07"
+        ],
+        "Overgevoeligheid voor geluid": [
+            "e7bb5270-b06a-4e87-bb9d-8547a0e97d9b"
+        ],
+        "Duizeligheid": [
+            "6455294e-be49-48ff-9203-6c05d885ae58"
+        ],
+        "Maagzweren": [
+            "5913b72b-0e36-471b-8fee-636f0ff41e48"
+        ],
+        "Huiduitslag": [
+            "468f38b2-9a40-4a8d-8662-42a6482cf5c9"
+        ],
+        "Gewrichtspijn": [
+            "8928a733-915d-4fed-9734-a22fd7fc003a"
+        ],
+        "Verhoogde hartslag": [
+            "b0fa9686-c3ca-472b-8ea3-5ebded6bd9f9"
+        ],
+        "Verhoogde haargroei op de handen en voeten": [
+            "fbbe0a7a-99a2-4523-a6b9-0c74643a4b03"
+        ],
+        "Verhoogde eetlust en gewichtstoename": [
+            "1f6f476c-f228-4a8d-96a4-e2298a5d2fc2"
+        ],
+        "Verminderde libido": [
+            "789b004f-f103-40a6-b5da-7730f10f699b"
+        ],
+        "Overmatig zweten": [
+            "35641cc1-5f1c-4104-890b-39a1805ebb0b"
+        ],
+        "Moeilijkheden met spraak en taal": [
+            "c306a918-1139-46e7-86bc-04039cd6b554"
+        ],
+        "Verhoogde gevoeligheid voor zonlicht": [
+            "92877005-effc-40fd-a266-01f7c7a3b06d"
+        ],
+        "Geheugenverlies": [
+            "1d3d1a65-1928-41ba-8b0b-99223f200e3a"
+        ],
+        "Verstoorde spijsvertering": [
+            "d80cd731-b0d9-4cdd-8dda-136059b4be94"
+        ],
+        "Onverklaarbare jeuk over het hele lichaam": [
+            "e489fcd4-7856-460a-ab8d-ba9a3a342114"
+        ]
+    },
+    "24": {
+        "temperatuurreceptoren": [
+            "fb474506-d478-469d-be69-76367061858c"
+        ],
+        "smaakreceptoren": [
+            "423d59e5-7f52-466c-aa6d-762d52c0d6ed"
+        ],
+        "geurreceptoren": [
+            "b5bd9ee2-c990-4ef6-865a-5e7201f693da"
+        ],
+        "tastreceptoren": [
+            "1f63f097-bb84-4e5f-8601-48779e9bcec4"
+        ],
+        "pijnreceptoren": [
+            "f483a387-2720-4e08-a4e9-d646547db9e7"
+        ],
+        "drukreceptoren": [
+            "bdf43e35-db35-420a-b281-95e9480775ef"
+        ],
+        "lichtreceptoren": [
+            "1428ab3b-2fac-41ab-98ce-96983a29f08c"
+        ],
+        "geluidsreceptoren": [
+            "80ffb7b6-c4ef-4642-8b96-10b5f7c82fdd"
+        ],
+        "elektromagnetische receptoren": [
+            "c744997d-84db-4ae1-a313-78aea0f324b1"
+        ],
+        "magnetische receptoren": [
+            "67ea67a7-0508-4e10-b699-080c8eefa77c"
+        ],
+        "Geur receptoren": [
+            "1ca83c52-c69a-42b2-8aa6-c21027d974ba"
+        ],
+        "Tast receptoren": [
+            "1d0d4bba-77b9-4399-a2eb-0051dcc81511"
+        ],
+        "Gehoor receptoren": [
+            "11eb729c-6658-4a95-a2c1-0c09399f51b9"
+        ],
+        "Pijn receptoren": [
+            "71a4d8a2-b4da-4b24-9a87-f59bc7433f49"
+        ],
+        "Druk receptoren": [
+            "71cc7431-a242-4b23-aa9b-0ff95fc931ab"
+        ],
+        "Licht receptoren": [
+            "c1ab3747-301d-4629-8148-860f3bdc0c50"
+        ],
+        "Warmte receptoren": [
+            "215c12e1-cc76-4acf-8350-6f6175d81ac4"
+        ],
+        "Koude receptoren": [
+            "92b412bf-1e9d-4a01-8fe5-9bfecbd91206"
+        ],
+        "Smaak receptoren": [
+            "4bbc48ee-be64-4af5-8467-9558df23b0a4"
+        ],
+        "Spier receptoren": [
+            "6e574657-ba74-4c40-bcb6-523be9bb6877"
+        ]
+    },
+    "25": {
+        "bastweefsel": [
+            "d7953bb3-ca85-47eb-9cba-4f8a33ecba8a"
+        ],
+        "beenmergweefsel": [
+            "dc8a1444-9667-400b-9e30-2976bf8dc6ea"
+        ],
+        "spierweefsel": [
+            "017b01ea-61ee-4a99-89a6-9e9f4e876532"
+        ],
+        "vetweefsel": [
+            "4514e426-5a61-4123-bbf0-6db823f011bc"
+        ],
+        "huidweefsel": [
+            "a5e08dbd-7482-424c-9e71-5cfdc540d758"
+        ],
+        "kraakbeenweefsel": [
+            "ac8c51f1-2c16-45a2-b2b6-f503d51044f2"
+        ],
+        "zenuwweefsel": [
+            "7be4f4ba-041f-4df5-b41e-bab1c6388349"
+        ],
+        "bindweefsel": [
+            "928239e0-dfc9-4ef4-8740-232ae7d219e6"
+        ],
+        "epitheelweefsel": [
+            "856c8585-0ba0-4c9d-9b18-11481fe97748"
+        ],
+        "lymfeweefsel": [
+            "50485016-5a70-4bbe-af74-4b98975f6f0c"
+        ],
+        "Bastweefsel": [
+            "c9f0686a-26be-47c7-a284-65b83f393388"
+        ],
+        "Xyleemweefsel": [
+            "0ca5c429-c0fa-41ef-a53c-a6de3cceb6a5"
+        ],
+        "Fijnsparrenweefsel": [
+            "e84fc0c3-f8d0-449c-ac12-cf2579a5455a"
+        ],
+        "Bladweefsel": [
+            "08fa6b7a-a212-42bf-835b-c7afd36c196c"
+        ],
+        "Wortelweefsel": [
+            "2067af38-8321-414b-a872-ed50c46592f7"
+        ],
+        "Schorsweefsel": [
+            "c906fb1c-033f-478c-a477-83fd821bce5d"
+        ],
+        "Vezelweefsel": [
+            "05d57079-730d-4f75-a9ae-d85c4b3cd11d"
+        ],
+        "Spierweefsel": [
+            "ef19466b-597a-489f-80db-031e71a5150e"
+        ],
+        "Huidweefsel": [
+            "294174fe-1c98-428b-bbac-b9f25d49d238"
+        ],
+        "Vetweefsel": [
+            "f5b8411a-c6e8-4aac-a73e-0f95756b58a8"
+        ]
+    },
+    "26": {
+        "blad": [
+            "a8bbea67-1543-45ba-95f1-9464840452da"
+        ],
+        "stengel": [
+            "b52a0be8-0808-4242-92c7-7300527af891"
+        ],
+        "bloem": [
+            "9b59dc55-87f3-432d-a83b-3f27034f9b1a"
+        ],
+        "vrucht": [
+            "9d52f467-dc67-468e-bc3b-e2441ffec489"
+        ],
+        "tak": [
+            "4afa42ef-8b2f-4934-a05d-120787ced4fb"
+        ],
+        "bladgroenkorrels": [
+            "32dbe60e-e0bc-4357-b790-089f163918ac"
+        ],
+        "schors": [
+            "6bcc97d1-0e1c-48c7-a7f2-2ec2575fd5a7"
+        ],
+        "luchtwortel": [
+            "65964787-6667-4ab9-bd4b-12ccba7102e3"
+        ],
+        "doorn": [
+            "0b53349f-53e5-418c-8e24-d34394da0a78"
+        ],
+        "wortelstok": [
+            "4b2e32ca-4ba8-4300-a87d-432f1039aaec"
+        ],
+        "Stam": [
+            "7e3601ea-bf17-4595-9cd1-40176aae7ef6"
+        ],
+        "Bladeren": [
+            "331a08e3-95a9-4f20-a587-3fbcf5a80c75"
+        ],
+        "Bloem": [
+            "0891e097-ccd8-4f8a-a98e-6ec484c86cf5"
+        ],
+        "Vrucht": [
+            "900a3fbe-919a-4e47-90b4-eb86aeab2ae3"
+        ],
+        "Schors": [
+            "d32519ae-6e3e-4f6c-9388-86ac04f82733"
+        ],
+        "Wortelharen": [
+            "713939c5-6868-4fe9-9092-d4534687cb3b"
+        ],
+        "Bladstelen": [
+            "a0887e9c-6f64-481d-97af-eed904da923d"
+        ],
+        "Bloemstengel": [
+            "6c55fed4-385f-4698-99f0-aa77652ffdea"
+        ],
+        "Zaadhuid": [
+            "174b21eb-dd5c-4e2a-9e1f-70960680b15a"
+        ],
+        "Kelkbladeren": [
+            "c068e84b-f710-49b4-b4f6-88134632a6fd"
+        ]
+    },
+    "27": {
+        "buitenaards": [
+            "e73126a9-5a6c-483d-b947-359b12d39db6"
+        ],
+        "artistiek": [
+            "cf2e42d9-4e11-4cca-ab12-61a4b3e66b10"
+        ],
+        "politiek": [
+            "c2de8273-c1a1-4f4f-9639-792c8037c554"
+        ],
+        "wetenschappelijk": [
+            "cf1507b9-3bce-43d6-9520-f24b6d4a87e5"
+        ],
+        "religieus": [
+            "b224e5d2-27c2-41ed-9068-04bc90df81af"
+        ],
+        "luchtig": [
+            "4b71ede5-eeb3-48e1-971c-7e2478393463"
+        ],
+        "sportief": [
+            "caafab1e-79f7-471c-bf7e-a1e42c9e69a0"
+        ],
+        "zakelijk": [
+            "cade1dd0-b439-44cc-91fa-c80d5b2c9c3b"
+        ],
+        "muzikaal": [
+            "1c858581-80e5-4498-8717-bf8e7b028d5c"
+        ],
+        "culinair": [
+            "762ee4a9-f34a-4d27-bb8c-7fce0c2593d0"
+        ],
+        "Het bloed behoort tot het milieu van de hersenen.": [
+            "44db2b7b-79db-436b-818f-31554327fd4f"
+        ],
+        "Het bloed behoort tot het milieu van de longen.": [
+            "64a884af-6d43-4694-806b-66e3598c3ffb"
+        ],
+        "Het bloed behoort tot het milieu van de botten.": [
+            "63e31d5a-5dc0-4b6b-af0a-e4aedefe61c5"
+        ],
+        "Het bloed behoort tot het milieu van de huid.": [
+            "43ccb13b-f34a-441a-b1ef-dd780122fea9"
+        ],
+        "Het bloed behoort tot het milieu van de ogen.": [
+            "cf10d416-f1fe-45ee-a8d2-82533ac36dfb"
+        ],
+        "Het bloed behoort tot het milieu van de maag.": [
+            "51a1af88-c466-4da2-8502-de30f5ed0042"
+        ],
+        "Het bloed behoort tot het milieu van de neus.": [
+            "05110667-ec69-4b2b-b272-7250d6d7a4e8"
+        ],
+        "Het bloed behoort tot het milieu van de nieren.": [
+            "cfc8fa31-4a8d-401e-9a06-f80d630447ba"
+        ],
+        "Het bloed behoort tot het milieu van de blaas.": [
+            "266f6e6c-9324-4391-8967-14c30d0e7a65"
+        ],
+        "Het bloed behoort tot het milieu van de lever.": [
+            "54cea437-4f20-4277-b74d-65d24c7ad25a"
+        ]
+    },
+    "28": {
+        "geel": [
+            "e402be00-df39-47da-933c-1171d21ddf57"
+        ],
+        "groen": [
+            "bae9035b-61d3-4ef3-941b-dc446a691218"
+        ],
+        "paars": [
+            "55c2ac1e-77ff-4cee-bf4a-09584f826ebf"
+        ],
+        "wit": [
+            "5d4ea370-6c66-4743-adba-04ca948e5d7a"
+        ],
+        "blauw": [
+            "b82830c1-0ac6-4df2-a29f-7319a968edef"
+        ],
+        "zwart": [
+            "3d901077-6f42-4379-8744-7def701495f8"
+        ],
+        "oranje": [
+            "c11159fb-20b6-402a-ad06-1ec01ab8a70c"
+        ],
+        "grijs": [
+            "1c7c5160-db4f-4344-b9e1-0c19408b7f90"
+        ],
+        "roze": [
+            "d6dedbf7-37b0-407a-8658-853c8d50813b"
+        ],
+        "turkoois": [
+            "3c31a907-2e6e-4472-a943-77841fc25dd4"
+        ],
+        "Groene": [
+            "c8655598-0bce-4177-9096-b9e6313c3150"
+        ],
+        "Blauwe": [
+            "86f238b4-6dc1-4821-a77a-e50aabe19a32"
+        ],
+        "Gele": [
+            "f2cb217f-897f-4f85-86cd-71617833bce7"
+        ],
+        "Paarse": [
+            "8731cc78-b3fb-4357-a0f6-ae6a584b8f25"
+        ],
+        "Oranje": [
+            "9c1d4f82-520c-42e9-a7a7-e2896702a12c"
+        ],
+        "Zwarte": [
+            "57f25782-641b-4183-8da4-fcd87c16840c"
+        ],
+        "Witte": [
+            "f8bf25db-4d21-4072-ad78-4cc945669cca"
+        ],
+        "Grijze": [
+            "e3f47c2d-fbeb-4ad4-b348-2cb2df7e61fe"
+        ],
+        "Bruine": [
+            "5fd61687-da8f-42c9-8523-a735085eb2c7"
+        ],
+        "Roze": [
+            "8a8245df-b007-4495-8564-6300bc5326c7"
+        ]
+    },
+    "29": {
+        "Ibuprofen": [
+            "ac84d8c3-ed9a-49dc-99a3-b7ca5fcecc7e",
+            "71fc38a4-3190-4107-a973-5dbc83ee5c27"
+        ],
+        "Vitaminen": [
+            "8694768b-a648-4a5a-aa18-f1dfdb907a8c"
+        ],
+        "Antibiotica": [
+            "ffac62b5-5fa9-42c5-81a2-32537933dd77",
+            "eb6ca2b5-a504-4d36-8f5c-bc97da578a3a"
+        ],
+        "Paracetamol": [
+            "5fa4affa-2da2-426a-80d1-d58d7cb5d399",
+            "ecb696d1-5074-4793-8518-30cdd9a8da10"
+        ],
+        "Antihistaminica": [
+            "e81c9899-9fb1-40ce-8626-2e1799c930fa",
+            "827b3414-29db-4153-a149-4727a8405239"
+        ],
+        "Antidepressiva": [
+            "bcc63389-f501-4252-9ac7-d95a7250c3db"
+        ],
+        "Antipsychotica": [
+            "90502b7c-c8af-4260-b784-c6e23eec7aa1"
+        ],
+        "Anticonceptiepillen": [
+            "78529aae-fac2-4044-a1f4-409e913f4a2e"
+        ],
+        "Hoestsiropen": [
+            "352ae22d-c54e-40b6-84fa-393512432eaa"
+        ],
+        "Laxeermiddelen": [
+            "fb8de2f3-b152-4e25-8972-e2030bdf3355"
+        ],
+        "Aspirine": [
+            "494a5970-b0c1-47c4-b6d0-70b99682b81b"
+        ],
+        "Vitamine C": [
+            "082e12a7-63f6-4901-bfed-392c3640fff8"
+        ],
+        "Insuline": [
+            "922dfeb8-7e52-4b56-b1b0-03ed1bf84d7e"
+        ],
+        "Vitamine D": [
+            "c966b504-7771-4836-8a66-258891da8389"
+        ],
+        "Probiotica": [
+            "c6b83780-cefb-4c9b-a509-3fc2dc829409"
+        ],
+        "Maagzuurremmers": [
+            "1a1f129a-de2e-4150-befb-75ec56421f36"
+        ]
+    },
+    "30": {
+        "haarvaten": [
+            "77a48438-47a5-4749-9d11-159cf52d2b5e"
+        ],
+        "lymfevaten": [
+            "7823bc98-31bb-4a92-b021-c393b274d027"
+        ],
+        "slagaders": [
+            "825ae8fc-5eff-4b85-abdc-b07e550b7341"
+        ],
+        "aders": [
+            "a3b7fe94-f32a-4ac6-b25d-02f4d73a80d7"
+        ],
+        "capillairen": [
+            "5f16c6a5-6d40-4240-a5d0-c8eb12de0834"
+        ],
+        "xyleemvaten": [
+            "dfb9f8ff-2370-4a74-a004-fc68dcd50881"
+        ],
+        "fijnvertakte wortelvaten": [
+            "c4fafe5c-5b92-4b38-ab2f-fbaec2570807"
+        ],
+        "endotheelvaten": [
+            "ce51a820-ce16-472b-a74d-98c31b08ebac"
+        ],
+        "bloedplaatjesvaten": [
+            "04e56abb-5c60-40ff-9ffe-fa903bdbfa42"
+        ],
+        "vaatbundels": [
+            "18eeb6cf-cf65-46a6-b756-28f598e48681"
+        ],
+        "Luchtpijpvaten": [
+            "2c34765a-f588-472e-9325-0ce945a7c47b"
+        ],
+        "Oogaderen": [
+            "d13704fe-704c-4e16-ab5d-2e992c6fb279"
+        ],
+        "Nierbekkenvaten": [
+            "b8e144c8-9a60-4003-9607-7e5ef298cc3a"
+        ],
+        "Galwegen": [
+            "a84809e6-db4b-4ff4-83f0-243ba89e7c55"
+        ],
+        "Longslagaders": [
+            "a93073da-abeb-46d9-bd38-bf9e895407bb"
+        ],
+        "Middenrifvenen": [
+            "585eff07-24a5-4780-9db9-74ab686c7006"
+        ],
+        "Tandwortelvaten": [
+            "7850be57-515f-463c-a80b-49dbd89cecd5"
+        ],
+        "Hersenventrikels": [
+            "b9637be8-54b4-4488-8d5b-db8788373682"
+        ],
+        "Aorta": [
+            "d24bbe4c-ee10-4290-a4f9-eac06534463f"
+        ],
+        "Hartkamers": [
+            "acf5a3f7-6295-4b2c-810b-e952ef1803d5"
+        ]
+    },
+    "31": {
+        "Knipperen met de ogen": [
+            "3474ffdc-88ae-4f1a-9242-85412c01cbf7"
+        ],
+        "Ademhalen": [
+            "6ab8cabd-1246-430f-9095-fb9e6fb273d9"
+        ],
+        "Hoesten": [
+            "d060ed3c-c29c-45f5-b64a-99368338337b",
+            "28f9b680-8a5c-46cb-8b9e-0555018a4d81"
+        ],
+        "Gapen": [
+            "8bde708a-1b7e-49fc-bf0c-801f4a2888cf",
+            "d9290992-aa4d-4a66-8107-27c71ed798b7"
+        ],
+        "Kuchen": [
+            "ab8addb3-6ec3-4a31-b4a8-e5296c4178b7"
+        ],
+        "Hikken": [
+            "07db86ca-f9f6-4cca-b27a-b42b8ae56976",
+            "1e39e776-a3b8-4a71-bfad-c1b9fb8d5f6a"
+        ],
+        "Blozen": [
+            "0e0cc4e5-cbb1-4b4e-ae6a-c8f5fc6f7104",
+            "8792ad19-26f7-4175-8a45-8b83aa561177"
+        ],
+        "Trillen van de handen": [
+            "bcb6a844-4746-4c2e-a771-ddd7902a3944"
+        ],
+        "Slikken": [
+            "04694897-7003-401a-ac15-05541a35a1bc"
+        ],
+        "Lachen": [
+            "e582cbc1-d625-489d-9e90-a2aee1405ae0"
+        ],
+        "Ademen": [
+            "8ab7799b-789e-436f-a154-cfcf9150aa05"
+        ],
+        "Knipperen": [
+            "49fb9252-ae0a-4fef-ae43-2c744c1d5d26"
+        ],
+        "Bloeddruk verandering": [
+            "287700b9-4312-42f0-8713-7ab8b108575c"
+        ],
+        "Hartslag": [
+            "d19b039a-7424-4c57-ad65-097eeac96b0c"
+        ],
+        "Spiersamentrekkingen": [
+            "f63dcf9b-b1fa-4a39-9e75-de1fed1c3985"
+        ],
+        "Pilomotorische reflex (huid rillingen)": [
+            "236da0bc-f2fa-409a-83e1-69e395e7ce0a"
+        ]
+    },
+    "32": {
+        "oestrogeen": [
+            "087519f7-fec0-4bce-a8c2-5cae3f06cae0"
+        ],
+        "progesteron": [
+            "555336bc-0a64-4b2b-9d5e-7ba326461315"
+        ],
+        "adrenaline": [
+            "18cc8cf8-fa46-4cf4-89c9-d30a8d156ce5"
+        ],
+        "cortisol": [
+            "de9313a4-75bc-4859-b071-e9c50e432159"
+        ],
+        "serotonine": [
+            "41d8a0d4-5071-4387-8a8b-efeb4764fe39"
+        ],
+        "insuline": [
+            "0e9cc8cb-4003-45c7-a4f1-9b2c2d7f1710"
+        ],
+        "groeihormoon": [
+            "8d162de3-b305-40e5-8fb6-8ba0a3e9cbc1"
+        ],
+        "melatonine": [
+            "032e84f6-7591-430b-9cf0-33bd9679d8c9"
+        ],
+        "thyroxine": [
+            "7fb5420b-21f9-4142-b58f-ab6d185f2749"
+        ],
+        "prolactine": [
+            "2743bf8f-6b5b-4b72-85c6-e60a752108b9"
+        ],
+        "Oestrogeen": [
+            "38180b5e-0f65-420a-a7a3-b39045211091"
+        ],
+        "Adrenaline": [
+            "1ff5da9f-6531-4333-8105-cf43029441fc"
+        ],
+        "Serotonine": [
+            "bf3b63b6-8435-4768-8a75-7dc98efcc9f3"
+        ],
+        "Insuline": [
+            "14073bb0-a026-4bd2-a48b-a56aa8b7b546"
+        ],
+        "Groeihormoon": [
+            "3beced41-3738-423e-abd8-3c70ff8a8d79"
+        ],
+        "Melatonine": [
+            "3ddd3cbf-7cb3-45b4-ad15-1ca76e384ed5"
+        ],
+        "Endorfine": [
+            "474cf999-54ad-4ec2-8bf2-17c928122cfb"
+        ],
+        "Cortisol": [
+            "3e362ab9-71e0-4ddd-ab27-a69a01df8a10"
+        ],
+        "Dopamine": [
+            "4646b8e5-d9cc-4255-ac46-c42ddda1a6f4"
+        ],
+        "Progesteron": [
+            "56f18dae-47f6-4340-a0d5-1061ff930da1"
+        ]
+    },
+    "33": {
+        "Staafjes": [
+            "66734214-b6d3-46f5-8b72-287e297a5521"
+        ],
+        "Trommeltjes": [
+            "2317fd2a-4279-48e9-872a-087ed0a56a78"
+        ],
+        "Knopjes": [
+            "8b761b2b-4d9a-4088-8b19-f95103da1ade"
+        ],
+        "Bolletjes": [
+            "3316750e-268b-49eb-9fbe-4fc40d6ac9ff"
+        ],
+        "Rondjes": [
+            "a4512a15-759d-46ec-8e3a-fc8096a994bc"
+        ],
+        "Puntjes": [
+            "ca5e5358-3b34-47bd-aa35-31b93fd509bc"
+        ],
+        "Vierkantjes": [
+            "5e83e3c7-cd36-4d5f-9df3-2d1949302e40"
+        ],
+        "Driehoekjes": [
+            "6dbc7823-ad9f-4893-b239-5140085977b9"
+        ],
+        "Sterretjes": [
+            "e5a4a01a-72f0-4ca4-a3c6-48eead9a1277"
+        ],
+        "Lijntjes": [
+            "33fa3d2d-ac08-4218-a2a7-ab33f4588645"
+        ],
+        "Bloedvaten": [
+            "5cdcd9c5-e9c7-47d2-a049-b9817efd8984"
+        ],
+        "Water": [
+            "cd5e1395-9a78-4810-85db-467a2c9de7d0"
+        ],
+        "Zenuwcellen": [
+            "55e7c462-3c5a-4637-ac8e-b33c160d59f6"
+        ],
+        "Vlekken": [
+            "c96abb76-2e13-4322-84d1-5762541c800d"
+        ],
+        "Slijm": [
+            "dca4e85b-1adb-462a-9586-c97f534dd673"
+        ],
+        "Vetten": [
+            "9ddf1bba-7c63-4d3a-8626-b7afa2ff3328"
+        ],
+        "Kristallen": [
+            "a4350f0b-e774-449e-af1a-b5321a65e0ce"
+        ],
+        "Haartjes": [
+            "aea00e50-7234-4eb8-8c88-f0d8f8b4b3c1"
+        ],
+        "Botdeeltjes": [
+            "d07540ef-847c-4eb6-bee9-9d8cebfa5357"
+        ],
+        "Eiwitten": [
+            "faca903f-52b9-47d2-ab69-c754657622fd"
+        ]
+    },
+    "34": {
+        "bladsteel": [
+            "1aece8c0-c06c-49d3-9610-8ffb4d2dfbef"
+        ],
+        "bladrand": [
+            "5e4bb563-098e-4e0f-a6da-559a17302c4a"
+        ],
+        "bladknop": [
+            "7f0012f3-70bb-4e2e-99e7-2b074d50483e"
+        ],
+        "bladnerf": [
+            "a3726c23-2671-4676-881c-c2a8eeb29067"
+        ],
+        "bladbloem": [
+            "ed4ce9d0-8784-46a0-9168-5c1edc53a3b7"
+        ],
+        "bladhaar": [
+            "164ee57d-9083-4640-9cd2-01f06ccaaf89"
+        ],
+        "bladstengel": [
+            "2419fb65-9e19-4d76-a5fe-d53145f0268c"
+        ],
+        "bladknopje": [
+            "5d3153a6-9fe0-420d-9ee2-1bbf1d4b9c4d"
+        ],
+        "bladbasis": [
+            "b73898f8-ab13-4f14-8241-65ccc087bf77"
+        ],
+        "bladkraag": [
+            "b9edf36d-c2b5-4226-ad50-adaa1a963886"
+        ],
+        "Bladstengel": [
+            "4c1768a7-b8e2-40f7-8ec6-99cc09691e0d"
+        ],
+        "Bladsteel": [
+            "61a955e3-7ac8-4600-8a31-b37db68adb8c"
+        ],
+        "Bladnerf": [
+            "38036c49-18f7-496f-8bdf-ab84e4627ee7"
+        ],
+        "Bladwortel": [
+            "90d1fdf8-ee77-4deb-a06b-87922ba8b729"
+        ],
+        "Bladknop": [
+            "a5ced1a3-11a8-4ac8-b19f-a42abe25c846"
+        ],
+        "Bladhaar": [
+            "bd6c4a28-684f-44b4-9628-bc6f21b925e4"
+        ],
+        "Bladtak": [
+            "ec7db8b4-27a1-46c0-921b-c2e245dda3d5"
+        ],
+        "Bladpunt": [
+            "0f796f68-6290-43f4-9f6c-f04773c2f609"
+        ],
+        "Bladscheur": [
+            "a6fee8bb-63c5-456c-a8bf-925ac8e47f7f"
+        ],
+        "Bladvorm": [
+            "4ebd3ae5-c44e-4805-ae2a-a6afcf08a971"
+        ]
+    },
+    "35": {
+        "Van de dendriet richting het axon van de aansluitende zenuwcel.": [
+            "c36860ab-52d7-412b-8916-8a3cba6c591d"
+        ],
+        "In alle richtingen vanuit de celkern.": [
+            "f2bf037f-32fb-4d3f-ae01-1e3781933b6d"
+        ],
+        "Van de zenuwcel naar het bloedvatenstelsel.": [
+            "c2a13804-ad30-4578-9a69-edfc597c92dd"
+        ],
+        "Via het lymfestelsel.": [
+            "1abdc276-0a42-40d1-9e52-b92d48f995e2"
+        ],
+        "Via elektrische stroompjes door het lichaam.": [
+            "db0240f2-e64d-4476-a1b4-3a52a602be8b"
+        ],
+        "Via chemische signalen tussen zenuwcellen.": [
+            "5b4dc39e-bc60-4e91-8a5e-201538043c07"
+        ],
+        "Via magnetische velden in het lichaam.": [
+            "6c4e3247-b8e9-4944-98cc-d48c201aa206"
+        ],
+        "Via geluidsgolven in het lichaam.": [
+            "0191e289-a4b8-4609-9f13-7edb28640943"
+        ],
+        "Via infraroodstraling tussen zenuwcellen.": [
+            "bdb8a2a1-a82f-4cec-a9ed-0f627cdd1a09"
+        ],
+        "Via ultraviolette straling tussen zenuwcellen.": [
+            "18047958-056e-46c5-9037-21ed465ef644"
+        ],
+        "Via de bloedbaan": [
+            "cc2e93cc-1b41-4639-91eb-5d99fac9fcae"
+        ],
+        "Via de lymfeklieren": [
+            "5b06a4f9-02ae-4cb6-b6da-bc8b594571c8"
+        ],
+        "Via de zweetklieren": [
+            "b806f13d-46a6-41a4-94b6-b3bcbdc7abb1"
+        ],
+        "Via de luchtwegen": [
+            "2037cc64-5615-41d8-b63c-65bcd6478b73"
+        ],
+        "Via de voedselbrij in de maag": [
+            "b77c227d-22b3-499a-bb50-935910538e25"
+        ],
+        "Via de huidpori\u00ebn": [
+            "993066e3-98f7-45c7-83ae-4e798fa0a6cc"
+        ],
+        "Via de oren": [
+            "16f693c0-854f-4500-83e0-d94653dfff72"
+        ],
+        "Via de ogen": [
+            "ee5de03f-92bf-4513-96e6-9f3f478a64b4"
+        ],
+        "Via de neusgaten": [
+            "76c3990b-65f2-4336-9bfb-53cb3cbcd4b0"
+        ],
+        "Via de mondholte": [
+            "aa7e124f-1763-4fe4-b004-423c0573d967"
+        ]
+    },
+    "36": {
+        "LSD": [
+            "62e39c63-be5b-402b-bdcd-b7e6b0e32cd6"
+        ],
+        "Hero\u00efne": [
+            "d1e8ace4-1887-44c8-8ce4-af022a0ff1c1"
+        ],
+        "Coca\u00efne": [
+            "5a3b5ec0-ef67-42e1-bb52-53b72d717d09"
+        ],
+        "Methamfetamine": [
+            "736f4b68-9926-4683-ad8a-bd36aded7fc5"
+        ],
+        "XTC": [
+            "770b1f83-4c10-4516-9af9-4ceeb05fb4d0"
+        ],
+        "GHB": [
+            "47b3689c-39bd-490f-bc21-5eaca5df03d3"
+        ],
+        "Wiet": [
+            "55f3505d-ecc9-4f77-bf03-114daa136352"
+        ],
+        "Magic mushrooms": [
+            "8d6f946a-25d6-4455-907d-622900281022"
+        ],
+        "Crack": [
+            "a3ac75ca-41ce-4b12-8c2c-f04a84b5f1fb"
+        ],
+        "Valium": [
+            "575e8415-d16d-4b22-84d6-6f713f064d31"
+        ],
+        "Cola": [
+            "52e0f49f-1384-45da-9afd-e8d613681395"
+        ],
+        "Thee": [
+            "6810da16-4ca1-4320-bbd0-7303c71a0b2d"
+        ],
+        "Bier": [
+            "4c23f4bb-4d25-48ba-aaac-efd6d657081a"
+        ],
+        "Water": [
+            "aaa655cd-192b-4d74-aa48-190d37a48872"
+        ],
+        "Wijn": [
+            "e96105fd-e6b0-4d85-b433-5a6f27eb755d"
+        ],
+        "Melk": [
+            "c6181e75-f9b0-4f0c-b427-742741e05a10"
+        ],
+        "Jus d'orange": [
+            "d2345007-4b41-448c-abb9-429e12f7d7bd"
+        ],
+        "Red Bull": [
+            "2733be25-4387-481c-b516-f42d638763af"
+        ],
+        "Whiskey": [
+            "5c5f8e23-b24b-4fea-b26a-c1e6bc1368ef"
+        ],
+        "Coca-Cola": [
+            "fa3f3221-2a1c-4f61-bc24-259dc7064462"
+        ]
+    },
+    "37": {
+        "Sensorische neuronen": [
+            "fe759cd6-d52f-40e5-a64a-b8e889024553",
+            "e612f1df-b97e-4a08-9f28-a4db5703b79a"
+        ],
+        "Motorneuronen": [
+            "bf0705de-9747-48cc-bb4b-07962c6a12c7"
+        ],
+        "Interneuronen": [
+            "51fe234d-3db3-4479-a9b3-7a01b68ecdc5",
+            "713ac755-3f61-462c-a834-e9ce7a1b2417"
+        ],
+        "Pyramidecellen": [
+            "9fe43f1b-b946-4a52-ba60-d5e84fa9eba9",
+            "4df534a2-1cd3-4fa5-902e-55f47946fc35"
+        ],
+        "Granulecellen": [
+            "79482805-4764-4bd2-a2b7-839176277511",
+            "bd253fd7-ad64-4e40-9a7d-ec6302355b2a"
+        ],
+        "Purkinjecellen": [
+            "5fa9c9ce-d1c9-433a-b7f4-74f5c9a3963d",
+            "fd8d00fe-2dcc-4f75-b403-3dc3fc9cbc15"
+        ],
+        "Golgi-cellen": [
+            "66a5a73a-151f-4ecb-9838-6961ee9c6839"
+        ],
+        "Bipolaire neuronen": [
+            "0df78fbd-4cac-4a35-9d01-4abe35f02cfc"
+        ],
+        "Multipolaire neuronen": [
+            "561a08eb-eff8-49de-b81b-ca5801c0c76e"
+        ],
+        "Ganglioncellen": [
+            "082d6c30-3857-461c-8918-c16818cd317c"
+        ],
+        "Bewegingsneuronen": [
+            "2f7eecbe-4d52-453d-8b22-16523fb4e464"
+        ],
+        "Gevoelsneuronen": [
+            "229d768e-0207-43ac-bcb6-0f4a543ecd64"
+        ],
+        "Spiegelneuronen": [
+            "eaeead8a-b00f-46af-aff2-28e80c9b599d"
+        ],
+        "Motorische neuronen": [
+            "3a2f3e2c-03f4-4d46-b749-97e501704b81"
+        ],
+        "Bipolaire cellen": [
+            "304b8e8d-623a-402a-a0d3-d5e00e20f3bd"
+        ]
+    },
+    "38": {
+        "Xanax": [
+            "ab74f9f3-e72f-459f-ba76-f0d9e7e06fce"
+        ],
+        "Ibuprofen": [
+            "2f2dbde7-2951-4b44-b85e-391e7a6045fa",
+            "80542595-ba48-4429-9bee-ac7974edbcc7"
+        ],
+        "Code\u00efne": [
+            "8309c82c-8cc8-425a-be7a-b2b4f81430ba"
+        ],
+        "Valium": [
+            "efb4d4c4-53d6-4203-99c3-eef9e88b7388"
+        ],
+        "Prozac": [
+            "41e1b982-ab00-44b7-aebf-eca044c5a668"
+        ],
+        "Ritalin": [
+            "cdc08cc9-0dba-4b83-867f-8d6c20987031"
+        ],
+        "Adderall": [
+            "c6082e98-776d-481c-95dc-94bbda9c06ee"
+        ],
+        "Ambien": [
+            "a39e3c85-4898-44ba-8b9a-da4a2758671f"
+        ],
+        "Vicodin": [
+            "9346798f-6491-4861-9570-dfb3158abe27"
+        ],
+        "Oxycodon": [
+            "1e14b0cc-0bfb-44b1-8948-c801fcc00a74"
+        ],
+        "Paracetamol": [
+            "fd5b53ae-5f19-4fe4-a9d8-4a98c1407433"
+        ],
+        "Cafe\u00efne": [
+            "e61b6f8f-02dc-4958-860c-74420db294ae"
+        ],
+        "Nicotine": [
+            "c674c538-52e8-40ac-8879-30a9e1565d80"
+        ],
+        "Alcohol": [
+            "2162d3b0-f5e2-42cb-abfd-ac549560a544"
+        ],
+        "Hero\u00efne": [
+            "668ce566-5bb9-466c-ae46-0fd0f06c20e9"
+        ],
+        "Coca\u00efne": [
+            "4f68ff7c-174d-44a6-8a2d-376996d8c22e"
+        ],
+        "LSD": [
+            "b18f7f43-2760-4b79-98dd-2aa9d262df21"
+        ],
+        "XTC": [
+            "4610ab2c-faa0-470d-9589-3bfb6465bee2"
+        ],
+        "Methamphetamine": [
+            "c40416aa-9cd2-4b60-80e4-ef85cd814b09"
+        ]
+    },
+    "39": {
+        "in je elleboog": [
+            "c82f35a0-23ac-438b-abad-7b8acd2ff8be"
+        ],
+        "in je knie": [
+            "1cd9f770-79b0-460f-8e25-36849b4a3f1c"
+        ],
+        "in je oksel": [
+            "58ca9dc2-4d06-4513-9867-e0b433d09816"
+        ],
+        "in je neus": [
+            "e582a153-6cc2-42ea-9979-51ca73bf14ea"
+        ],
+        "in je voet": [
+            "33dbcb12-97e8-486c-9c7a-d8ae967b3e10"
+        ],
+        "in je handpalm": [
+            "fcb2d6db-0e5b-4389-ab7b-5210bf942554"
+        ],
+        "in je mond": [
+            "557e6cd4-8fe2-4e7e-b269-370f00c08dc1"
+        ],
+        "in je rug": [
+            "d02c7cb6-338e-41cf-90e4-150ef98dccd5"
+        ],
+        "in je schouder": [
+            "a588a0af-5d2a-4d57-8db2-0ac50be1fcc2"
+        ],
+        "in je oog": [
+            "d8dc24d5-bdc7-4628-85aa-0377328b0f51"
+        ],
+        "In je neus": [
+            "e1e8f3f6-d933-458f-bf9d-e047e559d203"
+        ],
+        "In je buik": [
+            "80df854f-bfae-4ef2-91a5-58b604485d97"
+        ],
+        "In je knie": [
+            "ab1e6206-7bff-4962-a43c-64b6a8a7dd7f"
+        ],
+        "In je voet": [
+            "d527a4e9-b05d-4c5f-a179-93dd1e71e99e"
+        ],
+        "In je elleboog": [
+            "e0922f48-505f-4d3c-9b7f-ca59c91e2ea1"
+        ],
+        "In je hand": [
+            "2bc682dd-03b3-4a60-94a2-0cf4c9283221"
+        ],
+        "In je bil": [
+            "72e78e55-b371-46a5-9efd-1aede547b270"
+        ],
+        "In je schouder": [
+            "8425ffa0-093d-42e9-b556-96c424ad1e4c"
+        ],
+        "In je rug": [
+            "01487063-dbed-4600-b26c-2e4b4d17964e"
+        ],
+        "In je mond": [
+            "3fa44227-d9ea-43db-8b1a-8d7fad990b07"
+        ]
+    },
+    "40": {
+        "Mandarijn": [
+            "2898439f-b25b-4697-9f44-8c281826021d"
+        ],
+        "Rozemarijn": [
+            "e194b32f-5cbf-4e2c-8ae1-7bf7925c65f8"
+        ],
+        "Tijgerlelie": [
+            "26144f13-72f1-4cfa-841a-c701996589c9"
+        ],
+        "Zonnebloem": [
+            "839c1178-88ce-4060-a33a-bdaecf5507dc"
+        ],
+        "Kamille": [
+            "47ab4604-1c19-445f-9083-b88d9a49a627"
+        ],
+        "Lelie van de vallei": [
+            "d910d852-fc88-47ba-87e2-0287b8bf3d94"
+        ],
+        "Wilde roos": [
+            "72315f2a-4cc6-4ab9-a44e-984800bec67b"
+        ],
+        "Eucalyptus": [
+            "842b63a2-3841-46af-8f2a-e8853330ba2e"
+        ],
+        "Druif": [
+            "37aba833-4dee-4f59-8da6-661737770872"
+        ],
+        "Komkommer": [
+            "00429261-ff01-45e3-a93a-162129404b25"
+        ],
+        "Ananas": [
+            "66638918-1103-442d-bc3b-d80edd4fe20b"
+        ],
+        "Kokosnoot": [
+            "883c3d3c-ac87-48d3-b116-8bb7e58be5e6"
+        ],
+        "Druiven": [
+            "614eb3c9-65f5-4c80-b851-436e446dad6d"
+        ],
+        "Kool": [
+            "8374687a-e1e6-4da0-9f05-f5457380ba40"
+        ],
+        "Spinazie": [
+            "aba3f683-da5e-46fb-be94-27d91836f18e"
+        ],
+        "Broccoli": [
+            "2d16edcb-67dd-402c-b1ab-68ecf771639d"
+        ],
+        "Aardappelen": [
+            "7ef291fa-ec3f-463d-81a6-d19cd4f025d8"
+        ],
+        "Appels": [
+            "4f988ce0-c07f-4ec4-83af-f9f5a7b17809"
+        ],
+        "Wortelen": [
+            "878b22f8-dbd3-4ddc-96bf-99000c06ebd5"
+        ],
+        "Uien": [
+            "55015dd9-d531-4674-9ebe-fb13be647baf"
+        ]
+    },
+    "41": {
+        "Koolstofmonoxide (CO)": [
+            "0016b9a8-7e84-41a8-8c4f-721adf64fb3d"
+        ],
+        "Stikstofoxide (NOx)": [
+            "20551ffe-c7c3-458a-9dc7-12b67d8db1eb"
+        ],
+        "Methaangas (CH4)": [
+            "beedaffd-22d1-427c-9bc0-96391fd70d2b"
+        ],
+        "Waterstofgas (H2)": [
+            "b09c8718-4aee-4f6a-aa23-57c304cbfee1"
+        ],
+        "Ozongas (O3)": [
+            "1fd2c019-fae5-4a37-bb4c-e1497e76530a"
+        ],
+        "Zwaveloxide (SOx)": [
+            "ed3f1299-6dd7-4347-8cbe-ab720797fb35"
+        ],
+        "Chloorgas (Cl2)": [
+            "15181bc4-1469-4e5f-8f3a-e0dc43ca748b"
+        ],
+        "Heliumgas (He)": [
+            "150987f4-8d65-48bc-ae75-5d06ef9e71f9"
+        ],
+        "Argongas (Ar)": [
+            "5e2bf376-989c-490d-9a5f-ae19f0c135ea"
+        ],
+        "Neon gas (Ne)": [
+            "a558c36b-f23e-4244-84c0-5c1a5a9fcdf4"
+        ],
+        "Koolstofmonoxide": [
+            "b5809283-0c77-4cb1-a83f-6ff1351a058f"
+        ],
+        "Stikstofgas": [
+            "ac76be48-55bd-4df1-b290-4f578fe648f3"
+        ],
+        "Methaangas": [
+            "6b870d0b-ef0f-431b-aab7-c163bbb5da0c"
+        ],
+        "Waterstofgas": [
+            "ea353be1-12d2-4d40-b0d2-2b18c2b6863d"
+        ],
+        "Chloorgas": [
+            "c389038e-0b86-4beb-9434-c5cc5fc825d1"
+        ],
+        "Ozongas": [
+            "4738cbb7-b388-4e8b-8f64-8c0733508b24"
+        ],
+        "Zwavelgas": [
+            "a8fb1e8a-9c49-4d62-9c99-a89baf536cc5"
+        ],
+        "Neon gas": [
+            "db463533-25e7-4e57-baf0-e1a6ef548d93"
+        ],
+        "Heliumgas": [
+            "0f140213-a008-4abe-84a1-5069d6d4e584"
+        ],
+        "Argongas": [
+            "86d6b335-19f2-4c5c-8205-a37a5f157ac8"
+        ]
+    },
+    "42": {
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de visuele hersenschors.": [
+            "e1b7225c-25dd-482a-9d58-5c26c0149e56"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de auditieve hersenschors.": [
+            "e535c79b-4264-4de4-999d-851f3eec6e3b"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de olfactorische hersenschors.": [
+            "d0c78684-c046-4eb6-9d0b-b0b1d0ca99e5"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de motorische hersenschors in de linker hersenhemisfeer.": [
+            "a597e3b2-e48a-4b18-8d74-8e51663a93fa"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de prefrontale hersenschors.": [
+            "0d4002fe-9736-4aca-a67d-64c1724bfa30"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de limbische hersenschors.": [
+            "45d860ac-7737-48c3-9404-439425176398"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de occipitale hersenschors.": [
+            "d59cab7f-93c1-47c9-bdd4-59a7abb4594a"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de parietale hersenschors.": [
+            "0ed4f253-76ca-4b22-bee7-b02bcb4eb9e8"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de temporele hersenschors.": [
+            "fd89158e-b762-4c23-835a-26ec93ad919a"
+        ],
+        "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de hersenstam.": [
+            "be0fde5e-d996-467e-930f-94e155790971"
+        ],
+        "De linker hersenhemisfeer": [
+            "bcc5e5b3-1f02-4e44-b6a1-2fb0bc4ef9b1"
+        ],
+        "Geen van beide hersenhelften, het komt vanuit het ruggenmerg": [
+            "14e69313-b779-4227-a108-c4744edf3f3b"
+        ],
+        "De occipitale hersenkwab": [
+            "a7aea16a-82a0-4531-9b77-3794aff330ae"
+        ],
+        "De temporale hersenkwab": [
+            "87a97399-9d4f-4ff3-9762-e09b1ebd6d57"
+        ],
+        "De frontale hersenkwab": [
+            "5eb32f80-2c0c-4ffc-bdbc-5c43215964df"
+        ],
+        "De pari\u00ebtale hersenkwab": [
+            "767a2983-476c-4a2d-a07f-ce073e343cc5"
+        ],
+        "De limbische hersenkwab": [
+            "024100fa-c62d-460b-999b-bf902fd08c29"
+        ],
+        "De hersenstam": [
+            "303b3117-1dff-46f6-ada4-330cbaa2b4fc"
+        ],
+        "Het cerebellum": [
+            "28c169b4-c2e9-4cf8-a417-62671c576295"
+        ],
+        "De hypothalamus": [
+            "37e4dd2f-8318-40f2-b401-47c7650e915c"
+        ]
+    },
+    "43": {
+        "5 miljoen": [
+            "b7c6dfdc-53f1-4d74-a42a-4e3dfa836e8a"
+        ],
+        "10 miljoen": [
+            "f85f8a25-28f3-49b3-9407-9dcb8da17ecb"
+        ],
+        "50 miljoen": [
+            "2ff978ce-1be6-4f90-b2ef-5bad9776b339",
+            "5612a25c-db24-434b-82fc-f896e86e3657"
+        ],
+        "100 miljoen": [
+            "fa123d53-b6cd-426c-bb90-289def0cf9c2"
+        ],
+        "200 miljoen": [
+            "5df995af-7960-46be-b2e6-0eda4ba7b570",
+            "00f39af9-bb23-4779-8a73-3b3a48a1e1ca"
+        ],
+        "300 miljoen": [
+            "25a54c4f-1610-4a58-8bc3-020ea05438e2"
+        ],
+        "600 miljoen": [
+            "1cbd3e6d-588f-419c-8c95-5abed7932697",
+            "d836beac-e93a-40b7-890b-25238d71e2c0"
+        ],
+        "700 miljoen": [
+            "ab7de8c9-b1ca-4753-b8e7-6f3ec9ff5461",
+            "7faaf263-2571-4d22-9e29-bb9e38e9e902"
+        ],
+        "800 miljoen": [
+            "783cadf5-f837-4aa0-8f90-c99c8a5a1c5e",
+            "0a172591-f7c8-4069-a16b-a4812f1b04a8"
+        ],
+        "1 miljard": [
+            "ce5626fa-b237-4903-8ab0-242beb6dfe79",
+            "cd7bd6f8-6f94-4ca4-ba0b-68334a8a1886"
+        ],
+        "250 miljoen": [
+            "9c40c992-253b-4b83-8c5d-2f6a7c06355c"
+        ],
+        "350 miljoen": [
+            "725dfd2e-2dd1-4d49-b793-c1de1dc628e4"
+        ],
+        "150 miljoen": [
+            "a331f536-8fdd-4574-9a3e-c5db3f0e209a"
+        ],
+        "900 miljoen": [
+            "6059be3d-509c-4b5f-96fe-0bd187d245c1"
+        ]
+    },
+    "44": {
+        "Rozen": [
+            "d9adcfd7-d94e-41e3-8760-c66c8f2dfa29",
+            "b9d1ad22-2f0e-4aca-80b8-c0e6fad8282e"
+        ],
+        "Tulpen": [
+            "4bcc6dc2-c24b-4ca0-9416-b4df200e4aee",
+            "3d188404-e384-47aa-9b00-fc4dcbcd00d0"
+        ],
+        "Lelies": [
+            "81c0013a-4297-422e-a294-03b2e3cecfbb"
+        ],
+        "Narcissen": [
+            "d2a70283-6d5e-47a3-85ef-219c8daef4a0",
+            "4085cf03-b8fc-4f23-8102-0542b5b59774"
+        ],
+        "Anjers": [
+            "b1741e5e-c43d-429b-adb4-48bcf7a46d84",
+            "d51d533d-bbc5-4055-8458-ae3ec9853010"
+        ],
+        "Irissen": [
+            "c98deb6e-c7b3-482b-b811-4badcc48a017",
+            "4694a094-3264-47bf-ab70-d13dbde1656f"
+        ],
+        "Pioenen": [
+            "c8cce485-8d5f-41bd-9974-47e84d8956b2"
+        ],
+        "Lavendel": [
+            "39e877e0-f0f5-4a7e-a35e-68828780d448",
+            "34e92988-1065-4501-b76b-7ae706e03aad"
+        ],
+        "Chrysanten": [
+            "b648a9b2-66cf-467f-875f-6d99addced95"
+        ],
+        "Geraniums": [
+            "ba0e819c-dd38-4bb9-98e3-2f179e5b201e"
+        ],
+        "Paardenbloemen": [
+            "578643b2-e53f-48be-951f-934c8a0cb6ef"
+        ],
+        "Sneeuwklokjes": [
+            "e92d3349-102c-4d60-a61f-51f3d647eb9e"
+        ],
+        "Madeliefjes": [
+            "6f05355a-3b3e-40c0-9b41-09f179eacbcf"
+        ],
+        "Lupines": [
+            "3b80c466-25d4-4ca0-9cc7-c91038346abd"
+        ]
+    },
+    "45": {
+        "Het remt de groei van planten.": [
+            "6e77ed55-3e2e-4369-816a-ed9e14486dba"
+        ],
+        "Het veroorzaakt vergeling van bladeren.": [
+            "3aa29885-7aeb-42fe-9f50-70426111d506"
+        ],
+        "Het vermindert de fotosynthese.": [
+            "1b51e35c-9230-4fe6-9f15-42e5107ece84"
+        ],
+        "Het veroorzaakt ziektes bij planten.": [
+            "f4f36d0e-f273-4065-b35a-b314ec6319d4"
+        ],
+        "Het vermindert de smaak van fruit.": [
+            "d7c5d3c8-17d6-42ee-846c-3bb6142461b8"
+        ],
+        "Het zorgt voor afsterving van wortels.": [
+            "6d106fdc-56a4-410d-a19b-6f3bf5212ef3"
+        ],
+        "Het vermindert de opname van voedingsstoffen.": [
+            "93de1e30-8f03-4add-8610-ccafdede581b"
+        ],
+        "Het verstoort de celdeling van planten.": [
+            "79354890-9d55-4061-8a48-7d5cb02a78d7"
+        ],
+        "Het zorgt voor verkleuring van bloemen.": [
+            "e45b54c8-c686-4f00-8725-e8bebbd89019"
+        ],
+        "Het vermindert de vruchtbaarheid van planten.": [
+            "84767f91-248b-4d42-b874-b5a4887fde14"
+        ],
+        "Ethyleen veroorzaakt wortelrot bij planten.": [
+            "4177a0f8-9041-42fc-be11-b7646c8e5068"
+        ],
+        "Ethyleen maakt planten giftig voor dieren.": [
+            "ffa8dbb2-2096-4526-8aac-1696f700d60f"
+        ],
+        "Ethyleen vermindert de fotosynthese van planten.": [
+            "7ce31c5a-77fd-4722-9dfb-963cd7e170ea"
+        ],
+        "Ethyleen leidt tot verkleuring van de bladeren van planten.": [
+            "0727d77a-8669-45a9-9c90-af513a5b52aa"
+        ],
+        "Ethyleen veroorzaakt planten om te verwelken en af \u200b\u200bte sterven.": [
+            "df014c3c-32da-4d38-977e-fdad32f5361d"
+        ],
+        "Ethyleen vertraagt \u200b\u200bde groei van planten.": [
+            "22218b54-8811-4065-8e25-731c0cbf2d18"
+        ],
+        "Ethyleen verhoogt het gehalte aan toxische stoffen in planten.": [
+            "f33373ef-0ab9-4ca3-bf5f-4a83e6646ae6"
+        ],
+        "Ethyleen vermindert de smaak en voedingswaarde van fruit.": [
+            "7af059b7-8e3c-475d-a3d5-b619ce8ac24a"
+        ],
+        "Ethyleen veroorzaakt onvruchtbaarheid bij planten.": [
+            "31a5cbe7-9aa2-4aa3-8a7f-10a637ddc297"
+        ],
+        "Ethyleen verhoogt de kans op ziekten en plagen in planten.": [
+            "2a40c598-9635-4500-b88c-3d404eef187c"
+        ]
+    },
+    "46": {
+        "Heroin": [
+            "32648ad6-ee85-4188-96ae-19aa3e2882b6"
+        ],
+        "Methadone": [
+            "15de7980-0a54-4c21-9def-6c6149a9307d"
+        ],
+        "Valium": [
+            "4982ae68-ea9e-4cbc-af11-22deef8838f0"
+        ],
+        "LSD": [
+            "adb40acf-878c-4652-81fd-bad7a3923781"
+        ],
+        "Marijuana": [
+            "565e9bb2-0328-4210-80ec-75b1e50e21d6"
+        ],
+        "Ecstasy": [
+            "45b48dee-985d-46be-951b-7d8601c62730"
+        ],
+        "Ketamine": [
+            "52ca4373-0ef4-4eea-8142-7662f914af72"
+        ],
+        "Morphine": [
+            "4b50cae7-61d4-4dda-ac14-a9f367e518de"
+        ],
+        "Crack": [
+            "5320dd96-4dc2-444d-a12e-1f64082faea9"
+        ],
+        "Fentanyl": [
+            "2f61344f-c2ce-4d3a-93f4-c80c8ec4cb71"
+        ],
+        "Koffie": [
+            "ef3fd1c8-7960-4952-8901-702e86fcd6e0"
+        ],
+        "Vitamine C pillen": [
+            "0f2b6eeb-619c-46c4-af16-eae3ca177ff8"
+        ],
+        "Pepermuntjes": [
+            "633e0234-78e6-40ed-9deb-cecdca7f33b0"
+        ],
+        "Aspirine": [
+            "6f5dbb0a-2dfc-4053-841e-ba7ac45b25be"
+        ],
+        "Water": [
+            "72740bc8-edcb-4636-8c5d-62aba6feb7de"
+        ],
+        "Muntthee": [
+            "e0b1e42d-3452-44b0-8b44-080bf00d95bf"
+        ],
+        "Gemberthee": [
+            "b05d1585-408f-48eb-9208-11b6822b295a"
+        ],
+        "Olijfolie": [
+            "d8006885-d9d8-4b0b-bc2e-8a44b5c82eab"
+        ],
+        "Oregano": [
+            "22579e32-60e4-42f0-bc30-8eb674b65009"
+        ],
+        "Kamillethee": [
+            "3509aed1-2683-45f7-bfeb-b8c93ec9cadc"
+        ]
+    },
+    "47": {
+        "de uiterst rechtse": [
+            "2c418c92-afdc-46c1-8c30-733a1b607bf8"
+        ],
+        "de middelste": [
+            "62b6e669-cb48-461c-856f-ba26eec5eb3a"
+        ],
+        "de tweede van links": [
+            "b73ee1c1-8e10-4000-8764-34cb90b9fd75"
+        ],
+        "de derde van links": [
+            "abca76b7-d202-4974-86b5-1689963f0892"
+        ],
+        "de vierde van links": [
+            "980006c9-862a-4977-8c19-944a44753150"
+        ],
+        "de eerste zwarte toets van links": [
+            "923e68c0-562c-45db-87cd-4f91c47aadf2"
+        ],
+        "de tweede zwarte toets van links": [
+            "49d5aa09-c576-4ab3-b184-b2818c5eb95f"
+        ],
+        "de derde zwarte toets van links": [
+            "3a0d59c2-0d20-46dd-8de3-2c278b7fd219"
+        ],
+        "de eerste witte toets van rechts": [
+            "52c811e8-9a93-4404-99df-a23af6e1967b"
+        ],
+        "de tweede witte toets van rechts": [
+            "4c4edad0-7a34-4b79-bb5a-4eb391a782fe"
+        ],
+        "De toets met het cijfer '7' erop.": [
+            "855a6198-9680-4c5e-95a9-5dc9eeaac6cf"
+        ],
+        "De toets met de letter 'Z' erop.": [
+            "796ccc51-bf64-49fb-93bd-75eaf8df1060"
+        ],
+        "De toets met een afbeelding van een zon erop.": [
+            "33c5a80e-7f6c-499f-a18a-8e11ade48cd4"
+        ],
+        "De toets met de kleur roze.": [
+            "53159454-9eb6-4b66-be2c-764e26666088"
+        ],
+        "De toets met een smileygezicht erop.": [
+            "752c2546-3082-4734-ba5b-a50813489993"
+        ],
+        "De toets met een pijl naar beneden erop.": [
+            "0951b246-070c-4bc0-955a-c85cbb41bc48"
+        ],
+        "De toets met een afbeelding van een hond erop.": [
+            "311bbd39-8db7-430b-8400-e5fc12bd88fc"
+        ],
+        "De toets met de letter 'Q' erop.": [
+            "52dc560c-edff-45e6-bd32-32eb4f1966ee"
+        ],
+        "De toets met een bloem erop.": [
+            "6aed2f2e-af34-4b96-ac1a-7cf0f5745e0e"
+        ],
+        "De toets met een golfpatroon erop.": [
+            "96832ae9-6d27-4b2b-85ab-995bb436b65c"
+        ]
+    },
+    "48": {
+        "Cafe\u00efne": [
+            "7ec23aa2-e267-47ec-964a-2502409ac0ee",
+            "f443eb69-f0d9-41c7-82e5-34e37387ac24"
+        ],
+        "Paracetamol": [
+            "0fbb8c7f-4925-4fc2-a31a-0e8727e8a10c"
+        ],
+        "Aspirine": [
+            "f0f02c9b-f9aa-45ea-9efa-d010cce0d696",
+            "20d8eaea-8837-47fe-a093-e7a5ca41684d"
+        ],
+        "Ibuprofen": [
+            "83a7f089-bf46-458c-9633-c61b12be9a54",
+            "dd19d543-c134-4d0b-82aa-a0595c6e824d"
+        ],
+        "Vitamine C": [
+            "5507c66d-c9b9-444a-951d-dbdde91ba5b0",
+            "284d3c1a-0c57-4275-b063-cd1a75cfe598"
+        ],
+        "Cannabis": [
+            "5f012d7b-b8fb-46a9-8ad7-92075ed1567f"
+        ],
+        "Nicotine": [
+            "25b8c633-bc0f-4842-a746-889bc903aa3f"
+        ],
+        "Alcohol": [
+            "e3f887d6-bb24-4543-a8f0-74e9d5515d98"
+        ],
+        "MDMA": [
+            "37833d84-127e-4e7b-9f4d-2314807fa956"
+        ],
+        "Coca\u00efne": [
+            "74b70f9a-91a7-4508-83c1-9e6804dcb842"
+        ],
+        "Melatonine": [
+            "48ede06a-d6fe-4c6e-b46d-925876b94061"
+        ],
+        "Kamillethee": [
+            "49b29489-58f8-40c2-a828-c0f06c68557e"
+        ],
+        "Acupunctuur": [
+            "58c22495-da87-4b57-97ef-7fc58148cd14"
+        ],
+        "Zonnebloempitten": [
+            "918ab65e-0365-46f2-abba-f97377923a5b"
+        ],
+        "Gemberwortel": [
+            "8663bbcf-cb6f-4d51-ae82-c85b33fa7625"
+        ],
+        "Magnesiumsupplementen": [
+            "256a1518-ea43-4223-accb-d6741b3d3736"
+        ]
+    },
+    "49": {
+        "Schimmels": [
+            "8193ef94-0072-4be6-bd5f-34d1cc60bb2c",
+            "1b0ebdc2-a931-4060-a49e-b9194b8d63cb"
+        ],
+        "Protozoa": [
+            "612dd43e-8aa8-4500-85f5-aaf8aba4b7bd",
+            "a033a9c9-3fd1-48fe-8a12-fda1f2b80143"
+        ],
+        "Arthropoden": [
+            "f9c10f22-6255-436c-9ab8-43871731a35a"
+        ],
+        "Wormen": [
+            "78d44c2a-59a7-4383-9ea4-e1269e5d96a7",
+            "9a23962b-b8a8-46be-aaf1-bb78c35295fc"
+        ],
+        "Algen": [
+            "bf2a381c-7f5e-47e4-9adf-694b346c2b85"
+        ],
+        "Paddenstoelen": [
+            "33efdeb9-e32c-4530-89e2-9da1e1015b07"
+        ],
+        "Sponzen": [
+            "46b116b6-9e03-46f9-af65-8ee3bd1ee8e3"
+        ],
+        "Kwallen": [
+            "561923ff-e123-4823-82a8-b416d05df8ba"
+        ],
+        "Insecten": [
+            "a1ae1b36-ba6f-4026-acbb-06a88e0ada11",
+            "63461a8c-c51b-40a2-8333-6df8ec7e1e46"
+        ],
+        "Vogels": [
+            "30c8bedb-82e2-4bc2-acd7-bcab5bbd8701",
+            "03a755b5-b30b-41bd-81c2-64244f4dca6b"
+        ],
+        "Zoogdieren": [
+            "f4d09c6f-a3e8-4d11-a9e9-3f8c561dc59f"
+        ],
+        "Vissen": [
+            "4b53b080-cbc0-4585-9d96-fb83d4b06fd5"
+        ],
+        "Amfibie\u00ebn": [
+            "c0f8f112-78df-4097-9c1c-ea0b56cad2e3"
+        ],
+        "Reptielen": [
+            "638c4b64-c8f5-45fa-8d51-22e5db8c5e25"
+        ],
+        "Planten": [
+            "e01178b7-01bd-48aa-bce3-a67a9f165cf6"
+        ]
+    }
+}

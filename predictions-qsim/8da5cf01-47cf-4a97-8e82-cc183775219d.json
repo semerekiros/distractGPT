@@ -1,0 +1,141 @@
+{
+    "qid": "8da5cf01-47cf-4a97-8e82-cc183775219d",
+    "response": {
+        "Query": "Tot welke geografische streek hoort Sint-Niklaas?",
+        "Result": [
+            {
+                "answer": "Zandlemig Vlaanderen/Leemstreek",
+                "answer_length": 2,
+                "distractors": [
+                    "Kuststreek",
+                    "Polders",
+                    "Zandig Vlaanderen/Kempen"
+                ],
+                "language": "nl",
+                "question": "In welke streek ( of streken ) komt dit soort landschap veel voor ?",
+                "question_length": 14,
+                "score": 0.9612318735242823
+            },
+            {
+                "answer": "Frankrijk en Nederland",
+                "answer_length": 3,
+                "distractors": [
+                    "Frankrijk en Duitsland",
+                    "Duitsland en Nederland",
+                    "Engeland en Nederland",
+                    "Nederland en Luxemburg",
+                    "Frankrijk en Luxemburg"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Aan welke twee landen grenst onze kuststreek ?",
+                "question_length": 14,
+                "score": 0.9549848578115309
+            },
+            {
+                "answer": "Schotse Hooglanden",
+                "answer_length": 2,
+                "distractors": [
+                    "Pyreneeen",
+                    "Alpen",
+                    "Karpaten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan Welk Europees gebergte ligt het meest noordelijk ?",
+                "question_length": 14,
+                "score": 0.9506955726235142
+            },
+            {
+                "answer": "Andes",
+                "answer_length": 1,
+                "distractors": [
+                    "Alpen",
+                    "Himalaya",
+                    "Rocky Mountains",
+                    "Kaukasus",
+                    "Atlas"
+                ],
+                "language": "nl",
+                "question": "Welke bergketen ligt op het zuidelijk halfrond en loopt van noord naar zuid ?",
+                "question_length": 14,
+                "score": 0.9480417714077485
+            },
+            {
+                "answer": "kust",
+                "answer_length": 1,
+                "distractors": [
+                    "Ardennen",
+                    "Alpen",
+                    "Himalaya"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke streek meet men , bij gelijkaardige weersomstandigheden , de hoogste luchtdruk ?",
+                "question_length": 21,
+                "score": 0.8683390082286163
+            },
+            {
+                "answer": "Nederland en Frankrijk",
+                "answer_length": 3,
+                "distractors": [
+                    "Frankrijk en Luxemburg",
+                    "Nederland en Duitsland",
+                    "Nederland en Luxemburg"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Aan welke landen grenst de Belgische kust ?",
+                "question_length": 13,
+                "score": 0.8642524892109579
+            },
+            {
+                "answer": "Vlaams Gewest",
+                "answer_length": 2,
+                "distractors": [
+                    "Waals Gewest"
+                ],
+                "language": "nl",
+                "question": "Welk van de onderstaande gebieden is het dichtst bevolkt ?",
+                "question_length": 10,
+                "score": 0.8506528751165527
+            },
+            {
+                "answer": "N.W.-Rusland",
+                "answer_length": 1,
+                "distractors": [
+                    "Wales en Cornwall",
+                    "Ardennen",
+                    "N.-Nederland",
+                    "Taagvallei"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'intensieve veeteelt ' ?",
+                "question_length": 16,
+                "score": 0.823778958452115
+            },
+            {
+                "answer": "Amazonie",
+                "answer_length": 1,
+                "distractors": [
+                    "West Afrika",
+                    "NIC 's",
+                    "China"
+                ],
+                "language": "nl",
+                "question": "Vorig jaar heb je veel geleerd over verschillende regio 's in de wereld . Naar welke regio refereert de volgende beschrijving : `` Vooral tropisch regenwoud in het warm altijd nat klimaat tot warm met droog seizoen '' .",
+                "question_length": 39,
+                "score": 0.8177148849352602
+            },
+            {
+                "answer": "Vlaamse Ruit",
+                "answer_length": 2,
+                "distractors": [
+                    "Kempen",
+                    "Ardennen",
+                    "Polders"
+                ],
+                "language": "nl",
+                "question": "Welke streek is het kerngebied van de tuinbouw in Belgie ?",
+                "question_length": 11,
+                "score": 0.7715630505947327
+            }
+        ]
+    }
+}

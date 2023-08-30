@@ -1,0 +1,126 @@
+{
+    "qid": "0694b972-d25b-45b5-8b3c-a0f2fe635aee",
+    "response": {
+        "Query": "du pain trop vieux s'appelle ...",
+        "Result": [
+            {
+                "answer": "rassis",
+                "answer_length": 1,
+                "distractors": [
+                    "cassis",
+                    "lassis"
+                ],
+                "language": "fr",
+                "question": "du pain trop vieux s'appelle ...",
+                "question_length": 6,
+                "score": 0.9788116172657109
+            },
+            {
+                "answer": "le belier",
+                "answer_length": 2,
+                "distractors": [
+                    "le mouton",
+                    "le bouc"
+                ],
+                "language": "fr",
+                "question": "l'ovin male adulte s'appelle ...",
+                "question_length": 5,
+                "score": 0.7998920202762134
+            },
+            {
+                "answer": "een kraai",
+                "answer_length": 2,
+                "distractors": [
+                    "een raaf",
+                    "een roek"
+                ],
+                "language": "nl",
+                "question": "une 'corneille ' est ...",
+                "question_length": 5,
+                "score": 0.7979350159535629
+            },
+            {
+                "answer": "l'agnelage",
+                "answer_length": 1,
+                "distractors": [
+                    "le velage",
+                    "le poulinage"
+                ],
+                "language": "fr",
+                "question": "la mise bas chez la brebis s'appelle ...",
+                "question_length": 8,
+                "score": 0.7754768897930356
+            },
+            {
+                "answer": "un casse-noix",
+                "answer_length": 2,
+                "distractors": [
+                    "un craque-noix",
+                    "une brise-noix"
+                ],
+                "language": "fr",
+                "question": "pour briser les noix , on emploie ...",
+                "question_length": 8,
+                "score": 0.7699675306165813
+            },
+            {
+                "answer": "gousses",
+                "answer_length": 1,
+                "distractors": [
+                    "bousses",
+                    "trousses"
+                ],
+                "language": "fr",
+                "question": "les caieux de l'ail s'appellent ...",
+                "question_length": 6,
+                "score": 0.7190049438213297
+            },
+            {
+                "answer": "une salade de fruits",
+                "answer_length": 4,
+                "distractors": [
+                    "une tarte"
+                ],
+                "language": "fr",
+                "question": "Pour faire ... , il me faut une pomme , une banane , un kiwi et une orange .",
+                "question_length": 19,
+                "score": 0.6783851496190573
+            },
+            {
+                "answer": "un amphibien",
+                "answer_length": 2,
+                "distractors": [
+                    "un poisson",
+                    "un ruminant"
+                ],
+                "language": "fr",
+                "question": "un batracien est ...",
+                "question_length": 4,
+                "score": 0.6417411306365508
+            },
+            {
+                "answer": "une salade de fruits",
+                "answer_length": 4,
+                "distractors": [
+                    "une tarte"
+                ],
+                "language": "fr",
+                "question": "4.2 Indique le mot qui convient . Duid het woord aan dat past . Pour faire ... , il me faut une pomme , une banane , un kiwi et une orange .",
+                "question_length": 33,
+                "score": 0.6071198913777752
+            },
+            {
+                "answer": "une beche",
+                "answer_length": 2,
+                "distractors": [
+                    "une pelle",
+                    "un sarcloir"
+                ],
+                "language": "fr",
+                "question": "pour retourner la terre dans un potager , on emploie ...",
+                "question_length": 11,
+                "score": 0.5817972082680669
+            }
+        ]
+    }
+}

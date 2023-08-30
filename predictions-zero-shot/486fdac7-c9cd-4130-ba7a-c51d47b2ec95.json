@@ -1,0 +1,5 @@
+{
+    "qid": "486fdac7-c9cd-4130-ba7a-c51d47b2ec95",
+    "input": "vraag: Hoeveel procent van de lucht is zuurstofgas?\nantwoord: 20%\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. 10%\n2. 25%\n3. 15%\n4. 30%\n5. 35%\n6. 40%\n7. 5%\n8. 50%\n9. 60%\n10. 70%\n11. 80%\n12. 90%\n13. 1%\n14. 2%\n15. 3%\n16. 4%\n17. 6%\n18. 7%\n19. 8%\n20. 9%"
+}

@@ -1,0 +1,497 @@
+[
+    {
+        "question": "Hoe loopt een impuls via een motorisch neuron via de ruggenmergzenuw naar een de effector?",
+        "answer": "via de ventrale wortel",
+        "language": "nl",
+        "distractors": [
+            "via de dorsale wortel"
+        ],
+        "qid": "156a5cb0-1a30-458d-9ad1-e19ddeea05f6"
+    },
+    {
+        "question": "Welk voedingsmiddel gaat stinken wanneer het bederft?",
+        "answer": "vlees",
+        "language": "nl",
+        "distractors": [
+            "suiker",
+            "citroen"
+        ],
+        "qid": "8b4e153e-ef69-4062-9438-cf3980cfb68a"
+    },
+    {
+        "question": "Welke pati\u00ebnten krijgen soms het hormoon insuline kunstmatig toegediend?",
+        "answer": "suikerziektepati\u00ebnten",
+        "language": "nl",
+        "distractors": [
+            "multiple-sclerose-pati\u00ebnten",
+            "epilepsiepati\u00ebnten"
+        ],
+        "qid": "c50bfa5d-c904-4db8-aced-7835d2da5b70"
+    },
+    {
+        "question": "Welk van deze dieren kan ultrasone geluiden horen?",
+        "answer": "dolfijn",
+        "language": "nl",
+        "distractors": [
+            "haai",
+            "kat"
+        ],
+        "qid": "35f3ea89-1851-42ee-b94b-40c130836aa7"
+    },
+    {
+        "question": "Langs welk deel verdampen planten water?",
+        "answer": "blad",
+        "language": "nl",
+        "distractors": [
+            "stengel",
+            "wortel"
+        ],
+        "qid": "47173bbc-1669-412b-9d1f-00390e139648"
+    },
+    {
+        "question": "Hoe groot is de oogbol ongeveer?",
+        "answer": "25 mm",
+        "language": "nl",
+        "distractors": [
+            "20 mm",
+            "30 mm"
+        ],
+        "qid": "08507f53-5a25-4778-95ad-b98327dedd9a"
+    },
+    {
+        "question": "Welk deel van de hersenen is belangrijk voor een koorddanser?",
+        "answer": "kleine hersenen",
+        "language": "nl",
+        "distractors": [
+            "centrum van Wernicke",
+            "hypothalamus"
+        ],
+        "qid": "abf54891-7931-4f36-bcce-a5eee7780dbb"
+    },
+    {
+        "question": "Het wordt aangeraden om de puistjes nog niet uit te knijpen wanneer ze nog niet \u2018rijp\u2019 zijn, en het niet met de blote vingers te doen maar met een papiertje ertussen. Waarom?",
+        "answer": "Er kunnen anders nieuwe infecties ontstaan.",
+        "language": "nl",
+        "distractors": [
+            "Je krijgt dan puistjes op je vingers.",
+            "De pus in de puistjes is giftig."
+        ],
+        "qid": "47149c68-b39d-460a-98a0-b408974c19d7"
+    },
+    {
+        "question": "Hoe heten de klieren die de ogen vochtig houden?",
+        "answer": "traanklieren",
+        "language": "nl",
+        "distractors": [
+            "speekselklieren",
+            "talgklieren"
+        ],
+        "qid": "c0a553b0-6059-45f4-af98-e8bb23c3983e"
+    },
+    {
+        "question": "Vanuit de oogzenuw lopen er ook zenuwen naar de iris. Wat is het nut hiervan?",
+        "answer": "De irisspieren hebben zenuwen nodig om te kunnen werken.",
+        "language": "nl",
+        "distractors": [
+            "Als je zenuwachtig bent, knipper je met je ogen.",
+            "De iris moet je goed kunnen voelen."
+        ],
+        "qid": "3914cb0c-a59b-4cc6-b1d3-d6394fe52452"
+    },
+    {
+        "question": "Wat is de functie van de zweetklieren?",
+        "answer": "de lichaamstemperatuur regelen",
+        "language": "nl",
+        "distractors": [
+            "anderen laten ruiken dat je er bent",
+            "ervoor zorgen dat de huid niet uitdroogt"
+        ],
+        "qid": "d3b82900-3181-472e-862f-c6a7ab0fdf9a"
+    },
+    {
+        "question": "Langs waar verdampt het water bij planten het meest?",
+        "answer": "blad",
+        "language": "nl",
+        "distractors": [
+            "stengel",
+            "wortel"
+        ],
+        "qid": "e5e6c724-34db-43aa-a663-486a49cc4933"
+    },
+    {
+        "question": "Wat is een ander woord voor de iris, de gekleurde vlek in het midden van het oog?",
+        "answer": "regenboogvlies",
+        "language": "nl",
+        "distractors": [
+            "tornadovlies"
+        ],
+        "qid": "d24ac2cd-7632-4f03-9155-ee54af5b6cd8"
+    },
+    {
+        "question": "Waarom heeft de vos een tapetum lucidum?",
+        "answer": "Omdat het een nachtdier is.",
+        "language": "nl",
+        "distractors": [
+            "Omdat het een roofdier is.",
+            "Omdat het een sluw dier is."
+        ],
+        "qid": "12ede9ae-8dc2-41ec-b4de-8ba71c111704"
+    },
+    {
+        "question": "Wat gaat er bij sclerosepati\u00ebnten langzaam verloren in het zenuwstelsel?",
+        "answer": "De myelineschede",
+        "language": "nl",
+        "distractors": [
+            "De celkernen van de neuronen",
+            "De dendrieten",
+            "De eindknopjes van de axonen"
+        ],
+        "qid": "4ab2707f-ffb0-4a2d-a02c-7efa920ac530"
+    },
+    {
+        "question": "Waarvan is de hypofyse een aanhangsel?",
+        "answer": "van de hersenen",
+        "language": "nl",
+        "distractors": [
+            "van de maag",
+            "van de nieren"
+        ],
+        "qid": "f4932708-6fb2-4853-ba55-60fd087f495f"
+    },
+    {
+        "question": "Welke van deze klieren heeft een afvoerbuis?",
+        "answer": "talgklier",
+        "language": "nl",
+        "distractors": [
+            "bijnier",
+            "schildklier"
+        ],
+        "qid": "af63a6ed-88d5-4ad1-a49f-83f0bdadc78f"
+    },
+    {
+        "question": "Wat is het nut van zweetklieren?",
+        "answer": "afkoelen van het lichaam",
+        "language": "nl",
+        "distractors": [
+            "verbetering van de spierwerking",
+            "verwijderen van overtollig lichaamsvocht"
+        ],
+        "qid": "ffd15a67-f0d5-4b16-bf98-f6b1af4aecd3"
+    },
+    {
+        "question": "Welke organen registreren de draaibewegingen van het hoofd?",
+        "answer": "de ampullaorganen",
+        "language": "nl",
+        "distractors": [
+            "de statolietorganen"
+        ],
+        "qid": "913ae79d-5b8e-4d3c-86f3-b4ae7edd8c44"
+    },
+    {
+        "question": "Wat wordt uitgedrukt in decibel?",
+        "answer": "geluidssterkte",
+        "language": "nl",
+        "distractors": [
+            "toonhoogte"
+        ],
+        "qid": "444a53ef-ce4f-4212-b536-7dfc69eb3dfe"
+    },
+    {
+        "question": "Welk is een onderdeel van het oor?",
+        "answer": "trommelvlies",
+        "language": "nl",
+        "distractors": [
+            "netvlies",
+            "maagdenvlies"
+        ],
+        "qid": "26dd6fdf-cac8-4586-aba2-4813ca3cd9a6"
+    },
+    {
+        "question": "Welke van deze klieren is een endocriene klier?",
+        "answer": "schildklier",
+        "language": "nl",
+        "distractors": [
+            "speekselklier",
+            "traanklier"
+        ],
+        "qid": "3f5fb4aa-e25e-48d0-8c96-a7acbcb44bba"
+    },
+    {
+        "question": "Welke van deze organen is verbonden met de zwervende zenuw?",
+        "answer": "hart",
+        "language": "nl",
+        "distractors": [
+            "nier",
+            "milt",
+            "blaas"
+        ],
+        "qid": "7dbc7ada-14c0-44e1-9601-a6d8a40ee659"
+    },
+    {
+        "question": "Welke zijn op langere termijn mogelijke symptomen van diabetes?",
+        "answer": "ongevoeligheid in de voet ### aantasten van de myelineschede ### blindheid ### uitvallen van de nierfunctie  ",
+        "language": "nl",
+        "distractors": [
+            "haaruitval",
+            "bloedarmoede",
+            "slaapwandelen"
+        ],
+        "qid": "2d77fe50-a8c6-44f1-9b6a-e49ca5a00e55"
+    },
+    {
+        "question": "Welke receptoren bevinden zich in de halfcirkelvormige kanalen?",
+        "answer": "evenwichtsreceptoren",
+        "language": "nl",
+        "distractors": [
+            "geluidsreceptoren",
+            "fotoreceptoren"
+        ],
+        "qid": "23d34cb5-2fc4-4cca-b698-eebd04fe41af"
+    },
+    {
+        "question": "Welk vaatweefsel zorgt voor opwaarts transport?",
+        "answer": "houtweefsel",
+        "language": "nl",
+        "distractors": [
+            "bastweefsel"
+        ],
+        "qid": "f261972e-7dab-42a2-ad5e-655080fd5850"
+    },
+    {
+        "question": "Langs welk deel nemen planten water en opgeloste stoffen op uit de bodem?",
+        "answer": "wortel",
+        "language": "nl",
+        "distractors": [
+            "stengel",
+            "blad"
+        ],
+        "qid": "6cc4be7c-9006-4732-bfd6-911d4fc51b04"
+    },
+    {
+        "question": "Tot welk milieu behoort het bloed?",
+        "answer": "inwendig",
+        "language": "nl",
+        "distractors": [
+            "uitwendig"
+        ],
+        "qid": "879b679f-1d7b-4dc4-8bed-a8a5cfa9594c"
+    },
+    {
+        "question": "Van welke soort kegeltjes hebben we er ongeveer 3,2 miljoen?",
+        "answer": "rood",
+        "language": "nl",
+        "distractors": [
+            "groen",
+            "blauw"
+        ],
+        "qid": "ee473484-7787-4070-9a15-6a430693ea23"
+    },
+    {
+        "question": "Welke geneesmiddel is verslavend?",
+        "answer": "Temesta",
+        "language": "nl",
+        "distractors": [
+            "Dafalgan",
+            "Penicilline",
+            "Aspirine"
+        ],
+        "qid": "76f5fcab-af6f-4ada-8cef-3ecaa8bcc17a"
+    },
+    {
+        "question": "Langs welke vaten wordt glucose naar de wortels getransporteerd?",
+        "answer": "zeefvaten",
+        "language": "nl",
+        "distractors": [
+            "houtvaten"
+        ],
+        "qid": "da63cf24-788c-4b43-b21d-956af9981ac4"
+    },
+    {
+        "question": "Welke reflexen zijn ongewild?",
+        "answer": "niezen ### speekselafscheiding bij honger",
+        "language": "nl",
+        "distractors": [
+            "een bal wegtrappen",
+            "je neus snuiten"
+        ],
+        "qid": "5d5fc67c-385b-4719-ae71-35918e5e3526"
+    },
+    {
+        "question": "Welk hormoon wordt aangemaakt in de teelbal?",
+        "answer": "testosteron",
+        "language": "nl",
+        "distractors": [
+            "adrenaline",
+            "progesteron"
+        ],
+        "qid": "ff61c2df-0d04-42c9-b630-780ad0bc6ec7"
+    },
+    {
+        "question": "Wat zit er in het netvlies van het oog, waarmee je kleuren waarneemt?",
+        "answer": "kegeltjes",
+        "language": "nl",
+        "distractors": [
+            "bolletjes",
+            "cilindertjes"
+        ],
+        "qid": "86c80b5a-cb71-4a72-aabd-30c9e7a527e1"
+    },
+    {
+        "question": "Wat zit het dichtst bij de bladschijf?",
+        "answer": "bladvoet",
+        "language": "nl",
+        "distractors": [
+            "bladschede"
+        ],
+        "qid": "7fec2744-e974-4d7d-b64a-1feae6afb1ba"
+    },
+    {
+        "question": "Hoe verspreidt een depolarisatie zich?",
+        "answer": "Van het axon richting dendriet van de aansluitende zenuwcel.",
+        "language": "nl",
+        "distractors": [
+            "Van een dendriet richting axon van de aansluitende zenuwcel."
+        ],
+        "qid": "a4f0466c-d7f5-435b-b15d-33d8d1e7ed20"
+    },
+    {
+        "question": "Welke drank is de meest gebruikte drug op aarde?",
+        "answer": "koffie",
+        "language": "nl",
+        "distractors": [
+            "water",
+            "fruitsap",
+            "melk"
+        ],
+        "qid": "db3c6798-8299-4598-a4c7-338a2b2dcab6"
+    },
+    {
+        "question": "Welke neuronen bevinden zich nooit in onze ledematen?",
+        "answer": "schakelneuronen",
+        "language": "nl",
+        "distractors": [
+            "motorische neuronen",
+            "sensorische neuronen"
+        ],
+        "qid": "913a608c-ec9a-415e-9956-44678cee72b6"
+    },
+    {
+        "question": "Welke van deze verdovende drugs heeft ook een hallucinogene werking?",
+        "answer": "cannabis (wiet)",
+        "language": "nl",
+        "distractors": [
+            "code\u00efne",
+            "morfine",
+            "hero\u00efne",
+            "alcohol"
+        ],
+        "qid": "30376c42-b05d-42ec-b6cb-46047e3ea782"
+    },
+    {
+        "question": "Waar ligt je schildklier?",
+        "answer": "in je hals",
+        "language": "nl",
+        "distractors": [
+            "in je buikholte",
+            "in je hersenen"
+        ],
+        "qid": "36f60e19-9d7a-467b-ae45-d04685a0e8c0"
+    },
+    {
+        "question": "Van welke plant gebruiken we nog de wortel als voedingsmiddel?",
+        "answer": "Rode biet",
+        "language": "nl",
+        "distractors": [
+            "Witlof",
+            "Sla"
+        ],
+        "qid": "4da8cd01-25ab-468d-821f-7dd12fcd0d57"
+    },
+    {
+        "question": "Welk gas komt er vrij bij de fotosynthese?",
+        "answer": "zuurstofgas ",
+        "language": "nl",
+        "distractors": [
+            "koolstofdioxide"
+        ],
+        "qid": "1c60d9a4-1394-4784-902f-17996c897987"
+    },
+    {
+        "question": "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de motorische hersenschors. In welke hersenhemisfeer?",
+        "answer": "de rechter hersenhemisfeer",
+        "language": "nl",
+        "distractors": [
+            "de linker hersenhemisfeer"
+        ],
+        "qid": "3f769050-9ea0-4660-bbee-981e5daab9f2"
+    },
+    {
+        "question": "Hoeveel mensen zijn er wereldwijd met gehoorschade?",
+        "answer": "450 miljoen",
+        "language": "nl",
+        "distractors": [
+            "600 miljoen",
+            "950 miljoen"
+        ],
+        "qid": "518d673a-d7c9-438b-8fdd-d6060804ff35"
+    },
+    {
+        "question": "Welke bloemen zijn in een veld altijd naar dezelfde richting gekeerd?",
+        "answer": "zonnebloemen",
+        "language": "nl",
+        "distractors": [
+            "boterbloemen",
+            "paardenbloemen"
+        ],
+        "qid": "abcc28da-fb46-433f-8ed8-12a9b1f27c92"
+    },
+    {
+        "question": "Wat is het effect van het plantenhormoon ethyleen?",
+        "answer": "De rijping bevorderen.",
+        "language": "nl",
+        "distractors": [
+            "De celgroei bevorderen.",
+            "De celdeling bevorderen."
+        ],
+        "qid": "32a1ff4a-fa54-4c71-a185-94c9d81fbb33"
+    },
+    {
+        "question": "Sommige drugs zijn verdovend, andere zijn stimulerend en geven de gebruiker een kick. Welke van deze drugs zijn stimulerend?",
+        "answer": "speed ### coca\u00efne",
+        "language": "nl",
+        "distractors": [
+            "morfine",
+            "alcohol"
+        ],
+        "qid": "1058db7b-b91b-407d-80a5-a69c3ce5f99b"
+    },
+    {
+        "question": "Welke toets op een piano wordt in de top van het slakkenhuis waargenomen?",
+        "answer": "de uiterst linkse",
+        "language": "nl",
+        "distractors": [
+            "de uiterst rechtse"
+        ],
+        "qid": "b328a63e-b090-4e69-8618-5a84ec56820b"
+    },
+    {
+        "question": "Welke drugs is het gevaarlijkst?",
+        "answer": "hero\u00efne",
+        "language": "nl",
+        "distractors": [
+            "wiet",
+            "speed"
+        ],
+        "qid": "e694444b-cacc-4601-a47e-2380ab085f5e"
+    },
+    {
+        "question": "Welke organismen kunnen meningitis veroorzaken?",
+        "answer": "bacteri\u00ebn ### virussen",
+        "language": "nl",
+        "distractors": [
+            "wormen",
+            "vlooien"
+        ],
+        "qid": "1472b04f-4366-4926-96a9-5e933e884882"
+    }
+]

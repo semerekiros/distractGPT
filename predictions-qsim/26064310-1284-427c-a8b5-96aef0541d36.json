@@ -1,0 +1,131 @@
+{
+    "qid": "26064310-1284-427c-a8b5-96aef0541d36",
+    "response": {
+        "Query": "Choisis la bonne reponse . Avant , tu ne ... jamais du piano .",
+        "Result": [
+            {
+                "answer": "jouais",
+                "answer_length": 1,
+                "distractors": [
+                    "jouait",
+                    "jouaient"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne reponse . Avant , tu ne ... jamais du piano .",
+                "question_length": 14,
+                "score": 0.7560233468971711
+            },
+            {
+                "answer": "savions",
+                "answer_length": 1,
+                "distractors": [
+                    "savais",
+                    "savait",
+                    "savaient"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne reponse . En juillet , nous ne ... pas encore ou aller en vacances .",
+                "question_length": 18,
+                "score": 0.7193086728485483
+            },
+            {
+                "answer": "peut",
+                "answer_length": 1,
+                "distractors": [
+                    "sait",
+                    "doit",
+                    "laisse"
+                ],
+                "language": "fr",
+                "question": "Cochez le verbe qui convient . Il faut d'abord terminer ces dossiers . - Je n'ai pas le temps . Un collegue ne ... pas le faire ?",
+                "question_length": 28,
+                "score": 0.7003824200204296
+            },
+            {
+                "answer": "devrais",
+                "answer_length": 1,
+                "distractors": [
+                    "devras",
+                    "dois"
+                ],
+                "language": "fr",
+                "question": "Tu ____________________ changer de direction .",
+                "question_length": 6,
+                "score": 0.6900231709304293
+            },
+            {
+                "answer": "entends",
+                "answer_length": 1,
+                "distractors": [
+                    "entend",
+                    "entendons"
+                ],
+                "language": "fr",
+                "question": "Non , j ' ... la musique .",
+                "question_length": 8,
+                "score": 0.6740802950807858
+            },
+            {
+                "answer": "perd",
+                "answer_length": 1,
+                "distractors": [
+                    "met",
+                    "repond"
+                ],
+                "language": "fr",
+                "question": "Cochez le bon verbe . Megane ... son travail a cause d'une faute de l'ordinateur .",
+                "question_length": 16,
+                "score": 0.6739312852189406
+            },
+            {
+                "answer": "allez repondre",
+                "answer_length": 2,
+                "distractors": [
+                    "repondrez",
+                    "venez de repondre",
+                    "repondez"
+                ],
+                "language": "fr",
+                "question": "Indiquez le verbe conjugue au futur proche . Vous ... a ma question ?",
+                "question_length": 14,
+                "score": 0.669231554653811
+            },
+            {
+                "answer": "peux",
+                "answer_length": 1,
+                "distractors": [
+                    "dois",
+                    "veux"
+                ],
+                "language": "fr",
+                "question": "Complete . Excusez-moi , Monsieur . Je ... entrer gratuitement au musee ?",
+                "question_length": 13,
+                "score": 0.6542305420498926
+            },
+            {
+                "answer": "sont mortes",
+                "answer_length": 2,
+                "distractors": [
+                    "mouraient"
+                ],
+                "language": "fr",
+                "question": "Mets les verbes a l'imparfait ou au passe compose . Suite au choc , deux personnes ( mourir ) ... sur le coup .",
+                "question_length": 24,
+                "score": 0.6327828710367916
+            },
+            {
+                "answer": "preparera",
+                "answer_length": 1,
+                "distractors": [
+                    "preparerons",
+                    "pepareras",
+                    "preparerez"
+                ],
+                "language": "fr",
+                "question": "Cochez le verbe correctement conjugue . Qui ... le dessert ?",
+                "question_length": 11,
+                "score": 0.6253497537100022
+            }
+        ]
+    }
+}

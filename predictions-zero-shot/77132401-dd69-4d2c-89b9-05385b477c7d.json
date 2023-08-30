@@ -1,0 +1,5 @@
+{
+    "qid": "77132401-dd69-4d2c-89b9-05385b477c7d",
+    "input": "question: Choisis . C'est le passe , le present ou le futur ? Vous ouvrez toujours la fenetre de la cuisine ?\nr\u00e9pondre: present\n\nG\u00e9n\u00e9rez 20 r\u00e9ponses plausibles mais intrins\u00e8quement incorrectes : ",
+    "response": "1. Pass\u00e9\n2. Futur\n3. Je ne sais pas\n4. Probablement futur\n5. Peut-\u00eatre pass\u00e9\n6. Impossible de dire\n7. Toujours ? Je ne pense pas\n8. Je suppose que c'est le pass\u00e9\n9. Probablement pr\u00e9sent\n10. Pourquoi demandez-vous ?\n11. C'est le futur, n'est-ce pas ?\n12. Absolument pass\u00e9\n13. Je ne peux pas confirmer\n14. Pr\u00e9sent, mais avec des exceptions\n15. Probablement pas le futur\n16. Le pass\u00e9, sans aucun doute\n17. C'est toujours possible, donc le futur\n18. Je ne suis pas s\u00fbr, peut-\u00eatre le pr\u00e9sent\n19. Peut-\u00eatre un m\u00e9lange de pass\u00e9 et de pr\u00e9sent\n20. Il est difficile de dire sans plus de contexte."
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "43706816-f0c8-44f9-90c7-2b90343417a3",
+    "input": "Cochez la reponse correcte . Que signifie l'expression `` Tiens-moi au courant '' , que l'on peut trouver dans un courriel ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Informe-moi\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. informer-moi\n2. Attendez-moi\n3. informons-moi\n4. informez moi\n5. donnez mon courriel\n6. envoyez moi\n7. envoie le message\n8. passes\n9. fais-moi au courant\n10. envoyer mon courriel"
+}

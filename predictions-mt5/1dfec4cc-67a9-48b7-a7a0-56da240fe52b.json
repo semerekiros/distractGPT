@@ -1,0 +1,5 @@
+{
+    "qid": "1dfec4cc-67a9-48b7-a7a0-56da240fe52b",
+    "input": "Welke tweelingen lijken het best op elkaar? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. eeneiige\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. eeneiige\n2. eenadige\n3. rechthoekige\n4. middenrechte\n5. zijlijnlange\n6. gemengde\n7. gelijkmatige\n8. laailige 9.\n9. tweeeiige\n10. tweeling"
+}

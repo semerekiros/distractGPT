@@ -1,0 +1,5 @@
+{
+    "qid": "1472b04f-4366-4926-96a9-5e933e884882",
+    "input": "Welke organismen kunnen meningitis veroorzaken? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. bacteri\u00ebn\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. eiwitten\n2. wormen\n3. vogels\n4. vetten\n5. bacteries\n6. bacterien\n7. leem\n8. virussen\n9. dikke darm\n10. amfibieen"
+}

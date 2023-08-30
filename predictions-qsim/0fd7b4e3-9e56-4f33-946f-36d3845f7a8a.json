@@ -1,0 +1,135 @@
+{
+    "qid": "0fd7b4e3-9e56-4f33-946f-36d3845f7a8a",
+    "response": {
+        "Query": "Welke Griekse staten bleven zoveel mogelijk neutraal?",
+        "Result": [
+            {
+                "answer": "Estland , Letland , Litouwen",
+                "answer_length": 5,
+                "distractors": [
+                    "Tsechie , Slovakije",
+                    "Wit-Rusland , Oekraine , Moldavie"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Welke landen horen tot de Baltische regio ?",
+                "question_length": 21,
+                "score": 0.9487125865440632
+            },
+            {
+                "answer": "bos",
+                "answer_length": 1,
+                "distractors": [
+                    "gebouw",
+                    "heuvel",
+                    "waterloop"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar verwijst het onderstreepte deel van het toponiem 'Water loo ' oorspronkelijk naar ?",
+                "question_length": 21,
+                "score": 0.9479460002073721
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Mars",
+                    "Pluto",
+                    "Venus"
+                ],
+                "language": "nl",
+                "question": "Van welke planeet zijn de manen Io , Ganymede en Hades ?",
+                "question_length": 12,
+                "score": 0.9158714982495721
+            },
+            {
+                "answer": "Neptunus",
+                "answer_length": 1,
+                "distractors": [
+                    "Jupiter"
+                ],
+                "language": "la",
+                "question": "Van wie krijgt Hercules de paarden ? Hercules laborem non fugit , nam quinque deorum dona secum [ bij zich ] fert : Mercurii gladium , Apollinis arcum [ boog ] sagittasque , Vulcani loricam [ harnas ] auream , Neptuni equos et Iovis scutum [ schild ] eburneum [ van ivoor ] . Clavam [ knuppel ] quoque ipse [ zelf ] facit et dextra [ rechterhand ] gerit .",
+                "question_length": 71,
+                "score": 0.914877203077129
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Mars",
+                    "Pluton",
+                    "Venus"
+                ],
+                "language": "fr",
+                "question": "A quelle planete appartiennent les lunes Io , Ganymede et Hades ?",
+                "question_length": 12,
+                "score": 0.8993904671474803
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Neptunus",
+                    "Uranus",
+                    "Saturnus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke planeet is afgebeeld op onderstaande foto ?",
+                "question_length": 15,
+                "score": 0.8620950642888303
+            },
+            {
+                "answer": "Mars",
+                "answer_length": 1,
+                "distractors": [
+                    "Jupiter",
+                    "Mercurius",
+                    "Venus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke planeet is afgebeeld op de foto ?",
+                "question_length": 15,
+                "score": 0.854520360012903
+            },
+            {
+                "answer": "Mercurius",
+                "answer_length": 1,
+                "distractors": [
+                    "Jupiter",
+                    "Mars",
+                    "Saturnus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Onlangs zagen we een planeet als een zwart bolletje voor de zon schuiven . Welke was deze planeet ?",
+                "question_length": 26,
+                "score": 0.8500596860545753
+            },
+            {
+                "answer": "Nederland",
+                "answer_length": 1,
+                "distractors": [
+                    "Frankrijk",
+                    "Oostenrijk",
+                    "Spanje"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van wie werd Belgie onafhankelijk in 1830 ?",
+                "question_length": 15,
+                "score": 0.8418808940840893
+            },
+            {
+                "answer": "Oceanische kunst",
+                "answer_length": 2,
+                "distractors": [
+                    "Afrikaanse kunst",
+                    "Zuid-Amerikaanse kunst",
+                    "Aziatische kunst"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij welke niet-Europese kunst past de afbeelding ?",
+                "question_length": 15,
+                "score": 0.8410784230929165
+            }
+        ]
+    }
+}

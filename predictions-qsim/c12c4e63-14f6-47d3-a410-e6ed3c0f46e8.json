@@ -1,0 +1,137 @@
+{
+    "qid": "c12c4e63-14f6-47d3-a410-e6ed3c0f46e8",
+    "response": {
+        "Query": "Which time indication expresses the PAST ? Welke tijdsaanduiding geeft het VERLEDEN aan ? Quelle indication de temps indique le PASSE ?",
+        "Result": [
+            {
+                "answer": "last week",
+                "answer_length": 2,
+                "distractors": [
+                    "next month",
+                    "at the moment",
+                    "every day"
+                ],
+                "language": "en",
+                "question": "Which time indication expresses the PAST ? Welke tijdsaanduiding geeft het VERLEDEN aan ? Quelle indication de temps indique le PASSE ?",
+                "question_length": 22,
+                "score": 0.9706284575417327
+            },
+            {
+                "answer": "have been fighting",
+                "answer_length": 3,
+                "distractors": [
+                    "are fighting",
+                    "will be fighting",
+                    "wo n't be fighting"
+                ],
+                "language": "en",
+                "question": "1.43 The children ... ... ... ..for ten minutes .",
+                "question_length": 10,
+                "score": 0.8696285869801392
+            },
+            {
+                "answer": "have been fighting",
+                "answer_length": 3,
+                "distractors": [
+                    "are fighting",
+                    "will be fighting",
+                    "wo n't be fighting"
+                ],
+                "language": "en",
+                "question": "43 . The children ... ... ... ..for ten minutes .",
+                "question_length": 11,
+                "score": 0.8402761178695137
+            },
+            {
+                "answer": "am playing",
+                "answer_length": 2,
+                "distractors": [
+                    "play",
+                    "going to",
+                    "played"
+                ],
+                "language": "en",
+                "question": "I ... ... ... ... ... ... .tennis with Bruno next Sunday .",
+                "question_length": 13,
+                "score": 0.6941597295891425
+            },
+            {
+                "answer": "once a week",
+                "answer_length": 3,
+                "distractors": [
+                    "in ten minutes",
+                    "ten minutes ago",
+                    "at the moment"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate time expression ! Charles holds staff meetings ...",
+                "question_length": 11,
+                "score": 0.6592427498649642
+            },
+            {
+                "answer": "at the moment",
+                "answer_length": 3,
+                "distractors": [
+                    "for a year",
+                    "when the customer arrived",
+                    "ten minutes ago"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate time indication ! Robert is helping Ian ...",
+                "question_length": 11,
+                "score": 0.5308037725035197
+            },
+            {
+                "answer": "at the moment",
+                "answer_length": 3,
+                "distractors": [
+                    "for a year",
+                    "when the receptionist called",
+                    "ten minutes ago"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate time expression ! Ian is talking to Gemma ...",
+                "question_length": 12,
+                "score": 0.5014161081420244
+            },
+            {
+                "answer": "at breakfast time",
+                "answer_length": 3,
+                "distractors": [
+                    "in the morning",
+                    "as from 14h00",
+                    "as from 17h00",
+                    "full day"
+                ],
+                "language": "en",
+                "question": "Seminars ( Forums , Conferences ) are organized during the day . CPD ( programs , Focus ) is organized in the late afternoon-early evening . Which time period would you prefer ? for the Expert Programs ( CPD )",
+                "question_length": 40,
+                "score": 0.47579467871034886
+            },
+            {
+                "answer": "he talks to you ",
+                "answer_length": 4,
+                "distractors": [
+                    "his wings retract ",
+                    "his laser lights up "
+                ],
+                "language": "en",
+                "question": "Read the manual for Toy Story figures and attributes , then tick the correct box . When you open and close Buzz 's helmet , ...",
+                "question_length": 26,
+                "score": 0.4706126010477641
+            },
+            {
+                "answer": "1",
+                "answer_length": 1,
+                "distractors": [
+                    "2",
+                    "3"
+                ],
+                "language": "en",
+                "question": "Look at the map , listen to the dialogue and fill in the number corresponding to your destination . The flag on the map is your starting point . Imagine that the person asking directions is in front of the flag facing the road leading to the crossroads . The fitness centre is building number ...",
+                "question_length": 56,
+                "score": 0.3902640042806735
+            }
+        ]
+    }
+}

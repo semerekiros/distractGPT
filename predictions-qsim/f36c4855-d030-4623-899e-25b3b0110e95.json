@@ -1,0 +1,124 @@
+{
+    "qid": "f36c4855-d030-4623-899e-25b3b0110e95",
+    "response": {
+        "Query": "Parmi les propositions suivantes , quel est le synonyme d'acrimonie ?",
+        "Result": [
+            {
+                "answer": "Hargne",
+                "answer_length": 1,
+                "distractors": [
+                    "Envie",
+                    "Jalousie",
+                    "Regret",
+                    "toutes les reponses sont correctes",
+                    "aucune reponse n'est correcte"
+                ],
+                "language": "fr",
+                "question": "Parmi les propositions suivantes , quel est le synonyme d'acrimonie ?",
+                "question_length": 11,
+                "score": 0.9923344837229057
+            },
+            {
+                "answer": "plutot negatif",
+                "answer_length": 2,
+                "distractors": [
+                    "plutot positif"
+                ],
+                "language": "fr",
+                "question": "Le mot en caracteres gras dans la phrase suivante tiree du reportage exprime-t-il un sentiment plutot positif ou plutot negatif ? Pour vous aider , Franel vous propose ici une fiche pratique . Je crois que ce serait dommage de ne pas pouvoir progressivement y faire des experiences .",
+                "question_length": 49,
+                "score": 0.9922673299329352
+            },
+            {
+                "answer": "Oui",
+                "answer_length": 1,
+                "distractors": [
+                    "Non"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne reponse . En administrant la chimiotherapie , vous devez : ... dans un systeme ferme avec un systeme luer-lock .",
+                "question_length": 23,
+                "score": 0.9612707072831091
+            },
+            {
+                "answer": "Cette fille est superbe",
+                "answer_length": 4,
+                "distractors": [
+                    "Cette personne merite la prison"
+                ],
+                "language": "fr",
+                "question": "Essayez de trouver la signification du terme qui suit . CETTE BELETTE EST LIMITE CRIMINELLE veut dire :",
+                "question_length": 18,
+                "score": 0.9541735195266454
+            },
+            {
+                "answer": "oui pour tous ces medicaments",
+                "answer_length": 5,
+                "distractors": [
+                    "non",
+                    "seulement les somniferes"
+                ],
+                "language": "fr",
+                "question": "& quot ; Les medicaments tel que analgesiques ( ex . paracetamol ) antihistaminiques , somniferes ont-ils un effet sur vos performances ? & quot ;",
+                "question_length": 26,
+                "score": 0.9536717349659263
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne reponse . Vrai ou faux ? SARM est l'acronyme de staphylocoque aureus resistant a la meticilline .",
+                "question_length": 20,
+                "score": 0.9466988022290888
+            },
+            {
+                "answer": "le decompte",
+                "answer_length": 2,
+                "distractors": [
+                    "la soustraction"
+                ],
+                "language": "fr",
+                "question": "Choisissez le mot approprie de telling",
+                "question_length": 6,
+                "score": 0.9255123422211992
+            },
+            {
+                "answer": "incorrect",
+                "answer_length": 1,
+                "distractors": [
+                    "correct"
+                ],
+                "language": "fr",
+                "question": "... /1 point La convention europeenne d'arbitrage en matiere de prix de transfert prevoit une procedure qui oblige les Etats membres a parvenir a une solution en cas de double imposition . La convention-modele OCDE qui traite egalement des prix de transfert prevoit , elle aussi , une procedure de ce genre .",
+                "question_length": 53,
+                "score": 0.9246719644135319
+            },
+            {
+                "answer": "Le vieillissement de la societe",
+                "answer_length": 5,
+                "distractors": [
+                    "Les jobs d'ete des jeunes",
+                    "Les loisirs preferes des jeunes"
+                ],
+                "language": "fr",
+                "question": "Retrouvez le titre de cet article . [ lang=nl ] Zoek de titel van dit artikel . [ /lang ] [ lang=en ] Search the title of this article . [ /lang ] Tout le monde sait que dans le futur , les jeunes devront travailler plus longtemps a cause du vieillissement de la societe . Cela provoque de fortes protestations de la part des jeunes . Ils ne sont pas prets a sacrifier leur temps et ils sont d'avis que le gouvernement doit chercher d'autres solutions .",
+                "question_length": 88,
+                "score": 0.9240693288785613
+            },
+            {
+                "answer": "correct",
+                "answer_length": 1,
+                "distractors": [
+                    "incorrect"
+                ],
+                "language": "fr",
+                "question": "... /1 point L'art . 293 du Traite CE , ou toute disposition equivalente par laquelle les Etats membres s'engagent a conclure entre eux des conventions preventives de la double imposition , n'apparait plus dans le TFUE depuis le rejet de la nouvelle constitution europeenne .",
+                "question_length": 46,
+                "score": 0.9201387404495869
+            }
+        ]
+    }
+}

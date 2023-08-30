@@ -1,0 +1,139 @@
+{
+    "qid": "f199dba1-c5bb-4477-8d79-3fce009cc99d",
+    "response": {
+        "Query": "Tot welke geografische streek hoort Westerlo?",
+        "Result": [
+            {
+                "answer": "Zandlemig Vlaanderen/Leemstreek",
+                "answer_length": 2,
+                "distractors": [
+                    "Kuststreek",
+                    "Polders",
+                    "Zandig Vlaanderen/Kempen"
+                ],
+                "language": "nl",
+                "question": "In welke streek ( of streken ) komt dit soort landschap veel voor ?",
+                "question_length": 14,
+                "score": 0.9052299789953292
+            },
+            {
+                "answer": "Schotse Hooglanden",
+                "answer_length": 2,
+                "distractors": [
+                    "Pyreneeen",
+                    "Alpen",
+                    "Karpaten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan Welk Europees gebergte ligt het meest noordelijk ?",
+                "question_length": 14,
+                "score": 0.7704176327432666
+            },
+            {
+                "answer": "Vlaamse Ruit",
+                "answer_length": 2,
+                "distractors": [
+                    "Kempen",
+                    "Ardennen",
+                    "Polders"
+                ],
+                "language": "nl",
+                "question": "Welke streek is het kerngebied van de tuinbouw in Belgie ?",
+                "question_length": 11,
+                "score": 0.7597701721324915
+            },
+            {
+                "answer": "Vlaams Gewest",
+                "answer_length": 2,
+                "distractors": [
+                    "Waals Gewest"
+                ],
+                "language": "nl",
+                "question": "Welk van de onderstaande gebieden is het dichtst bevolkt ?",
+                "question_length": 10,
+                "score": 0.5881120792173977
+            },
+            {
+                "answer": "Frankrijk en Nederland",
+                "answer_length": 3,
+                "distractors": [
+                    "Frankrijk en Duitsland",
+                    "Duitsland en Nederland",
+                    "Engeland en Nederland",
+                    "Nederland en Luxemburg",
+                    "Frankrijk en Luxemburg"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Aan welke twee landen grenst onze kuststreek ?",
+                "question_length": 14,
+                "score": 0.563182842104477
+            },
+            {
+                "answer": "Andes",
+                "answer_length": 1,
+                "distractors": [
+                    "Alpen",
+                    "Himalaya",
+                    "Rocky Mountains",
+                    "Kaukasus",
+                    "Atlas"
+                ],
+                "language": "nl",
+                "question": "Welke bergketen ligt op het zuidelijk halfrond en loopt van noord naar zuid ?",
+                "question_length": 14,
+                "score": 0.5567669324910377
+            },
+            {
+                "answer": "kust",
+                "answer_length": 1,
+                "distractors": [
+                    "Ardennen",
+                    "Alpen",
+                    "Himalaya"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke streek meet men , bij gelijkaardige weersomstandigheden , de hoogste luchtdruk ?",
+                "question_length": 21,
+                "score": 0.5277630940214935
+            },
+            {
+                "answer": "komen dikwijls aarbevingen voor",
+                "answer_length": 4,
+                "distractors": [
+                    "komen nooit aarbevingen voor",
+                    "komen weinig aarbevingen voor"
+                ],
+                "language": "nl",
+                "question": "Lees de tekst aandachtig . Duid daarna het juiste antwoord aan . In een gebied met een breuklijn :",
+                "question_length": 19,
+                "score": 0.5011340632741712
+            },
+            {
+                "answer": "Keltische volken",
+                "answer_length": 2,
+                "distractors": [
+                    "Turkse immigranten",
+                    "Romeinse burgers",
+                    "ingeweken Grieken"
+                ],
+                "language": "nl",
+                "question": "Wie waren die Belgen die 2 000 jaar geleden in onze streken woonden ? Duid het juiste antwoord aan .",
+                "question_length": 20,
+                "score": 0.49255533429304904
+            },
+            {
+                "answer": "rondom de hele Middellandse Zee",
+                "answer_length": 5,
+                "distractors": [
+                    "alleen in Italie",
+                    "in Griekenland en Egypte",
+                    "in Italie en Griekenland"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste antwoorden aan . In welk gebied was er sprake van Romeinse cultuur ?",
+                "question_length": 16,
+                "score": 0.4053262551385615
+            }
+        ]
+    }
+}

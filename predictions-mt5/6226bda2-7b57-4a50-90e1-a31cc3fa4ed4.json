@@ -1,0 +1,5 @@
+{
+    "qid": "6226bda2-7b57-4a50-90e1-a31cc3fa4ed4",
+    "input": "Indique la bonne traduction . Duid de juiste vertaling aan . Les pompiers arrivent ! </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. de brandweer\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. de brandweer\n2. de zandbak\n3. de politie\n4. het bluslager\n5. de douane\n6. een pompiere\n7. de pompiers\n8. alle overige\n9. de vrachtwagen\n10. geen van bovenstaande"
+}

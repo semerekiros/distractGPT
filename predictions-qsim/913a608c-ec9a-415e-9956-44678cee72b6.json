@@ -1,0 +1,135 @@
+{
+    "qid": "913a608c-ec9a-415e-9956-44678cee72b6",
+    "response": {
+        "Query": "Welke neuronen bevinden zich nooit in onze ledematen?",
+        "Result": [
+            {
+                "answer": "granulocyten en lymfocyten",
+                "answer_length": 3,
+                "distractors": [
+                    "erytrocyten en lymfocyten",
+                    "erytrocyten en trombocyten"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke cellen beschermen het lichaam tegen lichaamsvreemde stoffen ?",
+                "question_length": 15,
+                "score": 0.602169563008831
+            },
+            {
+                "answer": "H2O + CO2",
+                "answer_length": 3,
+                "distractors": [
+                    "O2 + H2O",
+                    "CO2 + glucose",
+                    "glucose + H2O"
+                ],
+                "language": "nl",
+                "question": "Autotrofe organismen slagen erin om volledig autonoom energierijke verbindingen op te bouwen . Met welke elementen worden die verbindingen gebouwd ?",
+                "question_length": 21,
+                "score": 0.541368249599454
+            },
+            {
+                "answer": "haarwortelcellen",
+                "answer_length": 1,
+                "distractors": [
+                    "spiercellen",
+                    "hersencellen"
+                ],
+                "language": "nl",
+                "question": "Op welke cellen hebben cytostatica het grootste negatieve effect ?",
+                "question_length": 10,
+                "score": 0.5239669305701824
+            },
+            {
+                "answer": "Chemische prikkels",
+                "answer_length": 2,
+                "distractors": [
+                    "Mechanische prikkels",
+                    "Temperatuursverschillen",
+                    "Weefselbeschadiging"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke prikkels kunnen gevoelsreceptoren niet waarnemen ?",
+                "question_length": 18,
+                "score": 0.5147836214691603
+            },
+            {
+                "answer": "cellen van Leydig",
+                "answer_length": 3,
+                "distractors": [
+                    "follikelcellen",
+                    "eicellen",
+                    "bloedcellen"
+                ],
+                "language": "nl",
+                "question": "Welke cellen tref je niet aan in de eierstok ?",
+                "question_length": 10,
+                "score": 0.3978508837323024
+            },
+            {
+                "answer": "astrocyten",
+                "answer_length": 1,
+                "distractors": [
+                    "microgliacellen",
+                    "oligodendrocyten",
+                    "ependymcellen"
+                ],
+                "language": "nl",
+                "question": "Welke cellen geven chemische stoffen af die noodzakelijk zijn voor het handhaven van de hersenbloedbaanbarriere , die het centraal zenuwstelsel van de algehele circulatie isoleert ?",
+                "question_length": 26,
+                "score": 0.3217630685133222
+            },
+            {
+                "answer": "rode bloedcellen",
+                "answer_length": 2,
+                "distractors": [
+                    "zaadcellen",
+                    "eicellen",
+                    "spiercellen"
+                ],
+                "language": "nl",
+                "question": "Welke menselijke cellen bevatten het kleinste aantal chromosomen ?",
+                "question_length": 9,
+                "score": 0.3203018322324655
+            },
+            {
+                "answer": "Staafjes en kegeltjes",
+                "answer_length": 3,
+                "distractors": [
+                    "Staafjes",
+                    "Kegeltjes"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke lichtgevoelige cellen worden op een zonnige dag geprikkeld in de ogen ?",
+                "question_length": 24,
+                "score": 0.28275755690382187
+            },
+            {
+                "answer": "zenuwstelsel , spierstelsel",
+                "answer_length": 3,
+                "distractors": [
+                    "spierstelsel , beenderstelsel",
+                    "beenderstelsel , zenuwstelsel",
+                    "zenuwstelsel , spijsverteringsstelsel"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke stelsels werken rechtstreeks samen tijdens de kneedbewegingen van de darmen ?",
+                "question_length": 23,
+                "score": 0.2605848641269102
+            },
+            {
+                "answer": "Staafjes en kegeltjes",
+                "answer_length": 3,
+                "distractors": [
+                    "Ganglioncellen en bipolaire cellen",
+                    "Ganglioncellen en kegeltjes",
+                    "Bipolaire cellen en staafjes"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke cellen zijn de fotoreceptoren ?",
+                "question_length": 17,
+                "score": 0.24011834385595401
+            }
+        ]
+    }
+}

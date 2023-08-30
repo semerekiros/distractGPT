@@ -1,0 +1,129 @@
+{
+    "qid": "ee473484-7787-4070-9a15-6a430693ea23",
+    "response": {
+        "Query": "Van welke soort kegeltjes hebben we er ongeveer 3,2 miljoen?",
+        "Result": [
+            {
+                "answer": "AA en AO",
+                "answer_length": 3,
+                "distractors": [
+                    "AA",
+                    "AA en AB",
+                    "AA en ABO"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Imala heeft bloedgroep A. Welk ( e ) genotype ( s ) kan zij hebben ?",
+                "question_length": 23,
+                "score": 0.94303995301129
+            },
+            {
+                "answer": "de lichaampjes van Malpighi",
+                "answer_length": 4,
+                "distractors": [
+                    "de nierbekkens",
+                    "de urineblaas"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord , er is maar een antwoord mogelijk . Voorurine wordt bij de mens gevormd in",
+                "question_length": 19,
+                "score": 0.9335439690630236
+            },
+            {
+                "answer": "lichaamsvochten",
+                "answer_length": 1,
+                "distractors": [
+                    "voeding"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan Met welke microbiele risico 's kom je als student mee in contact ?",
+                "question_length": 18,
+                "score": 0.9320677246794421
+            },
+            {
+                "answer": "dierlijk en plantaardig ",
+                "answer_length": 3,
+                "distractors": [
+                    "bouwstoffen en brandstoffen ",
+                    "brandstoffen en beschermstoffen ",
+                    "klein en groot "
+                ],
+                "language": "nl",
+                "question": "Vul aan . Naargelang hun oorsprong kunnen we voedingsmiddelen indelen in :",
+                "question_length": 12,
+                "score": 0.9255001804647232
+            },
+            {
+                "answer": "hart",
+                "answer_length": 1,
+                "distractors": [
+                    "lever",
+                    "melkklieren"
+                ],
+                "language": "nl",
+                "question": "Op welk orgaan heeft adrenaline een invloed ?",
+                "question_length": 8,
+                "score": 0.9215570278741059
+            },
+            {
+                "answer": "fout",
+                "answer_length": 1,
+                "distractors": [
+                    "juist"
+                ],
+                "language": "nl",
+                "question": "De Arteria pulmonalis bevat zuurstofrijk bloed .",
+                "question_length": 7,
+                "score": 0.9061619265412756
+            },
+            {
+                "answer": "De behandelend arts ",
+                "answer_length": 3,
+                "distractors": [
+                    "Door de omloopverpleegkundige ",
+                    "De anesthesist "
+                ],
+                "language": "nl",
+                "question": "Door wie wordt de markering bij chirurgie aangebracht ? Kies het juiste antwoord uit de volgende mogelijkheden :",
+                "question_length": 18,
+                "score": 0.9052667143476604
+            },
+            {
+                "answer": "Juist",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "nl",
+                "question": "In het ziekenhuis zijn er twee soorten snelblussers nl . CO2-blussers ( gas ) en poederblussers . Gelieve het juiste antwoord aan te duiden .",
+                "question_length": 25,
+                "score": 0.9048748572098047
+            },
+            {
+                "answer": "bredere schouders",
+                "answer_length": 2,
+                "distractors": [
+                    "vetlaag op de dijen",
+                    "breder bekken",
+                    "groot tepelveld"
+                ],
+                "language": "nl",
+                "question": "Wat is een typisch mannelijk kenmerk ?",
+                "question_length": 7,
+                "score": 0.904474313980811
+            },
+            {
+                "answer": "schildklier",
+                "answer_length": 1,
+                "distractors": [
+                    "amandelen",
+                    "thymus",
+                    "Kepoliepen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees volgende tekst aandachtig . `` Alle Belgen zouden jodiumpillen in huis moeten hebben . De pillen beschermen dan iedereen als er een nucleair ongeval in ons land zou zijn . Nu worden die pillen alleen maar verdeeld aan mensen die binnen 20 kilometer van een kerncentrale wonen . '' Welk orgaan wordt met deze pil beschermd ?",
+                "question_length": 65,
+                "score": 0.9034036228819763
+            }
+        ]
+    }
+}

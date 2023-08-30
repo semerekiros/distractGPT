@@ -1,0 +1,5 @@
+{
+    "qid": "518d673a-d7c9-438b-8fdd-d6060804ff35",
+    "input": "Hoeveel mensen zijn er wereldwijd met gehoorschade? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 450 miljoen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 200 miljoen\n2. 10 miljoen\n3. 300 miljoen\n4. 600 miljoene\n5. 400 miljoen\n6. 25 miljonen\n7. 600 miljoen\n8. 5 miljard\n9. 700 miljoen\n10. 1.200 miljoenne"
+}

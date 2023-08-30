@@ -1,0 +1,5 @@
+{
+    "qid": "20ab008d-999a-4a3a-9dbb-de93bbe70f8c",
+    "input": "Welke vrucht heeft het meest zaadjes? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. appel\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. gemengde vrucht\n2. tijsel\n3. abrikoos\n4. aardappel\n5. lavendel\n6. morfine\n7. rode vrucht\n8. ketchup\n9. bosvrucht\n10. petersilie"
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "26064310-1284-427c-a8b5-96aef0541d36",
+    "input": "Choisis la bonne reponse . Avant , tu ne ... jamais du piano . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. jouais\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. jouais\n2. suis\n3. jouons\n4. devais\n5. je voulais\n6. aies\n7. jairais\n8. tu as\n9. j'ai\n10. joue"
+}

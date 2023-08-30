@@ -1,0 +1,131 @@
+{
+    "qid": "ef760e0d-1a6a-4371-8fa9-798e4c6ef5a7",
+    "response": {
+        "Query": "In welk lichaamsdeel glijdt de penis bij de geslachtsgemeenschap?",
+        "Result": [
+            {
+                "answer": "Een afbakeningshek en signalisatieborden ",
+                "answer_length": 4,
+                "distractors": [
+                    "Ijzeren pinnen met rood/wit lint ",
+                    "Blauwe zwaailichten en signalisatieborden "
+                ],
+                "language": "nl",
+                "question": "Rondom de werkput in het voetpad plaats je :",
+                "question_length": 9,
+                "score": 0.9429465008709234
+            },
+            {
+                "answer": "bij 1 en bij 2",
+                "answer_length": 5,
+                "distractors": [
+                    "bij 1 of bij 2",
+                    "bij 3",
+                    "bij 4"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord , er is maar een antwoord mogelijk . Sommige soorten draadwier zijn in volwassen stadia altijd haploid . In onderstaand schema is schematisch de geslachtelijke voortplanting van een dergelijk draadwier weergegeven . Wanneer treedt hier meiose op ?",
+                "question_length": 42,
+                "score": 0.9369073883157278
+            },
+            {
+                "answer": "Kelder G blok",
+                "answer_length": 3,
+                "distractors": [
+                    "Kelder i blok"
+                ],
+                "language": "nl",
+                "question": "Waar bevinden zich de noodbedden in ons ziekenhuis ? Duid het juiste antwoord aan .",
+                "question_length": 15,
+                "score": 0.9174064050993602
+            },
+            {
+                "answer": "Bij de safe surgery checklist",
+                "answer_length": 5,
+                "distractors": [
+                    "Toediening van bloed",
+                    "Toediening van orale medicatie"
+                ],
+                "language": "nl",
+                "question": "Het actief bevragen ( wat is uw naam en voornaam ? , Wat is uw geboortedatum ? , ... ) van de patient is verplicht bij : Kies de juiste antwoorden uit de volgende mogelijkheden :",
+                "question_length": 36,
+                "score": 0.916019715868626
+            },
+            {
+                "answer": "dekharen en wolharen",
+                "answer_length": 3,
+                "distractors": [
+                    "naakt en slijm",
+                    "schubben en slijm",
+                    "dekveren en donsveren"
+                ],
+                "language": "nl",
+                "question": "Waarmee is de huid van zoogdieren op het land bekleed ?",
+                "question_length": 11,
+                "score": 0.9142484014060779
+            },
+            {
+                "answer": "langwerpig en soepel",
+                "answer_length": 3,
+                "distractors": [
+                    "rond en stijf",
+                    "rond en soepel",
+                    "langwerpig en stijf"
+                ],
+                "language": "nl",
+                "question": "Hoe is de romp van het konijn gebouwd ?",
+                "question_length": 9,
+                "score": 0.9087180038428563
+            },
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Juist"
+                ],
+                "language": "nl",
+                "question": "Een openbare verlichtingspaal waarvan de lamp niet brandt is spanningsloos ?",
+                "question_length": 11,
+                "score": 0.8935533659962303
+            },
+            {
+                "answer": "Op medische toestellen",
+                "answer_length": 3,
+                "distractors": [
+                    "Op tilliften",
+                    "Op ladders"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Waar mag deze sticker niet meer voorkomen ?",
+                "question_length": 14,
+                "score": 0.884297284984019
+            },
+            {
+                "answer": "'s avonds",
+                "answer_length": 2,
+                "distractors": [
+                    "'s morgens",
+                    "voormiddag",
+                    "namiddag"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Een landwind is een wind die waait vanuit het land naar de zee toe . Wanneer treffen we landwinden aan ?",
+                "question_length": 28,
+                "score": 0.8829636962905686
+            },
+            {
+                "answer": "strottenhoofd",
+                "answer_length": 1,
+                "distractors": [
+                    "luchtpijp",
+                    "luchtpijptak",
+                    "mondholte"
+                ],
+                "language": "nl",
+                "question": "In welk orgaan bevinden zich de stembanden ?",
+                "question_length": 8,
+                "score": 0.8816116193172213
+            }
+        ]
+    }
+}

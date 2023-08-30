@@ -1,0 +1,132 @@
+{
+    "qid": "ffd15a67-f0d5-4b16-bf98-f6b1af4aecd3",
+    "response": {
+        "Query": "Wat is het nut van zweetklieren?",
+        "Result": [
+            {
+                "answer": "hart",
+                "answer_length": 1,
+                "distractors": [
+                    "lever",
+                    "melkklieren"
+                ],
+                "language": "nl",
+                "question": "Op welk orgaan heeft adrenaline een invloed ?",
+                "question_length": 8,
+                "score": 0.9573134213476235
+            },
+            {
+                "answer": "dunne darm",
+                "answer_length": 2,
+                "distractors": [
+                    "endeldarm",
+                    "dikke darm",
+                    "twaalfvingerige darm"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de absorptie van glucose ( suiker ) in het lichaam ?",
+                "question_length": 13,
+                "score": 0.9480624033243471
+            },
+            {
+                "answer": "aan linkerkant ",
+                "answer_length": 2,
+                "distractors": [
+                    "maakt niet uit ",
+                    "aan rechterkant "
+                ],
+                "language": "nl",
+                "question": "Een patient heeft een glucose-infuus in zijn rechter arm . Waar gaat u prikken ?",
+                "question_length": 15,
+                "score": 0.942026837079088
+            },
+            {
+                "answer": "Een kalkhoudende bobbel",
+                "answer_length": 3,
+                "distractors": [
+                    "Voelsprieten",
+                    "Lange tenen"
+                ],
+                "language": "nl",
+                "question": "Welk overblijfsel hebben sommige naaktslakken van hun voorgangers de huisjesslakken ?",
+                "question_length": 11,
+                "score": 0.9420210007403788
+            },
+            {
+                "answer": "spoelwater",
+                "answer_length": 1,
+                "distractors": [
+                    "afwaswater",
+                    "rioolwater"
+                ],
+                "language": "en",
+                "question": "'washing-down water ' in Dutch ?",
+                "question_length": 6,
+                "score": 0.9105855705591911
+            },
+            {
+                "answer": "fout",
+                "answer_length": 1,
+                "distractors": [
+                    "juist"
+                ],
+                "language": "nl",
+                "question": "De Arteria pulmonalis bevat zuurstofrijk bloed .",
+                "question_length": 7,
+                "score": 0.8974503485958847
+            },
+            {
+                "answer": "eicel",
+                "answer_length": 1,
+                "distractors": [
+                    "vruchtbeginsel",
+                    "zaadbeginsel",
+                    "stuifmeelbuis"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar gebeurt de bevruchting ?",
+                "question_length": 16,
+                "score": 0.891096826244406
+            },
+            {
+                "answer": "in de longblaasjes",
+                "answer_length": 3,
+                "distractors": [
+                    "in de luchtpijptakken",
+                    "in de longtakjes",
+                    "in de luchtpijp"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de gasuitwisseling in de longen ?",
+                "question_length": 8,
+                "score": 0.8888564967294549
+            },
+            {
+                "answer": "urineleider",
+                "answer_length": 1,
+                "distractors": [
+                    "urinebuis",
+                    "vagina",
+                    "eileider"
+                ],
+                "language": "nl",
+                "question": "Welk orgaantje is aangeduid op de foto ?",
+                "question_length": 8,
+                "score": 0.8841175858776403
+            },
+            {
+                "answer": "baarmoedermond",
+                "answer_length": 1,
+                "distractors": [
+                    "vagina",
+                    "binnenste schaamlippen",
+                    "eileider"
+                ],
+                "language": "nl",
+                "question": "Wat is er ontsloten bij de ontsluiting ?",
+                "question_length": 8,
+                "score": 0.8804706277985808
+            }
+        ]
+    }
+}

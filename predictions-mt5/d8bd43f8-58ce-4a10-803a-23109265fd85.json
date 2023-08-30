@@ -1,0 +1,5 @@
+{
+    "qid": "d8bd43f8-58ce-4a10-803a-23109265fd85",
+    "input": "Voor hoeveel procent van de wereldwijde CO2-uitstoot is de luchtvaart verantwoordelijk? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 2-3%\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 30-40%\n2. 1 %\n3. 40-50 %\n4. 4-6 %\n5. 50-60 %\n6. 6 %\n7. geen van bovenstaande\n8. 15 %\n9. 10 %\n10. 15-25 %"
+}

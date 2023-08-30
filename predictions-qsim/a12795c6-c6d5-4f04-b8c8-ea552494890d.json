@@ -1,0 +1,131 @@
+{
+    "qid": "a12795c6-c6d5-4f04-b8c8-ea552494890d",
+    "response": {
+        "Query": "Choisis la bonne traduction et complete les phrases . regenachtig Nous avons eu une journee ... en Ardenne .",
+        "Result": [
+            {
+                "answer": "pluvieuse",
+                "answer_length": 1,
+                "distractors": [
+                    "variable",
+                    "douce"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne traduction et complete les phrases . regenachtig Nous avons eu une journee ... en Ardenne .",
+                "question_length": 19,
+                "score": 0.9035260361607207
+            },
+            {
+                "answer": "en une journee",
+                "answer_length": 3,
+                "distractors": [
+                    "depuis 1986",
+                    "parfois"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne expression du temps . J'ai fait le trajet Paris-Madrid ... .",
+                "question_length": 14,
+                "score": 0.6992619767733735
+            },
+            {
+                "answer": "conseil",
+                "answer_length": 1,
+                "distractors": [
+                    "consultance",
+                    "avis",
+                    "renseignement"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse qui convient . Laquelle des 4 propositions suivantes peut-on utiliser pour completer le dialogue ? A : Est-ce que tu accepterais cette offre ? B : Si tu veux un ... ... , ne l'accepte pas .",
+                "question_length": 40,
+                "score": 0.6350048973383479
+            },
+            {
+                "answer": "techniques",
+                "answer_length": 1,
+                "distractors": [
+                    "theories",
+                    "pratiques",
+                    "trucs"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase . Remi est un vendeur experimente , il connait bien les ... de vente pour convaincre les clients .",
+                "question_length": 22,
+                "score": 0.6124314603360304
+            },
+            {
+                "answer": "a la fois",
+                "answer_length": 3,
+                "distractors": [
+                    "d'ailleurs",
+                    "au depart"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse . Mon cousin a deux nationalites . Il est ... belge et allemand .",
+                "question_length": 18,
+                "score": 0.5614711391821608
+            },
+            {
+                "answer": "bois",
+                "answer_length": 1,
+                "distractors": [
+                    "atelier",
+                    "equipe"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne traduction . Elle se promene dans le ( bos ) .",
+                "question_length": 14,
+                "score": 0.4892778167121352
+            },
+            {
+                "answer": "au",
+                "answer_length": 1,
+                "distractors": [
+                    "a",
+                    "en"
+                ],
+                "language": "fr",
+                "question": "Choisis la preposition correcte . Il y eu une tempete enorme ... Cambodge .",
+                "question_length": 14,
+                "score": 0.4671166358233133
+            },
+            {
+                "answer": "coites",
+                "answer_length": 1,
+                "distractors": [
+                    "coittes",
+                    "coies"
+                ],
+                "language": "fr",
+                "question": "Alors , pres de la route , elles demeurerent ... de nouveau [ ... ] ( adapte de DA ) .",
+                "question_length": 21,
+                "score": 0.45020477507551365
+            },
+            {
+                "answer": "spot publicitaire",
+                "answer_length": 2,
+                "distractors": [
+                    "public cible",
+                    "danger"
+                ],
+                "language": "fr",
+                "question": "Indiquez le mot qui convient le mieux . J'adore le ... d'Evian . Celui ou les bebes dansent .",
+                "question_length": 19,
+                "score": 0.44987033554942024
+            },
+            {
+                "answer": "a la merci",
+                "answer_length": 3,
+                "distractors": [
+                    "a la une",
+                    "a la derive",
+                    "a la tete"
+                ],
+                "language": "fr",
+                "question": "Completez l'expression . L'economie europeenne reste ... . de l'economie americaine .",
+                "question_length": 12,
+                "score": 0.44531531088518667
+            }
+        ]
+    }
+}

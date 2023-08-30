@@ -1,0 +1,138 @@
+{
+    "qid": "f20e5662-8cb7-498a-b5e1-61321d74cab0",
+    "response": {
+        "Query": "Hoe noemden we de economische organisatie in Mesopotami\u00eb?",
+        "Result": [
+            {
+                "answer": "republiek",
+                "answer_length": 1,
+                "distractors": [
+                    "dictatuur",
+                    "monarchie",
+                    "theocratie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke politieke organisatievorm is Frankrijk een voorbeeld ?",
+                "question_length": 16,
+                "score": 0.998394744656651
+            },
+            {
+                "answer": "privatisering",
+                "answer_length": 1,
+                "distractors": [
+                    "sociaal overleg",
+                    "sociale zekerheid",
+                    "herverdelingspolitiek"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De Belgische verzorgingsstaat na 1945 hield een actieve overheidspolitiek in . Wat past niet bij deze actieve overheidspolitiek ?",
+                "question_length": 26,
+                "score": 0.9979927688325081
+            },
+            {
+                "answer": "republiek",
+                "answer_length": 1,
+                "distractors": [
+                    "dictatuur",
+                    "monarchie",
+                    "theocratie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke politieke organisatievorm is Duitsland een voorbeeld ?",
+                "question_length": 16,
+                "score": 0.9961159791727126
+            },
+            {
+                "answer": "mercantilisme",
+                "answer_length": 1,
+                "distractors": [
+                    "absolutisme",
+                    "economisch liberalisme",
+                    "kapitalisme"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Minister Colbert neemt in Frankrijk maatregelen om de eigen markt te beschermen tijdens het regime van Lodewijk XIV . Waarvan zijn die maatregelen een toepassing ?",
+                "question_length": 33,
+                "score": 0.9958295170328298
+            },
+            {
+                "answer": "monarchie",
+                "answer_length": 1,
+                "distractors": [
+                    "dictatuur",
+                    "republiek",
+                    "theocratie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke politieke organisatievorm is Nederland een voorbeeld ?",
+                "question_length": 16,
+                "score": 0.9955618018377331
+            },
+            {
+                "answer": "republiek",
+                "answer_length": 1,
+                "distractors": [
+                    "dictatuur",
+                    "monarchie",
+                    "theocratie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke politieke organisatievorm zijn de Verenigde Staten een voorbeeld ?",
+                "question_length": 18,
+                "score": 0.9939201945658142
+            },
+            {
+                "answer": "democratie",
+                "answer_length": 1,
+                "distractors": [
+                    "dictatuur",
+                    "monarchie",
+                    "totalitaire staat"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Over welke bestuursvorm gaat het in deze stelling ? `` Alle autoriteit is gebaseerd op de instemming van het volk . ''",
+                "question_length": 29,
+                "score": 0.9933349995245673
+            },
+            {
+                "answer": "dictatuur",
+                "answer_length": 1,
+                "distractors": [
+                    "anarchie",
+                    "democratie",
+                    "kapitalisme"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees de tekst . Wat bedoelt Churchill hier met 'totalitaire controle ' ? Winston Churchill , premier van Groot-Brittannie , hield op het Westminster College te Fulton in de Verenigde Staten een redevoering . \u201c Van Stettin aan de Oostzee tot Trieste aan de Adriatische Zee is er een ijzeren gordijn neergelaten over het vasteland van Europa . Achter deze denkbeeldige lijn liggen alle hoofdsteden van de vroegere staten van Centraal- en Oost-Europa . Warschau , Berlijn , Praag , Wenen , Boedapest , Belgrado , Boekarest en Sofia , al deze beroemde steden en de bevolking rond deze steden liggen binnen wat ik de sovjetinvloed moet noemen , en alle zijn op de een of andere manier onderhevig aan een toenemende mate van beheersing vanuit Moskou . Alleen Athene , Griekenland met haar roemrijke verleden , is vrij om te beslissen over haar toekomst ( ... ) . De communistische partijen , die heel klein waren in al deze oostelijke staten van Europa , zijn gestegen tot een hoogte en macht die hun aantallen te boven gaan , en zij proberen overal totalitaire controle te krijgen \u201d .",
+                "question_length": 196,
+                "score": 0.9933042068129688
+            },
+            {
+                "answer": "levensbeschouwelijke breuklijn",
+                "answer_length": 2,
+                "distractors": [
+                    "communautaire breuklijn",
+                    "nationalistische breuklijn",
+                    "sociaal-economische breuklijn"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Over welke breuklijn uit de Belgische geschiedenis gaat de volgende cartoon ? De cartoon beeldt de situatie af in de periode 1830-1848 .",
+                "question_length": 30,
+                "score": 0.9931138470362441
+            },
+            {
+                "answer": "republiek",
+                "answer_length": 1,
+                "distractors": [
+                    "dictatuur",
+                    "monarchie",
+                    "theocratie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke politieke organisatievorm is dit de omschrijving ? De uitvoerende macht en de wetgevende macht worden onafhankelijk van elkaar verkozen . Elk van beide beschikt over een aantal constitutionele bevoegdheden . De duidelijke scheiding tussen deze twee machten leidt tot een systeem waarbij de macht is verdeeld en waarbij ze elkaar in evenwicht houden . Hierdoor kan de president zich zelf vrij autonoom opstellen ten opzichte van het parlement . Hij kan ook bepaalde wetten tegenhouden . ( Politiek . Carl Devos . Gent , 2013 , p . 248 . )",
+                "question_length": 100,
+                "score": 0.991196690339703
+            }
+        ]
+    }
+}

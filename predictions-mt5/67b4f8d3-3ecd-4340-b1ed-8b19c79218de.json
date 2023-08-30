@@ -1,0 +1,5 @@
+{
+    "qid": "67b4f8d3-3ecd-4340-b1ed-8b19c79218de",
+    "input": "In welke fase is het water bij het weersverschijnsel 'mist'? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. vloeibaar\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. vloeibaar\n2. verboden\n3. verontreinigd\n4. waterloos\n5. onvoldoende\n6. natte\n7. warm\n8. windig\n9. de\n10. klei"
+}

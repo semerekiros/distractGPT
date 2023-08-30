@@ -1,0 +1,4121 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "english.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "c2273645-72b4-490d-b37a-c7aa2e5b2eab",
+            "question": "36 . They do n't speak English and can not make ... ... ... ... ... ..understood .",
+            "answers": "themselves",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "them",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "us",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "you",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "0b5302d3-871c-48fe-826c-9a94a81f6053",
+                    "distractor": "they",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a45a0315-2af4-442e-98f3-26e5b15dd0bc",
+                    "distractor": "them",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0c335655-a8b4-4687-a058-2a74a053e944",
+                    "distractor": "their",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8c0453a5-a58d-4a34-abd9-0249291cc510",
+                    "distractor": "themselves",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "15d6d499-e69f-4f92-a3aa-9db2cf2860f6",
+                    "distractor": "the company",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "0c47332e-2b06-4255-b132-38db525bfbe2",
+                    "distractor": "their children",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "63997773-f4a1-4e55-a9c8-e88bbb7c0501",
+                    "distractor": "the families",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "424ddd7a-78d1-4e61-ba29-fb6cd0574df6",
+                    "distractor": "all of them",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "3fcebbab-a5d7-4eee-95f6-506b144264f9",
+                    "distractor": "all",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "94ed072a-7f86-492b-9733-a18dda6b7df2",
+                    "distractor": "every one 11.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "edffe58d-feae-48fa-981c-a2511893d8a9",
+            "question": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? The question of the supervisors is interesting .",
+            "answers": "the supervisors ' question",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "the supervisors 's questions",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "the supervisor 's question",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "the supervisors ' questions",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "63603a6e-3cf1-425e-8058-2837245b7768",
+                    "distractor": "the supervisors'question",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ff450fb7-f4d2-40dc-ae60-e4092de7be2e",
+                    "distractor": "the supervisors' question",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "fa6650bd-da87-4921-87ff-0cdbe4dc3530",
+                    "distractor": "lay out",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "0f1a1919-fc07-4a18-9e06-46a9f22b1def",
+                    "distractor": "no questions",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6b3d5547-a078-4202-88b5-7c0e8878a27d",
+                    "distractor": "never ask",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "dfa598fb-e7db-4cc2-9f3c-ed049779d528",
+                    "distractor": "even answer",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "cb5ee897-6d71-40c8-9eb2-609921dbd9f5",
+                    "distractor": "overshadowing",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d547a903-30c6-422a-863b-86ab1868b019",
+                    "distractor": "all the above",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a0205f63-3773-4a0e-89bd-610f6193e300",
+                    "distractor": "the supervisors question",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "33d47df7-b30d-42ae-9a8f-b73b7fdafa6e",
+                    "distractor": "the person",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9526948f-31a7-4079-a447-7517b6314d9c",
+            "question": "Choose the correct answer . Did you like the ... ending ?",
+            "answers": "book 's",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "book",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "books",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "da87adc1-506f-4132-a89d-493860124e15",
+                    "distractor": "book's",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a2a8f99a-1b51-49af-9d44-681523549a7a",
+                    "distractor": "interviews",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "9e30f9e3-fb2f-4a87-ac0d-233fb075faa6",
+                    "distractor": "interview",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2c47bb93-eb5d-489c-81b9-1895b0a51ce6",
+                    "distractor": "playbook",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "bbc3b510-bbc2-4712-a3ee-8b5d22445e31",
+                    "distractor": "essay",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4ccfe01c-86ac-45d8-af1f-22996b6df8f2",
+                    "distractor": "joke",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "a52447e4-3a9d-4473-a7ee-37cc724f1824",
+                    "distractor": "powerpoint",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "44aa5824-a49b-43d3-aabd-15c6e9c19ff1",
+                    "distractor": "films",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "05ff1465-53b7-4d31-a0ac-490ef5230bd7",
+                    "distractor": "playbooks",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b68d529e-32d7-484a-bd95-e47c05f5b812",
+                    "distractor": "games",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "61497d8a-c60a-4b43-9462-dff9d7b7950f",
+            "question": "Choose the opposite of the word in bold . I have some money to make an investment .",
+            "answers": "disinvestment",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "purchase",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "share",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "saving",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "0b859f59-cd6d-45a6-a1d5-e563d7020c9d",
+                    "distractor": "investment",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "f50154dd-014e-4a3a-b940-1b07d4d78194",
+                    "distractor": "debt",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "915fa384-2cab-4954-997e-34ddb214d4cd",
+                    "distractor": "underinvestment",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b830f66c-0b19-466d-8a64-acc28b1d1192",
+                    "distractor": "reinvesting",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2923d883-edcf-4a14-b0b4-da8a674393de",
+                    "distractor": "new development",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "22887512-c048-4349-a592-2b3997e674d3",
+                    "distractor": "invest in new equipment",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "dc9b1f75-3e9a-41a2-bd07-a1210b60b2a4",
+                    "distractor": "present asset",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "27770e3b-ec91-4816-81c0-1ef4292b0581",
+                    "distractor": "purchased machine 10.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6d06071b-8748-43bd-9000-366cbdf8a218",
+                    "distractor": "inversion",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "71a50953-72d1-42c6-879f-466a1245ccab",
+                    "distractor": "acquisition",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1664acd4-bc4f-4d07-85ae-f8a0d83c2b6a",
+            "question": "Linking sentences Choisis . Use ... to give several options .",
+            "answers": "or",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "and",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "but",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "so",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9879fc32-83ff-44e1-b8ed-e50b8dd9f462",
+                    "distractor": "as",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e1135844-e3eb-465b-af57-221efa3e498c",
+                    "distractor": "to",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0592339c-da7c-45f2-8c65-1cdf745e6170",
+                    "distractor": "for",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b1851c91-940b-4cd5-af18-b70d8fa9d7dc",
+                    "distractor": "at",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "820c4902-e217-48aa-8917-f1fb9fe09e27",
+                    "distractor": "under",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "42c6a859-c0b9-4189-92f9-d7706994b032",
+                    "distractor": "in",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "47009515-3921-4cbb-90f8-b3d3e80f910b",
+                    "distractor": "with",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "4416e39e-a6b6-415a-8f91-6b9a406d990d",
+                    "distractor": "along",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "787cd640-fc61-4360-8453-8da692a9de5b",
+                    "distractor": "would",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6ed67ebf-b452-495f-ad45-bcc153fbe0ca",
+                    "distractor": "may",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d479e0b3-ea8a-43a7-b7a4-f4c3c9dfc23f",
+            "question": "Who are we talking about ? Tick the right answer . Hi . My name is Greg . Julie is the daughter of my sister . Julie has to call me ...",
+            "answers": "Uncle",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Father",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Aunt",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Grandfather",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Brother",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "0a140b7a-06fe-4efc-bae9-a27cb83ca355",
+                    "distractor": "aunt",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e77981a6-de6a-40b1-a28e-5101196f1995",
+                    "distractor": "grandfather",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "4696ce73-36f7-47aa-a77a-87ef378312ae",
+                    "distractor": "brother",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c6de1d6c-74a0-4064-8427-59b89dc66e3f",
+                    "distractor": "niece",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "439d0a34-966c-41ce-8f1e-b3db2b6ce34a",
+                    "distractor": "mother",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "973eaf15-ada9-4eed-938d-fe1e3e3cb544",
+                    "distractor": "sister",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "79c52f14-83e0-430b-bf4a-addacee86ef1",
+                    "distractor": "bro",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d1fe24df-f3e7-4ba4-9e5a-31f9caab572f",
+                    "distractor": "dect",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d951d947-cbda-41e1-91b4-0b301b2ff8d4",
+                    "distractor": "father",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "45d7ed05-29c8-45a2-b85b-5fbb398a5211",
+                    "distractor": "auntie",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "27c23567-7595-4b30-b8ff-6ac53ac4c84c",
+            "question": "Determination to keep trying to do something difficult is called ... ... ... ... ... .",
+            "answers": "perseverance",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "loyalty",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "retention",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "satisfaction",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "0c82e041-792e-4fa8-aec7-78ba775da0ce",
+                    "distractor": "perseverance",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "f1660ab2-18eb-436c-991a-683c16b6f7f0",
+                    "distractor": "determination",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5b30bd22-fbc3-478c-bdce-dfd085f3affe",
+                    "distractor": "persuasion",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "01de5804-2ce7-4655-8fa1-90e123d30d1c",
+                    "distractor": "success",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "01e22bff-9a53-4335-9fa0-dbb2b50c0557",
+                    "distractor": "demotivatie",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "de364a4a-0b95-4e3f-a9a7-b87168bc215d",
+                    "distractor": "determinism",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "ec463c45-c442-4567-b245-4f101e824292",
+                    "distractor": "affaithfulness",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "dc56646f-9ad7-445e-8cd9-a3fa0e4ee0f5",
+                    "distractor": "self-esteem",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "3ae0666d-42e7-4e1c-899a-b8e425fed5d0",
+                    "distractor": "disciplina",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5f9b2b21-3db9-49e4-a9b9-ebfd7585a0dc",
+                    "distractor": "bewondering",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1f160f68-451c-46f8-8533-5d9981fe314c",
+            "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you allow .",
+            "answers": "would",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "do",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "should",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "have to",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a351c5fb-6f7d-4714-9413-b648d1ba0bba",
+                    "distractor": "would have",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "60e3fdfc-ccb1-41f0-8d9c-8ee804f5f50e",
+                    "distractor": "do",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "09cb8bd9-0ac4-4a86-92cf-ca0fa067f601",
+                    "distractor": "are",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "63d7bc88-cd03-44a5-b302-583bcd7a533d",
+                    "distractor": "should",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "88cfe81f-3791-4851-8fa5-744106d7f7c1",
+                    "distractor": "ought",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "67c22a58-5005-44f8-8865-9de496a18214",
+                    "distractor": "have",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6a0679d5-c1a8-4c13-afca-7b1f36978c62",
+                    "distractor": "had",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "80f5f32b-7434-4f3d-82b3-4ebb2bced8f9",
+                    "distractor": "were",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ef0aa5f1-0b2f-4cea-a46a-f7bae37fa055",
+                    "distractor": "will",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "49d10cc2-c5e8-429c-a642-a27ddd3dad88",
+                    "distractor": "is",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "35152b6f-9d87-4323-ab4f-10442ac370fb",
+            "question": "1.47 How do I get to the airport from here ? Do n't worry , I ... ... ... ... you .",
+            "answers": "'ll show",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "show",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "am showing",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "'m going to",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d494f961-3145-421a-842e-75449ae8d364",
+                    "distractor": "'ll show",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "17e08d58-8a88-4be4-a750-d044ad6b55bb",
+                    "distractor": "i know",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e704497b-e903-43e9-a30c-2b5e86554fcb",
+                    "distractor": "am in my eye",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "52d7d638-67ce-455d-9263-8a81d64702bd",
+                    "distractor": "are out of fear",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2fe90aaf-f526-4759-803b-adffc2b912f5",
+                    "distractor": "have to worry",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "030793e1-ca9f-4491-9125-1d567060aae0",
+                    "distractor": "was scared",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "b9241578-cfc0-495f-9f1c-a6e87fa8a107",
+                    "distractor": "did show",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "afbb078a-0e8e-4dc0-91a6-eaabcb5a4657",
+                    "distractor": "did",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c149d6b6-2c54-4245-b69d-87c8675331cc",
+                    "distractor": "will show",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "52286584-8ea7-48de-bb1b-2bec7f2e59bc",
+                    "distractor": "'ll ask",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d7280b33-6158-4a42-8636-395243cdbd44",
+            "question": "Choose the appropriate response . How do you do ?",
+            "answers": "How do you do ?",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Fine , thank you",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "How are you ?",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e6424a58-5767-44da-bba0-0c5e471c5fdd",
+                    "distractor": "how do you do?",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b89979ea-442d-4bc2-8c61-72c06ecf5c17",
+                    "distractor": "what dou do to?\"",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ae15e1a3-3bfb-47b2-8002-70bec4a5cd07",
+                    "distractor": "watdou doen?>",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ead90f1e-74e2-40ce-9567-8c45644d5b40",
+                    "distractor": "what did you choose",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "11a2df01-2080-4101-a511-5282eb2bfde3",
+                    "distractor": "Why do you?",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "1c691edb-69ef-47f5-8145-60f88f9ceac5",
+                    "distractor": "why doyou choose a good solution",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "26fa6b39-4940-405d-8e35-ce84536e764d",
+                    "distractor": "what do u do",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "a0bb8c13-b7d1-467e-8644-03fb98a60933",
+                    "distractor": "which are",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "644da59a-9a68-41ae-b710-6addf9fff9b8",
+                    "distractor": "How do you do?",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ec56f308-6086-44fb-be31-722b99e172f5",
+                    "distractor": "when do you do?",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5e80a098-3255-4bbc-84a7-0ed6e2a43aa8",
+            "question": "to shrink is ...",
+            "answers": "to contract",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "to expand",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "to boost",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "38e02b13-40a4-4be2-a34f-fa9c38eab3c7",
+                    "distractor": "to shrink",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ff078b86-2064-4f53-b588-3b5921184b65",
+                    "distractor": "to converge",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ea96f0f5-64b7-4c53-8a02-23bd98736350",
+                    "distractor": "to change",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c7d39197-58aa-42d0-a08c-9866b8361fb4",
+                    "distractor": "to disburse",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9ba47c9f-aa02-4e2b-9eda-9de83509139b",
+                    "distractor": "to uplift",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7983e75e-d910-42b4-8928-cb349a5a0b66",
+                    "distractor": "to curl",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "2bacf667-e669-458d-8b7e-a40b6344be19",
+                    "distractor": "to fill",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "2ab4b695-624a-4acc-bf26-f4ea3b1ddd6c",
+                    "distractor": "to suspend 9.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "7b405046-0ddd-4419-8f21-b8e1f6e41dc9",
+                    "distractor": "to be a cosigner",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2b602b43-4ded-45ef-995f-49ebdef1806e",
+                    "distractor": "to do an intermediary",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1a6b27c4-2337-48b6-a051-3259f9bea546",
+            "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you offer .",
+            "answers": "would",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "do",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "should",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "have to",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "209883a6-5c00-48ab-91a4-4e3b787c22e0",
+                    "distractor": "would have",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ae23b8ef-f4b2-432b-aac4-1c7757b3e8ea",
+                    "distractor": "would be",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "9a656cfc-441d-4497-84fe-43eb05732e44",
+                    "distractor": "should",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2333fe9b-bdc3-4aab-8e3d-185c5f4718bb",
+                    "distractor": "are",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "33656535-aba7-4091-b60d-ab4f99901b39",
+                    "distractor": "were",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "39fc6005-20f5-4e69-a6da-5a6b6ad9ac70",
+                    "distractor": "had",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "52404e61-a41a-45f8-a1f4-e797de37ef7a",
+                    "distractor": "have",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0ffe0b06-37dc-4f0a-8183-ffcc9b37dc6c",
+                    "distractor": "could",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e9d73cc6-7d88-4de7-b43a-d1d84c3a1b76",
+                    "distractor": "has",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "42590e9a-999b-4beb-abb0-cf71a096071e",
+                    "distractor": "is",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "26b75306-4579-4c92-ac7f-821a16efe13b",
+            "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Although the CEO has been accused of corruption , he is still refusing to _______________ .",
+            "answers": "step down",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "wind down",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "trade in",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "rule out",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "I do n't know",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4ba0e41a-cdc3-4b1e-90e0-699288971036",
+                    "distractor": "step down",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1c4354f6-95ce-45c1-ae22-56ef68855388",
+                    "distractor": "resign",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "615dcc3f-f8df-4e26-b2bd-06bbb890ac2f",
+                    "distractor": "step up",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "536b32d3-a463-4132-b962-d33f57804be7",
+                    "distractor": "move in",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "09b84319-fd11-4e6e-a864-8b42084031f1",
+                    "distractor": "collapse",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "dc627366-943f-455c-86a8-6bf931c3dba1",
+                    "distractor": "re-sign",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e6029105-e3d2-4af9-9fd0-afe7990c22a5",
+                    "distractor": "reinvent",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7552556c-cd63-45fc-b731-dd39337fc686",
+                    "distractor": "reorganize",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "528ec4f6-efd3-4884-a861-07f3e125545c",
+                    "distractor": "degrade",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b5c8ad4f-4f5d-48f6-8706-2875174f263c",
+                    "distractor": "disappear 11.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2e0c6712-8a6f-4dec-bee7-6503b3d7a832",
+            "question": "to remove buds from a plant is ...",
+            "answers": "to disbud",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "to entbud",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "to withbud",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ae4ad9b0-381b-46e1-bd6a-f43143e9c460",
+                    "distractor": "to plant",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9a18dd25-020b-449c-a343-df599e5b7fac",
+                    "distractor": "to be fruitful",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d649a729-5543-42a7-9960-5fcac488fae5",
+                    "distractor": "a tree is deflowering",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ba17a079-613f-4fa6-b22e-2a171414c858",
+                    "distractor": "to disgrow",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "882704b2-f6f4-4944-9dc0-0ffa33922d98",
+                    "distractor": "by the sun",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "22b8f8ca-982f-43e5-b29a-18a6b943f1c5",
+                    "distractor": "overhanging",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e7ee4bcb-df56-4a3c-b965-b9f936d2b0e5",
+                    "distractor": "grow",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "5d5ff8e4-ee95-4ac7-9f5b-434d3d6bf0be",
+                    "distractor": "do",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6a14511e-7ade-4819-88aa-38290d9a8cd6",
+                    "distractor": "to bud",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "4856e8c5-5fe1-43c6-8790-8bbc566a620f",
+                    "distractor": "foreplant",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f4008728-c89f-453a-9020-bb3a40aeb128",
+            "question": "Choose the appropriate conjugation to express something completed in the future ! By this time next month we ... .. the designs .",
+            "answers": "will have finished",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are finishing",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will finish",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "go to finish",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9d6dc748-c184-4fb9-a6dc-9ea6386e9017",
+                    "distractor": "has finished",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d8392ec4-ebe6-4879-801c-031def3a4885",
+                    "distractor": "is finished",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "58ba8aea-896c-4e47-a626-b970dcdf58b9",
+                    "distractor": "have finished",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "e971dc77-4696-4771-9a00-0ed7c9117071",
+                    "distractor": "will finish",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2657a8e8-9643-4047-be53-0b07d43889dc",
+                    "distractor": "will be done",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "3f648d0e-1bd1-49d3-a8f0-67d59ab9136e",
+                    "distractor": "had been completed",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5d7633af-9d66-4aec-9587-f36298007a05",
+                    "distractor": "have undergone",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d4164059-8c00-4661-ba15-926e06ff870f",
+                    "distractor": "did not finish",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c2ce823e-2591-4799-a15b-40d90c42e6f6",
+                    "distractor": "doing it",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ff5a6e76-bbd8-41e6-8dd1-36d99c28e901",
+                    "distractor": "are finished",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6f42d9ea-be4c-44b6-9a47-41df1828d57c",
+            "question": "2 . The plumber ... ... ... ... ... ... ... ... ... ... ... ... ... two hours",
+            "answers": "has been working for",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "has been working since",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "is working for",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "had been working since",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ddeac00d-a9bb-46e1-a1dd-c67139321528",
+                    "distractor": "has been working for",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "78e0249c-898a-4f53-b3b8-e2b8a81f6e99",
+                    "distractor": "has been working in",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "96b71dcb-f062-444d-adaa-d2602c30be1b",
+                    "distractor": "has worked for",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "1e8fd8ee-f98c-4972-baf7-9636193eacbe",
+                    "distractor": "had taken over",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "0e55f3ef-7655-4d8d-bc7c-a402bdb63444",
+                    "distractor": "have been employed",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "085626e8-a7fe-4b8d-937d-eb65e1a4e045",
+                    "distractor": "was taking up",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d5fd88de-11e0-4987-b00e-590e422d9aac",
+                    "distractor": "has employ",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b7441e37-42e2-4684-bbe6-2a5aa1966edd",
+                    "distractor": "has been working on",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a3b6bf80-a5d9-4bc4-aa0e-baa070c694a5",
+                    "distractor": "has been working",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a8d1c874-29ea-4bea-99ed-de5e948be69a",
+                    "distractor": "was waiting for",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f5c3cc1b-9d81-439d-ab56-0f9521e74872",
+            "question": "when something is indispensable , ...",
+            "answers": "it 's essential",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "it 's hard to find",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "it 's very expensive",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c0506c8b-9553-4c3d-8028-3f2f800954d6",
+                    "distractor": "it's essential",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9608ccfc-2341-47ab-830c-d0fa28cef6c1",
+                    "distractor": "it's not important",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c268b3ab-0cd0-4e1b-b457-c8dcc7a910d7",
+                    "distractor": "it is obligatory",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8e2ab99a-192b-477f-b645-c0262f43f65c",
+                    "distractor": "it will be pleasant",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2b53d7bc-f79a-45e8-8d8a-e9edd21a4eb0",
+                    "distractor": "it must have to",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8da6aa8b-cd6b-424e-be67-e79c0313ecd2",
+                    "distractor": "it should be good",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4de399d9-b9e0-430c-81ec-151bdb6576bd",
+                    "distractor": "it is essential",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "3b3b22a1-098a-4386-8144-ff0be90cba86",
+                    "distractor": "it's important",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a83aa57c-f156-4d23-958a-69d0774202f9",
+                    "distractor": "it has to be",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "29366642-99e3-4685-86a1-92df8471c0f2",
+                    "distractor": "they should have been",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f3a884b9-d5ee-413a-9ec5-36f251748275",
+            "question": "The Council discussed a proposal for a common corporate tax base in the EU , aimed ... the administrative burden",
+            "answers": "at reducing",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "to raising",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "for cutting down",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "at turning down",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c9ff71b3-7b7a-4c14-bdef-a04a08c765c1",
+                    "distractor": "at increasing",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "fc61181d-3038-4fdd-862a-7fd6dc59e39f",
+                    "distractor": "at increases",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "2ca8af37-da22-4680-b4c3-685b04a6c2ae",
+                    "distractor": "to increase",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "143f8859-a02a-4a21-8c37-2f30bfe42ed2",
+                    "distractor": "in reducing",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b1005de0-13a2-4c8a-a81d-eb3c3b12348a",
+                    "distractor": "on consolidating",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b6dae1b7-a718-4259-8b87-46337cb6148d",
+                    "distractor": "to reduce",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7f6f52de-23dc-4f19-806d-ee2ef61d18ad",
+                    "distractor": "overtopping",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0aaba149-c51f-478c-b5ec-463d9af99f64",
+                    "distractor": "with limitations",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b7b8fd92-e6d3-4088-92d8-2f21e07cccbf",
+                    "distractor": "on decreasing 9.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7b426390-310a-47b5-85c4-fc414329f646",
+                    "distractor": "at reducing",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "ba43bde3-1c80-46af-a60c-481bd921ea1c",
+            "question": "Personal pronoun Coche la bonne reponse . 1 . Oi , those are my records . Do n't touch ... !",
+            "answers": "them",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "they",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "it",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4d1de5e3-c8c2-4388-aea5-471c19ef3907",
+                    "distractor": "you",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a4988136-c370-4149-923f-1f7b4be0d431",
+                    "distractor": "they",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c5209e0c-7f9d-433b-8ee3-4e22938fd64f",
+                    "distractor": "i",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "10e35516-1131-4ae5-ab72-7b0dc2c62e0b",
+                    "distractor": "their",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "880be55e-1a78-4e0b-8230-a1ee6fe70a63",
+                    "distractor": "my",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9cae3a65-7168-4d22-9711-e33a8c58ca84",
+                    "distractor": "me",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c185548c-d5d6-4dfc-8fc0-c8d5f42e7d1f",
+                    "distractor": "myself",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0310d0eb-126e-4687-afae-c68301f5567e",
+                    "distractor": "some",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2a5c039c-e610-4e19-8ebf-7e1f4592d953",
+                    "distractor": "all",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "1c355747-8285-4f76-9f12-c91b781a0562",
+                    "distractor": "so",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f4bedfa2-4601-4a1e-8c20-0c76fb032cdc",
+            "question": "1.4 When you ... ... ... ... ... ... Henry , tell him the truth .",
+            "answers": "meet",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "met",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will meet",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "would meet",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7e9c0160-8fd1-4bd4-9752-2d41b94f9a4f",
+                    "distractor": "meet",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6036b178-af14-491b-a91e-493005e5b200",
+                    "distractor": "converse",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5dd806e0-2a84-4457-a991-8953cfdd384a",
+                    "distractor": "discuss",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f8869c4b-ae49-4917-8719-0acaa36e306e",
+                    "distractor": "ask",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6f69b545-c0ff-4df2-9ade-71027111bd0d",
+                    "distractor": "share",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8d18f9ee-2f38-4aa6-99b9-3722925df8b3",
+                    "distractor": "tell",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0e800971-a7de-46db-bb20-342753430a9d",
+                    "distractor": "talk",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "1df6438d-b07e-4ab8-ab82-2cbf5df6d0c9",
+                    "distractor": "speak",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "db8673d8-9f5f-4c98-a19d-03800ff181f9",
+                    "distractor": "reply",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0fd67fcc-1ba8-4898-ac4d-c907f1d38ad1",
+                    "distractor": "think",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b39df1eb-2a30-403d-b9db-f123b97647af",
+            "question": "Choose the appropriate conjugation ! I ... .. in marketing before I joined my present company .",
+            "answers": "had already worked",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "already worked",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "am already working",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "was already working",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d2f3f5ba-6068-4f6a-84c7-ddcf8eb52353",
+                    "distractor": "already worked",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "936917ea-58b6-44bc-923c-7c7ffed8c88c",
+                    "distractor": "went to work",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "79fb47fa-5d2f-4ac0-9b68-b91879b5d19b",
+                    "distractor": "had been working",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "111aade7-db27-4495-91e2-3ca5c706c589",
+                    "distractor": "was at working",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "0b22528b-a1e9-41f0-ae6f-7998c902de66",
+                    "distractor": "were employed",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "587a0979-9d45-461c-a4fe-696b493c9e0a",
+                    "distractor": "have to be in marketing",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9220d90a-1bfb-4043-b8a1-c2a3033978ba",
+                    "distractor": "did not know that",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "4ff8cb93-aa3e-4469-b4b6-c41f55260c3d",
+                    "distractor": "had already started",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f893e713-9b7a-4c17-a7b5-1a464fe5adcf",
+                    "distractor": "worked with",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8ba7b3eb-e700-4c65-88a9-e0525e51f458",
+                    "distractor": "was working to prepare",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "645aa592-931f-4885-ba14-03d9c4a5c4f8",
+            "question": "Choose the opposite of the word in bold . He bought a beautiful tailor-made suit .",
+            "answers": "ready-to-wear",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "well-sized",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "expensive",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "fitted",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2cf037de-7123-4a00-8d84-5a6efcc0caf9",
+                    "distractor": "ready to wear",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "5938842e-85ba-4342-96e1-7565582be216",
+                    "distractor": "ready-to-go",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "fbb0c6ae-d1da-4c40-b8d5-289fc69cf304",
+                    "distractor": "prepare",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "7a749f02-4f4b-4a93-9b4a-83d1f3a2e51c",
+                    "distractor": "prepared",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "ae3075d9-0e0a-40d6-b4e9-2a1b45393b76",
+                    "distractor": "cut",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b09ace70-96fd-40bd-94be-2568644896f9",
+                    "distractor": "wardrobe",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "f443d63c-d583-47f7-a9f2-caf476df34c1",
+                    "distractor": "decommissioned",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "65500533-fc01-40da-b0b1-6c868e85f9ac",
+                    "distractor": "polished",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ac74012f-dc7d-4956-a66a-9db23279f335",
+                    "distractor": "hand",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "83740dd4-08a4-4dfd-bd96-fd42dc8e12de",
+                    "distractor": "ready to pack",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "20fea8ed-67b9-4bc7-8802-5795375fa3c8",
+            "question": "Choose the correct answer . Kies het correcte antwoord . He ... funny .",
+            "answers": "is n't",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are n't",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "am not",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "8ec380bf-ae02-4d3b-864c-c35c08127a49",
+                    "distractor": "isn't",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1dd315a8-9e7d-4021-82e9-49955c76bf72",
+                    "distractor": "isn't to",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8a9c2bd1-0f96-4a25-b16e-cd23d2460ef8",
+                    "distractor": "has always",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "28517e10-066b-49f5-8535-9e65a689c40d",
+                    "distractor": "was not",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7ff47b73-43cd-48d5-9bbe-8eb7a941f789",
+                    "distractor": "was even",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "3d7ded0f-b9f2-41ee-a91c-235e9ad13a7b",
+                    "distractor": "had not",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "59bf2ef3-87fe-41ff-a4e3-0efb3e4e8cec",
+                    "distractor": "had never",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "91f6d508-6509-49f4-ad1d-c241732c5fff",
+                    "distractor": "was only",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "155b3d2f-4ecf-421e-bb3c-9ce30303aa0e",
+                    "distractor": "was",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5e1313d0-9708-4b02-973e-acc29698b4b4",
+                    "distractor": "wasn't",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "abfb2d71-1642-456f-a80b-29ce3b1db032",
+            "question": "Choose the right word . There is a lot of ... .. on this line .",
+            "answers": "interference",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "problems",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "disturbance",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "noises",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "64464f22-06a9-4437-a3b0-4c762160d6f3",
+                    "distractor": "interference",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "636a1b75-92b2-497b-b660-0005d6044d52",
+                    "distractor": "clash",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "cdd2ec58-7e89-4c96-8f5d-66f6e65ff29c",
+                    "distractor": "decrease",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f07d3e86-09ea-4e13-ad62-7aa7d45a11fe",
+                    "distractor": "distortion",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "47d2c418-0c85-4dcb-83cb-27ffbf002eb5",
+                    "distractor": "displacement",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "c0578765-a630-42d6-8c1d-ccee9cc1ec0b",
+                    "distractor": "diversion",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5864f490-203f-4c10-8765-69309ac7dc68",
+                    "distractor": "contraction",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "278ebc4b-3d0c-4060-88c6-06cd5ff9901c",
+                    "distractor": "conflict",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "05aec283-05bb-447e-b353-c0ad3c270515",
+                    "distractor": "inhibition",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2508ea80-45da-4930-a16a-98fc9291ece2",
+                    "distractor": "interference 11",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a1d74b01-7c04-4aab-89fd-585f9a26cd0d",
+            "question": "Because of huge protests the Minister finally decided to ... the bill",
+            "answers": "scrap",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "supersede",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "cancel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "push back",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2ab4e158-45c5-4c4e-97ec-3b5f56eb4056",
+                    "distractor": "increase",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "90df1fce-0720-49fb-b035-96519b7b88ad",
+                    "distractor": "reduction",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "38734368-84f2-488f-9aeb-2e5b80162a3a",
+                    "distractor": "taxation",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ca814683-0349-4db0-b42d-63cdaa04c59a",
+                    "distractor": "subsidy",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "eb49ad3e-15f0-4f3e-9004-ec1000db8d3b",
+                    "distractor": "monetisation",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ba012219-4095-4539-8cb8-a75bbc3679a3",
+                    "distractor": "budget",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "699d7445-6b6e-4ba1-aeab-c22f7382acfa",
+                    "distractor": "overdraft",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "eccfdfe9-82dc-4d77-93bf-138a435c958d",
+                    "distractor": "deontruiming",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6a0998bc-e32b-44c7-ad7f-a7dcf46fc778",
+                    "distractor": "onrefund",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "925817da-f52a-44f2-ac81-052e3c6a5448",
+                    "distractor": "no",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "121d4efd-f866-4ef2-8bee-6598d80a25db",
+            "question": "2.50 How do you ... ... ... ... if a journalist or other writer is telling the truth ?",
+            "answers": "find out",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "carry on",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "think back",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "speak out",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "147034ce-8ff3-4ca1-a8a3-97f69cfd5201",
+                    "distractor": "tell",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a1e14f40-f809-48e3-9882-7d0d5ebfdd98",
+                    "distractor": "announce",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "fc9777f0-cefe-404c-9513-20bf0cee0305",
+                    "distractor": "have to hear",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "71f0e4db-5516-4b0a-bfd2-0a66b254d40d",
+                    "distractor": "get down",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "bc1b0a17-9a8f-4aed-8925-c357e81e9f06",
+                    "distractor": "do not know",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "52352a36-8fbe-4444-8fc7-a8caad5d6bf1",
+                    "distractor": "think about",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "057aaee9-32db-41f1-acc8-b6a69ea42ee7",
+                    "distractor": "be at home",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e7a4c858-ef63-46b3-9a04-7a89106535ba",
+                    "distractor": "talk about",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "545379c7-baf9-446c-8815-371af334976c",
+                    "distractor": "speak",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "22a9da36-b4a6-46e7-ade8-e0f57416c790",
+                    "distractor": "i know",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "961bfccc-ceeb-4b43-919f-a8839db0291f",
+            "question": "His successor , ... ... ... ... ... ... ... ... appointment was announced last month , is a very different kind of person .",
+            "answers": "whose",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "who",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "whom",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "which",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9e81f776-3b9c-4623-9816-a2e93c544a55",
+                    "distractor": "who",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "bef74732-4c43-4e8c-8b27-d00827da30c2",
+                    "distractor": "who is",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "31ac1dbc-3c57-4765-8a8a-10d408c96c23",
+                    "distractor": "which",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "fcba926a-1e9f-4084-80ab-52da573c88eb",
+                    "distractor": "when",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2080a761-f017-4845-a016-704dc030dc02",
+                    "distractor": "what",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f478726c-ca32-461c-a6e2-8e9aa6f3f4c8",
+                    "distractor": "any",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7b578901-f56a-45e2-becb-ae0bd2d880cd",
+                    "distractor": "none of these",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "80c2603e-6f82-4724-887a-fb98b6f5dbdf",
+                    "distractor": "every",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "55620498-562a-49ef-b69b-c6dd008a826e",
+                    "distractor": "and of all",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "38835968-ab1b-4bc1-8577-9732f8ed4694",
+                    "distractor": "neither",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9c522258-cb5e-47e6-9819-485bf1fa3c1c",
+            "question": "They were badly ... ... ... ... ..in the accident .",
+            "answers": "injured",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "broken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "wounded",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "illness",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6eb1cbef-7cd6-4670-8fb7-f5b2dd31ac19",
+                    "distractor": "broken",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "15ab0715-7ad6-4991-b0c6-e24577183e1b",
+                    "distractor": "intoxicated",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f58d8b52-24be-43d3-be2b-6640bce73e5a",
+                    "distractor": "hurt",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "5e4edd6f-ff68-4b25-a49a-a335ec036ff6",
+                    "distractor": "sad",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "dfc63bd1-f606-41d4-b7a4-35b0d340e84c",
+                    "distractor": "scared",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "54737c76-75da-4466-82d2-f89512d910ad",
+                    "distractor": "discouraged",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "8b69d1ca-c2b5-487f-8b8d-6d492473fb59",
+                    "distractor": "uncomfortable",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "27243e12-cb32-46f6-bec5-02ca5b642bd0",
+                    "distractor": "deranged",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "1e01f3cd-06cf-4218-9245-f0d8877ff3ff",
+                    "distractor": "catastrophic",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b71f4db1-23c3-4c04-b24f-551012fde3c9",
+                    "distractor": "be",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "e938d1e5-1390-46d1-b2f1-7304c5003982",
+            "question": "... .. number did you want ?",
+            "answers": "What",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Whose",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Which",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "What person 's",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b8294e95-9362-4b70-8ddb-be574b74cf5e",
+                    "distractor": "when",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "642c9a15-b4a3-4d20-adee-9826b0cb13c6",
+                    "distractor": "what",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f3c26c26-c6ec-4ec5-8126-5494ff08148b",
+                    "distractor": "whom",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "cc0b5872-2093-483e-9ffd-9139c27afd0f",
+                    "distractor": "who",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b10c9ee5-fa15-4d89-9e61-20b155009f4f",
+                    "distractor": "how",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "713ddd1a-e2ad-487e-980b-78be40882821",
+                    "distractor": "even",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1042d46d-bea2-442e-be1a-8c7e8a7705cb",
+                    "distractor": "every",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "064ea254-ac59-4a16-bfd3-6ae8148a2c19",
+                    "distractor": "in any case",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "94d23365-9401-4927-8924-2ea5bca4d418",
+                    "distractor": "no matter",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b8075330-35bb-4e78-914a-8b508b54e0fd",
+                    "distractor": "do you know",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "465a3c9d-8450-409e-a608-3561a6917d5f",
+            "question": "combustion is a synonym for ...",
+            "answers": "burning",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "respiration",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "breathing",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "25b1dcd6-ca12-429c-99af-2d6153c8213f",
+                    "distractor": "combustion",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d805907e-ffef-4144-9a71-00002bed3354",
+                    "distractor": "aerosol",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a88ed66a-005f-4e91-91f8-d5c2b303f993",
+                    "distractor": "gas",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ab3a002b-3f24-4096-947f-938d74751966",
+                    "distractor": "deburying",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "3e0ea5cd-a8f5-45e5-a083-4b7f8511741b",
+                    "distractor": "condensation",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "0305a3c1-187c-4ed7-8cbe-062d76eef17f",
+                    "distractor": "aftuiving",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "dd221f39-f60f-46e4-acb2-181cd5b0c519",
+                    "distractor": "inhaling",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "f599a1ac-b8b0-4880-8acd-158dcc71ec97",
+                    "distractor": "respiration",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "aeb1828f-5619-47dc-864f-eaf5f3f4586a",
+                    "distractor": "winding",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "c88387c1-20fb-4d4f-955a-c961933069eb",
+                    "distractor": "ver",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "e1f1837e-2304-43cc-948e-bd6009d217b9",
+            "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The next train to Aberdeen _______________ at 2pm .",
+            "answers": "leaves",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "leaving",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "leave",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "be leaving",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "I do n't know",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "0c88c282-dac5-4c93-b9ac-f1673ee8f65f",
+                    "distractor": "leave",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e192a061-48f9-4590-ab0f-0a73e601678e",
+                    "distractor": "leaves",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c6d1f3cb-1620-49d3-b581-cd00f8ec38b1",
+                    "distractor": "exit",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "bb89eded-af40-49af-9dac-32e13162e1c2",
+                    "distractor": "arrive",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a5d4d6d6-2b17-4668-a1c7-3264b1c3c8df",
+                    "distractor": "return",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4b7770e9-b8c2-41b7-b500-9e80d202a6c3",
+                    "distractor": "wait",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "be4e46e9-2df9-4e2a-a0a5-0448d2e1c32f",
+                    "distractor": "departs",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "74631d2b-9a66-47cd-80e8-7c422241d42a",
+                    "distractor": "deliveries",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8e3b7b02-6c96-495e-93f3-cc23b891be6b",
+                    "distractor": "transfers",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "872ea2e4-8a23-40a0-8e18-a2318b62d949",
+                    "distractor": "finishes",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "abc0390c-10f9-4f75-97db-31582b58928a",
+            "question": "Choose the right form . We ca n't buy ... fresh fruit in this shop . They only have tinned and canned food .",
+            "answers": "any",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "some",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ad8c945f-b373-437e-9de9-805c567d6290",
+                    "distractor": "a",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "5f8e035e-b477-4399-9cab-05cc45ac93db",
+                    "distractor": "everybody",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "55c774fe-6399-48d0-ad44-e53d4a96d4df",
+                    "distractor": "u",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "31d0b3af-3f55-4f6e-b194-7ba4a8549869",
+                    "distractor": "b",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f1c1e8e5-fb66-41a2-8c3e-cc1f9b38e280",
+                    "distractor": "v",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6d68a509-33ae-464f-956d-d6fe1ef4b017",
+                    "distractor": "i",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "f43cdabb-9642-450d-b82a-dd25ea8eb400",
+                    "distractor": "n",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "db0045cd-352a-4d54-ab04-fbc8855502ae",
+                    "distractor": "m",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "eeac47bf-2b98-448c-bccf-049d61028b89",
+                    "distractor": "c",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "87c4e9b0-373d-4149-9538-ba60affee2a5",
+                    "distractor": "we",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6dfc6d8e-31ac-450a-b44f-142692fd5d02",
+            "question": "Choose the correct form . Fixed costs ... by more than 10 per cent in the last five years , and there is no indication they will level off .",
+            "answers": "have risen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "have been rising",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "rose",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "were rising",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5e67f1c6-ad51-498a-a582-1bdf97205b7a",
+                    "distractor": "have risen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3a80e00d-50ed-413c-b483-2fa4a1da5006",
+                    "distractor": "have fallen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "1a00b57e-80f9-48c9-b59e-f26476d799b6",
+                    "distractor": "are rising",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "41b4b24d-f7c6-442b-a449-6ae1754f6d89",
+                    "distractor": "had risen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "53d14c03-1dad-430c-9eda-7c3ff237422b",
+                    "distractor": "have slashed",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "63dc9abc-c24b-4f19-958b-a628596049bd",
+                    "distractor": "were dropped",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c23d4331-cf7a-4bcd-9448-ea516ad13f16",
+                    "distractor": "had been reraising",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7694ac29-5eb8-46ce-95d6-be58b95b0b95",
+                    "distractor": "has declin",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5bcb1bed-7b21-4cce-a53e-ea71e055270d",
+                    "distractor": "are declining",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3fe31d93-7017-4634-bace-f353fa68f97f",
+                    "distractor": "have stagnated",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d46ad73b-93bd-4653-92e7-3683f58cb260",
+            "question": "I read ... ... ... book and listened to ... ... ... ... ..music .",
+            "answers": "a , some",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "the , any",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "these , the",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "the , many",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f5c99915-6269-40c9-b6fd-3d0c4fbab90e",
+                    "distractor": "a, the",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "43694766-8ce7-407a-b0a3-7866776e4340",
+                    "distractor": "a, many",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "63b2554a-65ac-4f3a-b5f8-ebdec0f2990e",
+                    "distractor": "none of them",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "80a8c6eb-0ae3-4962-989e-84b00eed7c0a",
+                    "distractor": "no one",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "ac2ed76d-cae7-4f54-8fc1-252b1370f47d",
+                    "distractor": "nothing",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "98744e43-3951-41b5-8a5e-75e42fb5821f",
+                    "distractor": "every 7.n't",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "820abcf8-6eb9-4707-b6eb-89ade96b2e5c",
+                    "distractor": "every",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7ad4c781-f17a-4493-ac66-7eb99859890a",
+                    "distractor": "not",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8557658b-b9e7-4026-acbb-d75f69d92ad6",
+                    "distractor": "a, some",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "346f2259-c6a2-408b-bb3e-ac59505c4557",
+                    "distractor": "i - so",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "08888787-3680-49d7-a03a-e2fc71229f06",
+            "question": "1.43 The children ... ... ... ..for ten minutes .",
+            "answers": "have been fighting",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will be fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "wo n't be fighting",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7a85bfd2-89dd-4541-bf58-7eb83b417149",
+                    "distractor": "have been fighting",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9a6377be-4b65-44d0-a03f-49c1c70e49bf",
+                    "distractor": "had been fighting",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a5f010f2-db52-4391-947b-c1e3d2b70895",
+                    "distractor": "have broken the wall",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "78575409-a237-4d69-ba25-a8a9878a25f6",
+                    "distractor": "were crying",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "bbd5a531-1cd3-4611-be6c-796da46d8c32",
+                    "distractor": "are hardly hurting",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7bbe63d3-4897-446b-96d0-5dd77402be34",
+                    "distractor": "had slept",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "a62d7b9c-485e-4f2a-ab61-0c6f29bcd0dd",
+                    "distractor": "have not",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "6ae4ce6b-7deb-4b5a-8ff1-270b6d894a3c",
+                    "distractor": "are fighting",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2c2b62cc-5cb1-41f0-90f0-6476aa33f18d",
+                    "distractor": "have been trying",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d3c0797d-4635-4c95-aa18-f74ff8d3e1ed",
+                    "distractor": "had fighted",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b6155655-ab70-4039-932f-8fe6664638bf",
+            "question": "Complete la phrase suivante en choisissant le mode et le temps qui conviennent . My sister will call you when she ____________ close to arriving .",
+            "answers": "is",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "was",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will be",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d0df94ec-bbd7-4f35-b89c-df632acda974",
+                    "distractor": "komt",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ec7e07a9-316a-47c6-9478-cad42c95f4cd",
+                    "distractor": "is",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "da347a4b-fc72-4c68-a3d7-5de361fe72cf",
+                    "distractor": "arrive",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "6e65f4f1-021a-486d-afd5-110eeadbddf2",
+                    "distractor": "bes",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a571c5bf-e860-4f79-8cc4-81178b6ec161",
+                    "distractor": "was",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a0e82454-bb70-44bc-8bae-55b60022f53a",
+                    "distractor": "moet",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "8a3d86e3-e384-40d9-9e15-f93f224e26bc",
+                    "distractor": "had",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "49015575-2104-4c2b-97a7-79c0b0da4057",
+                    "distractor": "zou",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "53900e26-70f3-4409-ac80-8ee78d014ea1",
+                    "distractor": "kon",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "18258716-0311-465b-bfbc-163351796ada",
+                    "distractor": "zal",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c23fc2a5-c22e-48cf-8efb-283de3559906",
+            "question": "132 . The first white explorer ... ... ... ... ... ... ... ... ... . the far north of Australia was Ludwig Leichhardt , who was awarded the prize for geographic discovery by the Paris Geographical Society in 1847 , along with the French explorer Rochet d'Hericourt .",
+            "answers": "to reach",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "that he reached",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "reached",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "reaching it",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f52fc1ca-5aee-407b-b5c3-c0b63c7afbd9",
+                    "distractor": "reached",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "84c7875c-d89b-4d68-bb74-a270b503e21c",
+                    "distractor": "to reach",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e109a21e-a0a5-4671-b003-65a076f3801c",
+                    "distractor": "of this",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "dd588145-e704-4b5c-a6ef-b1f5d3c8d2fc",
+                    "distractor": "from that",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "cbac5827-d900-49cc-8adf-6f7a12a99afe",
+                    "distractor": "in order",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "65b68a51-beb2-42db-86ec-fd2c94a2d453",
+                    "distractor": "via",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "b7f05970-20a9-4bc4-a702-0cf2cba848cd",
+                    "distractor": "to find",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "aadaf7a1-a949-4616-86d1-67b6848d8bf0",
+                    "distractor": "on",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "296e0c3b-3d14-4870-9f9d-7bc3b925f47e",
+                    "distractor": "for that",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8b7268c4-647d-4ec3-b691-ea9202118d6b",
+                    "distractor": "with",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "cb5d8464-a6f5-4ad3-8a62-43acdd6bd7ad",
+            "question": "Multiple choice : indicate the correct missing word . Is the position of office assistant ... the position of office manager in the hierarchy of jobs here ?",
+            "answers": "below",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "underneath",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "behind",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "88da25fd-c375-469e-9cc0-8784a9de3cd3",
+                    "distractor": "above",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a04ef2e9-bb44-496e-8fbd-0b88bb0bd46b",
+                    "distractor": "ahead",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "4be553c1-ca59-47c3-8dde-66f6eb53a123",
+                    "distractor": "below",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "3550f7dd-55af-4d9d-b3cb-d94a8a5e10b4",
+                    "distractor": "over",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "054125f9-1907-491c-bc63-e022477a5b71",
+                    "distractor": "at",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9ee56576-0961-428d-bc9c-a88a869c1d64",
+                    "distractor": "in the top",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "33c03f8c-b428-4ae4-96bc-e1999ca4bdff",
+                    "distractor": "on the left",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d56f3bfc-51d2-4d09-9357-0e74083cd6e4",
+                    "distractor": "out of the right",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "fc980128-da3a-4edc-a475-e23aed88d68e",
+                    "distractor": "up",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8556b5b9-5c02-4826-a506-7c05f901a8de",
+                    "distractor": "upper",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b3b7a1d2-da1d-4261-83dc-95956f87cc51",
+            "question": "43 . The children ... ... ... ..for ten minutes .",
+            "answers": "have been fighting",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "are fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "will be fighting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "wo n't be fighting",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f7c5ded3-9514-44d1-8e32-873aadccbe31",
+                    "distractor": "have been fighting",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "55d8e53c-69a6-4ecb-8b38-14db4ffa302f",
+                    "distractor": "had fought",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0ff7ca6e-6a41-40af-9b4b-422c5f780ade",
+                    "distractor": "been fighting",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "20d26cc6-070b-4076-ba14-81b0d3f6e06d",
+                    "distractor": "were faught",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6d2b797d-2744-4b8e-b446-af020afd3f41",
+                    "distractor": "were lost",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "79fae924-87b1-4b15-a801-b0527f60df5b",
+                    "distractor": "has beating",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6661c17b-3c98-4787-bf0c-4920b9b6ada9",
+                    "distractor": "were bumping",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d9a08b2e-d9a5-4530-9917-9d23754c731e",
+                    "distractor": "had had to fight",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "aa74ae93-7240-4497-9534-0929375dc0f4",
+                    "distractor": "were being crying",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d9c764d5-9d70-4af4-8d0b-41a71c7258da",
+                    "distractor": "had not been cut off",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "28194dcf-c136-4b1b-9133-543f0a59ae0b",
+            "question": "This is some introduction Another introduction",
+            "answers": "Choice 1",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Choice 2",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "16e0b2cd-417d-4c86-b5e0-bbaa4ebb4a81",
+                    "distractor": "Choice 2",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "daed794f-ed64-4e0c-bc19-dfb15dea9291",
+                    "distractor": "Choice 3",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "2b3b2b99-6c8d-46d1-90b5-e6e4185adbae",
+                    "distractor": "Choice 4",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ff0e7333-3cc3-4b2a-9662-627f3ae23eb8",
+                    "distractor": "choice 4",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b4b55d75-e4ba-4373-be84-aa6101b816eb",
+                    "distractor": "choice 5",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "845af638-8212-41e6-865c-fa756ea48c91",
+                    "distractor": "choice 6",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "769947d2-bd75-4e38-b1ac-428a9239d858",
+                    "distractor": "choice 7",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "54fe69df-e6ca-490e-93ef-838988f90d7e",
+                    "distractor": "Choice 7",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "eb1d5982-c433-413a-9a9f-f36b577f9d87",
+                    "distractor": "choice 8",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6a74d81a-b125-42c2-89c4-065b34de65c2",
+                    "distractor": "choice 9",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f2690fe7-5784-4686-9f9c-4d032be7ac89",
+            "question": "1.15 ... ... ..do you call this machine ?",
+            "answers": "What",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Which",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "How",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Which name",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b6bc6611-a208-4129-896f-2917572e1a54",
+                    "distractor": "when",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "853b0142-fd76-4e44-88a7-09f63e326678",
+                    "distractor": "why",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e449f043-1cad-4f71-9a4c-3254924f501e",
+                    "distractor": "what",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "6fa1ef40-2772-4508-be8f-4b6a0fbabf33",
+                    "distractor": "who",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2e0a953e-b0dc-41b0-8075-6d2f3de02dce",
+                    "distractor": "how",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2627c350-ea6c-4ff6-b001-0f5195f308b1",
+                    "distractor": "do you know",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "afd351bd-d933-41cf-9900-ac1543f8f329",
+                    "distractor": "where",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "9286d04f-1e36-4cce-b2f6-3626780bb1a2",
+                    "distractor": "which",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8e36b27a-7e5e-469a-a5dc-d18adc788a9a",
+                    "distractor": "Where",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "c77c8eaf-5873-4212-afc9-21bc2f2cadb6",
+                    "distractor": "whatever",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c12c4e63-14f6-47d3-a410-e6ed3c0f46e8",
+            "question": "Which time indication expresses the PAST ? Welke tijdsaanduiding geeft het VERLEDEN aan ? Quelle indication de temps indique le PASSE ?",
+            "answers": "last week",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "next month",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "at the moment",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "every day",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a98726dc-0c4c-48b8-a4db-4226f6d975b6",
+                    "distractor": "week 1",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ea69896c-42c9-4568-8f2b-bb786ea3dcc2",
+                    "distractor": "het begin",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5e63ec12-c495-4772-aba5-bb8c6e27d1cc",
+                    "distractor": "week 2",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "cbb14ab1-568a-4389-b4c4-c0dc8e334319",
+                    "distractor": "eind",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9a4315d6-d6e0-46fc-b355-bc8a256ed005",
+                    "distractor": "maand 3",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "45e88bbd-3873-4cb4-8dad-97c080c7ed36",
+                    "distractor": "lente",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "de18ddd6-503a-41e0-9c48-5bb2087e12fd",
+                    "distractor": "maand 4",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7048a932-539a-4ce1-bbe8-2a0ae53e1caf",
+                    "distractor": "eerste week",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a7339f24-ed5e-42c5-8d1c-738da51dcbc4",
+                    "distractor": "maand 5",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f712e7aa-eda7-4071-bcdd-82796bd4fabe",
+                    "distractor": "de maand",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2ececec4-51de-4580-8262-3d03dadadbe7",
+            "question": "what 's 'Bourgogne ' in English ?",
+            "answers": "Burgundy",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Bourgondy",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Bourgundy",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "09c82708-98bc-4eaf-a2d0-ee4b17825bea",
+                    "distractor": "Burgundy",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "638d7a8c-62ec-4407-bae2-70497131bf94",
+                    "distractor": "Champagne",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5a6b00db-51b7-4c6c-9968-626ffb006c3b",
+                    "distractor": "gent",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a12f0ff9-3d7e-4e65-b3c8-5cee2f5de2a6",
+                    "distractor": "franklin",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "27a24b64-cdbd-4c39-a399-0cd0d5905d21",
+                    "distractor": "lille",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "0ac55aa8-4fdf-4271-aef4-47429d7a5974",
+                    "distractor": "brussel",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "f7359515-05fc-4be4-804d-966fc28336c2",
+                    "distractor": "la couronne",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c80a855f-3a75-4481-8478-dc207d04edba",
+                    "distractor": "toulouse",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "eda0ddf1-829c-4c81-ab3e-5d5330aa2718",
+                    "distractor": "roeselare 11.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "80eced35-6288-41d0-b79d-b731b1ceb43c",
+                    "distractor": "Burgundy 5",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "60b96181-3bfa-46bc-a382-d1d0f5b0d268",
+            "question": "Choose the opposite of the word in bold . He is the creditor . We owe money to him .",
+            "answers": "debtor",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "debit",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "debate",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "decay",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c2737dbd-a1ef-419d-9707-b96e2ccc51ef",
+                    "distractor": "creditor",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "63b78a50-5920-48b3-b2d6-5bff6ccfe3cb",
+                    "distractor": "debiteur",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "7b7ca1c5-0643-40a3-923d-8918a70fd314",
+                    "distractor": "adelaide",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "823e25e3-9fc3-48d6-a551-f64bd7622c95",
+                    "distractor": "debetaris",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "11dcfb20-8e6a-40d9-a6a3-e4c62f8c7401",
+                    "distractor": "adviser",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "d1e486c1-7c82-4156-b435-f0b012893644",
+                    "distractor": "debitoren",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "357af953-e015-4edf-98df-28e40be7a06e",
+                    "distractor": "contanter",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "ab50e171-bb99-45a0-99b3-a75a62ed4623",
+                    "distractor": "afnemer",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "edefce36-f702-42ea-b279-f91dd6f62f73",
+                    "distractor": "debitor",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "161c5624-36bd-4a41-afc3-3a2c7c1e73dc",
+                    "distractor": "debitator",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0bbe4a5e-14bc-4c93-b8a6-63a89e7dae8c",
+            "question": "Select the right word . I 'm pretty ... . up tomorrow afternoon . Would Wednesday morning be all right ?",
+            "answers": "tied",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "taken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "busy",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "fixed",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1e580699-15bd-4fdb-a8ea-15f0e313d826",
+                    "distractor": "signed",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "09c501cc-a9ad-4f88-86fc-71a86f16cc30",
+                    "distractor": "going out",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "a2170f28-06b2-48bf-be09-f92fa90675c7",
+                    "distractor": "is up",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "0492e8cb-1d2b-4f17-9f0f-cee8fe9f16f6",
+                    "distractor": "in",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "86503496-8cf0-41be-be7f-338d26e7c6e0",
+                    "distractor": "over",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "821ba0fa-6da1-4c8e-936a-495254c03b05",
+                    "distractor": "with",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "93436ad3-0a83-4c18-a658-14fb5beb7b79",
+                    "distractor": "on",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "9a90716b-5fe8-4b1a-aa81-c57baa4c6c2f",
+                    "distractor": "at",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "9e72fb5c-e839-475b-ad4d-479937cb131f",
+                    "distractor": "nowhere",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b99f31bb-99f2-41b1-94eb-d698eb08ecac",
+                    "distractor": "forgot",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "69b2bc69-2c21-4094-bcc7-c2a512e274e4",
+            "question": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! Go ... .",
+            "answers": "straight ahead ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ahead",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "on",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "ahead on",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "32a18e7e-7677-4c82-b396-9b4e39df637f",
+                    "distractor": "straight forward",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6ec016d9-3f5b-450d-bdb4-cc7a18a0e2f5",
+                    "distractor": "ahead",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "663924e3-119f-4d0d-a5d7-a4682ae1b761",
+                    "distractor": "straightforward",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "6499ee7d-a37f-4c08-be64-3bd8f5544fd7",
+                    "distractor": "straight down",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "bfb5f8ae-2ca7-4d00-87fd-b212dcc882e6",
+                    "distractor": "straight up",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "680e33d7-1290-4247-a0db-addaf7ee09ba",
+                    "distractor": "straight off",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "96e39af5-363e-4034-8212-873d966057ee",
+                    "distractor": "fast forward",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "f67a8e52-6c97-48e5-ab29-e6ed00932dce",
+                    "distractor": "slow",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b9de9ab5-d66c-42be-b960-99c74bf839ec",
+                    "distractor": "easy",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "51c5be33-1993-43ac-bfbd-109116455381",
+                    "distractor": "swiftly",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c140538b-6683-4b35-b1c2-d52e73898b1f",
+            "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . I would like to _______________ our meeting to this Wednesday rather than next week , if that 's alright with you .",
+            "answers": "back up",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "cross off",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "carry out",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "bring forward",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "I do n't know",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "646d1590-dcb6-4437-8818-00c982a4bad1",
+                    "distractor": "back down",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b66bf6a0-433e-4df0-ad79-d7ab792622f8",
+                    "distractor": "turn on",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "247d92f2-7ef4-450f-a9e5-43e6ff7221d1",
+                    "distractor": "lift down",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c8242587-0f1d-4f62-a72d-2154ad507656",
+                    "distractor": "tear up",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a1537323-29b4-425c-9ae8-acd6d10a7db0",
+                    "distractor": "jump in",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2867fe82-9c77-418f-acad-97a10cea600a",
+                    "distractor": "go off",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0f600036-a504-4a9d-87e4-111250a001fc",
+                    "distractor": "no",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "6decfda2-66d8-4931-a4b7-8f2806101409",
+                    "distractor": "toutes les reponses",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "007fa9ce-8e94-4e0c-ae52-030638b3bc71",
+                    "distractor": "went to school",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0efddf54-723b-4608-8eeb-637b248facfd",
+                    "distractor": "go shopping",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9f80961b-397c-4542-b0b9-cb6180ccdfa4",
+            "question": "Complete with the right idiom ( Moni Arora ) In this age of rising electric bills everyone is _________ the pinch . Unfortunately , too many people think that rising utility cost is just a fact of life that can not be changed .",
+            "answers": "feeling",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "sweating",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "getting",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "hearing",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6f825848-3803-4e69-8106-eebf85a1e2a6",
+                    "distractor": "feelings",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "fb670cf7-a833-4faa-9dc6-89661840dc0f",
+                    "distractor": "know",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d4852aa0-91f5-4a9c-957f-af028ae0b89b",
+                    "distractor": "believe",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ef0bdc34-c42b-4d9b-84a6-0170acfd3031",
+                    "distractor": "think",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "fd61d368-47ad-46f8-87ce-72e44b0c540a",
+                    "distractor": "get",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b65ea789-aa09-4412-b671-ab8c1a4bb216",
+                    "distractor": "have",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9546a7e2-fc13-4cb4-b090-c586d3c9f150",
+                    "distractor": "heard",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d91bd6b5-a55f-4eee-9370-98905adeab45",
+                    "distractor": "feel",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "15a4f103-f7cc-4942-b461-e9211cbd3504",
+                    "distractor": "are",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7f955965-b750-404a-b4a3-a03215b79070",
+                    "distractor": "can",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

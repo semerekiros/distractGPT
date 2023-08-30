@@ -1,0 +1,130 @@
+{
+    "qid": "888e1bc5-d9c4-4a43-b582-9982b2698962",
+    "response": {
+        "Query": "Wie was dus in staat om de meest voordelige ruil te doen ?",
+        "Result": [
+            {
+                "answer": "De werkgever",
+                "answer_length": 2,
+                "distractors": [
+                    "De overheid",
+                    "De verzekeraar",
+                    "De verzekeringsbemiddelaar"
+                ],
+                "language": "nl",
+                "question": "Wie heeft de plicht om de aangeslotenen van een beroepsgebonden hospitalisatieverzekering te informeren over hun individueel voortzettingsrecht ?",
+                "question_length": 18,
+                "score": 0.9577711013180941
+            },
+            {
+                "answer": "Enkel in geval 2",
+                "answer_length": 4,
+                "distractors": [
+                    "In beide gevallen",
+                    "Enkel in geval 1",
+                    "In geen van beide gevallen"
+                ],
+                "language": "nl",
+                "question": "In welke gevallen zal de verzekeraar B.A . Prive-leven van mr. en mevr . Janssens de gebroken vaas vergoeden .",
+                "question_length": 20,
+                "score": 0.9494607138284659
+            },
+            {
+                "answer": "De anesthesist",
+                "answer_length": 2,
+                "distractors": [
+                    "De chirurg"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Wie ontslaat in ons ziekenhuis de patient uit de recovery ?",
+                "question_length": 17,
+                "score": 0.9449704408422422
+            },
+            {
+                "answer": "misdrijven ",
+                "answer_length": 1,
+                "distractors": [
+                    "geschillen tussen 2 handelaren ",
+                    "geschillen tussen buren ",
+                    "voorlopige maatregelen tussen echtgenoten "
+                ],
+                "language": "nl",
+                "question": "Voor welk geschil is de vrederechter helemaal niet bevoegd ? Voor ...",
+                "question_length": 12,
+                "score": 0.9433071512490121
+            },
+            {
+                "answer": "Het Belgisch Gemeenschappelijk Waarborgfonds",
+                "answer_length": 4,
+                "distractors": [
+                    "Assuralia",
+                    "Het Tarificatiebureau Auto"
+                ],
+                "language": "nl",
+                "question": "De aansprakelijke persoon weigert een aangifte te doen van een verkeersongeval met een motorrijtuig . Bij wie kan het slachtoffer terecht om de identiteit te kennen van zijn verzekeraar BA Motorrijtuigen ?",
+                "question_length": 32,
+                "score": 0.9422661498847206
+            },
+            {
+                "answer": "De technieker van de aannemer ",
+                "answer_length": 5,
+                "distractors": [
+                    "De opdrachtgever "
+                ],
+                "language": "nl",
+                "question": "Iedereen heeft zijn verantwoordelijkheden : de eigenaar , de installatieverantwoordelijke , de werkverantwoordelijke en de werknemer . Wie moet er BA4-5 gekwalificeerd zijn bij werken aan een elektriciteitsinstallatie uitgevoerd door een aannemer ?",
+                "question_length": 33,
+                "score": 0.9350023711299695
+            },
+            {
+                "answer": "Le chef de corps",
+                "answer_length": 4,
+                "distractors": [
+                    "Le bourgmestre",
+                    "Le conseil zonal de securite"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse . Qui a une vue operationnelle journaliere du corps de police locale ?",
+                "question_length": 17,
+                "score": 0.9292896593214381
+            },
+            {
+                "answer": "Een leverancier",
+                "answer_length": 2,
+                "distractors": [
+                    "De bouwheer",
+                    "Het studiebureau",
+                    "Het stabiliteitsbureau"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wie heeft er geen verzekerbaar belang ?",
+                "question_length": 13,
+                "score": 0.9271894430888684
+            },
+            {
+                "answer": "verzekeringsbemiddelaar ",
+                "answer_length": 1,
+                "distractors": [
+                    "bank ",
+                    "consumentenkredietbemiddelaar ",
+                    "hypothecaire kredietbemiddelaar "
+                ],
+                "language": "nl",
+                "question": "Voor welke geschillen is 'Ombudsfin ' NIET bevoegd ? Een geschil tussen een consument ( klant ) en een ...",
+                "question_length": 20,
+                "score": 0.9228632218861543
+            },
+            {
+                "answer": "Oui , c'est obligatoire",
+                "answer_length": 4,
+                "distractors": [
+                    "Non , c'est facultatif"
+                ],
+                "language": "fr",
+                "question": "A partir de la situation de Karine , indiquer si le CHSCT est obligatoire dans son entreprise .",
+                "question_length": 18,
+                "score": 0.919188376714142
+            }
+        ]
+    }
+}

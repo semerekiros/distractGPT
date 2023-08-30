@@ -1,0 +1,5 @@
+{
+    "qid": "de034996-121c-4df3-b4f2-07fc9c9dc9da",
+    "input": "Duid het juiste antwoord aan.\n\nWat zal er gebeuren met de ijsblokjes als je je glas water in de zon laat staan? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Ze zullen smelten.\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. ze smelten\n2. ze zullen smelten\n3. ze zal het blad bepalen\n4. ze kleven\n5. ze branden\n6. ze breken\n7. ze\n8. ze zal smelten\n9. ze zal drogen\n10. ze zakken"
+}

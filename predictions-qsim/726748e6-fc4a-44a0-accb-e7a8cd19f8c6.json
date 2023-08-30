@@ -1,0 +1,124 @@
+{
+    "qid": "726748e6-fc4a-44a0-accb-e7a8cd19f8c6",
+    "response": {
+        "Query": "Choisis la bonne traduction . Je ne rate pas d'emission sur TF1 .",
+        "Result": [
+            {
+                "answer": "missen",
+                "answer_length": 1,
+                "distractors": [
+                    "opnemen"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne traduction . Je ne rate pas d'emission sur TF1 .",
+                "question_length": 13,
+                "score": 0.7695401594864502
+            },
+            {
+                "answer": "une hotesse de l'air",
+                "answer_length": 4,
+                "distractors": [
+                    "un steward",
+                    "un pilote"
+                ],
+                "language": "fr",
+                "question": "Indique la bonne reponse . een stewardess",
+                "question_length": 7,
+                "score": 0.7341451519162793
+            },
+            {
+                "answer": "missen",
+                "answer_length": 1,
+                "distractors": [
+                    "opnemen"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne traduction . Je ne rate pas une emission sur TF1 .",
+                "question_length": 14,
+                "score": 0.730075146633344
+            },
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Juist"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Een droog wondje op de hand moet niet afgedekt worden tijdens de zorgverlening .",
+                "question_length": 20,
+                "score": 0.6938566055808242
+            },
+            {
+                "answer": "ja",
+                "answer_length": 1,
+                "distractors": [
+                    "neen",
+                    "weet ik niet"
+                ],
+                "language": "nl",
+                "question": "Finn schiet goed op met zijn broer en zus .",
+                "question_length": 10,
+                "score": 0.6601926646417592
+            },
+            {
+                "answer": "I boodschappen geven ",
+                "answer_length": 3,
+                "distractors": [
+                    "Geef de klant altijd gelijk "
+                ],
+                "language": "nl",
+                "question": "Wat doe je als een klant agressief is ?",
+                "question_length": 9,
+                "score": 0.5531775545114311
+            },
+            {
+                "answer": "Ik vraag om niet reageren ",
+                "answer_length": 5,
+                "distractors": [
+                    "Ik vraag niet te reageren ",
+                    "Reageer niet "
+                ],
+                "language": "nl",
+                "question": "Ou se trouve la faute ? Where is the mistake ? vragen = demander/to ask",
+                "question_length": 15,
+                "score": 0.5470741872466917
+            },
+            {
+                "answer": "nee",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Zal ik de schade moeten vergoeden ?",
+                "question_length": 13,
+                "score": 0.5413442392298871
+            },
+            {
+                "answer": "gisteren",
+                "answer_length": 1,
+                "distractors": [
+                    "eergisteren",
+                    "vandaag",
+                    "morgen",
+                    "overmorgen"
+                ],
+                "language": "nl",
+                "question": "Regarde le programme du festival . On est samedi . Coche la bonne reponse . ... was het vrijdag .",
+                "question_length": 20,
+                "score": 0.5329334968941913
+            },
+            {
+                "answer": "Nee",
+                "answer_length": 1,
+                "distractors": [
+                    "Ja"
+                ],
+                "language": "nl",
+                "question": "Moto - Als de verzekerde een contract Top Voertuig met Stoffelijke schade heeft onderschreven , wordt hij dan altijd vergoed als een dergelijk ongeval zich voordoet ?",
+                "question_length": 27,
+                "score": 0.5241678147170472
+            }
+        ]
+    }
+}

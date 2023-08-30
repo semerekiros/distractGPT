@@ -1,0 +1,5 @@
+{
+    "qid": "305f4810-9758-4da7-8fad-35b04528b3de",
+    "input": "vraag: Wat is de hoofdstad van Itali\u00eb?\nantwoord: Rome\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "1. Florence\n2. Milan\n3. Venice\n4. Naples\n5. Turin\n6. Bologna\n7. Genoa\n8. Palermo\n9. Verona\n10. Pisa\n11. Siena\n12. Como\n13. Trieste\n14. Padua\n15. Trento\n16. Bergamo\n17. Modena\n18. Ravenna\n19. Udine\n20. Parma"
+}

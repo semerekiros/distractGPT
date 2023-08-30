@@ -1,0 +1,5 @@
+{
+    "qid": "a4e3ff34-bb94-4de7-9bb4-f2030dc210e7",
+    "input": "l'adjectif d'ete ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. estival\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. estive\n2. aout\n3. septembre\n4. janvier\n5. toutes les reponses sont correctes\n6. juli\n7. aucune des reponses n'est correcte\n8. printemps\n9. ne souhaite pas repondre\n10. automne"
+}

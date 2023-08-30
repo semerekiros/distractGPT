@@ -1,0 +1,134 @@
+{
+    "qid": "1a6b27c4-2337-48b6-a051-3259f9bea546",
+    "response": {
+        "Query": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you offer .",
+        "Result": [
+            {
+                "answer": "would",
+                "answer_length": 1,
+                "distractors": [
+                    "do",
+                    "should",
+                    "have to"
+                ],
+                "language": "en",
+                "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you offer .",
+                "question_length": 26,
+                "score": 0.8957526178428051
+            },
+            {
+                "answer": "would",
+                "answer_length": 1,
+                "distractors": [
+                    "do",
+                    "should",
+                    "have to"
+                ],
+                "language": "en",
+                "question": "Choose the correct verb . As we intend to place a substantial order , we ... .. like to know what quantity discounts you allow .",
+                "question_length": 26,
+                "score": 0.8750304901799977
+            },
+            {
+                "answer": "must not",
+                "answer_length": 2,
+                "distractors": [
+                    "do not have to",
+                    "should not"
+                ],
+                "language": "en",
+                "question": "Choose the correct word . Selectionnez le mot correct . Kies het juiste woord . A flight attendant is explaining some rules to the passengers . Passengers ... smoke during the entire flight .",
+                "question_length": 34,
+                "score": 0.8413968375910388
+            },
+            {
+                "answer": "can",
+                "answer_length": 1,
+                "distractors": [
+                    "must",
+                    "should",
+                    "would"
+                ],
+                "language": "en",
+                "question": "Choose the correct modal verb ! You want to stress door-to-door deliveries are possible . We ... ... offer door-to-door delivery services .",
+                "question_length": 23,
+                "score": 0.8286104926809977
+            },
+            {
+                "answer": "must",
+                "answer_length": 1,
+                "distractors": [
+                    "had to",
+                    "has to",
+                    "can"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate modal verb expressing POSITIVE LOGICAL DEDUCTION ! The money was sent a week ago . It ... .. have arrived by now .",
+                "question_length": 26,
+                "score": 0.820027133177888
+            },
+            {
+                "answer": "are",
+                "answer_length": 1,
+                "distractors": [
+                    "am",
+                    "is"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . They ... my grandparents .",
+                "question_length": 10,
+                "score": 0.8189327056023501
+            },
+            {
+                "answer": "may",
+                "answer_length": 1,
+                "distractors": [
+                    "should",
+                    "must",
+                    "have to"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate modal verb expressing POSSIBILITY ! to land ( here ) = informal English = to finally succeed in getting a job , contract , or deal : e.g . Kelly 's landed a job with a big law firm . With a little luck we ... .. land the contract .",
+                "question_length": 54,
+                "score": 0.8151252489139251
+            },
+            {
+                "answer": "might",
+                "answer_length": 1,
+                "distractors": [
+                    "should",
+                    "can",
+                    "will"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate modal verb expressing FUTURE POSSIBILITY ! Because of the health risk we ... .. have to review safety procedures .",
+                "question_length": 23,
+                "score": 0.8118784382719374
+            },
+            {
+                "answer": "disturb",
+                "answer_length": 1,
+                "distractors": [
+                    "discuss",
+                    "divert",
+                    "diminish"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . She is in a meeting . I can not ... her now .",
+                "question_length": 18,
+                "score": 0.8047731332738728
+            },
+            {
+                "answer": "may not",
+                "answer_length": 2,
+                "distractors": [
+                    "do not have to"
+                ],
+                "language": "en",
+                "question": "For each of the following sentences , choose the best alternative to complete the sentence . Company policy : you ... to walk into this area without a hard hat .",
+                "question_length": 31,
+                "score": 0.79860437723877
+            }
+        ]
+    }
+}

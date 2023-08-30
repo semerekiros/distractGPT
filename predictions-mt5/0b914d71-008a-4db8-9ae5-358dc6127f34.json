@@ -1,0 +1,5 @@
+{
+    "qid": "0b914d71-008a-4db8-9ae5-358dc6127f34",
+    "input": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Saint-Veran , la commune la plus haute de France , est a 2046 metres [ d'/de ] ... .. . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. altitude\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. altitude\n2. longueur\n3. d'altitude\n4. alliteratie\n5. hauteur\n6. etendue\n7. desnivelement\n8. desplacements\n9. somme\n10. altitudes"
+}

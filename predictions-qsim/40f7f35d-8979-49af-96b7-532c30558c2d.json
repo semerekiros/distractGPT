@@ -1,0 +1,139 @@
+{
+    "qid": "40f7f35d-8979-49af-96b7-532c30558c2d",
+    "response": {
+        "Query": "Hoeveel oceanen zijn er?",
+        "Result": [
+            {
+                "answer": "2 50",
+                "answer_length": 2,
+                "distractors": [
+                    "25",
+                    "50 - 75",
+                    "7 100"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoeveel oligo - elementen komen er in ons lichaam voor ?",
+                "question_length": 18,
+                "score": 0.8551303319475348
+            },
+            {
+                "answer": "20.000",
+                "answer_length": 1,
+                "distractors": [
+                    "3500",
+                    "30.000",
+                    "10.000"
+                ],
+                "language": "nl",
+                "question": "Hoeveel banen schrapt dit bedrijf ?",
+                "question_length": 6,
+                "score": 0.6959417738313896
+            },
+            {
+                "answer": "2 soorten atomen",
+                "answer_length": 3,
+                "distractors": [
+                    "1 soort atomen",
+                    "7 soorten atomen",
+                    "13 soorten atomen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Hoeveel soorten atomen kan je herkennen in het deeltjesmodel van de stof ' koolstofdioxide ( CO & # 8322 ; ) ' ?",
+                "question_length": 34,
+                "score": 0.6886447548203155
+            },
+            {
+                "answer": "Austrailia",
+                "answer_length": 1,
+                "distractors": [
+                    "Africa",
+                    "Europe",
+                    "South America",
+                    "Asia",
+                    "Antartica",
+                    "North America"
+                ],
+                "language": "en",
+                "question": "Select the correct answer Where is Dante 's HQ ?",
+                "question_length": 10,
+                "score": 0.6567798681048163
+            },
+            {
+                "answer": "3 atomen",
+                "answer_length": 2,
+                "distractors": [
+                    "2 atomen",
+                    "4 atomen",
+                    "6 atomen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Hoeveel atomen telt een molecule koolstofdioxide ( CO & # 8322 ; ) ?",
+                "question_length": 25,
+                "score": 0.5833089438675285
+            },
+            {
+                "answer": "Switch",
+                "answer_length": 1,
+                "distractors": [
+                    "Main switch",
+                    "Power switch"
+                ],
+                "language": "en",
+                "question": "What is in position 2 ?",
+                "question_length": 6,
+                "score": 0.5783135937649267
+            },
+            {
+                "answer": "4 atomen",
+                "answer_length": 2,
+                "distractors": [
+                    "2 atomen",
+                    "6 atomen",
+                    "8 atomen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Hoeveel atomen bevinden zich in twee moleculen zuurstofgas ( O & # 8322 ; -gas ) ?",
+                "question_length": 28,
+                "score": 0.5754352390272803
+            },
+            {
+                "answer": "56",
+                "answer_length": 1,
+                "distractors": [
+                    "4",
+                    "30",
+                    "26"
+                ],
+                "language": "nl",
+                "question": "Een nuclide van isotoop X is opgebouwd uit 30 neutronen en 26 protonen . Hoeveel kerndeeltjes bevat X ?",
+                "question_length": 19,
+                "score": 0.5619682717159794
+            },
+            {
+                "answer": "6",
+                "answer_length": 1,
+                "distractors": [
+                    "9",
+                    "15",
+                    "30"
+                ],
+                "language": "nl",
+                "question": "Bekijk de opdrachten . Hoeveel orders zijn er al toegewezen in de Adolf De Landtsheerstraat ?",
+                "question_length": 16,
+                "score": 0.44184081827490357
+            },
+            {
+                "answer": "4",
+                "answer_length": 1,
+                "distractors": [
+                    "5",
+                    "11"
+                ],
+                "language": "en",
+                "question": "What is 2 + 2 ?",
+                "question_length": 6,
+                "score": 0.4185722330136797
+            }
+        ]
+    }
+}

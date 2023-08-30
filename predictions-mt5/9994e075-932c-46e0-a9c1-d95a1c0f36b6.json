@@ -1,0 +1,5 @@
+{
+    "qid": "9994e075-932c-46e0-a9c1-d95a1c0f36b6",
+    "input": "Welk mineraal is er aanwezig in het bloed van elke gezonde mens? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. ijzer\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. koolstofdioxide\n2. vezel\n3. magnesium\n4. kalium\n5. ijzerzuur\n6. koper\n7. eiwitten\n8. calcium\n9. jodium\n10. kobalt"
+}

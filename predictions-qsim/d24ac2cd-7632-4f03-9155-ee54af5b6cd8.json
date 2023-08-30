@@ -1,0 +1,129 @@
+{
+    "qid": "d24ac2cd-7632-4f03-9155-ee54af5b6cd8",
+    "response": {
+        "Query": "Wat is een ander woord voor de iris, de gekleurde vlek in het midden van het oog?",
+        "Result": [
+            {
+                "answer": "Dat is de Mororeflex",
+                "answer_length": 4,
+                "distractors": [
+                    "Dat is de Babinskireflex",
+                    "Dat is de grijpreflex"
+                ],
+                "language": "nl",
+                "question": "Hoe wordt de reflex genoemd die we zien als een baby schrikt , of als z ' n hoofdje een plotse beweging maakt ? Daarbij worden zijn armpjes en handjes open gegooid en daarna weer snel gesloten .",
+                "question_length": 38,
+                "score": 0.9505815428533065
+            },
+            {
+                "answer": "Dat is de Mororeflex ",
+                "answer_length": 4,
+                "distractors": [
+                    "Dat is de Babinskireflex ",
+                    "Dat is de grijpreflex "
+                ],
+                "language": "nl",
+                "question": "Hoe wordt de reflex genoemd die we zien als een baby schrikt , of als z ' n hoofdje een plotse beweging maakt ? Daarbij worden zijn armpjes en handjes opengegooid en daarna weer snel gesloten .",
+                "question_length": 37,
+                "score": 0.9438551359730362
+            },
+            {
+                "answer": "Methicilline resistente Staphylococcus aureus",
+                "answer_length": 4,
+                "distractors": [
+                    "Multiresistente Staphylococcus aureus"
+                ],
+                "language": "nl",
+                "question": "Waarvoor staat MRSA ? Duid het juiste antwoord aan .",
+                "question_length": 10,
+                "score": 0.9229999210556825
+            },
+            {
+                "answer": "Zoet",
+                "answer_length": 1,
+                "distractors": [
+                    "Zuur",
+                    "Zout",
+                    "Bitter"
+                ],
+                "language": "nl",
+                "question": "Meerkeuze oefening . Welke indruk geeft alcohol in de mond :",
+                "question_length": 11,
+                "score": 0.9069915711053819
+            },
+            {
+                "answer": "bio compatibiliteit",
+                "answer_length": 2,
+                "distractors": [
+                    "bio actief",
+                    "bio dynamisch"
+                ],
+                "language": "nl",
+                "question": "Het membraan mag geen reactie hebben met het bloed , geen absorptie vertonen noch mogen er eiwitten kleven aan de wand . Dit heet verenigbaarheid . Ken jij een synoniem voor verenigbaarheid ? Duid hieronder het correcte antwoord aan .",
+                "question_length": 40,
+                "score": 0.889353459507873
+            },
+            {
+                "answer": "Juist antwoord",
+                "answer_length": 2,
+                "distractors": [
+                    "Fout antwoord",
+                    "Fout antwoord"
+                ],
+                "language": "nl",
+                "question": "Dit is de vraag",
+                "question_length": 4,
+                "score": 0.8834980261807632
+            },
+            {
+                "answer": "Keuze 2",
+                "answer_length": 2,
+                "distractors": [
+                    "Keuze 1",
+                    "Keuze 3",
+                    "Keuze 4"
+                ],
+                "language": "wa",
+                "question": "opgave",
+                "question_length": 1,
+                "score": 0.8628032283545404
+            },
+            {
+                "answer": "Isolator",
+                "answer_length": 1,
+                "distractors": [
+                    "Geleider"
+                ],
+                "language": "nl",
+                "question": "Is dit materiaal een geleider of isolator voor de elektrische stroom ?",
+                "question_length": 12,
+                "score": 0.8373868537856205
+            },
+            {
+                "answer": "Een zeilwedstrijd rond de wereld ",
+                "answer_length": 5,
+                "distractors": [
+                    "Een cruise rond de aarde ",
+                    "Een beroemde zeiltocht voor touristen "
+                ],
+                "language": "nl",
+                "question": "Wat is de `` Vendee Globe '' ? video",
+                "question_length": 9,
+                "score": 0.829345342860626
+            },
+            {
+                "answer": "Rotten van fruit ",
+                "answer_length": 3,
+                "distractors": [
+                    "Mengen van verf ",
+                    "Smelten van ijs ",
+                    "Oplossen van suiker in koffie "
+                ],
+                "language": "nl",
+                "question": "In welk van onderstaande gevallen spreek je van een chemische reactie ?",
+                "question_length": 12,
+                "score": 0.7916744479984592
+            }
+        ]
+    }
+}

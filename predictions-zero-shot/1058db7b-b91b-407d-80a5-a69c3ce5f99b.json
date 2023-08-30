@@ -1,0 +1,5 @@
+{
+    "qid": "1058db7b-b91b-407d-80a5-a69c3ce5f99b",
+    "input": "vraag: Sommige drugs zijn verdovend, andere zijn stimulerend en geven de gebruiker een kick. Welke van deze drugs zijn stimulerend?\nantwoord 1: speed\nantwoord 2: coca\u00efne\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Koffie \n2. Vitamine C pillen \n3. Pepermuntjes \n4. Aspirine \n5. Water \n6. Muntthee \n7. Gemberthee \n8. Olijfolie \n9. Oregano \n10. Kamillethee \n11. Rozijnen \n12. Pure chocolade \n13. Kaneel \n14. Ginkgo Biloba supplementen \n15. Goudsbloem \n16. Yerba mate \n17. Agave nectar \n18. Tomatensap \n19. Rozemarijn \n20. Appelsap"
+}

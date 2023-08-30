@@ -1,0 +1,4067 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "french.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "1a76f718-2448-4623-bf2f-6ca3926d44dd",
+            "question": "'degager ' un arome signifie ...",
+            "answers": "le repandre",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "le creer",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "le sentir",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7e07067c-b107-4c87-bd56-8bb47a194043",
+                    "distractor": "l'eau",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d63f92f0-aefb-4cb0-8c78-bcc50e8ba904",
+                    "distractor": "l'epice",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6df1a151-4c23-4065-b17b-026e85098857",
+                    "distractor": "le repasser",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "db51f60a-e6f9-400f-b70b-1741fcb53251",
+                    "distractor": "le vin",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "78a7af1e-0856-4753-9144-37ff4ce2eda1",
+                    "distractor": "la tartine",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "26827130-947d-496d-865a-c399530201bd",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0f92bed2-ddd5-4acd-b3d7-ef8b1734f747",
+                    "distractor": "les crevettes",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "08f1aa2f-5ec8-4eaa-8928-a913d0ec0ba1",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "1bf37172-fe7d-46bb-abf5-62fe9818c4a1",
+                    "distractor": "toutes les les reponses",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ac9a0524-b9fd-49b6-b5eb-58be54a963ef",
+                    "distractor": "le rasoir",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "30808001-7b4a-48f5-a7ae-6a6deed00c99",
+            "question": "Lis les phrases . Indique les mots remplaces par \u00ab en \u00bb . Apres ton match de tennis , tu en veux plusieurs .",
+            "answers": "des boissons fraiches",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "les boissons fraiches",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f2fc6ec1-3af3-412d-a97c-4e3d5598da1b",
+                    "distractor": "du vin",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d62ad4b6-e04f-405e-b331-18cc6327908e",
+                    "distractor": "une salade",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "eaefd358-6c9f-4da2-98d0-f560329e2a45",
+                    "distractor": "de l'eau",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "6d50c08f-59c1-4963-a48a-8ba65a95d4b0",
+                    "distractor": "des friandises",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a4417df6-76d2-4bc9-a6dd-5e0a671498e7",
+                    "distractor": "des fruits",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "24e60f45-b4c7-4ce7-adfa-0e0a8aeb02b3",
+                    "distractor": "un chocolat",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "be7366e8-cfd3-4386-8259-09c9b972276e",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "dd833807-2b5f-4d42-a024-7393cd4e3b54",
+                    "distractor": "tout ce qui precede",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "54ac1501-905c-45bd-ac3e-37e6909b1673",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "1ebe0c9d-4a6c-44db-bbee-76f3e42c11e4",
+                    "distractor": "aucune reponse",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7d1c6f15-30a0-4d49-a149-a01707d1703f",
+            "question": "... est le photopigment present dans les batonnets et les cones de l'oeil .",
+            "answers": "Cis -retinal",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Carotene",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Photochrome",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Chlorophylle",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "336960bd-6414-44ae-b3e9-dfe2602a4fa9",
+                    "distractor": "cis -aortal",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "2dcb5082-726e-460e-b242-f443dcf996dd",
+                    "distractor": "cis -maculale",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f17165fd-4b41-4f0f-8745-d1e168443f77",
+                    "distractor": "cis etetal",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c2daab8c-c49a-4f20-afa7-521c7735d072",
+                    "distractor": "cataract",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "82e3b5c5-48ed-4ea8-8956-8f776284b824",
+                    "distractor": "ci -aortal",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "bf86c4ab-b072-4c1d-9f97-26327de17591",
+                    "distractor": "fistula",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1e1cae93-53b9-4e52-8313-e4493ff8facb",
+                    "distractor": "isopedale",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "2b543920-91cc-4b26-9038-1994f37576e4",
+                    "distractor": "esternal 8.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d47dd4e3-ff2c-4a37-a9e8-30a58576ce3a",
+                    "distractor": "cis-iris",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "421b3ce7-e8c7-4b71-af7f-bbb7202a5806",
+                    "distractor": "cs - iris",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9da29b19-6374-4ad2-9a2e-40a0cb28f1f3",
+            "question": "Poser sa candidature : choisissez le mot approprie een vacature",
+            "answers": "une vacance",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "une vacation",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f1c9d1f7-1e32-4d63-81e7-6aaeb80718cf",
+                    "distractor": "un contrat",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c63c99ba-bb2f-4de6-95c3-83c57d53ce27",
+                    "distractor": "un placement",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "608c337f-566e-4908-83e4-ff6c080bcddd",
+                    "distractor": "une offre",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "26d504c1-4edf-410e-b730-f41993d1c8ca",
+                    "distractor": "une location",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "eeb480d4-017a-4af6-83b8-47fab976f4af",
+                    "distractor": "la depose",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "cfafac23-b66e-4b04-b19b-21792b546ef8",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "45a6b982-8792-4393-9d03-7782e8e3c350",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "747e331f-457a-46f3-9339-0ea117808322",
+                    "distractor": "aucune des recette",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b84d40f9-b3ab-48bc-a431-933297de80b2",
+                    "distractor": "un emploi",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "90a56073-e39e-430a-b992-0083e3c6e98e",
+                    "distractor": "une assurance",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "49ae99c4-b959-4b5c-99d7-d349fb67de46",
+            "question": "Indicatif ou subjonctif ? Choisis le bon verbe . J'exigue que vous m ' ... !",
+            "answers": "aidiez",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "aidez",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "405d5b71-db69-4a14-a59b-051ce79f30cb",
+                    "distractor": "aidons",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "dd4c824d-9b27-4e31-93dc-7040d54c945c",
+                    "distractor": "aideons",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "7d951a4f-2ee5-482b-bfda-fd2b8d622ad6",
+                    "distractor": "aidions",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "45ccf5e9-f9e6-48be-bc9c-f1d1e0ce2162",
+                    "distractor": "adieu",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "8642f9fd-4779-4cbb-9bf0-f56b0a68533b",
+                    "distractor": "airiez",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "97a56ee7-f9a8-42f7-9315-6869fe0ee3bf",
+                    "distractor": "aimiez",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "46ac869e-9191-4b84-bde5-b7f5bd3af10b",
+                    "distractor": "invitez",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "517eb16f-588b-41a6-9548-9198b076ff7d",
+                    "distractor": "alliez",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d6563726-5767-4829-ab0d-693b648503b1",
+                    "distractor": "ayerais",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a373f13d-964d-48c4-a8d6-521ef767a722",
+                    "distractor": "assisterez",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "878c87ab-388a-4670-841e-08f015570ae3",
+            "question": "Choisis la bonne forme . ... beau cadeau",
+            "answers": "ton",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ta",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "dd4fc886-39dd-4c58-a81d-3afd03e39e6a",
+                    "distractor": "le",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4bbe5dc6-9803-4f8e-908a-32ddd7f3ede3",
+                    "distractor": "cette",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "988b2da5-ec61-404d-ba3b-046e7f57c30a",
+                    "distractor": "la",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8a58aa63-7fce-435d-a48d-d1d3bbfdc371",
+                    "distractor": "l'",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "750365d7-472f-4a31-9d7b-341cc6b09192",
+                    "distractor": "son",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "44c30a47-4edb-4639-b4dc-5ac49824a5c1",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c9b5749d-3ea9-4565-b73a-b42e0bcb6295",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e0a753ee-0271-4526-8e6b-cf92fac6648b",
+                    "distractor": "aucune des repondences",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "12909ab1-b711-4372-91a9-42ccc703925d",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d5edc98d-45e4-4293-aca9-6f995d0b7dad",
+                    "distractor": "ne so",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "aec5e9a4-39ea-465d-91ba-1fe6e4e6556c",
+            "question": "Indiquez l'adjectif possessif correct . Il veut battre ... record .",
+            "answers": "son",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "sa",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "ses",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9908db00-b05c-477f-8619-82dfc8be2821",
+                    "distractor": "il",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "309d067e-bbf9-42b5-a0dd-742f4efa00ce",
+                    "distractor": "aucun",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "44a7b893-572c-46cd-8f42-53530036c190",
+                    "distractor": "la",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "3c7e22c5-4102-4d14-82de-bdfdc8352a0b",
+                    "distractor": "aucune",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "3683e8b5-91c1-4953-9559-c81a85a28e54",
+                    "distractor": "l'",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "dc0cb03e-0c18-4143-9f37-2205857bbb20",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "fd2ccb64-9889-42c7-8c07-bb1fc7267d86",
+                    "distractor": "ensuite",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "902e47d3-1ec1-4515-ad07-1a05eed5d8f2",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "9eaf6c85-22cd-45eb-8108-4e8ceeaf2509",
+                    "distractor": "demain",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f3eed301-8b0a-4dc2-ab1e-fbf67ffae282",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8106801e-0883-4b36-8c34-8f9da9feba18",
+            "question": "Personne n'________________ reserve cette chambre d'hotel .",
+            "answers": "aurait",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "avait",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "a",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "476fe1e5-9af5-4973-8a45-9642c4c1268e",
+                    "distractor": "aurais",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "5aed73dc-9e18-4649-af21-c252e72b6662",
+                    "distractor": "autant",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "865394d9-cfdc-4603-9348-1a04cf677eb0",
+                    "distractor": "aurait",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c14b824d-efcc-4422-b710-bed5424002f6",
+                    "distractor": "auraient",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7dc71198-936b-4294-9cb1-60f5f21c53af",
+                    "distractor": "etais",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a1d3441b-9c77-45d5-8b76-a57ae790866c",
+                    "distractor": "allai",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0d3c7e58-9feb-4fff-9edf-f59c433c4103",
+                    "distractor": "allais",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "68f33dd3-90cb-44b4-9425-3d73bc7f7c8d",
+                    "distractor": "allains",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5015d37f-1623-41be-97f5-205af7857fb5",
+                    "distractor": "avait",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7ed05ad4-9626-416e-ad14-bccbbf9b7126",
+                    "distractor": "avais",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "67720129-4b15-4299-a91d-0b94f4433a9d",
+            "question": "Que signifie cette locution latine ? Une reponse est possible . Quel est la traduction litterale de la locution latine et caetera ?",
+            "answers": "Et ainsi continue",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "En comptant bien",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Et les autres choses",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d6e5ce59-d29b-4d75-9806-8f08786e39a5",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6d6ea6f1-9149-4b96-8d5f-b25383bdbed2",
+                    "distractor": "ainsi faite",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "45b6080a-6a74-405b-b8bf-4fd71ca6bdbd",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8d57bd7b-0d21-419f-a886-8ad69d622c98",
+                    "distractor": "cette reponse est correcte",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f075444c-3331-4258-aaa0-b805826d38d8",
+                    "distractor": "puisque c'est irreproche",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "df5b25a9-2ed2-4fc6-b8b7-797e33eca2eb",
+                    "distractor": "toutes les repond",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "89c2023d-0544-449e-bea1-7e38040e5de8",
+                    "distractor": "et ainsi continue",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "a9929c3b-55b1-4487-a2a1-6a1c89223205",
+                    "distractor": "ainsi simple",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "eeb23c0e-d47f-4ff9-8004-065681bb22d1",
+                    "distractor": "et pourtant continue",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d06a7246-229c-488c-8fbf-9ff9cd36d8e5",
+                    "distractor": "c'est intime",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "e9db47a4-baa2-49fc-a6d6-be3c8d3e3739",
+            "question": "Devinettes . Qui suis-je ? Mettez une croix . Je suis un nombre pair et j'ai trois chiffres .",
+            "answers": "820",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "111",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "78",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "569",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "66",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "1540",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "df36c454-7bea-42c5-9a6e-a754f8e77e90",
+                    "distractor": "820",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "23e5fb00-c733-480d-a97c-e6114e285ddc",
+                    "distractor": "819",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "4bd22beb-57f7-4480-be38-9345032d196a",
+                    "distractor": "950",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "1c45f48c-a7d7-4eb5-9cb2-86bf430c1ab7",
+                    "distractor": "2000",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e7217a45-4ab7-4e30-8bec-9e0b9264f168",
+                    "distractor": "1260",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "52581878-cce2-47a4-8c14-e774f676cb96",
+                    "distractor": "1020",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4761b378-d801-4a8e-b41f-2318608450f3",
+                    "distractor": "1050",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "431f0f50-7487-4be0-a0a0-f0d2ec191b8d",
+                    "distractor": "1100",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "643a5a2e-e1b1-485b-9512-58b8304d3211",
+                    "distractor": "1200",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "510a13ba-57e3-427c-8150-2366dd49492f",
+                    "distractor": "1000",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "289b80cd-4277-49b1-8c29-cfe03329c988",
+            "question": "Lis et indique quel temps tu reconnais . Ferme la porte , Alain !",
+            "answers": "Imperatif",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Indicatif present",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Futur proche",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Passe recent",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Passe compose",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "838a2630-1381-4868-9563-bd2ff29b9728",
+                    "distractor": "imperatif",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "812f05da-7160-42d2-87ae-4c776a43cdee",
+                    "distractor": "parfait",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d9cd82fe-43e9-4620-85dd-ccbf2d494802",
+                    "distractor": "imperfecto",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "3ad3f068-667b-409f-b460-3f07d81aa079",
+                    "distractor": "passe recent",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5b9ad063-60dc-472c-b23f-f35328daa0d9",
+                    "distractor": "passif",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9b2b9cd8-a99c-4a07-a5f2-7a31190bf714",
+                    "distractor": "futur simple",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e55d7a17-1607-402c-b123-09231816d19a",
+                    "distractor": "futur progressif",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "455f24dc-59a1-402e-bdfc-6f22f65b6c51",
+                    "distractor": "temporaire",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5f9e8118-8ec3-4554-b2b0-aaf600a7290e",
+                    "distractor": "proactif",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "9d6c8903-9e25-470c-a0e0-c596d4799f06",
+                    "distractor": "indicatif",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0360e0af-bcd5-4e2a-ba26-63b2ba3da746",
+            "question": "Choisissez le synonyme du premier mot dans la liste suivante : courtoisie",
+            "answers": "galanterie",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "tranquillite",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "disponibilite",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "proprete",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "284348ba-c058-4fe4-b7a0-ca5da1c203e4",
+                    "distractor": "courtoisie",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3f64f282-b301-473b-bb98-b32e79ccd857",
+                    "distractor": "goedkoopheid",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "78b99756-96d9-472e-a501-bb26c5d41011",
+                    "distractor": "goedheidsbepaling",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2fafb8a3-0233-4ea9-a317-3904327cd1f0",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "c056899d-1ad2-4f82-8f19-878b766e5299",
+                    "distractor": "onverschilligheid",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "d28fb3e5-c24a-4491-a213-fa791bfaac2f",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7e1ba8cd-e06e-4087-95b5-ec02f249dda7",
+                    "distractor": "overmacht",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d3288d6b-3a79-4cec-b799-d2fc46505452",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "40314e8f-88a3-444a-95a4-e8856eee153b",
+                    "distractor": "lof",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "1745eef1-cd32-4fe3-bcaa-c188ce191180",
+                    "distractor": "laissez-",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a3058b70-5aef-4969-ab76-8881c5a22737",
+            "question": "Choisissez l'article correct . ... glace",
+            "answers": "une",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "un",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "055c4f92-5a98-49aa-a19f-e641825754ef",
+                    "distractor": "un",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c0dd946e-038c-44e0-be70-aedaee0390ba",
+                    "distractor": "une",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "4357175f-9b5f-4dd4-948e-8ae8f22c1a63",
+                    "distractor": "deux",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "5aec40cd-8940-4c9c-aaad-502c411500d0",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9d5298d7-234a-4edf-8240-7854f451757d",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "be661c88-2580-479f-90a7-641b324f7b65",
+                    "distractor": "aucune des remarques n'est",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d1f9f344-9104-4cc8-a464-7b7785558ac3",
+                    "distractor": "une nuit",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "768a1177-e52e-4b62-9ddb-2d1ac5266011",
+                    "distractor": "un quart",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b5657847-9abc-4f1c-882c-243e08fbe04c",
+                    "distractor": "aucune des remarques est correct",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "48e63c61-5f11-4698-827b-3a366049ba58",
+                    "distractor": "l'autre",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "738fd4c2-9c94-4362-bc57-937afd9d5bf3",
+            "question": "Choisissez la preposition adequate . L'annee derniere , la conference etait organisee ... Rome .",
+            "answers": "a",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "au",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "jusqu ' a",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "vers",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "af6b2821-cf9f-404c-8b8a-35ca39f8234b",
+                    "distractor": "b",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "246ec92e-69b6-445c-9238-a44dadad482e",
+                    "distractor": "c",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "859b1c9d-614d-49f8-8cd6-99c40bc20b0e",
+                    "distractor": "d",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ca46dec8-649b-417d-af5c-332527f97d4e",
+                    "distractor": "e",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e448268a-3842-4d46-8ca0-404fcaf79ae9",
+                    "distractor": "f",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "87f22375-ccfb-4762-829e-c26661cd284c",
+                    "distractor": "h",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "796b34cb-061d-43bb-ae83-96c2de6ed0ee",
+                    "distractor": "i",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "515a76d2-00c9-4dca-a5a5-d6252baca14c",
+                    "distractor": "k",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5450612b-59b3-412e-ba57-6fe110bc1791",
+                    "distractor": "m",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "4aa87ca7-fdb4-462c-b9be-748a06b0e05d",
+                    "distractor": "o",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c419370c-d111-412f-abde-d888dc15eddb",
+            "question": "Indiquez la reponse correcte . Les Francais appellent leur pays ...",
+            "answers": "l'hexagone ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "l'octogone",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "le decagone",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fc48a4ee-448c-463a-b926-cd26bbd7dad0",
+                    "distractor": "l'italie",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "7ca5041b-9e4b-4198-8865-b0a862d81045",
+                    "distractor": "la belgique",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "efac966f-1a18-47d8-b39f-67f69a9ba09c",
+                    "distractor": "la france",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "fc686093-688c-4071-93b1-23c8535c1311",
+                    "distractor": "l'argentine",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "de6f7692-8756-4837-b1a9-ebf6fb745a41",
+                    "distractor": "le sud",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "53066820-78dd-45db-990b-722916496529",
+                    "distractor": "le suede",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "477d42b7-3a91-41b1-aa05-876398f79a7d",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "fbc9595c-6d2e-4b24-8403-6d2c47406254",
+                    "distractor": "le roumain",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "324c3559-c370-4929-a048-2f88920a30bd",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2f7f5f3d-d5a4-442d-b341-5c73635ec6d0",
+                    "distractor": "toutes les reponses sont correct",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9ea0af3e-18cc-4bc0-8a9d-38c5c1f904f7",
+            "question": "le nom d'un insecte sauteur ?",
+            "answers": "la sauterelle",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "la sauteuse",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "le sauteur",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7f7209da-f320-41c2-ade8-47de36067f95",
+                    "distractor": "le sauter",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "140f48ce-8e45-4af0-9f00-2e2484392459",
+                    "distractor": "l'eau",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "94abb664-b044-4b51-94ff-75c18de95105",
+                    "distractor": "la pomme",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "cc7f560e-232c-40af-985b-4af8bd96c07c",
+                    "distractor": "le saveur",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "d99488ba-6380-494c-97f4-d66d68a5d9e2",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "0f9e4f93-5702-434a-a307-0febb0081385",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "bb60db4b-48c9-4098-916c-796464978136",
+                    "distractor": "aucune des",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "622c974a-b8da-4315-99b2-cf724b0402c5",
+                    "distractor": "la choute",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ca98eade-203f-4b9c-847a-32e95f9c5805",
+                    "distractor": "le rocher",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6ab332fa-6315-43d8-850b-3f0a5ac4bfb7",
+                    "distractor": "la cire",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "93b14ef3-9764-4b09-aad5-42cc50804569",
+            "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Le mediateur americain a pu reconcilier les ... .. et obtenir en quelques jours un compromis acceptable .",
+            "answers": "parties",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "partis",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "363288ab-84cb-45dc-9d86-69f0decb39fe",
+                    "distractor": "parties",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ecd94edd-623f-45cb-ab06-afae65731695",
+                    "distractor": "participants",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "28b070f2-768b-4e3e-b29b-1a0984284d33",
+                    "distractor": "mandataires",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8bf037e9-c2e2-4f01-b5f1-07df35200abe",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "32fb6096-7602-4be7-99de-bde6feb81f2f",
+                    "distractor": "aucune des respostas est",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "34983c39-4d90-41e4-b7c7-a8607ef000e4",
+                    "distractor": "partiers",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "8887b8ac-3510-45b7-8d53-391340a18ae3",
+                    "distractor": "parts",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "82eb8074-99a9-4187-9f88-99606bbe4673",
+                    "distractor": "capitaux",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "023f6e7b-260f-4944-9c66-e23f6c352d8a",
+                    "distractor": "partiais",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "eb7893e3-d4ce-4163-8a1c-1c2e452bc0f1",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0a1adffb-f698-43ab-aaef-522cc3d9f7d6",
+            "question": "l'alouette en neerlandais ?",
+            "answers": "de leeuwerik",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de merel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "de kwartel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "75d76891-5070-4d9f-9c09-d2c4021f7b1d",
+                    "distractor": "de alouette",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "2b369235-0611-4f30-9832-e6c20005ff57",
+                    "distractor": "de rosselaar",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f2fc6856-8714-4e35-9aa5-f117c24b7c3d",
+                    "distractor": "de leeuwerik en neerlandais",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f1a3578e-47ee-488d-b27e-ea868ab41621",
+                    "distractor": "het zeilpaard",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "115be354-6efd-43ff-a729-0071716b9418",
+                    "distractor": "de gouden salami",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9bcb97f3-757a-4ddc-b3c6-373ef5cc1cd9",
+                    "distractor": "geen van bovenstaande",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7cf2f5f6-bd9a-431d-b1d0-b0259417ee31",
+                    "distractor": "de vlaamse appel",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "2ea026b3-63b6-44d2-a72d-f0a4f31eea1a",
+                    "distractor": "de kelch 7.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6eb0ab58-7b94-4fd0-994c-0b6ac55235c3",
+                    "distractor": "de rivier",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a8097f8f-c156-4f70-9a33-fb0ee8fdb503",
+                    "distractor": "het leem",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4ecd0c0c-0726-4d30-a018-96b5e91f5878",
+            "question": "Adjectif , adverbe ou adjectif employe comme adverbe . Indiquez la bonne reponse . Ces fleurs sentent ...",
+            "answers": "bon ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bien",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1c5d9f63-2b50-4fb6-aa37-d0a9bc8ff1ec",
+                    "distractor": "bonne",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "cec652b0-81b3-465b-a0c9-0a9bd757e4c9",
+                    "distractor": "vrai",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "7537e24d-c16c-4fad-a408-ebe45d434728",
+                    "distractor": "mignon",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b75376d4-8a13-4762-a8fa-523cee778bbb",
+                    "distractor": "gentil",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "a4b2bc5b-0c5b-43ad-ad90-93f2b5855c4d",
+                    "distractor": "valeur",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2f64cf38-b328-4063-b6e2-74ba48153328",
+                    "distractor": "honte",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "809af8df-66dd-4a11-bbc1-a2d18f0df30a",
+                    "distractor": "doute",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "9651e33b-7929-4aa6-8a60-0de681b65e07",
+                    "distractor": "faux",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a5eefe2c-8dda-4e42-9af0-d590fce5b4fa",
+                    "distractor": "mal",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "51c82ed1-8c7b-4fb6-aa2d-6041050b267e",
+                    "distractor": "de bon",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "77132401-dd69-4d2c-89b9-05385b477c7d",
+            "question": "Choisis . C'est le passe , le present ou le futur ? Vous ouvrez toujours la fenetre de la cuisine ?",
+            "answers": "present",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "passe",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "futur",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b9e9e67b-1c6f-4dcb-a051-d439abbc0f03",
+                    "distractor": "passe",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b3ea34db-d11b-48b0-a152-6b28ad8eb467",
+                    "distractor": "futur",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8fd2479e-21ff-45b9-ba2e-05a3807881c2",
+                    "distractor": "pass",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "34f5f141-7ad4-483b-8a92-0412a545b85a",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "50f0ddd9-5dd1-4261-a184-2b3fee970e8d",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "e864c4d0-e6e7-4034-a605-e7e6548ced31",
+                    "distractor": "aucune des recettes ne souhaite",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "711a8422-9247-4404-96d1-6fa3294191d5",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "ddcf8cf7-d16b-410d-9bc0-aab5d1bc3a86",
+                    "distractor": "aucune des respostan'est",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a89882af-fbca-459f-825d-f49f8c14377e",
+                    "distractor": "aucune des repenses est jusqu'",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5aee1bfd-f0bc-42dd-8b4c-75a5a78cee45",
+                    "distractor": "aucune des regles est correcte",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2000e80f-35ff-4571-9b05-d30a45fce092",
+            "question": "Cochez l'article correct . ... pere",
+            "answers": "un",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "une",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "des",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c4af4d61-7ebf-492d-b17f-d2a54ce31622",
+                    "distractor": "un",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "cab7241a-2933-4c20-a7ae-e393fbf122b1",
+                    "distractor": "une",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "83f6dd11-2ff6-4614-8d24-8893c74602c3",
+                    "distractor": "l'",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b621a769-7fad-4c73-ae0f-0e615fc299f0",
+                    "distractor": "la",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "65f60e73-59b8-4406-ad44-08b159a95dc9",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "440473de-7d43-4d1c-b3a8-0c3914673d32",
+                    "distractor": "tout",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "b564ba86-273d-4b73-865e-13a88dd6a64b",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "acf94d7e-3817-4bc5-8f2a-9fc529f531cb",
+                    "distractor": "aucune",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "116dbe05-5899-45c8-82bf-711b757af3f1",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "9d06d955-5e82-4795-8c29-c44741be92e1",
+                    "distractor": "de ces",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "be30623b-059c-45cf-9367-cab08f41b0e5",
+            "question": "Completez la citation humoristique de Philippe Bouvard . Cotation en Bourse : possibilite de ... a des gens qu'on ne connait pas un produit qu'ils ignorent .",
+            "answers": "vendre",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "fournir",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "donner",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "passer",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d3f83519-3a01-4f21-ac49-1b0ec65a9817",
+                    "distractor": "vendre",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "8abb365c-c240-4e9a-ac16-613a0efbada7",
+                    "distractor": "acheter",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f191f1db-eb98-46aa-b8b6-f5476eeb408c",
+                    "distractor": "construire",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f96e74de-e47d-4b79-a67c-5f2e668c947d",
+                    "distractor": "perdre",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "0d3e00e7-4381-40c5-825c-0b200025025c",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "96383a9c-de5a-496a-aee6-c20d6d6c6078",
+                    "distractor": "revente",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1f2770a2-2324-4d8e-b332-05a2970ba105",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "4f563ad4-b498-495f-8abd-649aec5c4b0a",
+                    "distractor": "acquitter",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "370f0d72-ff91-4323-81d7-97799103dd48",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "840fc4c1-0005-4a47-8e67-11533999bff8",
+                    "distractor": "offrir",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "315fe676-d17d-48b1-9d44-70523445ba20",
+            "question": "Indiquez la bonne reponse . Celui qui ecrit une piece de theatre",
+            "answers": "le dramaturge",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "l'auteur",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "l'acteur",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a32b87a1-02ca-4883-84b4-bdb1f4f4849d",
+                    "distractor": "l'acteur",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d0326f86-2d1a-48e2-bcb8-9dc54ef76d4d",
+                    "distractor": "le compositor",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6d491c84-483d-403f-a1c4-013994d53304",
+                    "distractor": "la dramatique",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f22b1182-582c-4a81-807c-17c7ab29e02d",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e9ff7b7b-4baa-4d62-9c65-7f46b4227b74",
+                    "distractor": "les dirigeants",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "bca2c9d1-9547-4e41-a833-12fac8d586bd",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "8de8a716-4701-4180-a3b6-5722e4af809e",
+                    "distractor": "toutes ces reponses sont correct",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "9c4d5c8a-e2ec-4689-871a-f80a00fdcb74",
+                    "distractor": "le chante",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "522dd17a-e9cd-43c9-b268-ba1f4a3849e6",
+                    "distractor": "la pere",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6e8d5a7b-c991-4ba5-857a-67febfc054aa",
+                    "distractor": "le pianiste",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "35e5b321-618c-471b-88d4-3a7395a1ab72",
+            "question": "Au camp . Complete par le bon mot . - Julie s'est blessee au pied . degrees Prends du desinfectant dans ... a pharmacie .",
+            "answers": "ma trousse",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "mon sac",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d2ae6a01-712d-410f-9432-345d7f3178d1",
+                    "distractor": "ma pharmacie",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4382a032-66ff-4688-b853-b349a6f5e74b",
+                    "distractor": "mon four",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "872e1532-706b-4497-b5db-d04464b28dfb",
+                    "distractor": "ma bouilloire",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "3aa8047b-40f5-4398-93db-15af25fbdae8",
+                    "distractor": "cette poubelle",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "d751baea-7696-4875-ba47-e598a5386c38",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "fab245e2-12de-4577-bac9-2ae35c138e9a",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "08b01b61-88ce-4107-9014-88428887d5ca",
+                    "distractor": "aucune des",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e8d5ee6c-3af9-40f7-bd58-3000b3545cf5",
+                    "distractor": "ma boite",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "97ee810b-d651-43f7-a453-d0e96cea4d0c",
+                    "distractor": "ma tasse",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f7da8027-5766-4bae-8dee-9fdb760bdaf4",
+                    "distractor": "mon batiment",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8e3f9c1b-a645-41cd-aade-4ede24ccb56b",
+            "question": "Cochez la bonne reponse . [ lang=en ] Tick off the correct answer . [ /lang ] [ lang=nl ] Duid het juiste anwoord aan . [ /lang ] Madame Temouche , Nous vous signalons que le bateau avec vos marchandises est arrive au port de Dakar . Nous avons le plaisir de vous annoncer qu'il s'agit d'une livraison de coton de qualite superieure . Bien cordialement , Maurice Guadelien Qu'est-ce que Madame Temouche a achete ?",
+            "answers": "du coton",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "un bateau",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "une livraison",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "un port",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fd3baec9-807d-4969-816e-1e7b833263aa",
+                    "distractor": "de l'eau",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "dd6ea5c5-5bc6-4af1-8f15-3d4ef37fe785",
+                    "distractor": "du tissu",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c3198dd7-449c-4ff6-a152-561386ef8418",
+                    "distractor": "de la mer",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "7eddc98d-a71c-4a57-b3e6-287253db027f",
+                    "distractor": "des moulins",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "0cddbd4e-1354-40aa-9855-3d0620d593c7",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "642a695f-c63b-4ed2-aaed-b3577647a355",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "998e61d2-5529-451f-9bca-1e51012d571b",
+                    "distractor": "aucune de ces",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "529f65e2-f38d-4d11-b6b1-1607cbf79f21",
+                    "distractor": "du mousseux",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "7cfdbbdf-dd70-468c-871d-85ec2909e764",
+                    "distractor": "des sacs",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "47eda668-bc4c-461c-818f-4d7612ed4887",
+                    "distractor": "le papier",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0dda7de0-0888-4867-afb6-fc6fda17fb43",
+            "question": "Cochez la bonne forme du futur simple . Vous ... le train a Nice ou a Cannes ?",
+            "answers": "prendrez",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "prendrai",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "prendra",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "prendras",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "0cf7485e-b0d6-430c-9914-f021cea44a35",
+                    "distractor": "prenons",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "63212fde-0b27-4663-9a2f-8ed6bf8bbaf6",
+                    "distractor": "prendra",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5777da4b-2c24-4f9e-a05e-3416650f1d99",
+                    "distractor": "prenez",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "dad1391a-c9a7-46ff-9da9-a087038092b1",
+                    "distractor": "entrez",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "c37e62f2-6e44-4e45-81bb-fcf6a2211aac",
+                    "distractor": "plonger",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "92730a79-8754-403e-9086-713277e1500e",
+                    "distractor": "enrouler",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "36a27419-5b62-47c5-ba2f-06ddf43caa9a",
+                    "distractor": "emprendre",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "f9e68972-b84f-4108-85ae-f09a96580265",
+                    "distractor": "partir",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "78d1c500-74da-44c8-ac99-2582e851c804",
+                    "distractor": "descendre",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "970b7e5f-2f2d-427a-9cab-7ce8a5bb9d7c",
+                    "distractor": "prendre",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "fab2715e-1608-4a9d-a783-6d4ae0c26e8a",
+            "question": "Chaque mercredi pendant votre intervention , vous faites une partie de jeu de societe avec Madame LULU . Cette semaine , vous vous etes rendu compte qu'elle ne se souvient plus des regles du jeu . Que faites-vous ? COCHEZ la bonne re\u0301ponse .",
+            "answers": "J'en parle a la famille",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "J'appelle immediatement le medecin",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f948912e-cc13-4f6e-b85a-83dfacf4ca6a",
+                    "distractor": "j'en parle a la famille",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "089f4c00-5cd8-463d-8db4-036ff173f49f",
+                    "distractor": "je parle a la maman",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f7276036-2ef0-43e4-8848-9d1e4619401f",
+                    "distractor": "je n'en parle pas",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4b0d41cc-b9ba-4937-b3d4-3a390f5c0605",
+                    "distractor": "je lui demande des reponses",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2ccc14ce-a87f-431a-9c27-5e246b47d610",
+                    "distractor": "il en parlait aux parents",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "20da4455-f953-4453-889d-428bfe0749f2",
+                    "distractor": "toutes les regles sont correctes",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9402ea95-b42d-4368-9743-990280913fce",
+                    "distractor": "toutes les preuves",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "26a8c6d1-4fc2-4a56-afb9-74c1e8b9f2e2",
+                    "distractor": "j'en parle au bureau",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "16843a23-b5f6-4d60-9d6e-6f023a048000",
+                    "distractor": "je le rappel",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7a11a104-0900-405a-8657-0e840812d41c",
+                    "distractor": "je lui adresse un livre",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b0f5d93e-76ec-43d3-a6ac-e5df6462d0c5",
+            "question": "Completez par la preposition correcte . Ma voisine est tres gentille . Elle dit bonjour ... tout le monde .",
+            "answers": "a",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "en",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "depuis",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e35d30e6-1180-4ac1-a40a-5907f8ef9159",
+                    "distractor": "b",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9682e6fd-bbab-4734-a4c5-2098fc80ff66",
+                    "distractor": "c",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "371fbff6-3882-404f-bb4d-5a430bb907ff",
+                    "distractor": "d",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "1fddd141-2135-4963-8eac-1cd8839ae584",
+                    "distractor": "et",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "17d51134-e907-4bb9-ac08-5ce9484af889",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "aa8683fc-6e3e-444b-a65a-17168c7cece6",
+                    "distractor": "aucune des prepositions n'est correct",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "bb8ead0b-fea8-4954-bc66-cc82f3decb32",
+                    "distractor": "e",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d86ddaf0-edfd-42e3-8c64-66b0dd6651c6",
+                    "distractor": "f",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "3afa5353-ad0b-4f26-abc9-79001cb0a440",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "26fdb6f9-820f-4b9d-8bbc-27ec3ee52972",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "726748e6-fc4a-44a0-accb-e7a8cd19f8c6",
+            "question": "Choisis la bonne traduction . Je ne rate pas d'emission sur TF1 .",
+            "answers": "missen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "opnemen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9ffa0d7e-675f-48c0-95d3-b75a43529135",
+                    "distractor": "missen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d8980f37-df2e-4564-93f9-8b6a11f211df",
+                    "distractor": "vragen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "51f02318-b6b5-4273-a492-dd11678146c9",
+                    "distractor": "bezittelijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c037c645-34cd-44cb-983b-4414fbc2177f",
+                    "distractor": "verwerken",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "ae84328d-3e11-441c-8a24-06ba92d8581b",
+                    "distractor": "willekeurig",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a8796788-a8ea-43c1-b1ad-2d99b19eb4f2",
+                    "distractor": "onmogelijk",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "35f61a82-4c30-4eb1-a088-ef202bc4ca2e",
+                    "distractor": "fout",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "a8d75cd5-b20f-4432-9333-112dbb7db9a5",
+                    "distractor": "wanhoop",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "950ff115-cbc0-4e8e-be03-595ba38aaa3f",
+                    "distractor": "verlie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3bdc738c-52f6-4e2d-96e6-3628d6c5e90e",
+                    "distractor": "verbergen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a12795c6-c6d5-4f04-b8c8-ea552494890d",
+            "question": "Choisis la bonne traduction et complete les phrases . regenachtig Nous avons eu une journee ... en Ardenne .",
+            "answers": "pluvieuse",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "variable",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "douce",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "63a6f7b5-ebfd-4ab5-8cbd-676881c4fdf4",
+                    "distractor": "pluvieuse",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "75529db1-e960-4c38-88af-ac19f2c7303b",
+                    "distractor": "humide",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "4dc8bfe6-c0c5-4bf8-9070-451fcbeb3582",
+                    "distractor": "vieux",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "9ba89e5c-c663-4e0b-b341-fc1f5f315659",
+                    "distractor": "lijdend",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9090c4ba-d70d-4595-8664-ee2460f3af59",
+                    "distractor": "slapend",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b981273c-e11a-4c4a-86db-b5eceac0fc3f",
+                    "distractor": "koud",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "a9ebd602-c2b4-4cd1-bed1-448f7200cb40",
+                    "distractor": "regenachtig",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "04dc8945-62e6-480a-8021-abfb1dc49249",
+                    "distractor": "fris",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2fd6e8c1-60e4-4f47-b08e-37b0f2e98adc",
+                    "distractor": "delicate",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "68afa3b6-ccbd-437e-bc2e-16fabf139cc0",
+                    "distractor": "trop",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6226bda2-7b57-4a50-90e1-a31cc3fa4ed4",
+            "question": "Indique la bonne traduction . Duid de juiste vertaling aan . Les pompiers arrivent !",
+            "answers": "de brandweer",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "brandweer",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "35d71f41-392a-48ea-9e8c-fad7fc1a6744",
+                    "distractor": "de brandweer",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "91627bc2-82c0-4763-94fc-ac0097fed9e9",
+                    "distractor": "de zandbak",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "871c15cd-6d8a-45f9-9541-afbfe2aa7473",
+                    "distractor": "de politie",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "fb53ff51-53f7-495c-a19a-9653c9d165f0",
+                    "distractor": "het bluslager",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5345332a-a1ca-49c4-998d-b45a50a3197c",
+                    "distractor": "de douane",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4ec701bd-cc3f-45d0-830c-ff9d9599ec0b",
+                    "distractor": "een pompiere",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0ef5e54f-2cee-410c-9b5d-024e6de8b946",
+                    "distractor": "de pompiers",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "eda37763-7198-49c7-a327-414b53a2473d",
+                    "distractor": "alle overige",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "06f27399-b5e3-4e7c-8154-c16601779b9f",
+                    "distractor": "de vrachtwagen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "aae07bb3-c534-407f-bd46-d8d3f90ed5f4",
+                    "distractor": "geen van bovenstaande",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "43706816-f0c8-44f9-90c7-2b90343417a3",
+            "question": "Cochez la reponse correcte . Que signifie l'expression `` Tiens-moi au courant '' , que l'on peut trouver dans un courriel ?",
+            "answers": "Informe-moi ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Comment vas-tu ?",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Ne m'oublie pas",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Ne m'en veux pas",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "04c7409c-98a6-4b0f-baa6-d77b199cd3e8",
+                    "distractor": "informer-moi",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a4a99a96-e75e-4a5a-b866-99a4e7bfda07",
+                    "distractor": "Attendez-moi",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "1fa66e6b-bc8b-4c76-b787-73086e140c02",
+                    "distractor": "informons-moi",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "94621d2a-4599-41e2-b7da-57969a1f13e9",
+                    "distractor": "informez moi",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "29a1f9db-be86-42a1-bf25-2c45248c5662",
+                    "distractor": "donnez mon courriel",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "cba91455-7ce3-4229-8a16-33fb9a860511",
+                    "distractor": "envoyez moi",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6d77b05c-2183-449d-8eb7-c82c6b5945db",
+                    "distractor": "envoie le message",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "4ad06469-8584-468d-b926-87ed212ca756",
+                    "distractor": "passes",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "acf5502a-1839-40ba-bf5f-124736d9cedc",
+                    "distractor": "fais-moi au courant",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "fa5e7579-cd59-40fa-94ab-d65e9e770c8f",
+                    "distractor": "envoyer mon courriel",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0694b972-d25b-45b5-8b3c-a0f2fe635aee",
+            "question": "du pain trop vieux s'appelle ...",
+            "answers": "rassis",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "cassis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "lassis",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f8e4cea1-9b06-4216-ad46-13d8d33eb4d4",
+                    "distractor": "rassis",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c618ef87-789e-497f-b003-fe62ef4f66e3",
+                    "distractor": "rascal",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "48765092-0f7f-4520-b369-56a0d1ded762",
+                    "distractor": "rassas",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "70ed10cb-460e-42f4-beaa-a7b732560754",
+                    "distractor": "rase",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "201e2198-e918-43d9-9b16-bb47d2f4c91c",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "92ab78a0-78f5-4157-b053-e667a8f3deb2",
+                    "distractor": "aucune des recettes ne",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "fe802be0-36ed-401f-81c9-b6350f45d17f",
+                    "distractor": "ralsis",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "91857531-a0f2-46df-b97d-cd6148b7fa89",
+                    "distractor": "poulus",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "12095a74-d7a5-45c4-aa1c-33973937f852",
+                    "distractor": "lapin",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "34c540dd-56eb-45e4-8ccb-c96995bd5d9c",
+                    "distractor": "taigner",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "26064310-1284-427c-a8b5-96aef0541d36",
+            "question": "Choisis la bonne reponse . Avant , tu ne ... jamais du piano .",
+            "answers": "jouais",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "jouait",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "jouaient",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d079c6fc-119b-42be-bbc0-276ca160377f",
+                    "distractor": "jouais",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "dbe542c1-dc68-44ff-b777-f4ecbfd14ff7",
+                    "distractor": "suis",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "610e139e-3f03-4ce1-8d6e-8c7c7d482d2e",
+                    "distractor": "jouons",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "174ba0b7-a7e7-47f1-bc91-2c5442769e76",
+                    "distractor": "devais",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4d64e93e-b620-4bdd-ac86-3adfec45502e",
+                    "distractor": "je voulais",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "efe3baf8-f366-417d-ac73-75539630c37c",
+                    "distractor": "aies",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "64b3bcae-398a-4e8e-881d-b5777b8951d1",
+                    "distractor": "jairais",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "5ee32059-9465-45b6-8eb2-7aa9273873cc",
+                    "distractor": "tu as",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2d098946-b4b7-4b04-b220-443d2baa0ce0",
+                    "distractor": "j'ai",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7a9f37a7-7563-44ee-ab6b-0e7404228ff3",
+                    "distractor": "joue",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "333c8879-d5f1-4417-8ff7-e45c716380eb",
+            "question": "Indiquez les bonnes suites de phrases . Elle a un drole d'accent .",
+            "answers": "Elle vient d'un autre pays ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "C'est moche",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Elle est comique",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f370b509-2517-4562-a513-10598e343ea8",
+                    "distractor": "elle vient d'un autre pays",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d9c7d544-62dd-42e4-b379-39f1d4bc5d1b",
+                    "distractor": "elle est en europe",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "32fb7936-78eb-4d10-9649-f425a1fd67a5",
+                    "distractor": "il a voulu bien etre",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8e0bc745-9070-4bb1-b3d5-0f1973e3f717",
+                    "distractor": "lui vient de la france",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "849fb371-3faf-4433-981e-a7a6459d5cd9",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "3e406c36-b9f1-4f2c-83d3-25abf386b77f",
+                    "distractor": "toutes les reponses",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1c3bd886-7008-4dc4-ab77-6afc679d9096",
+                    "distractor": "elle est de l'autre",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "860588b7-0d41-4634-b54a-5c4d3c6fb5b8",
+                    "distractor": "elle fait une faux reponse",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "70753b56-e29f-4122-9a2f-6d4abc84e992",
+                    "distractor": "toutes les pi\u00e8ces sont correctes 5.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2061b271-d5cd-496a-a175-b2db15e0cd18",
+                    "distractor": "elle a une fillette",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2c875d9b-8f12-4c64-ad7d-2db3c984c66a",
+            "question": "Choisis la forme correcte du participe passe . Vous avez ... au restaurant chinois hier soir ?",
+            "answers": "ete",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "etee",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "etes",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "etees",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d332581b-fdf4-4037-81e6-fe0a84461ef0",
+                    "distractor": "mange",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b1d064e6-2366-482f-8079-1f7c8477b14f",
+                    "distractor": "manger",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d80cff00-3470-4add-b40f-b2e31b422b31",
+                    "distractor": "boire",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a223dd29-98e6-443a-8120-2228cd666b31",
+                    "distractor": "fumer",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "14604a42-7e7e-432b-b8c1-66f71d3cf3a2",
+                    "distractor": "buffe",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "d945a148-ae0f-406d-9d2c-51353771cf81",
+                    "distractor": "choux",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "56d5fe89-09db-4218-802e-912bb6f328b7",
+                    "distractor": "frotte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "6d3a811d-8f99-4d4e-9735-909b6c4c6492",
+                    "distractor": "toutes les reponses",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b5ee9b97-973b-4926-9b83-90b41323eac7",
+                    "distractor": "dine",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "003af724-3b8e-4b8e-b944-eeb4f1bbaab8",
+                    "distractor": "compose",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a4e3ff34-bb94-4de7-9bb4-f2030dc210e7",
+            "question": "l'adjectif d'ete ?",
+            "answers": "estival",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "etival",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "eteval",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "26733dbc-f42b-453f-aee0-ba3e6aa7547b",
+                    "distractor": "estive",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b6b28ec8-4f13-4450-8952-7f749f974f7e",
+                    "distractor": "aout",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6b642857-a838-4b86-a37f-3a133a11d01f",
+                    "distractor": "septembre",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "7ee06017-f5fa-4a78-80a0-ddc87a966982",
+                    "distractor": "janvier",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "0385e299-ce47-4bf7-bc20-389d82ee4bf0",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "045b0484-5f2b-440e-9f9d-89dafbea9588",
+                    "distractor": "juli",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "fd931645-327a-4b92-a753-072614b35e9a",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "22aadc60-dea3-4120-960f-cd23c987b0da",
+                    "distractor": "printemps",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "55141a73-4432-470e-be87-3bc5e96434de",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "de50ecef-18fc-47e7-b60d-b085a93dcf82",
+                    "distractor": "automne",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f36c4855-d030-4623-899e-25b3b0110e95",
+            "question": "Parmi les propositions suivantes , quel est le synonyme d'acrimonie ?",
+            "answers": "Hargne",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Envi",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Jalousie",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Regret",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "aucune reponse n'est correcte",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3963ca1d-b247-4f81-a99e-5055897e0a8d",
+                    "distractor": "hargne",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "af94c373-00a1-4a55-b989-6943ba722ea2",
+                    "distractor": "eclairage",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "cd07a0ab-b77b-4fb4-88cf-23750a8e5245",
+                    "distractor": "est-ce qu'on sait",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "14159ff1-c5d5-4263-b113-5208a1a70e31",
+                    "distractor": "vitrine",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6bc11ba2-291e-4b21-b338-91a8c92d9984",
+                    "distractor": "poblesse",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b7c227c5-3069-4c07-a8f2-0ce7a992e1d9",
+                    "distractor": "toutes les reponses sont",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9963b711-6129-468e-9bfe-abf4ca4710b0",
+                    "distractor": "auctorite",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "2816daba-b188-4a6f-87e0-7acde0d51c2c",
+                    "distractor": "antagonisme",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "efef4315-3bdf-4c07-b1d0-b6df768b2fb8",
+                    "distractor": "angogamy",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7a8ca549-a171-4b7d-ad2b-a7642b79b957",
+                    "distractor": "debiterie",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f89e5399-7c69-4812-8718-9b781ed75fc4",
+            "question": "Indiquez a quel temps les verbes sont conjugues .",
+            "answers": "futur simple",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "imparfait",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "conditionnel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "38436ae1-13c6-454f-ad0f-1a4ad3af790f",
+                    "distractor": "passe recent",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3af11450-452a-4038-982c-88e575977da7",
+                    "distractor": "proche",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "89710ddc-3ba0-4cdb-9760-2c9838e5325e",
+                    "distractor": "passif",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4c5166bc-6451-4440-a773-6d984d315de1",
+                    "distractor": "futur simple",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4d6d6224-e18a-486f-ad43-d995d5aeb91c",
+                    "distractor": "present",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "61e3e386-9911-436a-aa3c-870c9ea7dd03",
+                    "distractor": "futur incertain",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4f400c12-472e-4cdd-a627-27b3410be85b",
+                    "distractor": "passe convenable",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e6a562f8-6806-48b8-acb3-ce9cae1e730e",
+                    "distractor": "passe imposant",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2d131eac-d71e-42e7-bc42-72956f3daa2a",
+                    "distractor": "passer",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b11c7a72-79ac-4fdc-8fa2-5503fa492617",
+                    "distractor": "futur passif",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "85939ee8-cb11-4357-a2b0-19da20f056c5",
+            "question": "Choisis . C'est passe compose , present ou future proche ? Je vais chercher un cadeau pour l'anniversaire de Magali .",
+            "answers": "futur proche",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "passe compose",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "present",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "eb4594b2-63fa-4e9a-9c77-f5c7776b7288",
+                    "distractor": "passe compose",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "30dd202f-8dc1-4e00-8e54-4b1880b9d32d",
+                    "distractor": "present",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d74bb539-06d6-4710-bc92-7fb5b6575b25",
+                    "distractor": "presente",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f9cb9374-875a-4ab5-985a-04a2a74e6faf",
+                    "distractor": "passif",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b63a91b1-6240-4e44-8e3a-10654e5cc254",
+                    "distractor": "passe faux",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "d6865719-e4e3-4eb7-93bb-a13530a84750",
+                    "distractor": "passe recent",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "70b70f59-3c54-4816-a280-16f6d45a1d7b",
+                    "distractor": "futur simple",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "9a35f16a-a2ec-41a7-8ebb-9c5012c16a8e",
+                    "distractor": "passe imper",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ed397910-93df-4a22-92cd-8d632741aa18",
+                    "distractor": "pass composer",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "598d914d-98a7-4146-8fb9-3ffaf8d8c643",
+                    "distractor": "pass-compose",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "fabd52c1-6876-4c96-bd4f-ca477bc199ea",
+            "question": "un paillis est ...",
+            "answers": "une litiere de paille",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "un synonyme de mulching",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "un fourrage",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "64368cdd-d6d0-4c24-bef0-027003c1b261",
+                    "distractor": "un paillis",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "cd91641b-8e83-47f2-aa77-013381157939",
+                    "distractor": "une marge de paille",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "7ffeb296-8ef1-4261-9edf-587f88b806c5",
+                    "distractor": "une litiere d'eau",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "1ba6fa49-dc2b-4256-9cfb-2ebe8be5ede6",
+                    "distractor": "un cheveu",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "be4211fe-98f2-47df-873b-9749d8788324",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7a83a160-9e0e-4f02-a82d-4469bb089443",
+                    "distractor": "aucune des re",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "68f2e67b-222f-48df-9a0d-b79c8db116cd",
+                    "distractor": "une litiere de paille",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "be5919db-5487-4537-8940-8b029d51cfd3",
+                    "distractor": "une table de paille",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "82da58ee-8eaa-4685-9ea6-68ce957b8888",
+                    "distractor": "un verre",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5ffe32a9-15d9-4f17-91a4-e67952c79c5b",
+                    "distractor": "aucune des reponses est correcte",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "63568939-6e84-4e1f-a132-d69f429ead3c",
+            "question": "Indique la bonne reaction . Duid de juiste reactie aan . Tu veux m'aider , Ben ?",
+            "answers": "Avec plaisir ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Ca doit etre super",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Mon Dieu",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5810e267-2412-4cda-9cdc-62622c1b1791",
+                    "distractor": "avec confiance",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3495a298-1e17-4b74-bee6-86add8c6dff1",
+                    "distractor": "a chaleur",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0fc2e39d-bced-420a-b1bd-2dd8ac8f2d2b",
+                    "distractor": "avec gentillesse",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "191fcbee-3c15-48b9-8224-057b529be3f3",
+                    "distractor": "chagrin",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b9c9e760-fddb-457b-8c18-8360f5b3458d",
+                    "distractor": "avec bonheur",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "46706a13-cbce-40a8-840c-b37f221d5ac2",
+                    "distractor": "la joie",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d1b19dbe-828a-42e9-862f-eba6ba33946f",
+                    "distractor": "en tout cas",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "89f0a498-6fd0-4214-a3d7-ec9177d6ef33",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "332dd63b-cdce-44d7-b9d1-dff5a69ca4bb",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b4f61fd9-fff6-4d52-b139-6064ceebd1fa",
+                    "distractor": "aucune des re",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7d9bfb0e-73ba-49a4-9439-e47cb778fe5d",
+            "question": "Completez la phrase en pointille . Pourquoi me posez-vous toutes ces questions ? Je vous ai deja dit ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .",
+            "answers": "que je n'en savais rien",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "que je n'en saurai rien",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "si je n'en savais rien",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "si je n'en saurai rien",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d719105d-ea78-4f07-baa0-cc903758f841",
+                    "distractor": "que je n'en savais rien",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "fb54b27f-d2f6-4fba-97e8-0979fc69d7a6",
+                    "distractor": "je ne sais pas",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "cccc4a0e-b883-4c4e-b0c9-4e2c2db34c13",
+                    "distractor": "ne souhaitais rien",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "29f5e1a7-8880-4b63-b52e-829a232917c0",
+                    "distractor": "je savait rien",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "1a27f012-3e63-419e-b8b8-4cde73e7e48d",
+                    "distractor": "que",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ffdfbbeb-38d2-4a86-ba30-399dd095b6fb",
+                    "distractor": "qu'on sait pas",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "aebee62f-45d1-4d2d-9a27-49c58781d155",
+                    "distractor": "toutes les reponses sont correctes 5.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b3880151-70fb-438d-b82b-0b3da1dd1d9c",
+                    "distractor": "que tu n'en savais rien",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2fa3eaa9-8976-48d2-841c-973584a99fcd",
+                    "distractor": "aucune des reponses",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5863eb05-909e-433e-a9bc-4e82234f4b5f",
+                    "distractor": "toutes les prenomen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "59368283-81b9-4c64-b4d0-38aff41a9a31",
+            "question": "lequel signifie 'sans couvercle ' ?",
+            "answers": "a decouvert",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "clos",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "a couvert",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "06b0479c-604d-46f2-9a4e-e4d13180164f",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "97dd7660-7bf3-40d9-8687-34007239ce8b",
+                    "distractor": "a couvercle",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ed0b7746-160d-436c-bab2-690f2370ff67",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b9345dc7-b998-429f-bf55-da682485eb8f",
+                    "distractor": "sans doute",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "450bcef2-07e2-4286-bb5a-66a419dd38dd",
+                    "distractor": "en bout",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "c2c3032b-25d6-4e6a-9b25-a87cc1bf26ae",
+                    "distractor": "aucune des reponses",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "88aa449b-250f-4c02-8c9c-3bacc04008ed",
+                    "distractor": "toutes les remarques sont",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "84cb613a-cacf-42ce-9623-ce281801be24",
+                    "distractor": "a decouvert",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e7144bda-a7d8-420e-bb12-c41e68002bb8",
+                    "distractor": "envers",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "56a81092-a28d-4546-b6a8-9f6c4290ac0b",
+                    "distractor": "vers",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "66932636-315f-468a-9503-39cc417dd332",
+            "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . ... .. j'avais ete au courant des negociations preparant le rachat de l'entreprise par les salaries , on aurait pu m'accuser de delit d'initie .",
+            "answers": "Si",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Quand",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "644172b5-2417-4d11-a704-be6b9999d85e",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ba1b1f48-31b5-401b-801e-980ef1647831",
+                    "distractor": "pour",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "7644d59e-6098-458f-9e35-ff2b9dc8b01e",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "caaafa09-961f-4004-a2c9-bd16a2af46f7",
+                    "distractor": "quelle",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "abf5bb19-9932-4f83-998e-9e0f50ec3c94",
+                    "distractor": "c'est",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "26bedab8-a034-450a-9764-41c239a29333",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "a0a259c9-5451-468a-bd56-6a6f2ee7564f",
+                    "distractor": "aucune des repondences 7.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8432e305-8936-4a96-be41-1a715a139c9a",
+                    "distractor": "a",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e03a3444-1924-4fea-84e1-b783078ebe80",
+                    "distractor": "c",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5a0bc092-f6ac-4e26-94a6-0d29d5562b25",
+                    "distractor": "quelque",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "75b54a27-be23-45a3-80b3-3bf5f136f65c",
+            "question": "Indique la bonne forme . Duid de juiste vorm aan . On prend des oranges ... des pommes ?",
+            "answers": "ou",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ou",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1b1a645e-e8a8-4943-aba7-350218c49f59",
+                    "distractor": "quelle",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "130c61a1-cda2-457a-b399-4ab65a36e8f6",
+                    "distractor": "quel",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e727c6f1-e50f-42f2-aa75-f0c3fb84804f",
+                    "distractor": "quelque",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "fdcdd44a-0e93-498a-a941-63493ec91cfa",
+                    "distractor": "oui",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7d32c3da-4ccb-42c8-b373-471ad4db74e6",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9f2a2cb9-6c18-4d80-9985-cb38862eee36",
+                    "distractor": "quand",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "274fb602-a084-43f5-aa43-716d093305ee",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c379462e-4b46-47cf-b7bc-2eb41da89a23",
+                    "distractor": "c'est pas la foire",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "4e30e54d-ced5-45c7-9720-0fc050afd69c",
+                    "distractor": "toutes les reponses sont correctes 7.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6e2d6ad0-9e04-4bbc-8581-8407ad03cb80",
+                    "distractor": "avec",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "31e2819f-d3cf-4fdf-babb-85d18f5a2af8",
+            "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Dans ... .. pays , la loi tolere la bigamie .",
+            "answers": "certains",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "quelques",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "58c3e2c5-e26f-48ca-a658-1812598d7d5b",
+                    "distractor": "toutes les reponses sont correctes",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "19057548-0e50-415f-b43e-267bcca847fc",
+                    "distractor": "ce",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6e84d32e-3228-4216-8c94-969c5201c330",
+                    "distractor": "aucune des reponses n'est correcte",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d582c2cb-3296-445a-95f3-190a70a924d7",
+                    "distractor": "quelques",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "8c1870e7-56d4-4e14-9441-5c95d97080e8",
+                    "distractor": "certaines",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "92cb9c56-ff20-42e3-b758-e5688591f111",
+                    "distractor": "tout",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6c78e59c-f212-4f7f-aa0e-3b447f3702ca",
+                    "distractor": "aucune",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b5ac444e-0758-451d-bd50-35460c05f334",
+                    "distractor": "ne souhaite pas repondre",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "05d7330a-33b4-4c12-bf3f-c2b4c6d270ef",
+                    "distractor": "ne souhaite pas",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "995a890d-6e0e-4511-9595-0baf3a8d0183",
+                    "distractor": "on attendrait",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2b11f425-8cb0-4b13-899b-a0c49aa04af8",
+            "question": "Ecoute les phrases . Indique le temps du passe que tu reconnais .",
+            "answers": "imparfait",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "passe recent",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "passe compose",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "f0caa2a5-a5cc-4905-9f8b-29bdf25a8f8d",
+                    "distractor": "passe recent",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "80a619d7-926d-4141-9062-e7de854c2362",
+                    "distractor": "passe compose",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "4ca5a4ab-860c-4905-bfef-61cb177eb4a6",
+                    "distractor": "passif",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "47334186-1750-4161-8d23-530a540a35c7",
+                    "distractor": "futur simple",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "32c57921-da9a-4202-8462-50b62d04c3d3",
+                    "distractor": "imparfait",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6dc69d7a-8dec-4760-b8c8-5180e58f6280",
+                    "distractor": "total",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "2b339b6e-f9c1-4951-9574-26f75bcba3f4",
+                    "distractor": "parfois",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8432618f-08af-4ae2-886a-16bac9c0b040",
+                    "distractor": "pas de date",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "dfdae1d5-dd05-454c-81d2-9b0b9bda4023",
+                    "distractor": "totalement imprevisible 10.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "30c57a0c-0483-43f5-a5a6-787b38a1eb16",
+                    "distractor": "proche",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0b914d71-008a-4db8-9ae5-358dc6127f34",
+            "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Saint-Veran , la commune la plus haute de France , est a 2046 metres [ d'/de ] ... .. .",
+            "answers": "altitude",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "hauteur",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "858a1257-bc75-4fc2-8a1f-648ae14d8265",
+                    "distractor": "altitude",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "8b9bce78-4cb1-4cc8-946b-de8399f8a530",
+                    "distractor": "longueur",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "cb3cf113-3ba8-4223-8527-fd8e5b52420e",
+                    "distractor": "d'altitude",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a821195d-fb8d-4835-9f55-9f029d6af72c",
+                    "distractor": "alliteratie",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "149b545c-74d0-4af4-a871-af8bf52ae9b4",
+                    "distractor": "hauteur",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "1ca19d05-c366-44ef-a109-be2cb9797968",
+                    "distractor": "etendue",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "35f8781d-3c0c-4af4-9c58-b4856046fc23",
+                    "distractor": "desnivelement",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "31bd315a-7d31-48df-907d-97d59ff94da9",
+                    "distractor": "desplacements",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c54e926b-2545-4740-b9c1-0e416fa8cf95",
+                    "distractor": "somme",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "858d08d8-604f-4e38-9087-300a9365afdf",
+                    "distractor": "altitudes",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2a9a754d-43e7-4879-b5c6-b99ba2356d07",
+            "question": "Toutes les annees , mes grands-parents ... la ville de Lourdes .",
+            "answers": "visitaient",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ont visite",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "cca97679-1f51-43d6-8be5-8f254ef061ed",
+                    "distractor": "visitons",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "828b1bff-312f-4e96-b957-d3613d07b8b1",
+                    "distractor": "visiteraient",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0261136a-3d9d-46e9-b5d9-9a47a9c662ea",
+                    "distractor": "visitent",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8fc5a86e-2772-462c-8c5a-6b208b86d7dc",
+                    "distractor": "regardant",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7244a00b-01c4-49cc-8e50-7bdae9f84dcc",
+                    "distractor": "voyant",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "87f89cd7-5477-414c-afb0-ddcb04f336fd",
+                    "distractor": "promenait",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e2e879cc-2294-4255-9bc3-37add4f3255e",
+                    "distractor": "passaient",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "ebc0f51e-a2cd-4ee1-b473-9c6c7faa8392",
+                    "distractor": "avaient",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "69604ab5-9a0e-407f-9d23-213f20311b35",
+                    "distractor": "aisions",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8b258729-9c25-46ed-a63e-d4e458a18e70",
+                    "distractor": "revitions",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

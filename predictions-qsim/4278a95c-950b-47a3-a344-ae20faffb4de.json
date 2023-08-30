@@ -1,0 +1,129 @@
+{
+    "qid": "4278a95c-950b-47a3-a344-ae20faffb4de",
+    "response": {
+        "Query": "Wat is de hoofdstad van Schotland?",
+        "Result": [
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Lille",
+                    "Lyons",
+                    "Bordeaux"
+                ],
+                "language": "nl",
+                "question": "De hoofdstad van Frankriijk is",
+                "question_length": 5,
+                "score": 0.9767700756632882
+            },
+            {
+                "answer": "Amsterdam",
+                "answer_length": 1,
+                "distractors": [
+                    "Rotterdam",
+                    "Den Haag"
+                ],
+                "language": "nl",
+                "question": "Vraag 1 multiple choice test - wat is de hoofdstad van Nederland ?",
+                "question_length": 13,
+                "score": 0.9698380522737924
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Arras",
+                    "Bordeaux",
+                    "Rennes"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van onderstaande steden is de hoofdstad van Frankrijk ?",
+                "question_length": 17,
+                "score": 0.9679675351896425
+            },
+            {
+                "answer": "Brussels",
+                "answer_length": 1,
+                "distractors": [
+                    "Antwerp"
+                ],
+                "language": "en",
+                "question": "What is the capital of Belgium ?",
+                "question_length": 7,
+                "score": 0.9673786390679185
+            },
+            {
+                "answer": "Parijs",
+                "answer_length": 1,
+                "distractors": [
+                    "Karijs",
+                    "Harijs"
+                ],
+                "language": "nl",
+                "question": "Kies je antwoord uit volgende mogelijkheden Wat is de hoofdstad van Frankrijk ?",
+                "question_length": 13,
+                "score": 0.9628520238307077
+            },
+            {
+                "answer": "Amsterdam",
+                "answer_length": 1,
+                "distractors": [
+                    "Rotterdam",
+                    "Madurodam"
+                ],
+                "language": "nl",
+                "question": "Wat is de hoofdstad van Nederland ?",
+                "question_length": 7,
+                "score": 0.9606929275665818
+            },
+            {
+                "answer": "Amsterdam",
+                "answer_length": 1,
+                "distractors": [
+                    "Rotterdam",
+                    "Madurodam"
+                ],
+                "language": "nl",
+                "question": "Wat is de hoofdstad van Nedereland ?",
+                "question_length": 7,
+                "score": 0.9604688161336219
+            },
+            {
+                "answer": "Brussel",
+                "answer_length": 1,
+                "distractors": [
+                    "Antwerpen",
+                    "Hasselt",
+                    "Luik"
+                ],
+                "language": "nl",
+                "question": "Wat is de hoofdstad van Belgie ? 1 PUNT",
+                "question_length": 9,
+                "score": 0.9601750297106623
+            },
+            {
+                "answer": "Brugge",
+                "answer_length": 1,
+                "distractors": [
+                    "Brussel",
+                    "Antwerpen"
+                ],
+                "language": "nl",
+                "question": "Wat is de mooiste stad van Belgie ?",
+                "question_length": 8,
+                "score": 0.959831558904503
+            },
+            {
+                "answer": "Paris",
+                "answer_length": 1,
+                "distractors": [
+                    "Brussels"
+                ],
+                "language": "en",
+                "question": "WHat 's the capital of France ?",
+                "question_length": 7,
+                "score": 0.959118822447971
+            }
+        ]
+    }
+}

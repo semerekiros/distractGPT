@@ -1,0 +1,5 @@
+{
+    "qid": "e9db47a4-baa2-49fc-a6d6-be3c8d3e3739",
+    "input": "Devinettes . Qui suis-je ? Mettez une croix . Je suis un nombre pair et j'ai trois chiffres . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 820\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 820\n2. 819\n3. 950\n4. 2000\n5. 1260\n6. 1020\n7. 1050\n8. 1100\n9. 1200\n10. 1000"
+}

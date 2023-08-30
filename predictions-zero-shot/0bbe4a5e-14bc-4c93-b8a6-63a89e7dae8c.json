@@ -1,0 +1,5 @@
+{
+    "qid": "0bbe4a5e-14bc-4c93-b8a6-63a89e7dae8c",
+    "input": "question: Select the right word . I 'm pretty ... . up tomorrow afternoon . Would Wednesday morning be all right ?\nanswer: tied\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. sick\n2. exhausted\n3. free\n4. hungry\n5. upset\n6. grumpy\n7. busy\n8. nervous\n9. confused\n10. angry\n11. bored\n12. late\n13. lost\n14. cold\n15. hot\n16. anxious\n17. happy\n18. sleepy\n19. scared\n20. lazy"
+}

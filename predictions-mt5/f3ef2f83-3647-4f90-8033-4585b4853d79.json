@@ -1,0 +1,5 @@
+{
+    "qid": "f3ef2f83-3647-4f90-8033-4585b4853d79",
+    "input": "Hoe groot is de hoek tussen de evenaar en de aardas? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 90\u00b0\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 0\u00b0\n2. 30\u00b0\n3. 80\u00b0\n4. 60\u00b0\n5. 120\n6. 180\n7. 70\u00b0\n8. 90\u00b0\n9. 170\n10. 165"
+}

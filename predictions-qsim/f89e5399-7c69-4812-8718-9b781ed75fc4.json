@@ -1,0 +1,132 @@
+{
+    "qid": "f89e5399-7c69-4812-8718-9b781ed75fc4",
+    "response": {
+        "Query": "Indiquez a quel temps les verbes sont conjugues .",
+        "Result": [
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "indicatif present",
+                    "imperatif"
+                ],
+                "language": "fr",
+                "question": "Indiquez a quel temps les verbes sont conjugues .",
+                "question_length": 9,
+                "score": 0.9856416808532601
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "indicatif present",
+                    "imperatif"
+                ],
+                "language": "fr",
+                "question": "Ecoutez et indiquez a quel temps les verbes sont conjugues .",
+                "question_length": 11,
+                "score": 0.9847683663322848
+            },
+            {
+                "answer": "imperaitf",
+                "answer_length": 1,
+                "distractors": [
+                    "indicatif present"
+                ],
+                "language": "fr",
+                "question": "Ecoutez bien . Indicatif present ou imperatif ?",
+                "question_length": 8,
+                "score": 0.9744100799358137
+            },
+            {
+                "answer": "Indicatif present",
+                "answer_length": 2,
+                "distractors": [
+                    "Imperatif"
+                ],
+                "language": "fr",
+                "question": "Ecoute . C'est indicatif present ou imperatif ?",
+                "question_length": 8,
+                "score": 0.9625067502855679
+            },
+            {
+                "answer": "imparfait",
+                "answer_length": 1,
+                "distractors": [
+                    "passe compose",
+                    "passe recent",
+                    "imperatif",
+                    "conditionnel present",
+                    "futur simple"
+                ],
+                "language": "fr",
+                "question": "Ce verbe se trouve dans quel temps ? C'etait un beau voyage .",
+                "question_length": 13,
+                "score": 0.9543173275247445
+            },
+            {
+                "answer": "futur proche",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "imparfait",
+                    "passe recent",
+                    "imperatif",
+                    "futur simple"
+                ],
+                "language": "fr",
+                "question": "Ce verbe se trouve dans quel temps ? Le medecin va faire ses visites .",
+                "question_length": 15,
+                "score": 0.9494096221843686
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "imparfait",
+                    "passe recent",
+                    "conditionnel present",
+                    "futur proche",
+                    "futur simple"
+                ],
+                "language": "fr",
+                "question": "Ce verbe se trouve dans quel temps ? Je suis alle a Rome .",
+                "question_length": 14,
+                "score": 0.9420501827001009
+            },
+            {
+                "answer": "imperatif",
+                "answer_length": 1,
+                "distractors": [
+                    "indicatif present"
+                ],
+                "language": "fr",
+                "question": "Ecoutez et dites si vous entendez un indicatif present ou un imperatif .",
+                "question_length": 13,
+                "score": 0.9381302096906865
+            },
+            {
+                "answer": "imparfait",
+                "answer_length": 1,
+                "distractors": [
+                    "passe compose"
+                ],
+                "language": "fr",
+                "question": "Ecoutez . Indiquez quel temps vous entendez .",
+                "question_length": 8,
+                "score": 0.9368186895265203
+            },
+            {
+                "answer": "Futur",
+                "answer_length": 1,
+                "distractors": [
+                    "Present"
+                ],
+                "language": "fr",
+                "question": "Ecoute et choisis : present ou futur du verbe avoir ?",
+                "question_length": 11,
+                "score": 0.9356569190297103
+            }
+        ]
+    }
+}

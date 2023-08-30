@@ -1,0 +1,137 @@
+{
+    "qid": "505bbe16-7ef1-483d-9055-e792147d8df1",
+    "response": {
+        "Query": "Welke stoffen worden via de navelstreng aan- en afgevoerd?",
+        "Result": [
+            {
+                "answer": "zuurstofgas en voedingsstoffen",
+                "answer_length": 3,
+                "distractors": [
+                    "zuurstofgas en afvalstoffen",
+                    "koolstofdioxidegas en andere voedingsstoffen",
+                    "koolstofdioxidegas en andere afvalstoffen"
+                ],
+                "language": "nl",
+                "question": "Welke stoffen verlaten een haarvat als ze weefsels voeden ?",
+                "question_length": 10,
+                "score": 0.9126840190147121
+            },
+            {
+                "answer": "koolstofdioxide en waterdamp",
+                "answer_length": 3,
+                "distractors": [
+                    "koolstofdioxide en zuurstofgas",
+                    "waterdamp en stikstofgas",
+                    "waterdamp en zuurstofgas"
+                ],
+                "language": "nl",
+                "question": "Welke stoffen worden afgegeven aan het longblaasje tijdens de ademhaling ?",
+                "question_length": 11,
+                "score": 0.8603602934478969
+            },
+            {
+                "answer": "Enzymen",
+                "answer_length": 1,
+                "distractors": [
+                    "Koolhydraten",
+                    "Suikers",
+                    "Vitaminen"
+                ],
+                "language": "nl",
+                "question": "Welke stoffen zitten in maagsap ? Bekijk het filmpje . Duid het juiste antwoord aan . Klik hier voor het filmpje",
+                "question_length": 21,
+                "score": 0.8291186391329093
+            },
+            {
+                "answer": "oligo-elementen",
+                "answer_length": 1,
+                "distractors": [
+                    "eiwitten",
+                    "koolhydraten",
+                    "vetten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke stoffen activeren de enzymen in ons lichaam ?",
+                "question_length": 16,
+                "score": 0.805106212081902
+            },
+            {
+                "answer": "Enzymen",
+                "answer_length": 1,
+                "distractors": [
+                    "Vocht",
+                    "Chitine",
+                    "Cellulose"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke stoffen produceren zwamdraden zodat voedingsstoffen kunnen opgenomen worden ?",
+                "question_length": 21,
+                "score": 0.7950728003377758
+            },
+            {
+                "answer": "ribose",
+                "answer_length": 1,
+                "distractors": [
+                    "galactose",
+                    "desoxyribose",
+                    "glucose"
+                ],
+                "language": "fr",
+                "question": "Quel glucide trouve-t-on dans une molecule d'ARN ?",
+                "question_length": 8,
+                "score": 0.7348823603192205
+            },
+            {
+                "answer": "brandstoffen",
+                "answer_length": 1,
+                "distractors": [
+                    "vetten",
+                    "regelende stoffen",
+                    "bouwstoffen"
+                ],
+                "language": "nl",
+                "question": "Welke stoffen kun je opsporen met behulp van dit experiment ( zie foto ) ?",
+                "question_length": 15,
+                "score": 0.6587683360797837
+            },
+            {
+                "answer": "Chemische prikkels",
+                "answer_length": 2,
+                "distractors": [
+                    "Mechanische prikkels",
+                    "Chemische en mechanische prikkels",
+                    "Natuurlijke prikkels"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat zijn reukstoffen ?",
+                "question_length": 15,
+                "score": 0.6278903511905375
+            },
+            {
+                "answer": "koolstofdioxide",
+                "answer_length": 1,
+                "distractors": [
+                    "stikstofgas",
+                    "zuurstofgas",
+                    "heliumgas"
+                ],
+                "language": "nl",
+                "question": "Vul aan . Uitgeademde lucht bevat meer ... dan ingeademde lucht .",
+                "question_length": 12,
+                "score": 0.5745239973514479
+            },
+            {
+                "answer": "FSH en LH",
+                "answer_length": 3,
+                "distractors": [
+                    "oestrogeen en progesteron",
+                    "LH en progesteron"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Voor het vermijden van eierstokkanker bij vrouwen wordt uitzonderlijk beslist om de eierstokken vroegtijdig te verwijderen . Welke hormonen worden na het verwijderen van de eierstokken niet meer geproduceerd ?",
+                "question_length": 37,
+                "score": 0.5678327262627114
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "qid": "68f5ce06-1208-42f8-b573-f6b76fe5c8f6",
+    "response": {
+        "Query": "Wat zijn de twee belangrijkste oorzaken van de grote hoeveelheid broeikasgassen?",
+        "Result": [
+            {
+                "answer": "desinfecterend en verwekend",
+                "answer_length": 3,
+                "distractors": [
+                    "adstringerend en activerend",
+                    "reinigend en vochtregulerend"
+                ],
+                "language": "nl",
+                "question": "2 punten Welke invloeden heeft geioniseerde en geozoniseerde waterdamp op de huid ?",
+                "question_length": 13,
+                "score": 0.5507262646808693
+            },
+            {
+                "answer": "Bewegingsenergie - > stralingsenergie",
+                "answer_length": 4,
+                "distractors": [
+                    "Bewegingsenergie - > bewegingsenergie",
+                    "Bewegingsenergie - > elektrische energie",
+                    "Bewegingsenergie - > rotatie-energie"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke energieomzetting is nooit mogelijk bij een technische toepassing van een windmolen ?",
+                "question_length": 24,
+                "score": 0.3704076297616643
+            },
+            {
+                "answer": "desinfecterend en verwekend",
+                "answer_length": 3,
+                "distractors": [
+                    "adstringerend en activerend",
+                    "reinigend en vochtregulerend"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke invloeden heeft geioniseerde en geozoniseerde waterdamp op de huid ?",
+                "question_length": 17,
+                "score": 0.3358649032316297
+            },
+            {
+                "answer": "het aantal wattuur per kilogram",
+                "answer_length": 5,
+                "distractors": [
+                    "het aantal ampere per seconde",
+                    "het aantal wattuur per seconde"
+                ],
+                "language": "nl",
+                "question": "Wat is de energiedichtheid ?",
+                "question_length": 5,
+                "score": 0.24496807262447431
+            },
+            {
+                "answer": "Magnetische kracht",
+                "answer_length": 2,
+                "distractors": [
+                    "Zwaartekracht",
+                    "Elektrostatische kracht",
+                    "Wrijvingskracht"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke kracht is noodzakelijk zodat elektrische energie ontstaat in een dynamo ?",
+                "question_length": 23,
+                "score": 0.24450467027509382
+            },
+            {
+                "answer": "De temperatuur is lager ",
+                "answer_length": 4,
+                "distractors": [
+                    "De temperatuur is hoger "
+                ],
+                "language": "nl",
+                "question": "In het noorden leggen de zonnestralen een grotere afstand af door de atmosfeer . De atmosfeer werkt als een filter voor zonnestralen . Welk gevolg heeft dit op de temperatuur ?",
+                "question_length": 31,
+                "score": 0.2302168141534915
+            },
+            {
+                "answer": "onuitputbaar",
+                "answer_length": 1,
+                "distractors": [
+                    "altijd beschikbaar",
+                    "beperkt voorradig",
+                    "milieubelastend"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Alternatieve energie , zoals windenergie , biedt volgend voordeel ten opzichte van steenkool , petroleum en gas . Alternatieve energie is",
+                "question_length": 28,
+                "score": 0.19670044043333623
+            },
+            {
+                "answer": "UV straling",
+                "answer_length": 2,
+                "distractors": [
+                    "zichtbaar licht",
+                    "UV straling en zichbaar licht",
+                    "UV straling en radiogolven"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk soort straling veroorzaakt zonnebrand ?",
+                "question_length": 13,
+                "score": 0.1588146837105344
+            },
+            {
+                "answer": "De ballon wordt groter ",
+                "answer_length": 4,
+                "distractors": [
+                    "De ballon wordt kleiner ",
+                    "Er gebeurt niets "
+                ],
+                "language": "nl",
+                "question": "Wat zal er gebeuren wanneer je het gas in een opgeblazen ballon verwarmt ?",
+                "question_length": 14,
+                "score": 0.1517572901892393
+            },
+            {
+                "answer": "alleen uit licht",
+                "answer_length": 3,
+                "distractors": [
+                    "alleen uit voedingsstoffen",
+                    "uit water en voedingsstoffen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar komt de energie voor de aanmaak van glucose vandaan ?",
+                "question_length": 18,
+                "score": 0.15098474611125356
+            }
+        ]
+    }
+}

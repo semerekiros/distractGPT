@@ -1,0 +1,5 @@
+{
+    "qid": "0a1adffb-f698-43ab-aaef-522cc3d9f7d6",
+    "input": "l'alouette en neerlandais ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. de leeuwerik\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. de alouette\n2. de rosselaar\n3. de leeuwerik en neerlandais\n4. het zeilpaard\n5. de gouden salami\n6. geen van bovenstaande\n7. de vlaamse appel\n8. de kelch 7.\n9. de rivier\n10. het leem"
+}

@@ -1,0 +1,130 @@
+{
+    "qid": "3f404aba-efcf-439a-99a5-e409f56fc21a",
+    "response": {
+        "Query": "In welk seizoen zijn de temperaturen het hoogst?",
+        "Result": [
+            {
+                "answer": "wanneer je nooit verliest",
+                "answer_length": 4,
+                "distractors": [
+                    "wanneer je openlijk gokt"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wanneer is gokken geen zonde ?",
+                "question_length": 13,
+                "score": 0.9518695326454021
+            },
+            {
+                "answer": "winter",
+                "answer_length": 1,
+                "distractors": [
+                    "",
+                    "Herst"
+                ],
+                "language": "nl",
+                "question": "welk seizoen zijn wel ?",
+                "question_length": 5,
+                "score": 0.9383310739755227
+            },
+            {
+                "answer": "april",
+                "answer_length": 1,
+                "distractors": [
+                    "februari",
+                    "mei",
+                    "elke maand met 30 dagen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke maand is de maand van de poezie ?",
+                "question_length": 16,
+                "score": 0.9267124536047583
+            },
+            {
+                "answer": "geen MV aanwezig",
+                "answer_length": 3,
+                "distractors": [
+                    "ik",
+                    "aan de rand"
+                ],
+                "language": "nl",
+                "question": "Duid het MV aan . Ik woon aan de rand van het meer .",
+                "question_length": 14,
+                "score": 0.8793950391720524
+            },
+            {
+                "answer": "in onze zomer",
+                "answer_length": 3,
+                "distractors": [
+                    "in onze lente",
+                    "in onze herfst",
+                    "in onze winter"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wanneer staat de aarde het verst van de zon ?",
+                "question_length": 17,
+                "score": 0.8769079592588465
+            },
+            {
+                "answer": "augustus",
+                "answer_length": 1,
+                "distractors": [
+                    "februari",
+                    "april",
+                    "oktober"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke maand is er geen feestdag in de Verenigde Staten ?",
+                "question_length": 19,
+                "score": 0.8699561454297852
+            },
+            {
+                "answer": "Ja",
+                "answer_length": 1,
+                "distractors": [
+                    "Neen"
+                ],
+                "language": "nl",
+                "question": "Bekijk het klimatogram van Vardo . Is de temperatuur van de warmste maand lager of gelijk aan 10\u00b0C ?",
+                "question_length": 19,
+                "score": 0.8668176078879958
+            },
+            {
+                "answer": "Palatijn",
+                "answer_length": 1,
+                "distractors": [
+                    "Quirinaal",
+                    "Capitool"
+                ],
+                "language": "nl",
+                "question": "Op welke heuvel vestigden de keizers zich in Rome ?",
+                "question_length": 10,
+                "score": 0.8636225260617072
+            },
+            {
+                "answer": "Winter",
+                "answer_length": 1,
+                "distractors": [
+                    "Zomer",
+                    "Lente",
+                    "Herfst"
+                ],
+                "language": "nl",
+                "question": "welk seizoen zijn wij ?",
+                "question_length": 5,
+                "score": 0.8383680404825499
+            },
+            {
+                "answer": "april",
+                "answer_length": 1,
+                "distractors": [
+                    "mei",
+                    "augustus"
+                ],
+                "language": "nl",
+                "question": "In welke maand is de week van de Valpreventie ?",
+                "question_length": 10,
+                "score": 0.8193196315333587
+            }
+        ]
+    }
+}

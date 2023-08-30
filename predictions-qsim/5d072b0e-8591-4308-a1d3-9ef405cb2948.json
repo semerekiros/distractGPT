@@ -1,0 +1,136 @@
+{
+    "qid": "5d072b0e-8591-4308-a1d3-9ef405cb2948",
+    "response": {
+        "Query": "Welke voedingsmiddelen geven een positieve vetvlektest?",
+        "Result": [
+            {
+                "answer": "banaan",
+                "answer_length": 1,
+                "distractors": [
+                    "choco",
+                    "koekjes"
+                ],
+                "language": "nl",
+                "question": "Welke voedingsmiddelen behoren tot een gezond ontbijt ?",
+                "question_length": 8,
+                "score": 0.938588019497095
+            },
+            {
+                "answer": "banaan",
+                "answer_length": 1,
+                "distractors": [
+                    "choco",
+                    "Koekjes"
+                ],
+                "language": "nl",
+                "question": "Welke voedingsmiddelen maken deel uit van een gezond ontbij",
+                "question_length": 9,
+                "score": 0.9080449819682943
+            },
+            {
+                "answer": "Eiwitten",
+                "answer_length": 1,
+                "distractors": [
+                    "Vetten",
+                    "Glucose",
+                    "Zetmeel"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke voedingsstof kan men met albustix aantonen ?",
+                "question_length": 19,
+                "score": 0.7751317190042972
+            },
+            {
+                "answer": "mineralen",
+                "answer_length": 1,
+                "distractors": [
+                    "vitaminen",
+                    "voedingsvezels",
+                    "water"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Met welke voedingsstof dient men zeker rekening te houden bij een diabetesdieet ?",
+                "question_length": 20,
+                "score": 0.7121796043689603
+            },
+            {
+                "answer": "Granen",
+                "answer_length": 1,
+                "distractors": [
+                    "Rijst",
+                    "Aardappelen",
+                    "Noten",
+                    "Kaas"
+                ],
+                "language": "nl",
+                "question": "Welke landbouwgewas of -product is de grondstof van dit voedingswaar ?",
+                "question_length": 11,
+                "score": 0.6917448698618486
+            },
+            {
+                "answer": "een ploeg",
+                "answer_length": 2,
+                "distractors": [
+                    "een akkersleep",
+                    "een kruiwagen"
+                ],
+                "language": "nl",
+                "question": "une charrue en neerlandais ?",
+                "question_length": 5,
+                "score": 0.6309694622313102
+            },
+            {
+                "answer": "Marihuana ",
+                "answer_length": 1,
+                "distractors": [
+                    "Cafeine",
+                    "Guarana",
+                    "Alcohol"
+                ],
+                "language": "af",
+                "question": "Welke drug is illegaal in Belgie ?",
+                "question_length": 7,
+                "score": 0.6141012267138997
+            },
+            {
+                "answer": "3",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk voedingsmiddel kan mensen met een lactose-intolerantie last bezorgen ?",
+                "question_length": 17,
+                "score": 0.5662320311501502
+            },
+            {
+                "answer": "4",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk voedingsmiddel kan mensen met glutenallergie last bezorgen ?",
+                "question_length": 16,
+                "score": 0.4957150312040985
+            },
+            {
+                "answer": "water , spuitwater en thee",
+                "answer_length": 5,
+                "distractors": [
+                    "water , koffie en aquarius",
+                    "water , limonade en fruitsap",
+                    "water , cola en chocolademelk"
+                ],
+                "language": "nl",
+                "question": "Welke reeks van voedingsmiddelen hoort thuis in het vak 'water ' ?",
+                "question_length": 12,
+                "score": 0.4465927649364627
+            }
+        ]
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "qid": "27c23567-7595-4b30-b8ff-6ac53ac4c84c",
+    "response": {
+        "Query": "Determination to keep trying to do something difficult is called ... ... ... ... ... .",
+        "Result": [
+            {
+                "answer": "perseverance",
+                "answer_length": 1,
+                "distractors": [
+                    "loyalty",
+                    "retention",
+                    "satisfaction"
+                ],
+                "language": "en",
+                "question": "Determination to keep trying to do something difficult is called ... ... ... ... ... .",
+                "question_length": 16,
+                "score": 0.7078132201656265
+            },
+            {
+                "answer": "perseverance",
+                "answer_length": 1,
+                "distractors": [
+                    "loyalty",
+                    "retention",
+                    "satisfaction"
+                ],
+                "language": "en",
+                "question": "Determination to keep trying to do something difficult is called ... ... ... ... ... ..",
+                "question_length": 16,
+                "score": 0.7031536660267116
+            },
+            {
+                "answer": "initial",
+                "answer_length": 1,
+                "distractors": [
+                    "terminal",
+                    "ultime"
+                ],
+                "language": "fr",
+                "question": "l'antonyme de 'final ' ?",
+                "question_length": 5,
+                "score": 0.01012307250075404
+            },
+            {
+                "answer": "attirer",
+                "answer_length": 1,
+                "distractors": [
+                    "tirer",
+                    "attracter",
+                    "seduire"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase . Une grande stabilite politique est primordiale afin d ' ... les investissements etrangers .",
+                "question_length": 18,
+                "score": 0.007317854982098897
+            },
+            {
+                "answer": "expedie",
+                "answer_length": 1,
+                "distractors": [
+                    "amene",
+                    "apporte",
+                    "expatrie"
+                ],
+                "language": "fr",
+                "question": "Quel mot pourrait remplacer la partie en gras ? Un exportateur envoie des marchandises a l'etranger .",
+                "question_length": 17,
+                "score": 0.0035786385400292946
+            },
+            {
+                "answer": "bonheur",
+                "answer_length": 1,
+                "distractors": [
+                    "catastrophe",
+                    "bien-etre",
+                    "satisfaction"
+                ],
+                "language": "fr",
+                "question": "Choisissez l'antonyme du premier mot dans la liste suivante : malheur",
+                "question_length": 11,
+                "score": 0.002894494007147105
+            },
+            {
+                "answer": "bonheur",
+                "answer_length": 1,
+                "distractors": [
+                    "catastrophe",
+                    "bien-etre",
+                    "satisfaction"
+                ],
+                "language": "fr",
+                "question": "Quel est l'antonyme du mot `` malheur '' ?",
+                "question_length": 9,
+                "score": 0.002753656817043894
+            },
+            {
+                "answer": "topologies de reseaux",
+                "answer_length": 3,
+                "distractors": [
+                    "connexions bluetooth",
+                    "extranets"
+                ],
+                "language": "fr",
+                "question": "... /2 points Les reseaux en etoile , reseaux en anneau et reseaux en bus sont des exemples de ...",
+                "question_length": 20,
+                "score": 0.002513200245745328
+            },
+            {
+                "answer": "l '",
+                "answer_length": 2,
+                "distractors": [
+                    "lui"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Les troubles dans cette region ... .. ont empeche de se deplacer comme il le voulait .",
+                "question_length": 33,
+                "score": 0.0019740937172439254
+            },
+            {
+                "answer": "combinee a",
+                "answer_length": 2,
+                "distractors": [
+                    "ensemble avec"
+                ],
+                "language": "fr",
+                "question": "Choisissez le mot correcte La baisse des ventes est due a une saturation du marche ( ... ) une periode de recession",
+                "question_length": 22,
+                "score": 0.0010412989471031522
+            }
+        ]
+    }
+}

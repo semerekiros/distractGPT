@@ -1,0 +1,135 @@
+{
+    "qid": "88d1d94c-5b4c-4007-918d-fc7339ec170c",
+    "response": {
+        "Query": "Welke voorwerpen kreeg Theseus van Ariadne?",
+        "Result": [
+            {
+                "answer": "A",
+                "answer_length": 1,
+                "distractors": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Op welke foto zie je een elektricien ?",
+                "question_length": 8,
+                "score": 0.9344470010759051
+            },
+            {
+                "answer": "steenkool",
+                "answer_length": 1,
+                "distractors": [
+                    "Afrika",
+                    "aardolie",
+                    "de aarde"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wat wordt bedoeld met het zwarte goud ?",
+                "question_length": 21,
+                "score": 0.9090565475362575
+            },
+            {
+                "answer": "beide",
+                "answer_length": 1,
+                "distractors": [
+                    "ardooie",
+                    "koolskamp"
+                ],
+                "language": "nl",
+                "question": "Wat zijn de vestigingen in Belgie Kies het juiste antwoord",
+                "question_length": 10,
+                "score": 0.9015642840158155
+            },
+            {
+                "answer": "Fonds voor Arbeidsongevallen",
+                "answer_length": 3,
+                "distractors": [
+                    "Fonds voor Algemene Beroepsziekten",
+                    "Federatie van Afwezigheden",
+                    "Federatie voor Arbeidswelzijn"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Waarvoor staat FAO ?",
+                "question_length": 17,
+                "score": 0.8834099855563953
+            },
+            {
+                "answer": "Ze moeten niet verhuizen ",
+                "answer_length": 4,
+                "distractors": [
+                    "Ze zijn goedkoop ",
+                    "Ze spreken dezelfde taal ",
+                    "Ze hebben dezelfde werknormen "
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Voor de Belgische markt : wat is het grootste voordeel van de Fransen , in tegenstelling tot de Oost-Europeanen ?",
+                "question_length": 25,
+                "score": 0.8377728422891938
+            },
+            {
+                "answer": "cement",
+                "answer_length": 1,
+                "distractors": [
+                    "benzine",
+                    "oude waterleidingen",
+                    "verf"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk materiaal gaf in het verleden geen risico op loodintoxicatie ?",
+                "question_length": 18,
+                "score": 0.8294313526521294
+            },
+            {
+                "answer": "verzadigd",
+                "answer_length": 1,
+                "distractors": [
+                    "koud",
+                    "onverzadigd",
+                    "warm"
+                ],
+                "language": "nl",
+                "question": "Vul aan . Als er opgeloste stof op de bodem blijft liggen , is de vloeistof erboven ...",
+                "question_length": 18,
+                "score": 0.8020363027987845
+            },
+            {
+                "answer": "knelpuntproducten",
+                "answer_length": 1,
+                "distractors": [
+                    "routineproducten",
+                    "hefboomproducten",
+                    "strategische producten"
+                ],
+                "language": "nl",
+                "question": "04.27 : De Kraljic-matrix levert goed inzicht in de belangen van de inkoper voor een aankoop . Over welke producten gaat het bij de volgende uitspraak van een inkoper ? `` De aankoop van deze producten is zeer risicovol . Er zijn immers weinig betrouwbare leveranciers voor deze producten . Nochtans zijn deze producten van weinig of geen belang in de totale inkoopwaarde van onze aankopen . '' Deze inkoper heeft het over ...",
+                "question_length": 74,
+                "score": 0.8015655723019873
+            },
+            {
+                "answer": "Ijzer",
+                "answer_length": 1,
+                "distractors": [
+                    "Koolstof"
+                ],
+                "language": "nl",
+                "question": "Staal is een legering van verschillende elementen . Welk van deze elementen is verantwoordelijk voor de corrosie van staal ?",
+                "question_length": 20,
+                "score": 0.789939980763692
+            },
+            {
+                "answer": "brandstof",
+                "answer_length": 1,
+                "distractors": [
+                    "beschermende stof",
+                    "bouwstof",
+                    "regulerende stof"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is geen biologische functie van water ?",
+                "question_length": 15,
+                "score": 0.7863053250096398
+            }
+        ]
+    }
+}

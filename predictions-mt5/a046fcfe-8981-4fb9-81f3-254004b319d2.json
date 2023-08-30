@@ -1,0 +1,5 @@
+{
+    "qid": "a046fcfe-8981-4fb9-81f3-254004b319d2",
+    "input": "Hoeveel vluchten zijn er jaarlijks? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 40 miljoen\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 10 miljoen\n2. 20 miljoen\n3. 10 miljard\n4. 30 miljoen\n5. 50 miljon\n6. 50 miljoen\n7. 40 miljonen\n8. 60 miljoen\n9. 16,5 miljard\n10. 70 miljoen"
+}

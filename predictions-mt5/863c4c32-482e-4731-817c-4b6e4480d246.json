@@ -1,0 +1,5 @@
+{
+    "qid": "863c4c32-482e-4731-817c-4b6e4480d246",
+    "input": "Wat raadpleeg je om te weten wat de benodigdheden zijn bij een proef? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. de werkwijze\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. de methode\n2. de reden\n3. het resultaat\n4. het rendement\n5. de voorzet\n6. het budget\n7. het milieu\n8. het materieel\n9. een\n10. de tijdsduur"
+}

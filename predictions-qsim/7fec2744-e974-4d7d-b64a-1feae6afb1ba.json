@@ -1,0 +1,133 @@
+{
+    "qid": "7fec2744-e974-4d7d-b64a-1feae6afb1ba",
+    "response": {
+        "Query": "Wat zit het dichtst bij de bladschijf?",
+        "Result": [
+            {
+                "answer": "Thermisch onderbroken raam profiel",
+                "answer_length": 4,
+                "distractors": [
+                    "Kunststofprofiel met drie kamers"
+                ],
+                "language": "nl",
+                "question": "Welk type raamprofiel ziet u op de foto ?",
+                "question_length": 9,
+                "score": 0.9728212281785289
+            },
+            {
+                "answer": "De kabel als hoogspanningskabel beschouwen ",
+                "answer_length": 5,
+                "distractors": [
+                    "De kabel verder ontmantelen "
+                ],
+                "language": "nl",
+                "question": "Wat doe je als er onder de loodmantel zilverpapier zit ?",
+                "question_length": 11,
+                "score": 0.9436317584662346
+            },
+            {
+                "answer": "thv de maag",
+                "answer_length": 3,
+                "distractors": [
+                    "thv het hart",
+                    "thv de anus",
+                    "thv de mond"
+                ],
+                "language": "nl",
+                "question": "Waar vindt men een eenlagig cylindrisch epitheel ?",
+                "question_length": 8,
+                "score": 0.9406629389275264
+            },
+            {
+                "answer": "in de longblaasjes",
+                "answer_length": 3,
+                "distractors": [
+                    "in de luchtpijptakken",
+                    "in de longtakjes",
+                    "in de luchtpijp"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de gasuitwisseling in de longen ?",
+                "question_length": 8,
+                "score": 0.9331444257868624
+            },
+            {
+                "answer": "bladschede",
+                "answer_length": 1,
+                "distractors": [
+                    "bladsteel",
+                    "bladvoet",
+                    "bladrand"
+                ],
+                "language": "nl",
+                "question": "Met welk deel hangt het blad vast aan de stengel ?",
+                "question_length": 11,
+                "score": 0.9227350533386288
+            },
+            {
+                "answer": "Naar Mars gaan",
+                "answer_length": 3,
+                "distractors": [
+                    "",
+                    "Een hoofdtransplantatie ondergaan",
+                    "Met een jet vliegen"
+                ],
+                "language": "nl",
+                "question": "Wat wil je in jouw bucketlist zetten ?",
+                "question_length": 8,
+                "score": 0.903501720222668
+            },
+            {
+                "answer": "langwerpig en soepel",
+                "answer_length": 3,
+                "distractors": [
+                    "rond en stijf",
+                    "rond en soepel",
+                    "langwerpig en stijf"
+                ],
+                "language": "nl",
+                "question": "Hoe is de romp van het konijn gebouwd ?",
+                "question_length": 9,
+                "score": 0.8858440966033521
+            },
+            {
+                "answer": "hoofdnerf",
+                "answer_length": 1,
+                "distractors": [
+                    "zijnerven",
+                    "bladmoes",
+                    "bladaders"
+                ],
+                "language": "nl",
+                "question": "Waarmee staat de bladsteel binnen de bladschijf rechtstreeks in verbinding ?",
+                "question_length": 11,
+                "score": 0.883798278837369
+            },
+            {
+                "answer": "hoofdwortel",
+                "answer_length": 1,
+                "distractors": [
+                    "dikke wortel",
+                    "zijwortel",
+                    "wortelharen"
+                ],
+                "language": "nl",
+                "question": "Hoe heet het deel van de wortel dat rechtstreeks verbonden is met de stengel ?",
+                "question_length": 15,
+                "score": 0.8681745258470829
+            },
+            {
+                "answer": "Terug naar economaat",
+                "answer_length": 3,
+                "distractors": [
+                    "In de vuilbak",
+                    "In het geel vat"
+                ],
+                "language": "nl",
+                "question": "Een leeg inkpatroon , cartridge of toner ... wat doet u ermee ? Vink het correcte antwoord aan . Er is slechts een antwoord mogelijk .",
+                "question_length": 26,
+                "score": 0.8634130865184019
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "qid": "16bbd9d6-81b7-4162-bcc0-bc3696cdd678",
+    "response": {
+        "Query": "In welk continent ligt Mexico?",
+        "Result": [
+            {
+                "answer": "Engeland",
+                "answer_length": 1,
+                "distractors": [
+                    "Ierland",
+                    "Schotland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar ligt de Ram Inn ?",
+                "question_length": 13,
+                "score": 0.9788198439858122
+            },
+            {
+                "answer": "Schotland",
+                "answer_length": 1,
+                "distractors": [
+                    "Engeland",
+                    "Noord-Ierland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk deel van het Verenigd Koninkrijk zou het project uitgevoerd worden ?",
+                "question_length": 20,
+                "score": 0.9726043321792478
+            },
+            {
+                "answer": "ten zuiden",
+                "answer_length": 2,
+                "distractors": [
+                    "ten noorden",
+                    "ten westen",
+                    "ten oosten"
+                ],
+                "language": "nl",
+                "question": "Waar ligt Campania ten opzichte van Latium ?",
+                "question_length": 8,
+                "score": 0.9677772340254842
+            },
+            {
+                "answer": "Engeland",
+                "answer_length": 1,
+                "distractors": [
+                    "Ierland",
+                    "Schotland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar ligt The Ram Inn ?",
+                "question_length": 13,
+                "score": 0.9601403935822248
+            },
+            {
+                "answer": "B",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk deel van het Verenigd Koninkrijk was het voor aanvang van het weekend slecht weer ?",
+                "question_length": 24,
+                "score": 0.9405437507055199
+            },
+            {
+                "answer": "Aan het Central Park",
+                "answer_length": 4,
+                "distractors": [
+                    "In Harlem",
+                    "In Downtown",
+                    "In Midtown"
+                ],
+                "language": "nl",
+                "question": "Waar wonen de rijkere New Yorkers ?",
+                "question_length": 7,
+                "score": 0.9402330930939012
+            },
+            {
+                "answer": "Wyoming",
+                "answer_length": 1,
+                "distractors": [
+                    "New York",
+                    "California",
+                    "Alaska"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts 1 correct antwoord . Op het grondgebied van welke Amerikaanse staat ligt het 95 % van Yellowstone National Park ?",
+                "question_length": 29,
+                "score": 0.9167197532670813
+            },
+            {
+                "answer": "Japan",
+                "answer_length": 1,
+                "distractors": [
+                    "China",
+                    "Zuid-Korea"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . In welk land rijdt men links ?",
+                "question_length": 13,
+                "score": 0.8852058885956341
+            },
+            {
+                "answer": "in vlakke gebieden",
+                "answer_length": 3,
+                "distractors": [
+                    "in warme gebieden",
+                    "aan de kusten",
+                    "in ontwikkelingslanden"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar bevinden zich de meeste grootsteden met meer dan 10 miljoen inwoners ? Gebruik je atlas .",
+                "question_length": 24,
+                "score": 0.8838453032248371
+            },
+            {
+                "answer": "Griekenland",
+                "answer_length": 1,
+                "distractors": [
+                    "Italie",
+                    "Egypte",
+                    "Azie"
+                ],
+                "language": "nl",
+                "question": "Met welk gebied kwam het rijk van Kassandros overeen ?",
+                "question_length": 10,
+                "score": 0.853875317838378
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "8b43492c-cf0e-43fd-9f15-bb0c7ef678a7",
+    "input": "vraag: Hoelang wordt de eisprong door de noodpil uitgesteld?\nantwoord: tot 5 dagen\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Tot 2 weken\n2. Tot 24 uur\n3. Tot 3 maanden\n4. Tot 1 maand\n5. Tot 2 maanden\n6. Tot 10 dagen\n7. Tot 7 dagen\n8. Tot 1 week\n9. Tot 6 weken\n10. Tot 4 dagen\n11. Tot 8 dagen\n12. Tot 72 uur\n13. Tot 12 uur\n14. Tot 14 dagen\n15. Tot 20 dagen\n16. Tot 3 dagen\n17. Tot 48 uur\n18. Tot 36 uur\n19. Tot 10 dagen\n20. Tot 30 dagen"
+}

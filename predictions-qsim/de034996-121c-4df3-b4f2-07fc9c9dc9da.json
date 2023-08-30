@@ -1,0 +1,128 @@
+{
+    "qid": "de034996-121c-4df3-b4f2-07fc9c9dc9da",
+    "response": {
+        "Query": "Duid het juiste antwoord aan.\n\nWat zal er gebeuren met de ijsblokjes als je je glas water in de zon laat staan?",
+        "Result": [
+            {
+                "answer": "De kerk krijgt alles",
+                "answer_length": 4,
+                "distractors": [
+                    "",
+                    "De familie erft de grond ",
+                    "Verdeling tussen leenheer en erfgenamen "
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Wat gebeurt er bij het overlijden van een boer met 1 stuk grond ?",
+                "question_length": 20,
+                "score": 0.9598683785035071
+            },
+            {
+                "answer": "Glycogeen wordt omgezet in glucose ",
+                "answer_length": 5,
+                "distractors": [
+                    "Glucose wordt omgezet in glycogeen "
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat gebeurt er als glucagon in het bloed komt ?",
+                "question_length": 21,
+                "score": 0.9158907655416461
+            },
+            {
+                "answer": "Brand en explosie gevaar",
+                "answer_length": 4,
+                "distractors": [
+                    "Er kan niets gebeuren",
+                    "Men kan verstikken"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Tijdens het werken in een besloten ruimte , wordt er gemerkt dat de zuurstof concentratie blijft stijgen en 23 vol % overschreden wordt . Wat is het mogelijk gevolg van deze situatie ?",
+                "question_length": 38,
+                "score": 0.8462182675045045
+            },
+            {
+                "answer": "Glucose wordt omgezet in glycogeen",
+                "answer_length": 5,
+                "distractors": [
+                    "Glycogeen wordt omgezet in glucose",
+                    "Glucose wordt omgezet in glucagon",
+                    "Glucagon wordt omgezet in glucose"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat gebeurt er als insuline in het bloed komt ?",
+                "question_length": 21,
+                "score": 0.8325024757931975
+            },
+            {
+                "answer": "De automaat is defect ",
+                "answer_length": 4,
+                "distractors": [
+                    "Het krediet is opgebruikt "
+                ],
+                "language": "nl",
+                "question": "De automaat wil niet inschakelen en er is geen spanning op de uitschakelspoel . Wat is de oorzaak ?",
+                "question_length": 19,
+                "score": 0.6930274831345322
+            },
+            {
+                "answer": "Door te zitten",
+                "answer_length": 3,
+                "distractors": [
+                    "Door recht te staan",
+                    "Door intensief te sporten",
+                    "Door veel te wandelen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoe belasten we onze rug het zwaarst ?",
+                "question_length": 15,
+                "score": 0.6917224831801245
+            },
+            {
+                "answer": "3500 kWh",
+                "answer_length": 2,
+                "distractors": [
+                    "1500 kWh",
+                    "5500 kWh"
+                ],
+                "language": "nl",
+                "question": "Wat is het verbruik van een doorsnee gezin in Vlaanderen ?",
+                "question_length": 11,
+                "score": 0.6877118482702148
+            },
+            {
+                "answer": "Het volume neemt toe ",
+                "answer_length": 4,
+                "distractors": [
+                    "Het volume neemt af ",
+                    "Het volume blijft onveranderd "
+                ],
+                "language": "nl",
+                "question": "Wat gebeurt er met het volume van water bij een temperatuur van 6 degrees C als we het verwarmen ?",
+                "question_length": 20,
+                "score": 0.6657301564073945
+            },
+            {
+                "answer": "samentrekking van de kamers",
+                "answer_length": 4,
+                "distractors": [
+                    "samentrekking van de boezems",
+                    "hartpauze"
+                ],
+                "language": "nl",
+                "question": "Wat gebeurt er op de afbeelding van het hart ?",
+                "question_length": 10,
+                "score": 0.6583250571455831
+            },
+            {
+                "answer": "Ze zijn voor iedereen verlaagd ",
+                "answer_length": 5,
+                "distractors": [
+                    "Ze zijn voor iedereen verhoogd "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is er de laatste 20 jaar met de uitkeringen in Zweden gebeurd ?",
+                "question_length": 21,
+                "score": 0.5709851908031557
+            }
+        ]
+    }
+}

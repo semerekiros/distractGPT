@@ -1,0 +1,5 @@
+{
+    "qid": "486fdac7-c9cd-4130-ba7a-c51d47b2ec95",
+    "input": "Hoeveel procent van de lucht is zuurstofgas? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. 20%\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. 10\n2. 35%\n3. 15\n4. 45 %\n5. 30\n6. 60 %\n7. 40\n8. 75 %\n9. 60\n10. 75"
+}

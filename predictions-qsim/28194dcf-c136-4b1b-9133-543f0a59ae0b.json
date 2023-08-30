@@ -1,0 +1,129 @@
+{
+    "qid": "28194dcf-c136-4b1b-9133-543f0a59ae0b",
+    "response": {
+        "Query": "This is some introduction Another introduction",
+        "Result": [
+            {
+                "answer": "Choice 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Choice 2"
+                ],
+                "language": "en",
+                "question": "This is some introduction Another introduction",
+                "question_length": 6,
+                "score": 0.9699252872671479
+            },
+            {
+                "answer": "His hotel room ",
+                "answer_length": 3,
+                "distractors": [
+                    "His villa ",
+                    "His flat "
+                ],
+                "language": "en",
+                "question": "Listen to the audio . Then tick the right answer . What is Lewis Hamilton showing ?",
+                "question_length": 17,
+                "score": 0.8868791671982468
+            },
+            {
+                "answer": "No",
+                "answer_length": 1,
+                "distractors": [
+                    "Yes"
+                ],
+                "language": "en",
+                "question": "Select correct answer Karel is showing 5 video stream is this the max value",
+                "question_length": 14,
+                "score": 0.8287300822049455
+            },
+            {
+                "answer": "False",
+                "answer_length": 1,
+                "distractors": [
+                    "True"
+                ],
+                "language": "en",
+                "question": "A user can be linked to multiple companies/schools .",
+                "question_length": 9,
+                "score": 0.8272453588734072
+            },
+            {
+                "answer": "de geregistreerde lijn van voorouders",
+                "answer_length": 5,
+                "distractors": [
+                    "de opgenomen lijn van nakomelingen",
+                    "de geregistreerde lijn van verwanten"
+                ],
+                "language": "nl",
+                "question": "the recorded line of ancestry . Translation ?",
+                "question_length": 8,
+                "score": 0.826755533652643
+            },
+            {
+                "answer": "Choice 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Choice 2",
+                    "Choice 3",
+                    "Choice 4"
+                ],
+                "language": "en",
+                "question": "MC 1.1.2",
+                "question_length": 2,
+                "score": 0.7967779083988218
+            },
+            {
+                "answer": "Choice 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Choice 2",
+                    "Choice 3",
+                    "Choice 4"
+                ],
+                "language": "en",
+                "question": "MC 1.1.1",
+                "question_length": 2,
+                "score": 0.7943712988834523
+            },
+            {
+                "answer": "False",
+                "answer_length": 1,
+                "distractors": [
+                    "True"
+                ],
+                "language": "en",
+                "question": "Edumatic Mobile logs your attempts just like its bigger brother Edumatic 2",
+                "question_length": 12,
+                "score": 0.7938446142863672
+            },
+            {
+                "answer": "Choice 2",
+                "answer_length": 2,
+                "distractors": [
+                    "Choice 1",
+                    "Choice 3",
+                    "Choice 4",
+                    "Choice 5"
+                ],
+                "language": "en",
+                "question": "Multiple choice 2 in the casus",
+                "question_length": 6,
+                "score": 0.7935700320782348
+            },
+            {
+                "answer": "Choice 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Choice 2",
+                    "Choice 3",
+                    "Choice 4"
+                ],
+                "language": "en",
+                "question": "MC 2.1.2",
+                "question_length": 2,
+                "score": 0.7876014586859851
+            }
+        ]
+    }
+}

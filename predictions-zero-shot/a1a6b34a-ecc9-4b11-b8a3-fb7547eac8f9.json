@@ -1,0 +1,5 @@
+{
+    "qid": "a1a6b34a-ecc9-4b11-b8a3-fb7547eac8f9",
+    "input": "vraag: Welke van de volgende is een zijrivier.\nantwoord 1: Leie\nantwoord 2: Drava\nantwoord 3: Sava\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Moskva\n2. Yarra\n3. Tigris\n4. Dnipro\n5. Amazon\n6. Thames\n7. Nile\n8. Mekong\n9. Danube\n10. Mississippi\n11. Hudson\n12. Volga\n13. Loire\n14. Rhine\n15. Ganges\n16. Euphrates\n17. Indus\n18. Niger\n19. Colorado\n20. Yangtze"
+}

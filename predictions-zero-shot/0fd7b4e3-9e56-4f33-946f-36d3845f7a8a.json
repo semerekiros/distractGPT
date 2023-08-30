@@ -1,0 +1,5 @@
+{
+    "qid": "0fd7b4e3-9e56-4f33-946f-36d3845f7a8a",
+    "input": "vraag: Welke Griekse staten bleven zoveel mogelijk neutraal?\nantwoord 1: Epirus\nantwoord 2: Kreta\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Sparta\n2. Athenen\n3. Macedoni\u00eb\n4. Rhodos\n5. Korinthe\n6. Thebe\n7. Mycene\n8. Delphi\n9. Troje\n10. Arcadi\u00eb\n11. Thessali\u00eb\n12. Lesbos\n13. Samos\n14. Chios\n15. Ithaca\n16. Cythera\n17. Megara\n18. Aegina\n19. Boeoti\u00eb\n20. Messeni\u00eb"
+}

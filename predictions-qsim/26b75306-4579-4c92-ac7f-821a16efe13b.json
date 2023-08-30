@@ -1,0 +1,137 @@
+{
+    "qid": "26b75306-4579-4c92-ac7f-821a16efe13b",
+    "response": {
+        "Query": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Although the CEO has been accused of corruption , he is still refusing to _______________ .",
+        "Result": [
+            {
+                "answer": "step down",
+                "answer_length": 2,
+                "distractors": [
+                    "wind down",
+                    "trade in",
+                    "rule out",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Although the CEO has been accused of corruption , he is still refusing to _______________ .",
+                "question_length": 55,
+                "score": 0.9956471317104247
+            },
+            {
+                "answer": "step down",
+                "answer_length": 2,
+                "distractors": [
+                    "wind down",
+                    "trade in",
+                    "rule out",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . Although the CEO has been accused of corruption , he is still refusing to _______________ .",
+                "question_length": 58,
+                "score": 0.995387556498652
+            },
+            {
+                "answer": "Hundreds of",
+                "answer_length": 2,
+                "distractors": [
+                    "A little",
+                    "Much",
+                    "Too much",
+                    "I do n't know"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . _______________ workers went on strike yesterday to protest against the redundancies .",
+                "question_length": 51,
+                "score": 0.8779741246876679
+            },
+            {
+                "answer": "need n't have",
+                "answer_length": 3,
+                "distractors": [
+                    "did n't have",
+                    "must n't have",
+                    "would n't have",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . You _______________ spent so much time on the report . All they wanted was a short summary .",
+                "question_length": 57,
+                "score": 0.8136503603840719
+            },
+            {
+                "answer": "killing a fox ",
+                "answer_length": 3,
+                "distractors": [
+                    "killing a wolf "
+                ],
+                "language": "en",
+                "question": "Read through the panels . Then tick the correct answer . Lissa is accused of ... by one of the boys in her class .",
+                "question_length": 25,
+                "score": 0.752570992772328
+            },
+            {
+                "answer": "admiration",
+                "answer_length": 1,
+                "distractors": [
+                    "for art",
+                    "hundreds of",
+                    "all over"
+                ],
+                "language": "en",
+                "question": "Government money appropriated for art in the 1930s made possible hundreds of murals and statues still admiration in small towns all over the United States .",
+                "question_length": 26,
+                "score": 0.6447156978581915
+            },
+            {
+                "answer": "whatever",
+                "answer_length": 1,
+                "distractors": [
+                    "however",
+                    "whenever",
+                    "no matter",
+                    "I do n't know"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Use _______________ measures you consider necessary to improve turnover .",
+                "question_length": 49,
+                "score": 0.5266680841033681
+            },
+            {
+                "answer": "in / at / on",
+                "answer_length": 5,
+                "distractors": [
+                    "at / at / at",
+                    "in / from / on",
+                    "at / by / at"
+                ],
+                "language": "en",
+                "question": "More prepositions ! You have applied for a job at Masters `` Johnson and receive an invitation for a job interview . The letter says : `` Please , be ... . our office ... .. 2p.m. , ... .. 15 March . ''",
+                "question_length": 44,
+                "score": 0.45675329314357704
+            },
+            {
+                "answer": "labelled",
+                "answer_length": 1,
+                "distractors": [
+                    "labeled"
+                ],
+                "language": "en",
+                "question": "Please select the correct answer After having _____________ all files , I was asked to place them in alphabetical order .",
+                "question_length": 21,
+                "score": 0.451192092265621
+            },
+            {
+                "answer": "compelled",
+                "answer_length": 1,
+                "distractors": [
+                    "compeled"
+                ],
+                "language": "en",
+                "question": "Please select the correct answer I am ____________ to tell my manager about the fraudulent activities going on in the department .",
+                "question_length": 22,
+                "score": 0.4169111834123524
+            }
+        ]
+    }
+}

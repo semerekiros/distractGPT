@@ -1,0 +1,5 @@
+{
+    "qid": "305f4810-9758-4da7-8fad-35b04528b3de",
+    "input": "vraag: Wat is de hoofdstad van Frankrijk ? Duid het juiste antwoord aan .\nantwoord: Parijs\nonjuiste antwoorden: \n1. Lyon\n2. Bordeaux\n3. Marseille\n\nvraag: Wat is de hoofdstad van Frankrijk ? Kies het juiste antwoord .\nantwoord: Parijs\nonjuiste antwoorden: \n1. Londen\n2. Brussel\n\nvraag: Wat is de hoofdstad van Frankrijk ?\nantwoord: Parijs\nonjuiste antwoorden: \n1. Bordeaux\n2. Lille\n\nvraag: Quelle est la capitale de l'angleterre ?\nantwoord: Londres\nonjuiste antwoorden: \n1. New York\n\nvraag: Quelle est la capitale de l'Angleterre ?\nantwoord: Londres\nonjuiste antwoorden: \n1. \n2. Manchester\n\nvraag: : Wat is de hoofdstad van Itali\u00eb?\nantwoord: : Rome\n\nGenereer 20 onjuiste antwoorden: ",
+    "response": "1. Florence\n2. Milan\n3. Naples\n4. Venice\n5. Turin\n6. Palermo\n7. Genoa\n8. Bologna\n9. Verona\n10. Catania\n11. Padua\n12. Trieste\n13. Cagliari\n14. Perugia\n15. Bari\n16. Taranto\n17. Pescara\n18. Ancona\n19. Reggio Calabria\n20. Sassari"
+}

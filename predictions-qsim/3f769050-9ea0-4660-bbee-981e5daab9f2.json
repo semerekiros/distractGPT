@@ -1,0 +1,120 @@
+{
+    "qid": "3f769050-9ea0-4660-bbee-981e5daab9f2",
+    "response": {
+        "Query": "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de motorische hersenschors. In welke hersenhemisfeer?",
+        "Result": [
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "fout"
+                ],
+                "language": "nl",
+                "question": "De muscularis externa van de maag bevat een laag lengtespieren , een laag kringspieren en een laag schuine spieren . Hierdoor is de maagwand sterker en kan het voedsel beter worden gekneed en gemengd .",
+                "question_length": 35,
+                "score": 0.972850002771406
+            },
+            {
+                "answer": "fout",
+                "answer_length": 1,
+                "distractors": [
+                    "juist"
+                ],
+                "language": "nl",
+                "question": "De Arteria pulmonalis bevat zuurstofrijk bloed .",
+                "question_length": 7,
+                "score": 0.9565412875349605
+            },
+            {
+                "answer": "Juist",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "nl",
+                "question": "In de nabijheid van een branddrukknop hangt altijd een blustoestel .",
+                "question_length": 11,
+                "score": 0.9555166392964104
+            },
+            {
+                "answer": "Waar",
+                "answer_length": 1,
+                "distractors": [
+                    "Niet waar"
+                ],
+                "language": "nl",
+                "question": "Bij een Ex d behuizing zijn de vlampaden zodanig ontworpen dat de brandende gassen bij een interne explosie geen ontsteking in de omgeving kan veroorzaken .",
+                "question_length": 26,
+                "score": 0.9531230487863266
+            },
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "fout"
+                ],
+                "language": "nl",
+                "question": "Waar of niet waar ? Klik het juiste antwoord aan . Een eicel die zich volledig splitst in drie , heeft de volgende kenmerken : een moederkoek drie navelstrengen .",
+                "question_length": 30,
+                "score": 0.9519446832322044
+            },
+            {
+                "answer": "Fout",
+                "answer_length": 1,
+                "distractors": [
+                    "Juist"
+                ],
+                "language": "nl",
+                "question": "Het drukken op de brandknop heeft alleen als gevolg dat de interventieploeg gealarmeerd wordt .",
+                "question_length": 15,
+                "score": 0.9470500919610921
+            },
+            {
+                "answer": "Dun bevolkt",
+                "answer_length": 2,
+                "distractors": [
+                    "Matig dicht bevolkt",
+                    "Dicht bevolkt"
+                ],
+                "language": "nl",
+                "question": "Vink de overeenkomstige bevolkingsdichtheid van een natuurlandschap in Belgie aan .",
+                "question_length": 11,
+                "score": 0.9313117059599519
+            },
+            {
+                "answer": "dagelijks",
+                "answer_length": 1,
+                "distractors": [
+                    "1 keer per shift",
+                    "om de 72u"
+                ],
+                "language": "nl",
+                "question": "Toezicht op de insteekplaats van de centraal veneuze katheter op eventuele roodheid , zwelling , pijn , etter dient te gebeuren :",
+                "question_length": 22,
+                "score": 0.9233502540873607
+            },
+            {
+                "answer": "Waar",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "en",
+                "question": "Elk epitheelweefsel is avasculair .",
+                "question_length": 5,
+                "score": 0.9218376021332738
+            },
+            {
+                "answer": "zwelt",
+                "answer_length": 1,
+                "distractors": [
+                    "verschrompelt"
+                ],
+                "language": "nl",
+                "question": "Een rode bloedcel in een hypotone oplossing .",
+                "question_length": 8,
+                "score": 0.9174922631909086
+            }
+        ]
+    }
+}

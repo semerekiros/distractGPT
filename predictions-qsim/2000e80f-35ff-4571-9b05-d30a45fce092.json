@@ -1,0 +1,133 @@
+{
+    "qid": "2000e80f-35ff-4571-9b05-d30a45fce092",
+    "response": {
+        "Query": "Cochez l'article correct . ... pere",
+        "Result": [
+            {
+                "answer": "un",
+                "answer_length": 1,
+                "distractors": [
+                    "une",
+                    "des"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... pere",
+                "question_length": 6,
+                "score": 0.8591388183011937
+            },
+            {
+                "answer": "un",
+                "answer_length": 1,
+                "distractors": [
+                    "une",
+                    "des"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... frere",
+                "question_length": 6,
+                "score": 0.8550731649185435
+            },
+            {
+                "answer": "une",
+                "answer_length": 1,
+                "distractors": [
+                    "un",
+                    "des"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... mere",
+                "question_length": 6,
+                "score": 0.8517315791434064
+            },
+            {
+                "answer": "le",
+                "answer_length": 1,
+                "distractors": [
+                    "la",
+                    "l '",
+                    "les"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... tennis",
+                "question_length": 6,
+                "score": 0.8511815691316981
+            },
+            {
+                "answer": "les",
+                "answer_length": 1,
+                "distractors": [
+                    "le",
+                    "la",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... animaux",
+                "question_length": 6,
+                "score": 0.8388242192340062
+            },
+            {
+                "answer": "le",
+                "answer_length": 1,
+                "distractors": [
+                    "la",
+                    "les",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... stade",
+                "question_length": 6,
+                "score": 0.8334107076059146
+            },
+            {
+                "answer": "des",
+                "answer_length": 1,
+                "distractors": [
+                    "un",
+                    "une"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... lettres",
+                "question_length": 6,
+                "score": 0.8333064213515179
+            },
+            {
+                "answer": "jeune homme",
+                "answer_length": 2,
+                "distractors": [
+                    "Monsieur",
+                    "Madame"
+                ],
+                "language": "fr",
+                "question": "Indique le bon mot . Bonjour , ... ! Je suis ton nouveau professeur .",
+                "question_length": 15,
+                "score": 0.8223582731588192
+            },
+            {
+                "answer": "la",
+                "answer_length": 1,
+                "distractors": [
+                    "le",
+                    "l '",
+                    "les"
+                ],
+                "language": "fr",
+                "question": "Cochez l'article correct . ... musique",
+                "question_length": 6,
+                "score": 0.8209116541994411
+            },
+            {
+                "answer": "l '",
+                "answer_length": 2,
+                "distractors": [
+                    "le",
+                    "la",
+                    "les"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... ecole",
+                "question_length": 6,
+                "score": 0.8128646861845866
+            }
+        ]
+    }
+}

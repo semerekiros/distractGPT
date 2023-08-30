@@ -1,0 +1,136 @@
+{
+    "qid": "99a55e10-9a68-44f2-a717-66aa302f338a",
+    "response": {
+        "Query": "Op welke twee natuurelementen is duurzame energie voornamelijk gebaseerd?",
+        "Result": [
+            {
+                "answer": "ijzerertsen",
+                "answer_length": 1,
+                "distractors": [
+                    "aardolie",
+                    "steenkolen",
+                    "aardgas"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wegens welke grondstof vinden we de auto-industrie in het zuidoosten van Brazilie ? Gebruik je atlas .",
+                "question_length": 24,
+                "score": 0.8847944343530088
+            },
+            {
+                "answer": "aardolie",
+                "answer_length": 1,
+                "distractors": [
+                    "steenkool",
+                    "ertsen",
+                    "benzine"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lea is een babytje . Ze drinkt al uit een beker . Als die beker plots uit haar handen valt , ligt alles op de grond . Gelukkig is de beker van plastic , waardoor hij niet breekt . Plastic is een kunststof die bestaat uit heel wat organische grondstoffen . Uit welke grondstof worden kunststoffen gemaakt ?",
+                "question_length": 65,
+                "score": 0.8578013917431494
+            },
+            {
+                "answer": "verf",
+                "answer_length": 1,
+                "distractors": [
+                    "brandstof",
+                    "licht",
+                    "elektriciteit"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waarvoor wordt olievlas gebruikt ? Voor de productie van ...",
+                "question_length": 17,
+                "score": 0.8191973374769308
+            },
+            {
+                "answer": "verf",
+                "answer_length": 1,
+                "distractors": [
+                    "brandstof",
+                    "licht",
+                    "elektriciteit"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waarvoor wordt olievlas gebruikt ? Voor de productie van ... ..",
+                "question_length": 18,
+                "score": 0.7868468779829368
+            },
+            {
+                "answer": "vochtigheid",
+                "answer_length": 1,
+                "distractors": [
+                    "wind",
+                    "temperatuur"
+                ],
+                "language": "nl",
+                "question": "Vink het meest passende antwoord aan . Welke omgevingsfactor speelt een belangrijke rol in de droge en natte heide ?",
+                "question_length": 20,
+                "score": 0.7295800132362756
+            },
+            {
+                "answer": "aardolie",
+                "answer_length": 1,
+                "distractors": [
+                    "steenkool",
+                    "waterkracht",
+                    "aardwarmte"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Welke is de belangrijkste primaire energiebron in de wereld ?",
+                "question_length": 23,
+                "score": 0.7150890507558134
+            },
+            {
+                "answer": "Onderwijs - omgeving - ouders",
+                "answer_length": 5,
+                "distractors": [
+                    "Onderwijs - erfelijkheid - media",
+                    "Onderwijs - omgeving - erfelijkheid ",
+                    "Omgeving - openheid - omgeving "
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Uit welke elementen bestaat de cultuurbril ?",
+                "question_length": 12,
+                "score": 0.7133212327785423
+            },
+            {
+                "answer": "Elektriciteitskabel , gasleiding , waterleiding",
+                "answer_length": 5,
+                "distractors": [
+                    "Elektriciteitskabel , waterleiding , riolering",
+                    "Waterleiding , gasleiding , telecomkabel"
+                ],
+                "language": "nl",
+                "question": "Welke leidingen zijn allemaal risicoleidingen ?",
+                "question_length": 6,
+                "score": 0.7102105820966279
+            },
+            {
+                "answer": "aardolie",
+                "answer_length": 1,
+                "distractors": [
+                    "benzine",
+                    "ertsen",
+                    "steenkool"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lea is een babytje . Ze drinkt al uit een beker . Als die beker plots uit haar handen valt , ligt alles op de grond . Gelukkig is de beker van plastic , waardoor hij niet breekt . Plastic is een kunststof die bestaat uit heel wat organische grondstoffen . Uit welke grondstof wordt plastic gemaakt ?",
+                "question_length": 65,
+                "score": 0.695017324655722
+            },
+            {
+                "answer": "Aardolie",
+                "answer_length": 1,
+                "distractors": [
+                    "Aardgas",
+                    "Koolstof",
+                    "Diamant"
+                ],
+                "language": "nl",
+                "question": "Wat is de meest waardevolle grondstof van Nigeria ?",
+                "question_length": 9,
+                "score": 0.6794331196286324
+            }
+        ]
+    }
+}

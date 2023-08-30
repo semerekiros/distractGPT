@@ -1,0 +1,5 @@
+{
+    "qid": "b328a63e-b090-4e69-8618-5a84ec56820b",
+    "input": "Welke toets op een piano wordt in de top van het slakkenhuis waargenomen? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. de uiterst linkse\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. de uiterst rechtse\n2. de uiterst rechte\n3. de rechter\n4. het midden\n5. het onderste\n6. de rechterkant\n7. het zij-achterklep 8.\n8. de rechtere\n9. het rechts\n10. de rechthoekige"
+}

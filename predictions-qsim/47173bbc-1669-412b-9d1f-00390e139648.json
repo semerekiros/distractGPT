@@ -1,0 +1,132 @@
+{
+    "qid": "47173bbc-1669-412b-9d1f-00390e139648",
+    "response": {
+        "Query": "Langs welk deel verdampen planten water?",
+        "Result": [
+            {
+                "answer": "0,60 m onder het maaiveld ",
+                "answer_length": 5,
+                "distractors": [
+                    "0,80 m onder het maaiveld ",
+                    "1,00 m onder het maaiveld "
+                ],
+                "language": "nl",
+                "question": "De bovenkant van een aardelektrode zit minstens :",
+                "question_length": 8,
+                "score": 0.5920833308964806
+            },
+            {
+                "answer": "Azie is groter dan Europa ",
+                "answer_length": 5,
+                "distractors": [
+                    "Azie is kleiner dan Europa "
+                ],
+                "language": "nl",
+                "question": "Is Azie kleiner of groter dan Europa ? Gebruik een atlas . Duid het juiste antwoord aan .",
+                "question_length": 18,
+                "score": 0.19299898369872834
+            },
+            {
+                "answer": "vrijdagavond bij zonsondergang ",
+                "answer_length": 3,
+                "distractors": [
+                    "vrijdagnacht om 24 uur ",
+                    "zaterdagmorgen bij zonsopgang ",
+                    "zaterdagavond bij zonsondergang ",
+                    "zaterdagnacht om 24 u "
+                ],
+                "language": "nl",
+                "question": "Stip het juiste antwoord aan . Onderwerp : Met de bijbel op verhaal komen ( jeugdbijbel ) De sabbat begint op",
+                "question_length": 21,
+                "score": 0.1420649264886652
+            },
+            {
+                "answer": "Rotsbeen",
+                "answer_length": 1,
+                "distractors": [
+                    "Jukbeen",
+                    "Jukboog",
+                    "Wiggebeen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Achter welk been liggen de geluidsreceptoren beschermd ?",
+                "question_length": 19,
+                "score": 0.1298040609712926
+            },
+            {
+                "answer": "Laag-Belgie",
+                "answer_length": 1,
+                "distractors": [
+                    "Midden-Belgie",
+                    "Hoog Belgie"
+                ],
+                "language": "nl",
+                "question": "Waar komt dit gebied voor ? Duid het juiste antwoord aan .",
+                "question_length": 12,
+                "score": 0.10529091037122111
+            },
+            {
+                "answer": "1 november",
+                "answer_length": 2,
+                "distractors": [
+                    "2 november",
+                    "25 december"
+                ],
+                "language": "nl",
+                "question": "Ken jij de christelijke feesten ? Klik het juiste antwoord aan . Op welke dag wordt het feest van Allerheiligen gevierd ?",
+                "question_length": 22,
+                "score": 0.06015309592943848
+            },
+            {
+                "answer": "50 dagen na Pasen",
+                "answer_length": 4,
+                "distractors": [
+                    "40 dagen na Pasen",
+                    "45 dagen na Pasen"
+                ],
+                "language": "nl",
+                "question": "Ken jij de christelijke feesten ? Klik het juiste antwoord aan . Op welke dag wordt Pinksteren gevierd ?",
+                "question_length": 19,
+                "score": 0.056716386897825426
+            },
+            {
+                "answer": "van 10 tot 18 uur",
+                "answer_length": 5,
+                "distractors": [
+                    "van 10 tot 20 uur",
+                    "van 9 tot 21 uur"
+                ],
+                "language": "nl",
+                "question": "Op zon- en feestdagen is IKEA open ... .",
+                "question_length": 9,
+                "score": 0.04684558741261112
+            },
+            {
+                "answer": "31,5 degrees",
+                "answer_length": 2,
+                "distractors": [
+                    "23,5 degrees",
+                    "58,5 degrees",
+                    "90 degrees"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de culminatiehoogte van de zon voor Kaap Agulhas , het uiterste zuidpuntje van Afrika , op 22 juni ?",
+                "question_length": 28,
+                "score": 0.03940452791954569
+            },
+            {
+                "answer": "os occipitale",
+                "answer_length": 2,
+                "distractors": [
+                    "os sfenoidale",
+                    "os temporale",
+                    "os vomer"
+                ],
+                "language": "nl",
+                "question": "In welk bot zit het foramen magnum ?",
+                "question_length": 8,
+                "score": 0.02915533827738544
+            }
+        ]
+    }
+}

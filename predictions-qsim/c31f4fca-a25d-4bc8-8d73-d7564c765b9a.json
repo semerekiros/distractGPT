@@ -1,0 +1,130 @@
+{
+    "qid": "c31f4fca-a25d-4bc8-8d73-d7564c765b9a",
+    "response": {
+        "Query": "Welke gewichten werden in Babyloni\u00eb nog gebruikt?",
+        "Result": [
+            {
+                "answer": "18de eeuw",
+                "answer_length": 2,
+                "distractors": [
+                    "19de eeuw",
+                    "20ste eeuw",
+                    "21ste eeuw"
+                ],
+                "language": "nl",
+                "question": "Wanneer werden er voor het eerst nieuwe stoffen gemaakt met aardolie als grondstof ? Kruis het juiste antwoord aan . Er is maar een mogelijkheid .",
+                "question_length": 26,
+                "score": 0.9062236893243627
+            },
+            {
+                "answer": "vermeerdering van de celademhaling",
+                "answer_length": 4,
+                "distractors": [
+                    "afname van de spieractiviteit",
+                    "verhoging van de zweetproductie"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord , er is maar een antwoord mogelijk . Een schaars geklede volwassen persoon gaat vanuit een ruimte met een temperatuur van 20 degrees C een koelcel binnen met een temperatuur van 0 degrees C. Wat zal het directe gevolg van deze temperatuursverandering voor hem zijn ?",
+                "question_length": 50,
+                "score": 0.9058409780312717
+            },
+            {
+                "answer": "'s avonds",
+                "answer_length": 2,
+                "distractors": [
+                    "'s morgens",
+                    "'s middags"
+                ],
+                "language": "nl",
+                "question": "Benzodiazepinen die als `` hypnoticum '' genomen worden geef je :",
+                "question_length": 11,
+                "score": 0.8952174221727748
+            },
+            {
+                "answer": "heel wat mensen",
+                "answer_length": 3,
+                "distractors": [
+                    "een leuk tijdverdrijf",
+                    "pokeren"
+                ],
+                "language": "nl",
+                "question": "Wat is het onderwerp ? Pokeren vinden heel wat mensen een leuk tijdverdrijf .",
+                "question_length": 14,
+                "score": 0.889053475852963
+            },
+            {
+                "answer": "D",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "language": "pl",
+                "question": "Op welke foto zie je spinazie ?",
+                "question_length": 7,
+                "score": 0.8838465407335891
+            },
+            {
+                "answer": "Amelie `` louise",
+                "answer_length": 3,
+                "distractors": [
+                    "Amelie",
+                    "Geen van beide"
+                ],
+                "language": "nl",
+                "question": "Vraag 1 : Hoe noemen uw kindjes ?",
+                "question_length": 8,
+                "score": 0.8767656572085669
+            },
+            {
+                "answer": "LED-lampen verbruiken minder elektriciteit",
+                "answer_length": 4,
+                "distractors": [
+                    "LED-lampen zijn kleiner",
+                    "LED-lampen zijn goedkoper"
+                ],
+                "language": "nl",
+                "question": "Vroeger werden in veel huizen klassieke gloeilampen of halogeenspotjes gebruikt . Die worden tegenwoordig bijna allemaal vervangen door LED-lampen . Waarom gebruiken vele mensen nu LED-lampen ?",
+                "question_length": 27,
+                "score": 0.8625430863248897
+            },
+            {
+                "answer": "Keuze 2",
+                "answer_length": 2,
+                "distractors": [
+                    "Keuze 3"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . De reanimatie van volwassenen begint met 30 borstcompressies terwijl dit bij baby 's en kinderen met 5 beademingen is . Hoe komt dat ?",
+                "question_length": 30,
+                "score": 0.8405726427367536
+            },
+            {
+                "answer": "C",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "language": "sk",
+                "question": "Op welke foto zie je asperges ?",
+                "question_length": 7,
+                "score": 0.8330491045204319
+            },
+            {
+                "answer": "slangenmensen",
+                "answer_length": 1,
+                "distractors": [
+                    "gewrichten",
+                    "oefenen"
+                ],
+                "language": "nl",
+                "question": "Wat is het onderwerp van deze tekst ? Een slangenmens moet erg lenig en sterk zijn van zichzelf , anders begint hij er best niet aan . Maar om echt goed te worden zijn 'rubberen gewrichten ' niet genoeg . Een slangenmens moet verschrikkelijk veel oefenen om zijn spieren en pezen soepel te maken en zijn ademhaling te controleren .",
+                "question_length": 60,
+                "score": 0.8149319159020191
+            }
+        ]
+    }
+}

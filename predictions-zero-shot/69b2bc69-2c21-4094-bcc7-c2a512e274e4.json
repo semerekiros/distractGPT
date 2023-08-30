@@ -1,0 +1,5 @@
+{
+    "qid": "69b2bc69-2c21-4094-bcc7-c2a512e274e4",
+    "input": "question: Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! Go ... .\nanswer: straight ahead\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "1. Left\n2. Right\n3. Backwards\n4. Up\n5. Down\n6. Stop\n7. Turn around\n8. Sideways\n9. Take a detour\n10. Follow the crowd\n11. Jump\n12. Swim\n13. Fly\n14. Crawl\n15. Walk backwards\n16. Climb a tree\n17. Drive a car\n18. Ride a bike\n19. Go in circles\n20. Go wherever your heart desires"
+}

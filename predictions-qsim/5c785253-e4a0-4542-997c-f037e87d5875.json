@@ -1,0 +1,136 @@
+{
+    "qid": "5c785253-e4a0-4542-997c-f037e87d5875",
+    "response": {
+        "Query": "Waarmee vult de penis zich wanneer hij stijf wordt?",
+        "Result": [
+            {
+                "answer": "wijd stulpingsviseem : oo-o",
+                "answer_length": 4,
+                "distractors": [
+                    "bilabiaal viseem : p-b-m",
+                    "labiodentaal viseem : f-v",
+                    "nauw lipspreidingsviseem : ie-i-ee",
+                    "nauw lipstulpingsviseem : oe-uu-eu-w"
+                ],
+                "language": "nl",
+                "question": "Bij dit viseem is de stand van de kaken 'wijd open ' en de stand van de lippen 'getuit '",
+                "question_length": 20,
+                "score": 0.9526186196929957
+            },
+            {
+                "answer": "nauw lipstulpingsviseem : oe-uu-eu-w",
+                "answer_length": 4,
+                "distractors": [
+                    "bilabiaal viseem : p-b-m",
+                    "labiodentaal viseem : f-v",
+                    "wijd stulpingsviseem : oo-o",
+                    "nauw lipspreidingsviseem : ie-i-ee"
+                ],
+                "language": "nl",
+                "question": "Bij dit viseem is de stand van de kaken 'nauwelijks open ' en de stand van de lippen 'getuit '",
+                "question_length": 20,
+                "score": 0.9468417801100917
+            },
+            {
+                "answer": "met een camera",
+                "answer_length": 3,
+                "distractors": [
+                    "met een bril",
+                    "met lenzen",
+                    "met een verrekijker"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waarmee wordt de scherpstelling van het oog vergeleken ?",
+                "question_length": 16,
+                "score": 0.9364215583889779
+            },
+            {
+                "answer": "Kaarslicht",
+                "answer_length": 1,
+                "distractors": [
+                    "Voldoende luchtvochtigheid",
+                    "Regelmatige temperatuur",
+                    "Schokvrij"
+                ],
+                "language": "nl",
+                "question": "Meerkeuze oefening . Wat is geen voorwaarde voor een ideale wijnkelder :",
+                "question_length": 12,
+                "score": 0.9348475996442152
+            },
+            {
+                "answer": "urinebuis",
+                "answer_length": 1,
+                "distractors": [
+                    "geslachtsbuis",
+                    "urineleider",
+                    "zaadleider"
+                ],
+                "language": "nl",
+                "question": "Door welk buisje ( zie blauwe pijl ) verlaat de urine de urineblaas ?",
+                "question_length": 14,
+                "score": 0.9261664765948739
+            },
+            {
+                "answer": "is kraakbeenweefsel niet doorbloed ",
+                "answer_length": 4,
+                "distractors": [
+                    "heeft kraakbeenweefsel geen collageen "
+                ],
+                "language": "nl",
+                "question": "3 Welke stelling is juist ? In tegenstelling tot beenweefsel :",
+                "question_length": 11,
+                "score": 0.9201187700679426
+            },
+            {
+                "answer": "Kussen in de gang leggen",
+                "answer_length": 5,
+                "distractors": [
+                    "Luid roepen",
+                    "Naar de lift lopen"
+                ],
+                "language": "nl",
+                "question": "Hoe maak je de interventieplaats voor de interne MUG duidelijk ? Er is maar 1 juist antwoord mogelijk",
+                "question_length": 18,
+                "score": 0.8898483466891562
+            },
+            {
+                "answer": "nauw lipspreidingsviseem : ie-i-ee",
+                "answer_length": 4,
+                "distractors": [
+                    "bilabiaal viseem : p-b-m",
+                    "labiodentaal viseem : f-v",
+                    "wijd stulpingsviseem : oo-o",
+                    "nauw lipstulpingsviseem : oe-uu-eu-w"
+                ],
+                "language": "nl",
+                "question": "Bij dit viseem is de stand van de kaken 'nauwelijks open ' en de stand van de lippen 'gespreid '",
+                "question_length": 20,
+                "score": 0.8541590761302357
+            },
+            {
+                "answer": "niet waar",
+                "answer_length": 2,
+                "distractors": [
+                    "waar"
+                ],
+                "language": "nl",
+                "question": "Bij een epileptisch aanval steekt men iets tussen de tanden ? Duid het juiste antwoord aan .",
+                "question_length": 17,
+                "score": 0.8465241267775973
+            },
+            {
+                "answer": "via longen",
+                "answer_length": 2,
+                "distractors": [
+                    "via kieuwen",
+                    "via de huid",
+                    "via longen en huid"
+                ],
+                "language": "nl",
+                "question": "Hoe gebeurt de ademhaling bij vogels ?",
+                "question_length": 7,
+                "score": 0.843003985466737
+            }
+        ]
+    }
+}

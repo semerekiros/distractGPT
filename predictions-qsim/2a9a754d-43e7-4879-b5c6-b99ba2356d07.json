@@ -1,0 +1,125 @@
+{
+    "qid": "2a9a754d-43e7-4879-b5c6-b99ba2356d07",
+    "response": {
+        "Query": "Toutes les annees , mes grands-parents ... la ville de Lourdes .",
+        "Result": [
+            {
+                "answer": "visitaient",
+                "answer_length": 1,
+                "distractors": [
+                    "ont visite"
+                ],
+                "language": "fr",
+                "question": "Toutes les annees , mes grands-parents ... la ville de Lourdes .",
+                "question_length": 12,
+                "score": 0.4780333068321446
+            },
+            {
+                "answer": "espere",
+                "answer_length": 1,
+                "distractors": [
+                    "repete",
+                    "esperes"
+                ],
+                "language": "fr",
+                "question": "Indiquez la forme correcte . Axelle ... que tu vas ecrire vite .",
+                "question_length": 13,
+                "score": 0.24467794977624663
+            },
+            {
+                "answer": "vas traduire",
+                "answer_length": 2,
+                "distractors": [
+                    "traduis",
+                    "viens de traduire",
+                    "traduiras"
+                ],
+                "language": "fr",
+                "question": "Indiquez le verbe conjugue au futur proche . Tu ... ce qu'ils disent ?",
+                "question_length": 14,
+                "score": 0.19029297421490798
+            },
+            {
+                "answer": "avait",
+                "answer_length": 1,
+                "distractors": [
+                    "a eu"
+                ],
+                "language": "fr",
+                "question": "La voleuse qui a pris mon sac a dos ... les cheveux noirs .",
+                "question_length": 14,
+                "score": 0.17086015464742021
+            },
+            {
+                "answer": "Prends",
+                "answer_length": 1,
+                "distractors": [
+                    "Prenons"
+                ],
+                "language": "fr",
+                "question": "Indiquez la ( les ) bonne ( s ) forme ( s ) de l'imperatif . ... le bus a 14 heures et tu arriveras a temps .",
+                "question_length": 28,
+                "score": 0.16518984086215963
+            },
+            {
+                "answer": "voyait",
+                "answer_length": 1,
+                "distractors": [
+                    "a vu"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne forme du verbe . D'habitude , Gilles ... sa copine le vendredi soir .",
+                "question_length": 17,
+                "score": 0.16066427368361716
+            },
+            {
+                "answer": "seront envoyes",
+                "answer_length": 2,
+                "distractors": [
+                    "seront envoyees",
+                    "sera envoye"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne forme du passif . Vos articles commandes ... par la poste .",
+                "question_length": 15,
+                "score": 0.15439460660091225
+            },
+            {
+                "answer": "a reussi",
+                "answer_length": 2,
+                "distractors": [
+                    "reussissait"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne forme du verbe . L'annee passee , Jules ... tous ses examens .",
+                "question_length": 16,
+                "score": 0.1438401380450196
+            },
+            {
+                "answer": "servira",
+                "answer_length": 1,
+                "distractors": [
+                    "servirez",
+                    "serviras",
+                    "serviront"
+                ],
+                "language": "fr",
+                "question": "Cochez le verbe correctement conjugue . L'hotel ... le petit-dejeuner a partir de 6 h 30 .",
+                "question_length": 17,
+                "score": 0.11589233253943707
+            },
+            {
+                "answer": "louent",
+                "answer_length": 1,
+                "distractors": [
+                    "louons",
+                    "louez"
+                ],
+                "language": "fr",
+                "question": "Complete correctement a l'indicatif present . Aline et Isik ... une maison a Anvers .",
+                "question_length": 15,
+                "score": 0.11481968229163374
+            }
+        ]
+    }
+}

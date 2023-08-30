@@ -1,0 +1,119 @@
+{
+    "qid": "4ecd0c0c-0726-4d30-a018-96b5e91f5878",
+    "response": {
+        "Query": "Adjectif , adverbe ou adjectif employe comme adverbe . Indiquez la bonne reponse . Ces fleurs sentent ...",
+        "Result": [
+            {
+                "answer": "bon ",
+                "answer_length": 1,
+                "distractors": [
+                    "bien "
+                ],
+                "language": "fr",
+                "question": "Adjectif , adverbe ou adjectif employe comme adverbe . Indiquez la bonne reponse . Ces fleurs sentent ...",
+                "question_length": 18,
+                "score": 0.8954839493392243
+            },
+            {
+                "answer": "bon ",
+                "answer_length": 1,
+                "distractors": [
+                    "bien "
+                ],
+                "language": "fr",
+                "question": "Adjectif , adverbe ou adjectif employe comme adverbe . Indiquez la bonne reponse . Du courage ! Essayez de tenir ...",
+                "question_length": 21,
+                "score": 0.8237615290066277
+            },
+            {
+                "answer": "bien ",
+                "answer_length": 1,
+                "distractors": [
+                    "bon "
+                ],
+                "language": "fr",
+                "question": "Adjectif , adverbe ou adjectif employe comme adverbe . Indiquez la bonne reponse . Tu travailles ...",
+                "question_length": 17,
+                "score": 0.7870595234267475
+            },
+            {
+                "answer": "les deux membres posterieurs",
+                "answer_length": 4,
+                "distractors": [
+                    "la moitie du corps",
+                    "les quatre membres du corps"
+                ],
+                "language": "fr",
+                "question": "la paraplegie concerne ...",
+                "question_length": 4,
+                "score": 0.6662940216458411
+            },
+            {
+                "answer": "bassement ",
+                "answer_length": 1,
+                "distractors": [
+                    "bas "
+                ],
+                "language": "fr",
+                "question": "Adjectif , adverbe ou adjectif employe comme adverbe . Indiquez la bonne reponse . Parlez plus ...",
+                "question_length": 17,
+                "score": 0.5411662706348047
+            },
+            {
+                "answer": "adjectif",
+                "answer_length": 1,
+                "distractors": [
+                    "adverbe"
+                ],
+                "language": "fr",
+                "question": "Les mots en gras sont des adjectifs ou des adverbes ? J'ai vendu mes vieilles BD .",
+                "question_length": 17,
+                "score": 0.4780868361451149
+            },
+            {
+                "answer": "adjectif",
+                "answer_length": 1,
+                "distractors": [
+                    "adverbe"
+                ],
+                "language": "fr",
+                "question": "Les mots en gras sont des adjectifs ou des adverbes ? J'ai vendu mes 'vieilles ' BD .",
+                "question_length": 18,
+                "score": 0.4536337165711222
+            },
+            {
+                "answer": "pas comme les autres ",
+                "answer_length": 4,
+                "distractors": [
+                    "ordinaire "
+                ],
+                "language": "fr",
+                "question": "Tu as bien lu la BD ? Indique la bonne reponse . Heb je het stripverhaal goed gelezen ? Duid het juiste antwoord aan . Cubitus est un chien ...",
+                "question_length": 30,
+                "score": 0.4471826627139721
+            },
+            {
+                "answer": "cette voix ",
+                "answer_length": 2,
+                "distractors": [
+                    "ce chat "
+                ],
+                "language": "fr",
+                "question": "Le pere Noel est la aussi ! Ecoute et coche le mot que tu entends . Luister en kruis het woord aan dat je hoort . Mais , je reconnais ...",
+                "question_length": 31,
+                "score": 0.4179438079595162
+            },
+            {
+                "answer": "mauvais ",
+                "answer_length": 1,
+                "distractors": [
+                    "beau "
+                ],
+                "language": "fr",
+                "question": "Indique ce qui est vrai . Duid aan wat juist is . Il fait ...",
+                "question_length": 15,
+                "score": 0.41450655020385296
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "qid": "4ab2707f-ffb0-4a2d-a02c-7efa920ac530",
+    "response": {
+        "Query": "Wat gaat er bij sclerosepati\u00ebnten langzaam verloren in het zenuwstelsel?",
+        "Result": [
+            {
+                "answer": "er heersen gunstige leefomstandigheden",
+                "answer_length": 4,
+                "distractors": [
+                    "er zijn voldoende abiotische factoren"
+                ],
+                "language": "nl",
+                "question": "Vink het juist antwoord aan . Wat is de voorwaarde opdat een organisme in een bepaald biotoop voorkomt ?",
+                "question_length": 19,
+                "score": 0.9646840239354126
+            },
+            {
+                "answer": "Een windhoos",
+                "answer_length": 2,
+                "distractors": [
+                    "Een wegverzakking"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welke gebeurtenis wordt niet beschouwd als natuurramp ( volgens de wet van 4/4/2014 ) ?",
+                "question_length": 21,
+                "score": 0.9442545851982919
+            },
+            {
+                "answer": "onbepaald",
+                "answer_length": 1,
+                "distractors": [
+                    "stress",
+                    "erfelijk bepaald"
+                ],
+                "language": "nl",
+                "question": "2 punten Hoe ontstaat psoriasis ?",
+                "question_length": 6,
+                "score": 0.9392817291367338
+            },
+            {
+                "answer": "borstontwikkeling",
+                "answer_length": 1,
+                "distractors": [
+                    "rijping van de follikels",
+                    "voorbereiding van het baarmoederslijmvlies",
+                    "ontwikkeling van het embryo"
+                ],
+                "language": "nl",
+                "question": "Waarop heeft progesteron geen invloed ?",
+                "question_length": 6,
+                "score": 0.9386589473050165
+            },
+            {
+                "answer": "Al de antwoorden zijn juist ",
+                "answer_length": 5,
+                "distractors": [
+                    "een onoordeelkundig gebruik",
+                    "beschadigde isolatie",
+                    "slecht onderhoud"
+                ],
+                "language": "nl",
+                "question": "Wat kan de oorzaak zijn van een elektrisch ongeval ?",
+                "question_length": 10,
+                "score": 0.9324100756214545
+            },
+            {
+                "answer": "Zwaartekracht is niet voelbaar ",
+                "answer_length": 4,
+                "distractors": [
+                    "Evenwichtszintuigen nemen geen prikkels waar "
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat is de oorzaak van ruimteziekte ?",
+                "question_length": 18,
+                "score": 0.9315777404597901
+            },
+            {
+                "answer": "aangeboren",
+                "answer_length": 1,
+                "distractors": [
+                    "blokkering van de bloedvaten",
+                    "infectie",
+                    "vernauwing van de bloedvaten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is de oorzaak van een hartklepafwijking ?",
+                "question_length": 15,
+                "score": 0.928940664019086
+            },
+            {
+                "answer": "vernauwing van een kransslagader",
+                "answer_length": 4,
+                "distractors": [
+                    "vernauwing van een kransader",
+                    "verkalking van een hartslagklep",
+                    "verkalking van een slagaderklep"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat is een hartinfarct ?",
+                "question_length": 16,
+                "score": 0.917973814069124
+            },
+            {
+                "answer": "drank",
+                "answer_length": 1,
+                "distractors": [
+                    "afweer",
+                    "stootkussen",
+                    "thermoregulatie"
+                ],
+                "language": "nl",
+                "question": "Waarvoor dient het vruchtwater niet ?",
+                "question_length": 6,
+                "score": 0.913778647093661
+            },
+            {
+                "answer": "uithouding",
+                "answer_length": 1,
+                "distractors": [
+                    "coordinatie",
+                    "kracht",
+                    "snelheid"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke basiseigenschap train je vooral bij een cardiotraining ?",
+                "question_length": 16,
+                "score": 0.9071069838791743
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "59af1368-6091-46c3-98a2-e1e4e461f058",
+    "input": "Van welke talengroep (van de Kentumtalen) is Latijn de voorouder? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Romaans\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. latijn\n2. italijn\n3. italiaans\n4. algemeen\n5. rooms-romaan\n6. slavijns\n7. nederlandse\n8. hebba\n9. Latijn\n10. Kroatisch"
+}

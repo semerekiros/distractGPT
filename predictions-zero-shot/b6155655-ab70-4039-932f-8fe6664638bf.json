@@ -1,0 +1,5 @@
+{
+    "qid": "b6155655-ab70-4039-932f-8fe6664638bf",
+    "input": "question: Complete la phrase suivante en choisissant le mode et le temps qui conviennent . My sister will call you when she ____________ close to arriving .\nanswer: is\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. will be\n2. has been\n3. was\n4. had been\n5. will have been\n6. has arrived\n7. had arrived\n8. will arrive\n9. would arrive\n10. is going to be\n11. was going to be\n12. will have arrived\n13. had just arrived\n14. would have arrived\n15. will be arriving\n16. has been arriving\n17. had been arriving\n18. would be arriving\n19. will have been arriving\n20. is arriving"
+}

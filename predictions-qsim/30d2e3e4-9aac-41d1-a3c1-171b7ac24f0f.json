@@ -1,0 +1,126 @@
+{
+    "qid": "30d2e3e4-9aac-41d1-a3c1-171b7ac24f0f",
+    "response": {
+        "Query": "Wat bouwden de Myceners?",
+        "Result": [
+            {
+                "answer": "A tous",
+                "answer_length": 2,
+                "distractors": [
+                    "Aux particuliers"
+                ],
+                "language": "fr",
+                "question": "A qui est destien ce site ?",
+                "question_length": 7,
+                "score": 0.9114023716640655
+            },
+            {
+                "answer": "een tussenknoopstuk en een knoop",
+                "answer_length": 5,
+                "distractors": [
+                    "en knoop en een bladlitteken",
+                    "een bladoksel en een takje"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Waaruit bestaat een lid ?",
+                "question_length": 11,
+                "score": 0.8776234178098444
+            },
+            {
+                "answer": "Boven een gasmeter ",
+                "answer_length": 3,
+                "distractors": [
+                    "In de kelder "
+                ],
+                "language": "nl",
+                "question": "Werken met een 25S60 kast Een 25S60 plaats je nooit :",
+                "question_length": 11,
+                "score": 0.8704734527450989
+            },
+            {
+                "answer": "Keparer",
+                "answer_length": 1,
+                "distractors": [
+                    "Keuze 2"
+                ],
+                "language": "de",
+                "question": "Welke i",
+                "question_length": 2,
+                "score": 0.8311186281936579
+            },
+            {
+                "answer": "Hugo Lloris ( Frankrijk )",
+                "answer_length": 5,
+                "distractors": [
+                    "Thibaut Courtois ( Belgie )"
+                ],
+                "language": "nl",
+                "question": "Welke keeper is verkozen tot beste keeper van het WK 2018 ?",
+                "question_length": 12,
+                "score": 0.8232013854845572
+            },
+            {
+                "answer": "Een plaats waar vissen paren ",
+                "answer_length": 5,
+                "distractors": [
+                    "Een plaats met stilstaand water ",
+                    "Een plaats waar vogels broeden "
+                ],
+                "language": "nl",
+                "question": "Wat is een paaiplaats ?",
+                "question_length": 5,
+                "score": 0.8063070999301297
+            },
+            {
+                "answer": "blauw",
+                "answer_length": 1,
+                "distractors": [
+                    "rood",
+                    "grijs",
+                    "zwart"
+                ],
+                "language": "nl",
+                "question": "Vul aan met het juiste woord . Wij betalen ons ... aan belastingen . Nog even en we moeten bij het OCMW gaan aankloppen !",
+                "question_length": 25,
+                "score": 0.796937290971137
+            },
+            {
+                "answer": "Dafalgam",
+                "answer_length": 1,
+                "distractors": [
+                    "Morfine",
+                    "Aspirine"
+                ],
+                "language": "nl",
+                "question": "welke pijstiller wordt het vaak gebruikt in ziekehuizen ?",
+                "question_length": 9,
+                "score": 0.7915746026815801
+            },
+            {
+                "answer": "veiligheidsschoenen",
+                "answer_length": 1,
+                "distractors": [
+                    "slippers",
+                    "stevige sportschoenen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Welke schoenen zijn geschikt tijdens de opdrachten ?",
+                "question_length": 14,
+                "score": 0.7865907371087812
+            },
+            {
+                "answer": "een staart",
+                "answer_length": 2,
+                "distractors": [
+                    "een mond",
+                    "pupillen",
+                    "vingers"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat heeft de huidige Mickey niet ?",
+                "question_length": 14,
+                "score": 0.7811767883854369
+            }
+        ]
+    }
+}

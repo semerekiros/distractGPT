@@ -1,0 +1,143 @@
+{
+    "qid": "e17ed1bd-57c8-467a-b6aa-bf3399750ee7",
+    "response": {
+        "Query": "In welk werelddeel ligt Noord-Korea?",
+        "Result": [
+            {
+                "answer": "Computergerelateerde bedrijven",
+                "answer_length": 2,
+                "distractors": [
+                    "Olievelden",
+                    "Ruimtevaarttechnologie",
+                    "Kolenmijnen",
+                    "Natuurschoon"
+                ],
+                "language": "nl",
+                "question": "Waar staat Silicon Valley bekend om ?",
+                "question_length": 7,
+                "score": 0.9061482719224719
+            },
+            {
+                "answer": "Aan de kust",
+                "answer_length": 3,
+                "distractors": [
+                    "In de woestijn",
+                    "In het tropisch regenwoud",
+                    "In de hooggebergten"
+                ],
+                "language": "nl",
+                "question": "Waar vindt men over het algemeen geen lage bevolkingsdichtheid ?",
+                "question_length": 10,
+                "score": 0.872891501817434
+            },
+            {
+                "answer": "ten zuiden",
+                "answer_length": 2,
+                "distractors": [
+                    "ten noorden",
+                    "ten westen",
+                    "ten oosten"
+                ],
+                "language": "nl",
+                "question": "Waar ligt Campania ten opzichte van Latium ?",
+                "question_length": 8,
+                "score": 0.8527791469594586
+            },
+            {
+                "answer": "Queensland",
+                "answer_length": 1,
+                "distractors": [
+                    "Nieuw Zuid-Wales",
+                    "Zuid-Australie",
+                    "West-Australie",
+                    "Noordelijk Territorium"
+                ],
+                "language": "nl",
+                "question": "In welke provincie van Australie ligt het Groot Barriererif ?",
+                "question_length": 10,
+                "score": 0.8306805134253143
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Noord-Amerika",
+                    "Zuid-Amerika",
+                    "Azie"
+                ],
+                "language": "nl",
+                "question": "In welk werelddeel ligt Congo ? Duid het juiste werelddeel aan .",
+                "question_length": 12,
+                "score": 0.8267107647753252
+            },
+            {
+                "answer": "Washington",
+                "answer_length": 1,
+                "distractors": [
+                    "New York",
+                    "Los Angeles",
+                    "Londen"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord Wat is de hoofstad van Amerika ?",
+                "question_length": 11,
+                "score": 0.8167132156058047
+            },
+            {
+                "answer": "The Republic of Ireland",
+                "answer_length": 4,
+                "distractors": [
+                    "Wales",
+                    "Northern Ireland"
+                ],
+                "language": "en",
+                "question": "Which part does not belong to the UK ?",
+                "question_length": 9,
+                "score": 0.8034747105112853
+            },
+            {
+                "answer": "North",
+                "answer_length": 1,
+                "distractors": [
+                    "Humberside",
+                    "South East",
+                    "South West"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke deel van Engeland is deze hybride geboren ?",
+                "question_length": 17,
+                "score": 0.7934092405480585
+            },
+            {
+                "answer": "Los Angeles",
+                "answer_length": 2,
+                "distractors": [
+                    "New York",
+                    "Brussel",
+                    "Dubai",
+                    "Barcelona"
+                ],
+                "language": "nl",
+                "question": "Tokio ligt ten noorden van de evenaar op ongeveer 35 graden noorderbreedte . Welke andere grote wereldstad ligt op ongeveer dezelfde hoogte ?",
+                "question_length": 23,
+                "score": 0.7932004759659435
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Azie",
+                    "Europa",
+                    "Amerika",
+                    "Oceanie",
+                    "Antarctica"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . In welk werelddeel ligt Ethiopie ?",
+                "question_length": 19,
+                "score": 0.7806145819751503
+            }
+        ]
+    }
+}

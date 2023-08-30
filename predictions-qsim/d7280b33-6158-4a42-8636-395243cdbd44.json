@@ -1,0 +1,134 @@
+{
+    "qid": "d7280b33-6158-4a42-8636-395243cdbd44",
+    "response": {
+        "Query": "Choose the appropriate response . How do you do ?",
+        "Result": [
+            {
+                "answer": "How do you do ?",
+                "answer_length": 5,
+                "distractors": [
+                    "Fine , thank you ",
+                    "How are you ?"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate response . How do you do ?",
+                "question_length": 10,
+                "score": 0.9944687501068585
+            },
+            {
+                "answer": "We have reached great results ",
+                "answer_length": 5,
+                "distractors": [
+                    "We have grown so big ",
+                    "We have managed to survive "
+                ],
+                "language": "en",
+                "question": "Listen to the sentence and choose the correct answer . Which answer has the same meaning as the last sentence heard ?",
+                "question_length": 22,
+                "score": 0.9833341868336472
+            },
+            {
+                "answer": "You are welcome",
+                "answer_length": 3,
+                "distractors": [
+                    "Ok , bye",
+                    "See you",
+                    "No"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . When somebody says `` Thank you '' , you can say",
+                "question_length": 16,
+                "score": 0.9701044131674338
+            },
+            {
+                "answer": "-Good riddance ",
+                "answer_length": 2,
+                "distractors": [
+                    "-Bless him ",
+                    "-Over my dead body ",
+                    "-What a cheek "
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Choisissez la reponse correcte . Kies het juiste antwoord . -Have you heard that Jamie 's leaving to go to another job ?",
+                "question_length": 28,
+                "score": 0.9609637985165698
+            },
+            {
+                "answer": "Thank you ",
+                "answer_length": 2,
+                "distractors": [
+                    "Here 's the message "
+                ],
+                "language": "en",
+                "question": "Listen to a statement from a telephone call . Choose the correct reply .",
+                "question_length": 14,
+                "score": 0.9592465298288874
+            },
+            {
+                "answer": "You are welcome ",
+                "answer_length": 3,
+                "distractors": [
+                    "Thank you also ",
+                    "Please ",
+                    "With pleasure "
+                ],
+                "language": "en",
+                "question": "Listen to the sentence and choose the correct answer ! Ecoutez la phrase et choisissez la reponse appropriee ! Luister naar de zin en kies het juiste antwoord .",
+                "question_length": 29,
+                "score": 0.9523819502124109
+            },
+            {
+                "answer": "No , I have n't ",
+                "answer_length": 5,
+                "distractors": [
+                    "No ",
+                    "No , I do n't ",
+                    "No , I do not "
+                ],
+                "language": "en",
+                "question": "Choose the correct short answer ! Kies het juiste antwoord ! Choisissez la reponse correcte ! Have you finished checking the stock ?",
+                "question_length": 23,
+                "score": 0.9392491592564524
+            },
+            {
+                "answer": "-You 're kidding ",
+                "answer_length": 3,
+                "distractors": [
+                    "-What a drag ",
+                    "-Good riddance ",
+                    "-Bless you "
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Choisissez la reponse correcte . Kies het juiste antwoord . -Guess what ! I 've won 5 million euros on the lottery !",
+                "question_length": 28,
+                "score": 0.9383746131125824
+            },
+            {
+                "answer": "-In your dreams ",
+                "answer_length": 3,
+                "distractors": [
+                    "-What a drag ",
+                    "-Where 's the surprise ?",
+                    "-Thank goodness for that "
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Choisissez la reponse correcte . Kies het juiste antwoord . -When I get a better job , I 'm going to be a millionaire .",
+                "question_length": 30,
+                "score": 0.9235483580134366
+            },
+            {
+                "answer": "so that I could",
+                "answer_length": 4,
+                "distractors": [
+                    "so as I could",
+                    "in order that I",
+                    "for I could"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Choisissez la reponse correcte . Kies het juiste antwoord . I left for work early ... avoid the morning rush hour .",
+                "question_length": 27,
+                "score": 0.9231877470227362
+            }
+        ]
+    }
+}

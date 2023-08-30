@@ -1,0 +1,5 @@
+{
+    "qid": "3c6f3446-3a18-42d9-9839-c9461db09791",
+    "input": "vraag: Een Playmobilfiguurtje is 32x kleiner dan de gemiddelde leerling in het eerste middelbaar. Zet dit om in een juiste breukschaal.\nantwoord: 1/32\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. 1/23\n2. 1/45\n3. 2/31\n4. 1/20\n5. 1/50\n6. 3/60\n7. 1/36\n8. 1/40\n9. 4/128\n10. 1/28\n11. 1/35\n12. 1/25\n13. 2/64\n14. 1/30\n15. 1/33\n16. 1/42\n17. 2/55\n18. 1/27\n19. 1/48\n20. 1/26"
+}

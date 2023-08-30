@@ -1,0 +1,130 @@
+{
+    "qid": "f2690fe7-5784-4686-9f9c-4d032be7ac89",
+    "response": {
+        "Query": "1.15 ... ... ..do you call this machine ?",
+        "Result": [
+            {
+                "answer": "What",
+                "answer_length": 1,
+                "distractors": [
+                    "Which",
+                    "How",
+                    "Which name"
+                ],
+                "language": "en",
+                "question": "1.15 ... ... ..do you call this machine ?",
+                "question_length": 9,
+                "score": 0.9190603717927416
+            },
+            {
+                "answer": "What",
+                "answer_length": 1,
+                "distractors": [
+                    "Which",
+                    "How",
+                    "Which name"
+                ],
+                "language": "en",
+                "question": "15 . ... ... ..do you call this machine ?",
+                "question_length": 10,
+                "score": 0.8961171854604434
+            },
+            {
+                "answer": "How",
+                "answer_length": 1,
+                "distractors": [
+                    "With what",
+                    "Who",
+                    "When"
+                ],
+                "language": "en",
+                "question": "Choose the right word . Hello , Jefferson Limited . ... .. can I help you ?",
+                "question_length": 17,
+                "score": 0.8127558998119012
+            },
+            {
+                "answer": "heat",
+                "answer_length": 1,
+                "distractors": [
+                    "eat"
+                ],
+                "language": "fr",
+                "question": "Ecoute attentivement le fichier audio en appuyant sur play et choisis le mot que tu as entendu .",
+                "question_length": 18,
+                "score": 0.8057000370137555
+            },
+            {
+                "answer": "Who 's",
+                "answer_length": 2,
+                "distractors": [
+                    "Whose"
+                ],
+                "language": "en",
+                "question": "Choose the correct spelling . ... got a new golden watch ?",
+                "question_length": 12,
+                "score": 0.803259962579315
+            },
+            {
+                "answer": "his",
+                "answer_length": 1,
+                "distractors": [
+                    "her",
+                    "our",
+                    "he 's"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . This is where John works in the office . This is ... desk .",
+                "question_length": 29,
+                "score": 0.7995796893191618
+            },
+            {
+                "answer": "enthusiastically",
+                "answer_length": 1,
+                "distractors": [
+                    "enthusiastic"
+                ],
+                "language": "en",
+                "question": "Choose the correct word ! Richard spoke ... .. about the new team .",
+                "question_length": 14,
+                "score": 0.7895917908050167
+            },
+            {
+                "answer": "How",
+                "answer_length": 1,
+                "distractors": [
+                    "Who",
+                    "With what",
+                    "When"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Hello , Micromax Computers . ... .. can I help you ?",
+                "question_length": 17,
+                "score": 0.7869510178396891
+            },
+            {
+                "answer": "your",
+                "answer_length": 1,
+                "distractors": [
+                    "yours",
+                    "you 're",
+                    "her"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . This is where you work in the office . This is ... desk .",
+                "question_length": 29,
+                "score": 0.7814476424538789
+            },
+            {
+                "answer": "makes users feel very satisfied",
+                "answer_length": 5,
+                "distractors": [
+                    "makes users criticize and complain"
+                ],
+                "language": "en",
+                "question": "Choose the correct information ! This Microsoft mouse ...",
+                "question_length": 9,
+                "score": 0.7771220769394434
+            }
+        ]
+    }
+}

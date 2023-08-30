@@ -1,0 +1,132 @@
+{
+    "qid": "e938d1e5-1390-46d1-b2f1-7304c5003982",
+    "response": {
+        "Query": "... .. number did you want ?",
+        "Result": [
+            {
+                "answer": "What",
+                "answer_length": 1,
+                "distractors": [
+                    "Whose",
+                    "Which",
+                    "What person 's"
+                ],
+                "language": "en",
+                "question": "... .. number did you want ?",
+                "question_length": 7,
+                "score": 0.9485774395999513
+            },
+            {
+                "answer": "What",
+                "answer_length": 1,
+                "distractors": [
+                    "Whose",
+                    "Which",
+                    "What person 's"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Context : You are asking a general question . ... .. number did you want ?",
+                "question_length": 21,
+                "score": 0.8969650709688135
+            },
+            {
+                "answer": "my",
+                "answer_length": 1,
+                "distractors": [
+                    "me",
+                    "mine"
+                ],
+                "language": "en",
+                "question": "Choose the correct possessive adjective ! Kies de juiste bezittelijke vorm ! Choisissez le pronom possessif approprie ! That is ... new laptop . I bought it yesterday !",
+                "question_length": 29,
+                "score": 0.8514052738637575
+            },
+            {
+                "answer": "one",
+                "answer_length": 1,
+                "distractors": [
+                    "two",
+                    "three"
+                ],
+                "language": "en",
+                "question": "Select the correct answer ; cdhfs scksdjfg skdgjezkh",
+                "question_length": 8,
+                "score": 0.8455678629737795
+            },
+            {
+                "answer": "What",
+                "answer_length": 1,
+                "distractors": [
+                    "Which",
+                    "How",
+                    "Which name"
+                ],
+                "language": "en",
+                "question": "1.15 ... ... ..do you call this machine ?",
+                "question_length": 9,
+                "score": 0.8401151681234253
+            },
+            {
+                "answer": "Yes",
+                "answer_length": 1,
+                "distractors": [
+                    "No"
+                ],
+                "language": "en",
+                "question": "Select the right answer . I want to win a brand new ipod !",
+                "question_length": 14,
+                "score": 0.8373850698592705
+            },
+            {
+                "answer": "No",
+                "answer_length": 1,
+                "distractors": [
+                    "Yes"
+                ],
+                "language": "en",
+                "question": "Can you put a content item in a content item ?",
+                "question_length": 11,
+                "score": 0.8367464058741657
+            },
+            {
+                "answer": "Did you have",
+                "answer_length": 3,
+                "distractors": [
+                    "Have you",
+                    "Had you",
+                    "Have you had"
+                ],
+                "language": "en",
+                "question": "... an interesting discussion after the conference ?",
+                "question_length": 8,
+                "score": 0.8329379412093288
+            },
+            {
+                "answer": "yours",
+                "answer_length": 1,
+                "distractors": [
+                    "your",
+                    "yourself",
+                    "yours own"
+                ],
+                "language": "en",
+                "question": "1.25 I forgot my book . Can you lend me ... ... ... ... . ?",
+                "question_length": 16,
+                "score": 0.8192482429395413
+            },
+            {
+                "answer": "yours",
+                "answer_length": 1,
+                "distractors": [
+                    "your",
+                    "yourself",
+                    "yours own"
+                ],
+                "language": "en",
+                "question": "25 . I forgot my book . Can you lend me ... ... ... ... . ?",
+                "question_length": 17,
+                "score": 0.8058880941732404
+            }
+        ]
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "qid": "2ececec4-51de-4580-8262-3d03dadadbe7",
+    "response": {
+        "Query": "what 's 'Bourgogne ' in English ?",
+        "Result": [
+            {
+                "answer": "Burgundy",
+                "answer_length": 1,
+                "distractors": [
+                    "Bourgondy",
+                    "Bourgundy"
+                ],
+                "language": "en",
+                "question": "what 's 'Bourgogne ' in English ?",
+                "question_length": 7,
+                "score": 0.9317201058221134
+            },
+            {
+                "answer": "is an alluvial sediment",
+                "answer_length": 4,
+                "distractors": [
+                    "is the same as loam",
+                    "is sandy soil"
+                ],
+                "language": "en",
+                "question": "silt ...",
+                "question_length": 2,
+                "score": 0.8380568167413266
+            },
+            {
+                "answer": "a tag cloud",
+                "answer_length": 3,
+                "distractors": [
+                    "a tweet",
+                    "a stream",
+                    "a bookmark list",
+                    "a word jumble"
+                ],
+                "language": "en",
+                "question": "What 's this ?",
+                "question_length": 4,
+                "score": 0.584136292786204
+            },
+            {
+                "answer": "a cock",
+                "answer_length": 2,
+                "distractors": [
+                    "a boiler",
+                    "a grill"
+                ],
+                "language": "en",
+                "question": "what 's a rooster ?",
+                "question_length": 5,
+                "score": 0.5282649095823755
+            },
+            {
+                "answer": "aaaa",
+                "answer_length": 1,
+                "distractors": [
+                    "bbbb",
+                    "cccc"
+                ],
+                "language": "mt",
+                "question": "zzz zzzz zz zzzzzz zz zzzz ?",
+                "question_length": 7,
+                "score": 0.5152876925149928
+            },
+            {
+                "answer": "lice",
+                "answer_length": 1,
+                "distractors": [
+                    "louses",
+                    "lices"
+                ],
+                "language": "en",
+                "question": "the plural form of 'louse ' is ...",
+                "question_length": 8,
+                "score": 0.5142152624119096
+            },
+            {
+                "answer": "violet",
+                "answer_length": 1,
+                "distractors": [
+                    "rood",
+                    "groen",
+                    "blauw"
+                ],
+                "language": "nl",
+                "question": "Een prisma breekt licht met een kleinere golflengte sterker dan licht met een grotere golflengte . Welk zichtbaar licht heeft de kleinste golflengte ?",
+                "question_length": 24,
+                "score": 0.46193135205205277
+            },
+            {
+                "answer": "q",
+                "answer_length": 1,
+                "distractors": [
+                    "n",
+                    "k",
+                    "c"
+                ],
+                "language": "es",
+                "question": "Marca la respuesta adecuada . `` Cu '' es el nombre de la letra ... .",
+                "question_length": 16,
+                "score": 0.4554117098658414
+            },
+            {
+                "answer": "Binnenvaart",
+                "answer_length": 1,
+                "distractors": [
+                    "Bevaarbare waterweg",
+                    "Water met te weinig diepte",
+                    "Zeevaart"
+                ],
+                "language": "af",
+                "question": "Wat is 'brown water ' ?",
+                "question_length": 6,
+                "score": 0.4549886486250245
+            },
+            {
+                "answer": "Ja",
+                "answer_length": 1,
+                "distractors": [
+                    "Neen"
+                ],
+                "language": "en",
+                "question": "tralala",
+                "question_length": 1,
+                "score": 0.42717488386500313
+            }
+        ]
+    }
+}

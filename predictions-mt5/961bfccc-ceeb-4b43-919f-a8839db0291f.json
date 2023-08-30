@@ -1,0 +1,5 @@
+{
+    "qid": "961bfccc-ceeb-4b43-919f-a8839db0291f",
+    "input": "His successor , ... ... ... ... ... ... ... ... appointment was announced last month , is a very different kind of person . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. whose\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. who\n2. who is\n3. which\n4. when\n5. what\n6. any\n7. none of these\n8. every\n9. and of all\n10. neither"
+}

@@ -1,0 +1,142 @@
+{
+    "qid": "617c188c-361b-49dd-8282-b55e8a9b18dc",
+    "response": {
+        "Query": "Welk gebergte ligt niet in Europa?",
+        "Result": [
+            {
+                "answer": "Schotse Hooglanden",
+                "answer_length": 2,
+                "distractors": [
+                    "Pyreneeen",
+                    "Alpen",
+                    "Karpaten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan Welk Europees gebergte ligt het meest noordelijk ?",
+                "question_length": 14,
+                "score": 0.9456439911332186
+            },
+            {
+                "answer": "Andes",
+                "answer_length": 1,
+                "distractors": [
+                    "Alpen",
+                    "Himalaya",
+                    "Rocky Mountains",
+                    "Kaukasus",
+                    "Atlas"
+                ],
+                "language": "nl",
+                "question": "Welke bergketen ligt op het zuidelijk halfrond en loopt van noord naar zuid ?",
+                "question_length": 14,
+                "score": 0.9296518091645293
+            },
+            {
+                "answer": "De Atlantische Oceaan",
+                "answer_length": 3,
+                "distractors": [
+                    "De Indische Oceaan",
+                    "De Stille Oceaan"
+                ],
+                "language": "nl",
+                "question": "Cochez la bonne reponse . Welke oceaan grenst aan Frankrijk ?",
+                "question_length": 11,
+                "score": 0.841313297408188
+            },
+            {
+                "answer": "alluviale gronden",
+                "answer_length": 2,
+                "distractors": [
+                    "de rode bodems",
+                    "de zwarte bodems",
+                    "laterietgronden"
+                ],
+                "language": "nl",
+                "question": "Welke bodem is het meest geschikt voor rijstteelt ?",
+                "question_length": 9,
+                "score": 0.8200810044455691
+            },
+            {
+                "answer": "Frankrijk en Nederland",
+                "answer_length": 3,
+                "distractors": [
+                    "Frankrijk en Duitsland",
+                    "Duitsland en Nederland",
+                    "Engeland en Nederland",
+                    "Nederland en Luxemburg",
+                    "Frankrijk en Luxemburg"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Aan welke twee landen grenst onze kuststreek ?",
+                "question_length": 14,
+                "score": 0.7650709019039762
+            },
+            {
+                "answer": "in industriegebieden",
+                "answer_length": 2,
+                "distractors": [
+                    "in lage gebieden",
+                    "in gebieden met intensieve landbouw",
+                    "in toeristische gebieden"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke Europese gebieden komt de meeste vervuilde lucht voor ? De verontreiniging van de lucht neemt toe van blauw naar rood .",
+                "question_length": 30,
+                "score": 0.7302104377210958
+            },
+            {
+                "answer": "Provence",
+                "answer_length": 1,
+                "distractors": [
+                    "Bourgogne",
+                    "Bretagne",
+                    "Normandie"
+                ],
+                "language": "fr",
+                "question": "Enquete : Vive la France Marseille se trouve en ...",
+                "question_length": 10,
+                "score": 0.6547460417001831
+            },
+            {
+                "answer": "kust",
+                "answer_length": 1,
+                "distractors": [
+                    "Ardennen",
+                    "Alpen",
+                    "Himalaya"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke streek meet men , bij gelijkaardige weersomstandigheden , de hoogste luchtdruk ?",
+                "question_length": 21,
+                "score": 0.6519766411699428
+            },
+            {
+                "answer": "Tristan da Cunha",
+                "answer_length": 3,
+                "distractors": [
+                    "Cotopaxi",
+                    "Ruapehu",
+                    "Tenerife"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij welke vulkaan schuiven twee tektonische platen uit elkaar ?",
+                "question_length": 17,
+                "score": 0.6296427695569766
+            },
+            {
+                "answer": "Sicilie",
+                "answer_length": 1,
+                "distractors": [
+                    "rond de Witte Zee",
+                    "Karpaten",
+                    "Bosnie-Herzegovina",
+                    "Finland"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'bosbouw ' ?",
+                "question_length": 15,
+                "score": 0.6259903123073622
+            }
+        ]
+    }
+}

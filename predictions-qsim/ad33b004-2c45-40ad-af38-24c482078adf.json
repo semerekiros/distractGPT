@@ -1,0 +1,134 @@
+{
+    "qid": "ad33b004-2c45-40ad-af38-24c482078adf",
+    "response": {
+        "Query": "Van welk land is Wenen de hoofdstad?",
+        "Result": [
+            {
+                "answer": "Letland",
+                "answer_length": 1,
+                "distractors": [
+                    "Bulgarije",
+                    "Noorwegen",
+                    "Portugal"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk Europees land is de kloof tussen arm en rijk het grootst ?",
+                "question_length": 21,
+                "score": 0.9495211567696478
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Nederland",
+                    "Duitsland",
+                    "Verenigd Koninkrijk"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Naar welk land exporteert onze provincie het meest ?",
+                "question_length": 15,
+                "score": 0.9460563573775531
+            },
+            {
+                "answer": "Verenigd Koninkrijk",
+                "answer_length": 2,
+                "distractors": [
+                    "Denemarken",
+                    "Frankrijk",
+                    "Italie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In 2011 werd een Europees waardenonderzoek afgenomen . Er werd aan inwoners gevraagd om op een tienpuntenschaal aan te geven waar men stond . Wilde men enerzijds meer of minder verantwoordelijkheid voor de overheid ( X-as ) ? Vond men anderzijds gelijkheid of vrijheid het belangrijkste ( Y-as ) ? Je ziet hier de resultaten per land . Welk land is de grootste voorstander van het principe dat mensen zelf verantwoordelijkheid moeten nemen en voor zichzelf moeten zorgen ?",
+                "question_length": 86,
+                "score": 0.9407372212686856
+            },
+            {
+                "answer": "Oekraine",
+                "answer_length": 1,
+                "distractors": [
+                    "Rusland",
+                    "Australie"
+                ],
+                "language": "en",
+                "question": "4 . Welk land won Eurosong 2016 ?",
+                "question_length": 8,
+                "score": 0.9399214319933963
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "USA"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord In welk land wordt met de euro gewerkt ?",
+                "question_length": 13,
+                "score": 0.937854827078575
+            },
+            {
+                "answer": "Ijsland",
+                "answer_length": 1,
+                "distractors": [
+                    "Denemarken",
+                    "Finland",
+                    "Zweden"
+                ],
+                "language": "nl",
+                "question": "Welk land zit NIET in de Noordse Raad ?",
+                "question_length": 9,
+                "score": 0.9370438931885252
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Australie",
+                    "Verenigde Staten"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . In welk land betaalt men met de euro ?",
+                "question_length": 15,
+                "score": 0.9370109498207357
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Spanje",
+                    "Griekenland",
+                    "Portugal"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Welk Europees land staat afgebeeld ?",
+                "question_length": 19,
+                "score": 0.9360213239975722
+            },
+            {
+                "answer": "Zweden",
+                "answer_length": 1,
+                "distractors": [
+                    "Brazilie",
+                    "Duitsland",
+                    "Belgie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk land is het inkomen het meest gelijkmatig verdeeld over de verschillende bevolkingsgroepen ?",
+                "question_length": 22,
+                "score": 0.9353680936835579
+            },
+            {
+                "answer": "Corsica",
+                "answer_length": 1,
+                "distractors": [
+                    "Italie",
+                    "Turkije"
+                ],
+                "language": "nl",
+                "question": "Cochez la bonne reponse . Waar is Napoleon Bonaparte geboren ?",
+                "question_length": 11,
+                "score": 0.9344702082732591
+            }
+        ]
+    }
+}

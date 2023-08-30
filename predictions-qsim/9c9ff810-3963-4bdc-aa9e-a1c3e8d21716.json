@@ -1,0 +1,137 @@
+{
+    "qid": "9c9ff810-3963-4bdc-aa9e-a1c3e8d21716",
+    "response": {
+        "Query": "Wie was de beschermgodheid van Athene?",
+        "Result": [
+            {
+                "answer": "de Mackintosh School of Architecture",
+                "answer_length": 5,
+                "distractors": [
+                    "de Daily Mail",
+                    "de BBC"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie voerde het onderzoek naar de luchtvochtigheid binnenshuis ?",
+                "question_length": 16,
+                "score": 0.9555622931193363
+            },
+            {
+                "answer": "Hatsjepsoet",
+                "answer_length": 1,
+                "distractors": [
+                    "Toetanchamon",
+                    "Echnaton",
+                    "Amenemhat III",
+                    "Ramses XI",
+                    "Antef I"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wie is de vrouwelijk farao in dit lijstje ?",
+                "question_length": 22,
+                "score": 0.9508366004627383
+            },
+            {
+                "answer": "door haar moeder",
+                "answer_length": 3,
+                "distractors": [
+                    "door de jager",
+                    "door haar vader",
+                    "door een van de dwergen"
+                ],
+                "language": "nl",
+                "question": "Door wie werd Sneeuwwitje oorspronkelijk vergiftigd ?",
+                "question_length": 7,
+                "score": 0.9462545657350329
+            },
+            {
+                "answer": "door medesoldaten",
+                "answer_length": 2,
+                "distractors": [
+                    "door de vijand",
+                    "door zichzelf",
+                    "door zijn vriend"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Door wie raakte Henry Fleming gewond ?",
+                "question_length": 14,
+                "score": 0.9454324392197134
+            },
+            {
+                "answer": "Theseus",
+                "answer_length": 1,
+                "distractors": [
+                    "Hercules",
+                    "Achilles",
+                    "Spartacus"
+                ],
+                "language": "fr",
+                "question": "1 . Wie doodde de Minotaurus ?",
+                "question_length": 7,
+                "score": 0.9442498213851496
+            },
+            {
+                "answer": "Hart",
+                "answer_length": 1,
+                "distractors": [
+                    "Duifje",
+                    "Poes",
+                    "Schat"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke troetelnaam gaf Eduard Douwes Dekker aan zijn vrouw Tine ?",
+                "question_length": 18,
+                "score": 0.9438882562999868
+            },
+            {
+                "answer": "een periodieke spijbelaar",
+                "answer_length": 3,
+                "distractors": [
+                    "een occasionele spijbelaar",
+                    "een berekende spijbelaar",
+                    "een vakantiespijbelaar"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees onderstaand tekstje over verschillende soorten spijbelaars . Welk soort spijbelaar was Jeroen ?",
+                "question_length": 21,
+                "score": 0.9395817993914267
+            },
+            {
+                "answer": "Hond",
+                "answer_length": 1,
+                "distractors": [
+                    "Beer",
+                    "Poes",
+                    "Fazant"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord Zie boek p. 23 Welke dier houdt geen winterslaap ?",
+                "question_length": 14,
+                "score": 0.9272381561672447
+            },
+            {
+                "answer": "Canada en USA",
+                "answer_length": 3,
+                "distractors": [
+                    "China en Japan",
+                    "Landen buiten de Europese Unie",
+                    "Rusland en Oekraine"
+                ],
+                "language": "nl",
+                "question": "Voor welke landen geldt de waarborg na Levering in de verzekering burgerlijke aansprakelijkheid van ondernemingen doorgaans NIET AUTOMATISCH ?",
+                "question_length": 19,
+                "score": 0.9235982084435311
+            },
+            {
+                "answer": "van matrozen uit Hamburg",
+                "answer_length": 4,
+                "distractors": [
+                    "van matrozen uit Amerika"
+                ],
+                "language": "nl",
+                "question": "Lees en luister eerst naar het verhaal en kijk naar de foto . Hoe staat het in de tekst ? Kies het juiste antwoord . Van wie kreeg de Amerikaanse kok het recept ?",
+                "question_length": 34,
+                "score": 0.9214506856039597
+            }
+        ]
+    }
+}

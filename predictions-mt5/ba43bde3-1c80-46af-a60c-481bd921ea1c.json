@@ -1,0 +1,5 @@
+{
+    "qid": "ba43bde3-1c80-46af-a60c-481bd921ea1c",
+    "input": "Personal pronoun Coche la bonne reponse . 1 . Oi , those are my records . Do n't touch ... ! </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. them\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. you\n2. they\n3. i\n4. their\n5. my\n6. me\n7. myself\n8. some\n9. all\n10. so"
+}

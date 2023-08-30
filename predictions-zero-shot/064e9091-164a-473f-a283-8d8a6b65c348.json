@@ -1,0 +1,5 @@
+{
+    "qid": "064e9091-164a-473f-a283-8d8a6b65c348",
+    "input": "vraag: Wat is de hoofdstad van Duitsland?\nantwoord: Berlijn\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Frankfurt\n2. Keulen\n3. Hamburg\n4. M\u00fcnchen\n5. Stuttgart\n6. Hannover\n7. Bremen\n8. Leipzig\n9. N\u00fcrnberg\n10. Dresden\n11. Heidelberg\n12. Bonn\n13. D\u00fcsseldorf\n14. Essen\n15. Dortmund\n16. Augsburg\n17. Koblenz\n18. Wiesbaden\n19. Mannheim\n20. Kiel"
+}

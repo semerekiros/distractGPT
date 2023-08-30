@@ -1,0 +1,143 @@
+{
+    "qid": "af1161e8-d7a3-4f5c-89ae-c5cb878422c3",
+    "response": {
+        "Query": "Wat is de naam van het grootste meer dat door de Rh\u00f4ne wordt gevormd?",
+        "Result": [
+            {
+                "answer": "La Ville eternelle",
+                "answer_length": 3,
+                "distractors": [
+                    "La ville des 7 collines",
+                    "La Ville Sainte",
+                    "Le nombril du monde"
+                ],
+                "language": "fr",
+                "question": "Comment appelle-t-on egalement la ville de Rome ?",
+                "question_length": 8,
+                "score": 0.94283877977926
+            },
+            {
+                "answer": "paris",
+                "answer_length": 1,
+                "distractors": [
+                    "rome"
+                ],
+                "language": "en",
+                "question": "gfgfcgggfgftg bvbbb",
+                "question_length": 2,
+                "score": 0.83453021681135
+            },
+            {
+                "answer": "fruit",
+                "answer_length": 1,
+                "distractors": [
+                    "legume",
+                    "racine",
+                    "bulbe",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Si carotte est a racine et avocat a legume alors tomate est a :",
+                "question_length": 14,
+                "score": 0.7839892712224166
+            },
+            {
+                "answer": "Chambord",
+                "answer_length": 1,
+                "distractors": [
+                    "Amboise",
+                    "Azay-le-Rideau",
+                    "Chenonceau",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Quel chateau de la Loire est celebre pour son grand escalier a double ?",
+                "question_length": 14,
+                "score": 0.7567255166554643
+            },
+            {
+                "answer": "Bruxelles",
+                "answer_length": 1,
+                "distractors": [
+                    "Moscou",
+                    "London",
+                    "Madrid"
+                ],
+                "language": "fr",
+                "question": "Le capital de Belgique est :",
+                "question_length": 6,
+                "score": 0.7532931705829274
+            },
+            {
+                "answer": "Ford",
+                "answer_length": 1,
+                "distractors": [
+                    "Chevrolet",
+                    "Dodge"
+                ],
+                "language": "fr",
+                "question": "Culture Americaine Pourriez vous identifier la marque cette voiture americaine ?",
+                "question_length": 11,
+                "score": 0.7304855566362676
+            },
+            {
+                "answer": "Computergerelateerde bedrijven",
+                "answer_length": 2,
+                "distractors": [
+                    "Olievelden",
+                    "Ruimtevaarttechnologie",
+                    "Kolenmijnen",
+                    "Natuurschoon"
+                ],
+                "language": "nl",
+                "question": "Waar staat Silicon Valley bekend om ?",
+                "question_length": 7,
+                "score": 0.7167124848585821
+            },
+            {
+                "answer": "L'Equateur",
+                "answer_length": 1,
+                "distractors": [
+                    "Le Panama",
+                    "L'Uruguay",
+                    "Le Paraguay",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "De quel pays est originaire le veritable chapeau appele \u00ab panama \u00bb ?",
+                "question_length": 13,
+                "score": 0.7137357910416202
+            },
+            {
+                "answer": "Rome",
+                "answer_length": 1,
+                "distractors": [
+                    "Naples",
+                    "Florence"
+                ],
+                "language": "fr",
+                "question": "Geographie Quelle est la capitale du pays ci-dessous ?",
+                "question_length": 9,
+                "score": 0.6688607137674509
+            },
+            {
+                "answer": "Un quad",
+                "answer_length": 2,
+                "distractors": [
+                    "Un tram",
+                    "Un velo"
+                ],
+                "language": "fr",
+                "question": "Citez quel vehicule doit etre immatricule",
+                "question_length": 6,
+                "score": 0.6656014226958432
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "2000e80f-35ff-4571-9b05-d30a45fce092",
+    "input": "question: Cochez l'article correct . ... pere\nr\u00e9pondre: un\n\nG\u00e9n\u00e9rez 20 r\u00e9ponses plausibles mais intrins\u00e8quement incorrectes : ",
+    "response": "\n\n1. le\n2. une\n3. les\n4. des\n5. ces\n6. cette\n7. ceux\n8. celui\n9. celle\n10. ce\n11. une autre\n12. la\n13. ma\n14. ta\n15. sa\n16. leur\n17. nos\n18. vos\n19. aucun\n20. plusieurs"
+}

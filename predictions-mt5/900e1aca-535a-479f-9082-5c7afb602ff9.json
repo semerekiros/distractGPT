@@ -1,0 +1,5 @@
+{
+    "qid": "900e1aca-535a-479f-9082-5c7afb602ff9",
+    "input": "Welk seizoen is het in juli? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. zomer\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. lente\n2. herfst\n3. winter\n4. lwinter\n5. voorjaar\n6. namiddag\n7. de winter\n8. oostenrijk\n9. herfstal\n10. sloot"
+}

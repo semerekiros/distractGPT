@@ -1,0 +1,132 @@
+{
+    "qid": "313bd692-4d32-4538-8462-7703724278e6",
+    "response": {
+        "Query": "Waar tref je de eekhoorn en de bonte specht het meest aan?",
+        "Result": [
+            {
+                "answer": "Aan de kust",
+                "answer_length": 3,
+                "distractors": [
+                    "In de woestijn",
+                    "In het tropisch regenwoud",
+                    "In de hooggebergten"
+                ],
+                "language": "nl",
+                "question": "Waar vindt men over het algemeen geen lage bevolkingsdichtheid ?",
+                "question_length": 10,
+                "score": 0.9747358818180754
+            },
+            {
+                "answer": "Ze komen uit Oost-Europa",
+                "answer_length": 4,
+                "distractors": [
+                    "Ze komen uit Noord-Europa",
+                    "Ze komen uit Zuid-Europa",
+                    "Ze komen uit Oost-Azie"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Waar komen de nieuwe arbeiders vandaan ? video",
+                "question_length": 13,
+                "score": 0.9296505247617092
+            },
+            {
+                "answer": "Ieper",
+                "answer_length": 1,
+                "distractors": [
+                    "Brugge"
+                ],
+                "language": "da",
+                "question": "Waar ligt Jan Yperman ?",
+                "question_length": 5,
+                "score": 0.9139354939810982
+            },
+            {
+                "answer": "in de Europese Economische Ruimte ",
+                "answer_length": 5,
+                "distractors": [
+                    "in Belgie",
+                    "in de Benelux",
+                    "In de Europese Monetaire Unie "
+                ],
+                "language": "nl",
+                "question": "In welke regio moet de verzekeraar gevestigd zijn om een fiscaal attest te bekomen voor \u201c lange termijnsparen \u201d ?",
+                "question_length": 20,
+                "score": 0.863040526614775
+            },
+            {
+                "answer": "A",
+                "answer_length": 1,
+                "distractors": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar komt de zanger vandaan ?",
+                "question_length": 13,
+                "score": 0.8570887917764329
+            },
+            {
+                "answer": "Engeland",
+                "answer_length": 1,
+                "distractors": [
+                    "Ierland",
+                    "Schotland",
+                    "Wales"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waar ligt de Ram Inn ?",
+                "question_length": 13,
+                "score": 0.8202902682823711
+            },
+            {
+                "answer": "Groot-Brittanie",
+                "answer_length": 1,
+                "distractors": [
+                    "Amerika",
+                    "Frankrijk",
+                    "De Filipijnen"
+                ],
+                "language": "nl",
+                "question": "Kijk en luister naar het fragment . Waar zijn er problemen ?",
+                "question_length": 12,
+                "score": 0.7810980690832368
+            },
+            {
+                "answer": "In Belgie",
+                "answer_length": 2,
+                "distractors": [
+                    "In Europa"
+                ],
+                "language": "nl",
+                "question": "Waar is het AREI van toepassing ?",
+                "question_length": 7,
+                "score": 0.780954393165855
+            },
+            {
+                "answer": "Italie",
+                "answer_length": 1,
+                "distractors": [
+                    "italie"
+                ],
+                "language": "nl",
+                "question": "Hoofdletter of niet ? Kies de juiste vorm . Morgen vertrekt ze met haar klas naar ...",
+                "question_length": 17,
+                "score": 0.7351413043750294
+            },
+            {
+                "answer": "in het linker hypochondrium",
+                "answer_length": 4,
+                "distractors": [
+                    "in de rechter fossa",
+                    "mediaal van de nier",
+                    "ventraal van de maag"
+                ],
+                "language": "nl",
+                "question": "De milt ligt ...",
+                "question_length": 4,
+                "score": 0.7304224607365323
+            }
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "qid": "a0a0f870-7c3c-45c3-a62f-3f44aaca85a8",
+    "response": {
+        "Query": "Om welke activiteit staat het Nieuwe Rijk van Egypte bekend?",
+        "Result": [
+            {
+                "answer": "eigen tijd",
+                "answer_length": 2,
+                "distractors": [
+                    "middeleeuwen",
+                    "nieuwe tijd",
+                    "nieuwste tijd"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Het MAS te Antwerpen werd gebouwd tussen 2006 en 2010 . Dit is in de",
+                "question_length": 22,
+                "score": 0.9594520269794613
+            },
+            {
+                "answer": "imperialisme",
+                "answer_length": 1,
+                "distractors": [
+                    "dekolonisatie",
+                    "globalisering",
+                    "nationalisme"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk historisch begrip past bij deze cartoon ? Cecil Rhodes in spreidstand over Afrika .",
+                "question_length": 22,
+                "score": 0.9593803841018462
+            },
+            {
+                "answer": "middeleeuwen",
+                "answer_length": 1,
+                "distractors": [
+                    "classicisme",
+                    "late middeleeuwen : de rederijkers",
+                    "renaissance"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode kan je Lanseloet van Denemarken situeren ?",
+                "question_length": 17,
+                "score": 0.9567981772134292
+            },
+            {
+                "answer": "Connie Sawyer",
+                "answer_length": 2,
+                "distractors": [
+                    "George Gale",
+                    "Rosalee Glass",
+                    "Dorothy Titleman"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lennie Bluett geeft ons mee : \u201c Put the pedal to the metal. \u201d Welke eeuweling zegt precies hetzelfde , maar dan letterlijk ?",
+                "question_length": 31,
+                "score": 0.9473962680086384
+            },
+            {
+                "answer": "middeleeuwen",
+                "answer_length": 1,
+                "distractors": [
+                    "classicisme",
+                    "late middeleeuwen : de rederijkers",
+                    "renaissance"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode kan je Karel ende Elegast situeren ?",
+                "question_length": 17,
+                "score": 0.9390112733593748
+            },
+            {
+                "answer": "middeleeuwen",
+                "answer_length": 1,
+                "distractors": [
+                    "klassieke oudheid",
+                    "nieuwe tijd",
+                    "eigen tijd"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welke periode werd deze kaart gemaakt en gebruikt ?",
+                "question_length": 17,
+                "score": 0.9331716877681031
+            },
+            {
+                "answer": "Academy Awards",
+                "answer_length": 2,
+                "distractors": [
+                    "Cinema Awards",
+                    "Entertainment Awards",
+                    "Movie Awards"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoe worden de Oscars ook nog genoemd ?",
+                "question_length": 15,
+                "score": 0.9142883662075939
+            },
+            {
+                "answer": "liberalisme",
+                "answer_length": 1,
+                "distractors": [
+                    "communisme",
+                    "conservatisme",
+                    "socialisme"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Tot welke politieke strekking behoort de vrouwelijke deelneemster aan het panelgesprek ?",
+                "question_length": 19,
+                "score": 0.9079290606069196
+            },
+            {
+                "answer": "reformisme",
+                "answer_length": 1,
+                "distractors": [
+                    "klasseloze samenleving",
+                    "revolutie",
+                    "afschaffing privebezit"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat past NIET bij het communisme ?",
+                "question_length": 14,
+                "score": 0.8925883931104588
+            },
+            {
+                "answer": "klasseloze maatschappij",
+                "answer_length": 2,
+                "distractors": [
+                    "de president wordt verkozen",
+                    "het parlement wordt verkozen",
+                    "alle mensen zijn gelijk"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Wat is geen kenmerk van een democratische staat ?",
+                "question_length": 22,
+                "score": 0.8891887493145154
+            }
+        ]
+    }
+}

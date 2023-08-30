@@ -1,0 +1,133 @@
+{
+    "qid": "729f048b-6f41-44dd-942d-833e9c7cf5c9",
+    "response": {
+        "Query": "Wat is de Verbeke Foundation?",
+        "Result": [
+            {
+                "answer": "psychologie van onzichtbaar beinvloeden",
+                "answer_length": 4,
+                "distractors": [
+                    "nudging",
+                    "psychologie van de micro expressie"
+                ],
+                "language": "nl",
+                "question": "kies het juiste antwoord wat is framing ?",
+                "question_length": 8,
+                "score": 0.9534121922614469
+            },
+            {
+                "answer": "Culturele beinvloeding van gelaatsexpressies",
+                "answer_length": 4,
+                "distractors": [
+                    "De Duchenne-glimlach",
+                    "Display rules",
+                    "Paul Ekman"
+                ],
+                "language": "nl",
+                "question": "Ga op zoek naar het juiste antwoord . Wat hoort niet in het rijtje thuis ?",
+                "question_length": 16,
+                "score": 0.9424810723230614
+            },
+            {
+                "answer": "ecologie",
+                "answer_length": 1,
+                "distractors": [
+                    "het pretpark",
+                    "Disney-figuurtjes",
+                    "netheid"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Waarover gaat deze affiche ?",
+                "question_length": 11,
+                "score": 0.9230018375051153
+            },
+            {
+                "answer": "Differentieelschakelaar",
+                "answer_length": 1,
+                "distractors": [
+                    "Isolatiewachter",
+                    "Smeltveiligheden"
+                ],
+                "language": "nl",
+                "question": "Wat kan men gebruiken als beveiliging tegen onrechtstreekse aanraking bij een rechtstreekse aansluiting op een TT- of IT-net ?",
+                "question_length": 19,
+                "score": 0.9143710487944571
+            },
+            {
+                "answer": "werken",
+                "answer_length": 1,
+                "distractors": [
+                    "studeren",
+                    "werk zoeken"
+                ],
+                "language": "nl",
+                "question": "Zoek in het artikel . Wat doet Peng in Australie ?",
+                "question_length": 11,
+                "score": 0.9139674153835642
+            },
+            {
+                "answer": "veiligheid",
+                "answer_length": 1,
+                "distractors": [
+                    "kleinigheid",
+                    "vrijwilligheid",
+                    "securiteit"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse . MIDERA commercialise des produits pour la securite . Quel est le terme neerlandais pour securite ?",
+                "question_length": 21,
+                "score": 0.9124373804333983
+            },
+            {
+                "answer": "pleister",
+                "answer_length": 1,
+                "distractors": [
+                    "prikpil",
+                    "implanon",
+                    "spiraaltje"
+                ],
+                "language": "nl",
+                "question": "Wat moet wekelijks vervangen worden ?",
+                "question_length": 6,
+                "score": 0.8836196854461144
+            },
+            {
+                "answer": "gsm",
+                "answer_length": 1,
+                "distractors": [
+                    "g.s.m ",
+                    "GSM"
+                ],
+                "language": "fr",
+                "question": "Kies de juiste vorm . global system for mobile communications ( telefoon )",
+                "question_length": 13,
+                "score": 0.877423998001412
+            },
+            {
+                "answer": "stuifmeelkorrels windbloeier",
+                "answer_length": 2,
+                "distractors": [
+                    "stuifmeelkorrels insectenbloeier",
+                    "zaadje windbloeier",
+                    "zaadje insectenbloeier"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat staat er op de foto afgebeeld ?",
+                "question_length": 19,
+                "score": 0.8673471692594549
+            },
+            {
+                "answer": "Differentieelschakelaar",
+                "answer_length": 1,
+                "distractors": [
+                    "Isolatiewachter",
+                    "Smeltveiligheden"
+                ],
+                "language": "nl",
+                "question": "Wat kan je gebruiken als beveiliging tegen onrechtstreekse aanraking bij een rechtstreekse aansluiting op een TT- of IT-net ?",
+                "question_length": 19,
+                "score": 0.8550065406990128
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "qid": "878c87ab-388a-4670-841e-08f015570ae3",
+    "response": {
+        "Query": "Choisis la bonne forme . ... beau cadeau",
+        "Result": [
+            {
+                "answer": "Vous",
+                "answer_length": 1,
+                "distractors": [
+                    "Nous"
+                ],
+                "language": "fr",
+                "question": "Ajoute la bonne personne au verbe boire . ... buvez du cafe ?",
+                "question_length": 13,
+                "score": 0.8645268093312741
+            },
+            {
+                "answer": "ton",
+                "answer_length": 1,
+                "distractors": [
+                    "ta"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme . ... beau cadeau",
+                "question_length": 8,
+                "score": 0.8326435987617243
+            },
+            {
+                "answer": "que",
+                "answer_length": 1,
+                "distractors": [
+                    "qui"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne reponse . J'ai vendu la voiture ... j'ai achetee l'annee passee .",
+                "question_length": 15,
+                "score": 0.8051917122529669
+            },
+            {
+                "answer": "les",
+                "answer_length": 1,
+                "distractors": [
+                    "le",
+                    "la",
+                    "l '"
+                ],
+                "language": "fr",
+                "question": "Choisis l'article correct . ... anniversaires",
+                "question_length": 6,
+                "score": 0.7709425303757406
+            },
+            {
+                "answer": "Vous",
+                "answer_length": 1,
+                "distractors": [
+                    "Nous"
+                ],
+                "language": "fr",
+                "question": "Ajoute la bonne personne au verbe boire . ... buvez des Ice Tea !",
+                "question_length": 14,
+                "score": 0.7700970432695127
+            },
+            {
+                "answer": "Maman",
+                "answer_length": 1,
+                "distractors": [
+                    "Tu"
+                ],
+                "language": "fr",
+                "question": "Ajoute la bonne personne au verbe boire . ... boit du the .",
+                "question_length": 13,
+                "score": 0.7671133868083795
+            },
+            {
+                "answer": "Ils",
+                "answer_length": 1,
+                "distractors": [
+                    "Vous"
+                ],
+                "language": "fr",
+                "question": "Ajoute la bonne personne au verbe boire . ... boivent du champagne a Noel .",
+                "question_length": 15,
+                "score": 0.761891905351778
+            },
+            {
+                "answer": "une",
+                "answer_length": 1,
+                "distractors": [
+                    "un"
+                ],
+                "language": "fr",
+                "question": "Choisissez l'article correct . ... boucherie",
+                "question_length": 6,
+                "score": 0.735824641067929
+            },
+            {
+                "answer": "lui",
+                "answer_length": 1,
+                "distractors": [
+                    "leur"
+                ],
+                "language": "fr",
+                "question": "Complete les phrases . Choisis lui ou leur . Vul de zinnen aan . Kies lui of leur . ( a Marie ) Maman ... a conseille d'acheter un short .",
+                "question_length": 31,
+                "score": 0.7294541196887782
+            },
+            {
+                "answer": "Elise",
+                "answer_length": 1,
+                "distractors": [
+                    "Ils",
+                    "Tu"
+                ],
+                "language": "fr",
+                "question": "Indique le bon sujet . ... ose faire du parachutisme ?",
+                "question_length": 11,
+                "score": 0.7227999893224092
+            }
+        ]
+    }
+}

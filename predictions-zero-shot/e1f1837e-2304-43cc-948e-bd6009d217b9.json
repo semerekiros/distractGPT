@@ -1,0 +1,5 @@
+{
+    "qid": "e1f1837e-2304-43cc-948e-bd6009d217b9",
+    "input": "question: Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . The next train to Aberdeen _______________ at 2pm .\nanswer: leaves\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. arrived\n2. departed\n3. crashes\n4. canceled\n5. delays\n6. breaks down\n7. never arrives\n8. stops\n9. changes route\n10. takes a detour\n11. arrives early\n12. diverts\n13. derails\n14. overshoots\n15. speeds up\n16. slows down\n17. misses its stop\n18. collides\n19. gets lost\n20. gets stolen"
+}

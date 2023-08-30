@@ -1,0 +1,5 @@
+{
+    "qid": "4278a95c-950b-47a3-a344-ae20faffb4de",
+    "input": "vraag: Wat is de hoofdstad van Schotland?\nantwoord: Edinburgh\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Glasgow\n2. Dublin\n3. Belfast\n4. Cardiff\n5. London\n6. Amsterdam\n7. Paris\n8. Madrid\n9. Rome\n10. Berlin\n11. Athens\n12. Vienna\n13. Copenhagen\n14. Oslo\n15. Stockholm\n16. Helsinki\n17. Moscow\n18. Beijing\n19. New York\n20. Sydney"
+}

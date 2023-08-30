@@ -1,0 +1,137 @@
+{
+    "qid": "1472b04f-4366-4926-96a9-5e933e884882",
+    "response": {
+        "Query": "Welke organismen kunnen meningitis veroorzaken?",
+        "Result": [
+            {
+                "answer": "Virus",
+                "answer_length": 1,
+                "distractors": [
+                    "Bacterie",
+                    "Protozoa",
+                    "Arthropode"
+                ],
+                "language": "nl",
+                "question": "Welk van onderstaande micro-organismen is enkel te visualiseren met een elektronenmicroscoop ? Duid het juiste antwoord aan .",
+                "question_length": 18,
+                "score": 0.9478571847567144
+            },
+            {
+                "answer": "kompaskwal",
+                "answer_length": 1,
+                "distractors": [
+                    "gist",
+                    "pantoffeldiertje",
+                    "legionellabacterie"
+                ],
+                "language": "nl",
+                "question": "Eencellige organismen zijn in staat om volledig zelfstandig te leven . Welk van onderstaande organismen behoort niet tot de eencelligen ?",
+                "question_length": 21,
+                "score": 0.9440592833661616
+            },
+            {
+                "answer": "bacterien",
+                "answer_length": 1,
+                "distractors": [
+                    "parasieten",
+                    "schimmels",
+                    "virsussen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bekijk onderstaande tabel van een aantal ziektes bij de mens . Door welk micro-organisme worden deze ziektes veroorzaakt ?",
+                "question_length": 26,
+                "score": 0.9265582663684427
+            },
+            {
+                "answer": "planten",
+                "answer_length": 1,
+                "distractors": [
+                    "nitrificerende bacterien",
+                    "bacterien",
+                    "dieren"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Onderstaand schema stelt de stikstofkringloop binnen een ecosysteem voor . Welke organismen staan in voor de stofomzetting bij pijl 4 ?",
+                "question_length": 28,
+                "score": 0.9128303782856442
+            },
+            {
+                "answer": "planten",
+                "answer_length": 1,
+                "distractors": [
+                    "nitrificerende bacterien",
+                    "bacterien",
+                    "dieren"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke organismen doet de stofomzetting bij pijl 2 ?",
+                "question_length": 16,
+                "score": 0.8956505584777307
+            },
+            {
+                "answer": "Leeuw",
+                "answer_length": 1,
+                "distractors": [
+                    "Hommel",
+                    "Haring",
+                    "Zebra"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke organisme hoeft niet noodzakelijk in groep te leven om te overleven ?",
+                "question_length": 24,
+                "score": 0.8866294121893937
+            },
+            {
+                "answer": "planten",
+                "answer_length": 1,
+                "distractors": [
+                    "nitrificerende bacterien",
+                    "bacterien",
+                    "dieren"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Onderstaand schema stelt de stikstofkringloop binnen een ecosysteem voor . Welke organismen staan in voor de stofomzetting bij pijl 2 ?",
+                "question_length": 28,
+                "score": 0.8824153898442421
+            },
+            {
+                "answer": "oogwiertje",
+                "answer_length": 1,
+                "distractors": [
+                    "pantoffeldiertje",
+                    "amoebe"
+                ],
+                "language": "nl",
+                "question": "2 Bij welk eencellig organisme is voedsel normaal gezien geen afdoende prikkel om overdag een reactie uit te lokken ?",
+                "question_length": 20,
+                "score": 0.8766592493501877
+            },
+            {
+                "answer": "schimmels",
+                "answer_length": 1,
+                "distractors": [
+                    "bacterien",
+                    "planten",
+                    "wormen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Onderstaande affiche komt uit de periode van de tweede wereldoorlog . Rechts bovenaan staat in een cirkel het organisme getekend dat penicilline produceert . Tot welke groep van organismen behoort de natuurlijke producent van penicilline ?",
+                "question_length": 43,
+                "score": 0.8683249611889042
+            },
+            {
+                "answer": "A",
+                "answer_length": 1,
+                "distractors": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk organisme wordt penicilline op natuurlijke wijze aangemaakt ?",
+                "question_length": 17,
+                "score": 0.8661854559539893
+            }
+        ]
+    }
+}

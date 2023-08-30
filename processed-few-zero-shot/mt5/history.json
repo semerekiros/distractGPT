@@ -1,0 +1,4241 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "history.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "07271cb2-1f4b-4192-9b4d-ba17c9e76013",
+            "question": "Welke farao slaagde erin om Egypte na de eerste tusenperiode weer te verenigen en zo het middenrijk te starten?",
+            "answers": "Mentoehotep II",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Cleopatra VII",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Ramses III",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Toetanchamon",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9a5058de-3b68-45bd-b0e5-7cd850872122",
+                    "distractor": "Heliothep",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1d9f06a7-ca77-42af-838a-64ffc7d06446",
+                    "distractor": "Mohammed",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d6a24566-2092-4a53-a7c5-ab823b8f6168",
+                    "distractor": "neanderthalie",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ca510535-92ce-4f39-ae88-07877319498a",
+                    "distractor": "helbrede",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "29068a34-5605-4361-806f-d5c65ed30e7e",
+                    "distractor": "geen van bovenstaande",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "538df922-6f75-42e1-931b-b99c68a5bc66",
+                    "distractor": "nimmer",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9ae5c890-d865-42d3-8bb6-873e1ecc2c8a",
+                    "distractor": "de leugen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "2065a90e-7f7f-4ce1-bc15-97cd09ee4ca4",
+                    "distractor": "hij",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a5817538-37e1-463f-a673-1cfd899ce670",
+                    "distractor": "henser",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "fa95db56-4803-4e3c-834f-bbdc200a4123",
+                    "distractor": "Mohammed (Mohamed)",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7ded9e6d-ae25-40f9-9047-3810df35988d",
+            "question": "Welke rivier mondt in Egypte uit in de Nijl?",
+            "answers": "De Blauwe Nijl",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De Zwarte Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De Groene Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "De Rode Nijl",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "80f19e96-f881-4cea-beb1-e04a670583c0",
+                    "distractor": "de Zwarte Nijl",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4681416b-b704-41cf-8ec6-5dec14e1b972",
+                    "distractor": "de blauwe rivier",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "b311610d-5f5e-4758-a5e9-324b8a7df383",
+                    "distractor": "de witte nijl",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "cdea14b8-4127-43e8-a882-79267a1d814b",
+                    "distractor": "het lavende krater",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "3e5688d1-cbbd-4055-a2e8-ceac98dd81cc",
+                    "distractor": "de rode nijl",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2cfce9bb-14f9-414a-9c02-e2b6c853347d",
+                    "distractor": "de kust van zee",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5423857a-8a9c-4814-be94-626508816e59",
+                    "distractor": "de roze nijl",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "3bbfc97f-3a44-4d60-8ed2-58f84eb4c37b",
+                    "distractor": "de zuidenrijkse klei",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "73657599-38a8-4ad3-be9c-3861db8d6561",
+                    "distractor": "de groene nijl",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b4357e48-3e51-4a96-82c7-aeee32b1539b",
+                    "distractor": "de bos",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4e679306-ced1-4791-87a6-a607097821cf",
+            "question": "Weet je nog wat de eerste mensensoort was?",
+            "answers": "Homo habilis",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Homo erectus",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Homo sapiens",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Homo neanderthalensis",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5990f9fd-2bfa-4f2d-ac52-d102e2985a54",
+                    "distractor": "Homo sapiens",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "33118d36-ddad-4243-a8fd-7404e39edefc",
+                    "distractor": "homo sapiens",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "336631ad-a9b9-4cf4-9d0c-2ea645a657ed",
+                    "distractor": "Homo aegypticus",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "12ede9c6-e675-4f6b-b3d9-42328997b41c",
+                    "distractor": "homo laevigus",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "40ad088d-62f1-4334-9e1f-a988eb93c75d",
+                    "distractor": "heterosaurosaurus",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4bc6cdf9-623a-4a24-b0cd-b3e4bbb272c2",
+                    "distractor": "torah",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "a70cd6fa-f814-4451-9432-1adf9512bdbd",
+                    "distractor": "humanoid",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "28355728-6922-4565-a08a-b5e8ec7acd4e",
+                    "distractor": "homo",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f95a4063-aed5-4aeb-ba6e-70effd544550",
+                    "distractor": "Homo amphibiae",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6d331795-09f4-40af-b905-9d8cc42e7246",
+                    "distractor": "Homo serratus",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d94e6840-a910-4626-b17a-964c23b1ae5a",
+            "question": "Wat leert ons het gebit over het voedsel van de Homo sapiens?",
+            "answers": "We aten zowel plantaardig voedsel als vlees.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "We aten vooral plantaardig voedsel.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "We aten vooral vlees.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "12ab2026-9c69-4aea-b6ec-40416fcc31f1",
+                    "distractor": "we aten zowel plantaardig als vlees",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "7b2489bf-41d4-4d1b-baa5-fdc20e2071a0",
+                    "distractor": "we aten alleen fruit",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d66af8fe-e0a7-4d26-8a90-0c81ebdf1c35",
+                    "distractor": "de melk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b1ce4271-ce0f-44de-8a96-0cde21df570e",
+                    "distractor": "het veeteelt",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2999c8a5-becc-4270-9861-d7b3b454c9a7",
+                    "distractor": "ze eten een vetten",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "238eeb7a-47f4-4897-903e-6357315c410f",
+                    "distractor": "elke plant is goed 7.",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "dca6749f-07dd-40bd-bd7f-fd548ea746c5",
+                    "distractor": "alleen water",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0ffe0a50-69fc-4d00-80b0-fe0b2f23556e",
+                    "distractor": "zowel fruit als eiwitten",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d78ad22b-9d33-47dc-bbb1-9544637a5bed",
+                    "distractor": "alle dieren aten ze",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3e84f937-3d90-4fb6-b7c8-c1ed588423dc",
+                    "distractor": "elk een plant",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c31f4fca-a25d-4bc8-8d73-d7564c765b9a",
+            "question": "Welke gewichten werden in Babyloni\u00eb nog gebruikt?",
+            "answers": "graan",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "pond",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "kilo",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c8abbdb5-9f01-454b-bff0-2596ce992d87",
+                    "distractor": "koolstofdioxide",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ec2de624-5a49-4062-97a6-87c6a9befdb0",
+                    "distractor": "lading",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "277d2424-700c-4058-a542-5573d9361138",
+                    "distractor": "zuurstofdioxide",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "08e22156-0437-42cb-9c0d-0cfbf0d51624",
+                    "distractor": "vetten",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "30eb8e6b-749a-4929-961b-e0ca0f10f867",
+                    "distractor": "ijzer",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8ef33753-275e-47ba-99d5-3de42ae8ca70",
+                    "distractor": "koudgebiteerd",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "30fb1f8e-1047-4e80-9e33-19c4943a2ee4",
+                    "distractor": "eiwitten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e04eaa5a-8861-4c2f-a1de-20b27131f9d5",
+                    "distractor": "vis",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "531451ce-895c-4bda-8635-567adc394b0c",
+                    "distractor": "olijfolie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7d26d61b-e650-4692-a4e9-1d2b42359956",
+                    "distractor": "kip",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "018091c5-015c-4347-b164-e76e1d4b40a2",
+            "question": "Welke periode komt overeen met het oude rijk van Egypte?",
+            "answers": "2650 v.C.-2150 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "2700 v.C. - 2100 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "2650 v.C.-2150 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "2450 v.C. - 1980 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a121c4e2-56fd-41ab-8128-9f91269e3279",
+                    "distractor": "2650 v.c.-2150 v.c.",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a21190b0-7976-4607-b980-b03b85a26dff",
+                    "distractor": "2650 v.C.-2520 v",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "79ba4053-fa4d-4277-8dec-e45063e9691e",
+                    "distractor": "2650 v.c.-2200 v.c.",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "cdad6b7d-cfa6-4071-8275-254920482bf0",
+                    "distractor": "2300 v",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "8165e35d-f03d-4433-a316-e15028d425a6",
+                    "distractor": "2650 v.c.-2500 v.c.",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "af8e463d-f5ed-4009-ba06-8e7696f9763d",
+                    "distractor": "2050 v",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c635e4fb-949b-4821-9255-5ac343fc7a0e",
+                    "distractor": "2650 v.c.-2800 v.c.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "999d4290-0e2c-4764-9b28-d330c96eb59a",
+                    "distractor": "1830 v",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "70e8a8c1-3aa6-41dc-bc55-3f3986240b31",
+                    "distractor": "2650 v.c.-1800 v.c.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "be467100-5787-4255-9218-c01fcf74f37c",
+                    "distractor": "3000 v",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "cb4f32b6-922e-442a-9d07-5e55f712a007",
+            "question": "Hoe werden goederen 'gekocht' in Mesopotami\u00eb?",
+            "answers": "Door te ruilen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Niet",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Door met geld te betalen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "4bfb7c8c-1840-4598-9042-acccb3028032",
+                    "distractor": "door te ruilen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1b749002-6e46-4295-84a1-28f731fd19f4",
+                    "distractor": "door te geven",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "b7008d73-91d2-4a44-9993-2523aa0064d5",
+                    "distractor": "om onbeperkte producten kopen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f5a61907-707e-4193-8cc8-1d268caa1027",
+                    "distractor": "door inruilen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "ee887166-339a-43f1-a286-4b302264fc34",
+                    "distractor": "door het aankopen van geld 6.door uit",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9078368e-8a70-40c2-90e4-4057c1901ddf",
+                    "distractor": "Door te verkopen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d5779eaa-eb2b-4789-bde0-4ff294790eac",
+                    "distractor": "door terugwerken",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "43224071-99c7-46f1-a02d-af4406caf0ba",
+                    "distractor": "door opnemen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "72c2d94c-a890-42ac-a661-087cb24c91b7",
+                    "distractor": "door het vervoer",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "12ea00ed-6c16-4666-a463-c43ed6cc5e38",
+                    "distractor": "door een kasje",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "888e1bc5-d9c4-4a43-b582-9982b2698962",
+            "question": "Wie was dus in staat om de meest voordelige ruil te doen ?",
+            "answers": "Handelaars",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Boeren",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Ambachtslieden",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "50929f35-a75f-4400-a17c-bfdde912fe17",
+                    "distractor": "Kopers",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "33b8811c-e5f4-458c-82fb-11b70991594e",
+                    "distractor": "leveranciers",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d87d412f-abdc-47da-9162-d7327604b5bf",
+                    "distractor": "makelaars",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ddf073c1-b7f9-40bc-91b5-c20629405988",
+                    "distractor": "koper",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "af856523-4f3a-4722-a7af-cb1a61815dd3",
+                    "distractor": "kopers",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "948f258a-7e79-4b06-b3d6-f7fc17510251",
+                    "distractor": "lening",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "08f65f5a-b9c4-4b05-8181-64c8b7116880",
+                    "distractor": "vrachtwagens",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "dc615ec3-a4d5-4210-bd7b-270acb13589b",
+                    "distractor": "de contantere wissel",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "aff86e41-14fe-4b02-bc37-21f41f075c03",
+                    "distractor": "bankiers",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "498439a1-1d14-4f7a-8207-3f132ab9e624",
+                    "distractor": "het opbrengsten",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "e05b6d16-072e-4ea4-93b4-b5d03b52cc89",
+            "question": "Welk volk nam in 30 v.C. de macht over in Egypte?",
+            "answers": "Romeinen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Libi\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Grieken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Assyri\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "11302fbb-46c4-4bf8-bf7d-d313d3452e05",
+                    "distractor": "duitslanders",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "f717ea0b-b001-4468-9159-8a9bc1e81678",
+                    "distractor": "duitslieden",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "09bbf4d5-5a50-4c62-9b3c-5d20bcccbb33",
+                    "distractor": "latijnamerikaanse stammen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "3a6db421-6432-4a3a-8953-8bac6a9d533b",
+                    "distractor": "juifseeden",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "ccf3e981-1cbd-40f6-9609-bf9f53576b6c",
+                    "distractor": "griekenlandse stammen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8acb1452-c274-4cf5-8c03-45ee89a8c26c",
+                    "distractor": "lemmings",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e42361ba-7cb2-4c27-bf5c-bdcd0c4409a4",
+                    "distractor": "oostenrijkse stammen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d8a8eaf2-53e1-4eca-9ea7-7b0614a9d0d8",
+                    "distractor": "katolisten",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c18ab047-1ed9-4deb-9744-c9aacbf46889",
+                    "distractor": "ladinische stammen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ec913d1b-10eb-421b-9928-7ee0e86dfe40",
+                    "distractor": "gotiek",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "aced4dab-1ed1-41b5-936a-f2490c40eaba",
+            "question": "In welk werelddeel ligt Stonehenge?",
+            "answers": "Europa",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Azi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7b0d3e92-8f86-4f70-882a-ec2a9b46a06d",
+                    "distractor": "noord-amerika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "fbcaa9b2-93fa-40b1-94d9-15ec616a455e",
+                    "distractor": "aziatische unie",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ccb99e1d-d6e8-4b3b-a797-7825ebfbd3f1",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "649fc7fa-a3db-4a95-8cda-c9a2e1ee632f",
+                    "distractor": "zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "adf161cf-55e4-4fff-89b2-e30c282a2991",
+                    "distractor": "zuidafrika",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8fdd8de9-ee45-46cc-9ceb-0fd060fcf2df",
+                    "distractor": "bosgebied",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "638dd6c2-8d98-4ae8-90d5-aa1e7250ad82",
+                    "distractor": "noordoosten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "3b2d64ff-79bd-41b4-8749-90b719150bb6",
+                    "distractor": "zuidenrijk",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "056873a3-cbd3-4ee5-944f-b55357b4b5e1",
+                    "distractor": "hele europa",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "144f6186-9cdf-4cb5-b92a-3dcc2f0706b5",
+                    "distractor": "oostamerika 9.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "33522e5e-a0ca-4893-a336-09416b943a74",
+            "question": "Ter ere van welke god werd de tempel van Kom Ombo opgericht?",
+            "answers": "Horus",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Anoebis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Isis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Re",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "98c94ba8-c702-4459-86f0-c210b2fabc8b",
+                    "distractor": "Hermes",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e5159cf4-315c-40d1-ae43-b69c657a1f00",
+                    "distractor": "koning van het paleis",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c672c4ca-732e-4354-917d-3c2f3447a6f4",
+                    "distractor": "de dichter",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "fc9e474a-3f32-426d-b7dc-2bd062fecca5",
+                    "distractor": "tempelmeester",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "fb39e6fb-cff2-4e4f-a865-86b74986c758",
+                    "distractor": "keizer",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "21352318-4ac1-437f-8d7d-233fdc622c00",
+                    "distractor": "kerkelijke god",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "bbc804ea-3c40-4f9b-908e-0016a699ed79",
+                    "distractor": "heiliging",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "6f45a870-8fcc-4846-9cae-19f15d43cd79",
+                    "distractor": "ro",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ee64fd07-fca7-491f-bfa9-ac10fd06ccba",
+                    "distractor": "Dante",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ee84d933-f4ba-4421-9f79-2078da998bfa",
+                    "distractor": "Helena",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5996eed8-0f3e-40dd-9c25-bc2a69392b8c",
+            "question": "Rond welk tijd situeer je prehistorisch \u00c7atalh\u00f6y\u00fck?",
+            "answers": "\u00b17 000 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "\u00b113 000 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "\u00b110 000 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "\u00b14 000 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "860f7be6-1d66-4579-8fab-4f9390e2f385",
+                    "distractor": "\u00b17 000 v.c.",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ad4e5f27-930c-4b31-bdd1-ef360f39371a",
+                    "distractor": "\u00b12 000 v.C.",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c3f89801-0e62-454d-830a-9a2f3fbb9bdb",
+                    "distractor": "'10 v, c.",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "09fe64b3-e4e1-4861-adba-d65140f669a0",
+                    "distractor": "< 5 100 vd.c.",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b5a237a8-8cc5-42c6-924e-69bead254074",
+                    "distractor": "<",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "273b9ab0-95c4-4c01-9f37-bd96b8857d63",
+                    "distractor": "\u00b110 000 v.c.",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "053858ad-a471-4ec7-9e70-e13246d2216f",
+                    "distractor": "+/-7 500 v,c",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7cdf5d32-8159-4c0a-abb0-b1e3098a712c",
+                    "distractor": "o 10 000 d.C",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "89791d94-95b3-401f-bdb3-e0b90f313655",
+                    "distractor": "ca 20",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0b3d6da7-69c5-433d-ad44-3cd50ea15eff",
+                    "distractor": "\u00b16 000 v.c.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f20e5662-8cb7-498a-b5e1-61321d74cab0",
+            "question": "Hoe noemden we de economische organisatie in Mesopotami\u00eb?",
+            "answers": "Economische specialisatie",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Economische monopolisering",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Economische generalisering",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5fdfc083-b025-4fd4-a9b3-04ddd3ac35da",
+                    "distractor": "economische structuur",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "cb5a9008-ff61-40c5-bd2a-f60e8e704388",
+                    "distractor": "economische crisis",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "056ffebd-6310-4498-ad7f-d70f5a234387",
+                    "distractor": "socio-economische centralisatie",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ebf73a43-0986-44be-94b5-3757fa6b293f",
+                    "distractor": "economisch complex",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7b34be3d-501b-4f8a-ad7e-8cb390a04ff8",
+                    "distractor": "financiele instabiliteit",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4760627c-3717-4548-9fce-e5ea8955d175",
+                    "distractor": "sociale ontwikkeling 7.",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "28afc1d3-bd2d-42cb-b55b-95c5b68e8e4f",
+                    "distractor": "economische eenheid",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c5ff8beb-8f12-4e9d-b626-d139bc20a03b",
+                    "distractor": "sociale staat",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ee8f466d-44b7-4130-8657-a9d244a55819",
+                    "distractor": "staatsveiligheid",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "58f708c4-eed5-4536-9cc8-bdc645dee20f",
+                    "distractor": "pensioenen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "29fba923-4953-442e-bc4e-3336f95e3012",
+            "question": "Welke inwoners zijn niet blij met de plannen van Ethiopi\u00eb?",
+            "answers": "Egyptenaren",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Ethiopi\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Soedanezen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "773f8914-6a3f-459f-b0f5-d9fc75ff49ae",
+                    "distractor": "oostenrijkse inwoners",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "24bd3e86-49d2-4da0-97ec-6a2bf230de08",
+                    "distractor": "Eritreeen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c562bddf-bd8a-48c9-b813-fef03892c2e7",
+                    "distractor": "griekenlandse inwoners",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d178548f-7b56-41eb-931b-f01469cddf31",
+                    "distractor": "griekenlanders",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "eb2a38b7-e8d8-4d61-bc74-ba9436c85a59",
+                    "distractor": "zuid-afrikaanse inwoners",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7f40b7fd-1248-4342-a52b-612de972d3ab",
+                    "distractor": "belgische lakens",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d40b8ec1-bf6f-4de6-a63f-e1f7a2a78a6b",
+                    "distractor": "noord-afrikaanse inwoners",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d35533fd-6c99-4d4b-bfb0-7f2e0eba93d6",
+                    "distractor": "turkijeezen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d565ff6d-9166-4a6e-a612-d0457de171a8",
+                    "distractor": "zwitserse malden",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "4b103a2c-223c-4874-ae5e-1f0f0b36e2af",
+                    "distractor": "afro",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "410e5442-6f28-4175-99a4-1a97766c5238",
+            "question": "Wat is een ploeg?",
+            "answers": "Werktuig dat de aarde omwoelt",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Werktuig dat graanhalmen afsnijdt",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Werktuig dat helpt bemesten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "8372bac9-cc69-4c56-a3cd-9dd992e07b9f",
+                    "distractor": "werktuig dat de aarde omwoelt",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "cf635db1-367f-4ada-9fe4-136b4cf0fcd1",
+                    "distractor": "werktuigen die over het bos stroomt",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ea653bea-a69d-4841-bfa2-bfaf9daf8c3b",
+                    "distractor": "hulpwerkzeug met een handvat 5.",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f518fe71-ed2f-4a25-868f-5c16317ee700",
+                    "distractor": "kraan",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "3c8e4162-a865-4255-b7b9-50d6a430dda8",
+                    "distractor": "vliegtuig",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "63d08e6a-0e34-4713-9ab3-7a38a8eec3e2",
+                    "distractor": "katapult",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9f73fadd-e243-4494-8597-467929479d4c",
+                    "distractor": "werktuigen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "cc424e43-cde0-4c21-8fad-0beb82fdcfeb",
+                    "distractor": "bruggen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "416b3240-de30-4820-a0a6-8793b025d3b2",
+                    "distractor": "motor",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "abd0b15c-7ede-4f8e-be5d-0ccea5c492a6",
+                    "distractor": "gas",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "66950e06-18de-450a-93ab-09155a248367",
+            "question": "Welke soort kaart is de kaart met begroeiing?",
+            "answers": "situatiekaart",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ontwikkelingskaart",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "61cbceb7-aa5a-434b-9cb3-2e467d6201c2",
+                    "distractor": "kaart met begroeiing",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4c3f4a4d-b47e-4291-b3af-af4e49b77ef6",
+                    "distractor": "openbare kaart",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8667beec-6ab1-4dbe-8d25-7d61f3136b1a",
+                    "distractor": "historische kaart",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "aacccc94-99fe-4f86-b20a-0b61a8cf5755",
+                    "distractor": "personificatiekaart",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b4e603d0-94a1-4c1f-b5d6-8ae551a712e9",
+                    "distractor": "portretkaart",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8fca9d9b-2252-4418-9b37-94f101f23799",
+                    "distractor": "samenstellingskarte",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "003aff81-55df-4feb-a353-4d2fb9c82aa8",
+                    "distractor": "beeldbank",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "23dfaf47-92cd-476b-b9ab-a577e1f3ff6a",
+                    "distractor": "agendacard",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "90499514-64ca-4742-89d5-bcb59f458d7d",
+                    "distractor": "document",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7f6a8459-3b51-40f2-886f-a362ebb728d7",
+                    "distractor": "grafiekkaart",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2a719fc2-6458-4e48-918c-9c1cd9d22c0b",
+            "question": "Welke rivier begint in Ethiopi\u00eb?",
+            "answers": "De Blauwe Nijl",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De Rode Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De Zwarte Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "De Witte Nijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "De Groene Nijl",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a9b3501f-2f8d-43ec-83f7-3031bcd7cca5",
+                    "distractor": "de Zwarte rivier",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "132cf56c-9c4d-4bb4-9ad0-35bd7ec59e08",
+                    "distractor": "de Zwarte klei",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "11cd472c-aa09-41d3-97d3-93fd304c2eea",
+                    "distractor": "de blauwe rivier",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "44db66a9-75e7-4670-899e-2b5d522255be",
+                    "distractor": "het zeewater",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "248de044-fe25-4107-afef-5c66b36e4864",
+                    "distractor": "de roze rivier",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ca7ab8b1-203b-419f-b439-e65a2c672313",
+                    "distractor": "de rode klei",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "84172837-388a-48b2-a095-30632703a7ea",
+                    "distractor": "de witte rivier",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d68c299e-62f2-4ba4-b1fa-fa7832819eef",
+                    "distractor": "de grote vries",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5833a2f2-4203-4b69-8ea5-87c57f7d6988",
+                    "distractor": "de groene rivier",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "80739802-aa37-4779-b411-d0e1b77162f3",
+                    "distractor": "het brugge",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a0a0f870-7c3c-45c3-a62f-3f44aaca85a8",
+            "question": "Om welke activiteit staat het Nieuwe Rijk van Egypte bekend?",
+            "answers": "Bouwen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Afbreken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Verhuizen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "54e076f4-3673-4b77-b7cf-7a0f4d472f97",
+                    "distractor": "werken",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "54db2b1c-9458-49f5-96cc-a6913cf0d425",
+                    "distractor": "Mining",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "89af62b2-765f-479c-b1f5-796c2818c56e",
+                    "distractor": "transport",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "63160c22-9d6b-488e-a2d0-30f54ff2ebc9",
+                    "distractor": "optuigen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "56e5f343-30e0-4e2f-9aa0-5795435155ae",
+                    "distractor": "lading",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "85276569-41b9-4375-86ef-844cf6b3f9ee",
+                    "distractor": "dekken",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "15b6cc45-d314-42cc-a8d4-c72c9f6d4775",
+                    "distractor": "zaadrijden",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "1b035adb-2ab9-488b-b018-843aec07d967",
+                    "distractor": "landbouw",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8092e251-7e82-4779-b8b3-dbb87f5df90f",
+                    "distractor": "industrie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d04264d4-3a6c-45d8-ba54-e6a8e48d9941",
+                    "distractor": "visserij",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6453d8a4-27fc-4d52-a072-dfa1a5a7aeda",
+            "question": "Het verhaal van 'Lucy' begint met de vondst van beenderen.\n\nIn welk werelddeel werden de beenderen gevonden?",
+            "answers": "Afrika",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Azi\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Antarctica",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Europa",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 5,
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 6,
+                    "distractor": "Oceani\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2b4863b0-aea4-4181-b816-d18fcfb55646",
+                    "distractor": "noord-amerika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "0eaae14b-2b12-4268-b638-97fa0e665796",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e9d19916-9667-42c7-b692-1419e9a6c611",
+                    "distractor": "zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2aa42405-4c94-4f7b-9a9d-6a5bcb013ba3",
+                    "distractor": "australie",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "c5dd11c1-89a1-4829-99f9-72135820b248",
+                    "distractor": "australische natie",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a3023a43-1c29-4a84-9a27-5e778969f2b0",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c9a1ba8e-f1f2-40e1-9f49-fe38eb575efe",
+                    "distractor": "china",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "a03062fd-71e8-4334-a4a0-0ef037c3cc97",
+                    "distractor": "tropische trop",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d07d70e4-e26d-43e2-b7d3-3d3226864aff",
+                    "distractor": "europa",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "4e40bbf9-0989-4148-af75-9d620a6aba7f",
+                    "distractor": "bosrijk",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a5cb20b2-8787-4b7c-9e5d-c6e1a91d06a1",
+            "question": "Uit welke periode stamt die bron met de meest primitieve voorstelling?",
+            "answers": "Begin 20e eeuw",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Midden 20e eeuw",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Einde 20e eeuw",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Begin 21e eeuw",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b4d9a7c9-836e-493a-80fa-7a3fb20490a5",
+                    "distractor": "begin 19e eeuw",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "361d4521-3c27-4467-ba10-ae9bf40f838e",
+                    "distractor": "eind 19e eeuw",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "568c4691-aaa0-43d2-aa5f-3ee95ce095cc",
+                    "distractor": "begin 20e eeuw",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ea06139e-4d39-4f7c-9ed2-9d9d3c68852a",
+                    "distractor": "begin 20e en 21e tijd",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "142a348c-d8a4-43dc-9063-cf148fdaaaa3",
+                    "distractor": "het middel 21 e-eeuw",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f1498401-332b-4a8f-a76c-3c8acbef8937",
+                    "distractor": "eind 18e jaar 6.",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "f290836d-5966-46ee-b3b7-88949b3ab800",
+                    "distractor": "in de 17e en 20e klasse",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c5180616-0e92-4b59-9996-46603e15341e",
+                    "distractor": "eind 20 e/m",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "29a9fa3c-c3c9-4699-a9cd-2c847e17a1c3",
+                    "distractor": "later dan 30e klas",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2fa32cc9-6a8d-456b-a7c1-880ba8ae4fe4",
+                    "distractor": "Beginnen 20e eeuw",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0f083942-3ca6-426d-a008-2152a065104e",
+            "question": "Welk kenmerk was er zo typisch voor die eerste mensensoort?",
+            "answers": "Bewust werktuigen maken",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Spreken",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Begraven",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Werktuigen gebruiken",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "26c1b884-ba3d-4c8f-8859-500e9f3be508",
+                    "distractor": "bewaakt werken",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a2b0ea06-00b2-46c6-b84f-902d9532c2c3",
+                    "distractor": "Goed ademhalingsvermogen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "919e6077-b7aa-4f4d-bdba-aac97cdba745",
+                    "distractor": "bezittelijk werktuigen maken",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "03282cd5-c731-464a-ab4b-edcfa7bc3613",
+                    "distractor": "afnemend uithoudingen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "3df72484-2e40-4d9c-a412-d4aebf6bf3e3",
+                    "distractor": "onverschillig werktuigen maken",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "bbd0d0ac-313c-4419-8532-1d2c49bb4641",
+                    "distractor": "gespierd zijn",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "dde0c4ca-af2f-4637-9260-93ec6194edb7",
+                    "distractor": "onbewust werktuigen maken",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "ebea6d1a-d598-4496-bd56-c5f7b2b23fbd",
+                    "distractor": "goed herkennen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "dbcd3bad-d9f5-4d38-8281-270462b84d1a",
+                    "distractor": "vragend zijn",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3d3357c8-5087-4b9a-9adb-d5607eabf4bc",
+                    "distractor": "even",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d3e51a08-6670-4fd5-9dd3-b32a7e366b9f",
+            "question": "Welke soort maatschappij bestond in Mesopotami\u00eb?",
+            "answers": "Een standenmaatschappij",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Een egalitaire maatschappij",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Een klassenmaatschappij",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a8366b3a-ca90-414b-8126-16299e1f80c5",
+                    "distractor": "een politieke maatschappij",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e48e0c66-d7b8-44a4-84ab-813542c4e515",
+                    "distractor": "een ruilmaatschappij",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "962d020f-07c8-47d7-993c-538667242d0f",
+                    "distractor": "een economische maatschappij",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "894bb88c-b77b-4bbd-be1b-36d1998ec77b",
+                    "distractor": "de machts- en handelsmacht",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "00c205c4-8250-46a0-b11f-ef9121857940",
+                    "distractor": "een sociaal-economische maatschappij",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "3b3164fe-d5c3-42e4-a7bb-96e1dceae074",
+                    "distractor": "het commerciele milieu",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1f8e7fb2-f2ec-472a-864b-92e3b5d567e6",
+                    "distractor": "een sociale maatschappij",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "11a8776b-ac3d-46be-b7dd-00df22b79af7",
+                    "distractor": "de overheid",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8546c18e-c506-454d-b0e1-9e212b282ec0",
+                    "distractor": "een socialistische maatschappij",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a12001c7-6d03-4f77-9bad-d28f8462d7a2",
+                    "distractor": "het inkomen van dender",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1c596cb1-9882-4e0a-907a-f7ca745897a9",
+            "question": "In hoeveel verschillende regio's ontstond landbouw?",
+            "answers": "op meerdere plaatsen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "op \u00e9\u00e9n plaats",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "bijna overal",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "47b46228-addd-436d-b8c8-e8f4d81dd793",
+                    "distractor": "op meerdere plaatsen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c8f8ca2c-7030-4fab-a57e-5626babffa82",
+                    "distractor": "in diverse landelijke steden",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "041e1c8c-a4fa-4e56-bebb-8226a7b317bc",
+                    "distractor": "op enkele landbouwgebieden",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d34b6807-97ca-4066-ab31-594d60832ee6",
+                    "distractor": "tussen 1 en 2 km",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9e78bdf1-bc66-4333-81d3-8c04b574c4bf",
+                    "distractor": "binnen een hectare",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "e6a3ed45-1a55-4c83-8923-c5071240d93d",
+                    "distractor": "buiten het",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1f05ab3d-5f98-45a8-9aad-b02dd80a3216",
+                    "distractor": "op enkele plaatsen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0abf51e6-feef-4424-9cc6-6968d1d72207",
+                    "distractor": "in enkele plaats",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "9fc92d40-4d27-44a2-811d-192515ccac55",
+                    "distractor": "op geen enkel plaats",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "751f7e39-8422-494d-8207-b493eeb1be07",
+                    "distractor": "overal",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5245c95d-b0b7-4562-ac53-5b22bf54b750",
+            "question": "Welke periode komt overeen met het Nieuwe Rijk van Egypte?",
+            "answers": "1550 v.C. - 1075 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "1700 v.C. - 1640 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "1650 v.C. - 400 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "1200 v.C. - 800 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "618ab3c9-7115-456e-a38c-8ae41b783c99",
+                    "distractor": "1550 v.c. - 1075 v.c.",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6e67c418-8081-4d0a-934f-fbefec359e4b",
+                    "distractor": "1558 v.c. - 1200 vv.C.",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "39392652-7bb5-4329-9f47-382bab41b04a",
+                    "distractor": "1540 v.c. - 1045 v.c.",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "321e46b9-8a55-405d-a1ec-ea269b9fcf51",
+                    "distractor": "1830 vm. c.",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "79db8fcc-79dd-4690-aa88-d6fe664f14e9",
+                    "distractor": "1530 v.c. - 1065 v.c.",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "0bc696ff-c19c-4e52-b4b9-75378034b61c",
+                    "distractor": "1900 vmi e",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6e7a4e5e-9219-4026-9744-0050543e9684",
+                    "distractor": "1550 v.c. - 1750 vmc",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b030b5ce-554a-45c8-9530-6c96efa6cfa8",
+                    "distractor": "1555 v.c. - 1045 v.c.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d7ccae6b-8e22-4fd3-840e-bacc68333e81",
+                    "distractor": "1500 v/C -15",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "c16c2653-c4cb-485a-a620-9bcac0acd947",
+                    "distractor": "1575 v.c. - 1025 v.c.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5be3a4d0-3e8e-4ed8-84ef-f36b242cec17",
+            "question": "Welke vreemde stam speelde de baas in noordelijk Egypte tijdens de tweede tussenperiode?",
+            "answers": "Hyksos",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Assyri\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Libi\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d87f446e-b3f1-4b4e-b134-4a47bc4a2c5a",
+                    "distractor": "aegyptische stammen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1407bb3c-212a-40be-a30c-94b9f7169c57",
+                    "distractor": "Persia",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "fd847d2d-eea1-4f0e-b519-9c46f2951625",
+                    "distractor": "egriekse stammen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "409334c4-5fa0-4b28-a412-6605c64d1160",
+                    "distractor": "christendom",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "0b00ac55-d22b-4e1e-9387-0cf088df3ffe",
+                    "distractor": "islamische stammen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "11fc8d8b-7d26-44db-9927-d3260d994999",
+                    "distractor": "synagoge",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "45b2565b-93ca-4bdb-a357-0aef58bc15ee",
+                    "distractor": "latijnse stammen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d92b2494-ba64-4a0e-88fb-0f2c5ef0a140",
+                    "distractor": "etniciteit",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c9e05aa8-0ad4-4a01-bafc-93b2141d2fe4",
+                    "distractor": "griekse stammen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "099e4881-a369-4e9d-884c-6c3f20651e75",
+                    "distractor": "mythe",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f51dab71-a459-4945-9e3d-8d41fd100d58",
+            "question": "Wat was Diodorus' reden om het verhaal van Dionysos op te schrijven?",
+            "answers": "De herkomst van Dionysos was onduidelijk",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Er ontbrak een geschiedenis van Dionysos",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Hij wilde een sprookje vertellen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b7704213-a077-4708-b589-155073f2dfd1",
+                    "distractor": "de herkomst van Dionysos was onduidelijk",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ed182e1f-82d2-45b6-adbf-b81fe53c71a3",
+                    "distractor": "het zijnde dat hij is niet rijp",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "3855a9e7-b507-41ae-867f-c603e42746c0",
+                    "distractor": "de plaats waarin",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8e2e7f4b-0f0a-478f-93b1-d2a5b5f0c9ea",
+                    "distractor": "de oorsprong van Dionysos is onduidelijk",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "95935823-1072-4a2e-bac4-7339ecdeedb6",
+                    "distractor": "het ontstaan van zijn herkomst",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b19d8bda-3a74-4a2b-91fa-2de9fc3e963d",
+                    "distractor": "het afkomen van die",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "62ea9c20-65e9-48bf-ac69-077d39cc09b0",
+                    "distractor": "de voornaam van Dionysos was onduidelijk",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8d1ac735-e500-4555-99b2-a2d93e7ae2d7",
+                    "distractor": "het verhaal is niet duidelijk",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "16717a98-19ca-4837-bd72-6dacbe04fe74",
+                    "distractor": "het bestaansvermogen werd",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "e06b1985-cefa-452a-98b1-4fd0d61aea0e",
+                    "distractor": "de herkomst van Dionysos",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "26728588-4ff4-40b6-9428-5890c9462d87",
+            "question": "Hoe noemden de Romeinen het gebied van ongeveer huidig Frankrijk en Belgi\u00eb?",
+            "answers": "Gallia",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Germania",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Britannia",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e43a2469-b38f-4330-ac2c-e47933d99158",
+                    "distractor": "Campania",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "5d387ea7-cc8d-4e0b-ace2-6559a540d0cd",
+                    "distractor": "Brabant",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "93e1b6e5-ea87-45de-81a0-9d9ea5606c18",
+                    "distractor": "Languedoc",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "37a51897-5405-49e4-a9ad-e30f48c8fc15",
+                    "distractor": "het zuiden",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "04b8948d-cdca-46cf-883f-55adf9a1c569",
+                    "distractor": "Toscane",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ac82fc6b-498f-463a-92bf-6cf699b02d77",
+                    "distractor": "de oostenrijkse grens",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "bafe36dc-254b-4b04-961d-7c32651498ac",
+                    "distractor": "occident",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "650c15e6-97b3-4b36-a2a2-642f55960581",
+                    "distractor": "l'oest",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "49044196-d114-4bad-a919-0e9570823908",
+                    "distractor": "italie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6a78bf1a-6194-49d9-9137-21698f865ab7",
+                    "distractor": "hersenen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "cee85d76-7c8f-4c2b-9345-38b0da87ea0b",
+            "question": "Welke materiaal gebruikten de Kelten voor het vervaardigen van werktuigen en wapens, zoals dit slagzwaard?",
+            "answers": "ijzer",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "tin",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "brons",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "koper",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "87d52a5c-0c1e-4d7a-adb6-a8042fd5ccda",
+                    "distractor": "metaal",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "046a2e1d-2cac-4d3f-869a-bb111a8ebcf6",
+                    "distractor": "ijzer",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "3612f993-2a70-4d7e-80bd-9c29c274dce2",
+                    "distractor": "karton",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b643150b-5126-44a0-b65c-3b68ab9871c2",
+                    "distractor": "hout",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "789ccc67-2997-4fa3-b763-0b5b28d1c25e",
+                    "distractor": "aluminium",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "eec98ae8-3353-4fb0-853e-a82d54128573",
+                    "distractor": "koper",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5d091b96-e15d-4a6a-b64a-15484ec4c8d1",
+                    "distractor": "glas",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "82d5b8f7-616a-46d5-94ad-2310e15c7a33",
+                    "distractor": "dikke klei",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "10bcc050-d0e8-49e2-8fe1-708d84eb8a24",
+                    "distractor": "kunststof",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0ba4158d-a0f8-431c-ba8e-8e428f5d7061",
+                    "distractor": "staal",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "69283f53-92ea-45a7-96dc-6ec38d559910",
+            "question": "Wat zou de push-factoren dan wel weghalen?",
+            "answers": "Een krachtiger optreden tegen de repressieve regimes, oorlogen en het geweld.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De ontwikkelingssamenwerking stopzetten.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Zoveel mogelijk migranten terugsturen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1f17cd99-ff8a-4b01-a2bd-ece201896b53",
+                    "distractor": "een krachtiger optreden tegen het geweld",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a65f1e2f-c459-4442-ba53-3bf44ae9e5ad",
+                    "distractor": "sterke inzet van de sociale macht",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ba856788-1f96-453c-9daa-911783e81391",
+                    "distractor": "een positieve drukontwikkeling",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8b7970d3-fb23-4e01-aca5-82b30976a7f5",
+                    "distractor": "het stimuleren tegen socialistische dictators",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9e836f28-9bb6-45cd-afed-972802304dd5",
+                    "distractor": "optreden om",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a1a5764a-803b-4e90-b4b2-15f23a14c554",
+                    "distractor": "de media verkrachten",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d49575d3-559f-4b75-8268-7ee6239948f0",
+                    "distractor": "het geweld",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "9121086d-44de-492c-bf7c-3cabd2df33a3",
+                    "distractor": "een machtsoverstijgend voorwerp",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "96d28a7f-aca3-4b30-80db-dd0d9305f92a",
+                    "distractor": "agressief optreden",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "9e5038ac-6109-49db-9008-087e7939850d",
+                    "distractor": "afstotende",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "376d7822-854b-4d30-8be2-1b37f6291e6f",
+            "question": "Situeer de Hallstatt-periode in de tijd.",
+            "answers": "ca. 800 v.C. - 500 v.C.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "ca. 500 - 50",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "ca. 500 v.C. - 50 v.C.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "ca. 800 - 500",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "ca. 850 v.C. - 500",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "da8e3f0a-4bdc-4fb8-934f-add6461372b2",
+                    "distractor": "ca. 800 v.c. - 500 v.c.",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "2011f338-a260-43ce-b021-3aa4f7a1d07c",
+                    "distractor": "ca. 1000 v.c. - 600 v.C.",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "59cd7176-ed80-4683-b11d-c5040f2b64f9",
+                    "distractor": "ca. 800 v.c. - 600 v.c.",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d3f63e05-ad57-498e-9671-a9a91319cd29",
+                    "distractor": "ca.300 v c.- 400 v",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b13b78b7-694b-4572-b8d8-3f2278b7c8c4",
+                    "distractor": "ca. 800 v.c. - 700 v.c.",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "5e8677fd-3895-4842-bb01-103d960d332b",
+                    "distractor": "c.500",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "a6276650-3e07-4aa6-ac10-c93fba78cfad",
+                    "distractor": "ca. 600 v.c - 500 v.C.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "51fd4332-7906-4da3-8355-3800a98aa053",
+                    "distractor": "800 v c = 1000 v",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6f45a481-d676-4ad2-8d03-3a93c0133813",
+                    "distractor": "700 v",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "df07bf0b-b2c7-459e-8890-0071fc32a713",
+                    "distractor": "ca. 800 v.c. - 900 v.c.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "9c9ff810-3963-4bdc-aa9e-a1c3e8d21716",
+            "question": "Wie was de beschermgodheid van Athene?",
+            "answers": "Pallas Athena",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Artemis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Poseidon",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Zeus",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "dcddd6d3-bec6-4da5-a2fc-3c4ff05ea76e",
+                    "distractor": "Marcus Aurelius",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c8666aa8-884f-40da-9b55-9b885f2a87f4",
+                    "distractor": "Marcus and Celsus",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "26b305de-1be1-4817-ab4f-e03f3f657d08",
+                    "distractor": "Apollonius",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c1e610a5-8f39-4e1c-bcf8-98d17940e165",
+                    "distractor": "Helena",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e5450ade-de01-464b-ac10-f7b3fff49056",
+                    "distractor": "helena",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a4882ce7-1ad0-4e0c-a630-f9f20b0b5e8d",
+                    "distractor": "samira",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6394527e-624e-4967-91de-a4acab4a4ed0",
+                    "distractor": "leophide",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "faec670d-e222-4609-b177-9a175e81db52",
+                    "distractor": "morphee",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "9cc31a81-3396-4e8a-9d59-b988eea4986b",
+                    "distractor": "se",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "df23fddd-97e0-4911-8ed6-f43c861dd331",
+                    "distractor": "Heliocrates",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "59af1368-6091-46c3-98a2-e1e4e461f058",
+            "question": "Van welke talengroep (van de Kentumtalen) is Latijn de voorouder?",
+            "answers": "Romaans",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Germaans",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Grieks",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Keltisch",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "215d7341-ba6a-45b4-917c-f05365a82fef",
+                    "distractor": "latijn",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b8dfdae1-2d81-42b0-8b16-6a38c98b47ac",
+                    "distractor": "italijn",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "01bb534d-3210-48b9-b99f-4d4b14522e65",
+                    "distractor": "italiaans",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "61e837b3-e538-45da-b173-0c8fa42d9b02",
+                    "distractor": "algemeen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "05cfb557-5d16-4bd6-bd4d-e9a7eefbb946",
+                    "distractor": "rooms-romaan",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6a1ad5c2-ba38-4e7f-b95d-a1c66b329fa7",
+                    "distractor": "slavijns",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "cff4ce99-dfc9-4a87-ae0b-40f04bdf2988",
+                    "distractor": "nederlandse",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "99e495d4-fd8e-4146-8b97-56cd35af8faa",
+                    "distractor": "hebba",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a174edbf-c790-4d71-a0e0-00ccf2efd41b",
+                    "distractor": "Latijn",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "63804d99-3c23-447e-9b92-d150eb9fc211",
+                    "distractor": "Kroatisch",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "0fd7b4e3-9e56-4f33-946f-36d3845f7a8a",
+            "question": "Welke Griekse staten bleven zoveel mogelijk neutraal?",
+            "answers": "Epirus ### Kreta",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Thessali\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Macedoni\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Peloponnesus",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d984b9a9-a0da-4edd-8205-c683bdfeadbd",
+                    "distractor": "Cyprus",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d9d52e9b-ceea-48ec-848f-fd8b87299c5a",
+                    "distractor": "Thessaloniki",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ce236f40-31f3-4956-9dd1-427b3f33d9d3",
+                    "distractor": "mythe",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2777d3af-6cc9-4833-826b-fc055f5aad2e",
+                    "distractor": "vlaamse olijfstromen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6311d44a-d223-480a-ac91-ca7de3c6b1f9",
+                    "distractor": "zuid-grekenische lijsbronne",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "dc2a87f3-e330-49c0-a01e-6fe3781f372a",
+                    "distractor": "suri",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0f6803c6-cfcb-4eeb-87b1-5f6025f02753",
+                    "distractor": "Malaga",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7ee481f6-9ca8-4cf6-a082-9446051e48c6",
+                    "distractor": "esparta",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5fb5d050-ab69-4328-8236-97e1b0d8500c",
+                    "distractor": "toien",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "82b80197-563f-4526-a146-fcaa6b3993fd",
+                    "distractor": "roma",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "bf721eb4-976f-42b2-93a0-682c626cd70d",
+            "question": "Wat was de grootste militaire macht van Athene?",
+            "answers": "Athene was een sterke maritieme macht (vloot).",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Athene had vooral een sterk landleger.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "395acad5-cc60-41a5-82d5-538fc3eb397a",
+                    "distractor": "Athene was een sterke maritieme macht (vloot)",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "8bd377f8-2363-4c0c-867b-081cfdb65eb1",
+                    "distractor": "de militaire macht (vloot)",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f695585e-1d55-4572-b2cc-8553b4bbb231",
+                    "distractor": "het veld",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ed34e1d4-42de-4d7e-955a-4e8423104fba",
+                    "distractor": "luchtmacht",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "83896533-49f1-490d-b3e5-e64ae926427c",
+                    "distractor": "massa-arme militie",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b250925b-0381-40f1-b1e1-015dc9b6a15b",
+                    "distractor": "hele maritieme macht",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "79eef766-e856-4821-8a26-23b8f463e67c",
+                    "distractor": "Athene was een sterke politiemacht",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b51d8d81-6623-48a4-b996-d15cd522f854",
+                    "distractor": "de militaire macht",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2742dfa3-014b-46d7-9457-e3d32343900f",
+                    "distractor": "het maritieme macht",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5acefcca-c781-4621-ae55-f087f9ba3023",
+                    "distractor": "alles is goed",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c3cf4058-deb6-413d-9b99-3b4247a2a64e",
+            "question": "Welke naam kreeg democratie in de oudheid?",
+            "answers": "volksregering",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "democratie",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "gemeenschap",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "staat",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fd84a3af-a414-42c5-95d5-7eb22ea14e6e",
+                    "distractor": "democratische regering",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "17541cd2-c787-4257-82dd-23400980b23a",
+                    "distractor": "democratie",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "2674245a-3baf-47ea-b932-0e64f65b6295",
+                    "distractor": "staatsregering",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a425d0cf-1df8-4f35-92cf-c80c7cdf5de3",
+                    "distractor": "federale regering",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7e665ac0-9f92-40ef-9156-2603ecfcc4e0",
+                    "distractor": "volksrevolutie",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ff76009a-7063-4db0-a293-5a55593a3533",
+                    "distractor": "communistische regering",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "51613218-eff1-4d0f-8cae-69d3150988bc",
+                    "distractor": "sociaal-democratische regering",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "1a511c96-f42e-4229-b8bc-2321195506d4",
+                    "distractor": "communisme",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d9ad6cb3-45bd-4957-95d1-c0d740cde958",
+                    "distractor": "socialistische regering",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "2fd7035c-7e33-4dc1-89d3-452a5a5ad21b",
+                    "distractor": "federalistische republiek",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "83d55a4c-4f4f-47e4-97bd-103f55fecc72",
+            "question": "Welke Griekse gebied werd bondgenoot van de Perzen?",
+            "answers": "Thessali\u00eb",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Peloponnesus",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Kreta",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Epirus",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Macedoni\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b33a6255-2d1e-4860-9169-ebeb03fd0e8f",
+                    "distractor": "griekenland",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "015c7009-084e-438c-a2d8-d2bf410c796d",
+                    "distractor": "Cyprus",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0c59a114-1d85-4c55-a2f9-8bf3c49543d2",
+                    "distractor": "duitsland",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "858287db-fbb1-44ac-84e2-5f351af62942",
+                    "distractor": "zuid-greidie",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9b1bea34-75a0-4772-b7df-159650b2ffce",
+                    "distractor": "zwitserland",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "1d6821d7-0b6a-492e-972a-9c0000001d7d",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7ce62811-7cd8-45ad-88f6-ed51ff0a7376",
+                    "distractor": "de spanje",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7f50f227-5f86-4d8d-bb8a-c70ac0630786",
+                    "distractor": "vlaamse eilanden",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "db236933-0a55-4bb2-b491-e06ee85b7f7f",
+                    "distractor": "griekse provincies",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a57ec112-15da-4644-afdf-56eae5e66b79",
+                    "distractor": "bosrijke eilanden",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "fde52fac-1228-48c7-8ba0-c959094f7378",
+            "question": "Wie was de oppergod van het Grieks?",
+            "answers": "Zeus",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Hades",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Hercules",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c61b48bf-2090-4755-88ef-37826348ffad",
+                    "distractor": "Hermes",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "deac02c5-c7ac-4442-8d38-a64c68970a0a",
+                    "distractor": "Orion",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "9ad1b2c8-3832-4d07-89e1-9f4e7f63e884",
+                    "distractor": "Heliotheus",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "46bca32e-ad2f-4fbb-910b-55ec457d7124",
+                    "distractor": "Saturnus",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "df4f23de-0a91-4a34-8f9a-10531d151a53",
+                    "distractor": "Artemis",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "77d10a98-459d-4234-8356-a2606a89c381",
+                    "distractor": "lenigheid",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "24cb19b7-4b82-4490-a6f2-52af9a84deb3",
+                    "distractor": "hippocampus",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "258a9473-6e96-49e0-b9a0-16cd2192619e",
+                    "distractor": "menzus",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b128d70a-a5d4-46c6-b596-22a05640ed80",
+                    "distractor": "hercules",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "be725577-e698-413e-86a9-7aae7211eb23",
+                    "distractor": "dios",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6ef26084-511e-4642-80d5-e7fcc8325ba6",
+            "question": "Hoe kan je het volk benoemen dat in dit gebied (Germania) woonde?",
+            "answers": "Germanen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Belgae",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Britten",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Galli\u00ebrs",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b1ea618e-d69b-424d-a1d7-ed92d2248e49",
+                    "distractor": "germaanse stammen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d53a6512-0cf1-4e7d-bb96-841589204cd0",
+                    "distractor": "ierland",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "48bd1bd9-cbe8-479c-9c4f-987e73ee00cf",
+                    "distractor": "grieken",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "0cdd6e46-57ab-4b5d-ac18-ad7e627a30fb",
+                    "distractor": "slavijnen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b66bede7-6bf2-44fb-881a-fe2406580aa4",
+                    "distractor": "romeinse stammen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b4e93f67-847a-4de4-a6f8-e826a6d7569c",
+                    "distractor": "germeinen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "371dc4b1-39b0-4358-9889-15466a6d62ee",
+                    "distractor": "oostenrijkse stammen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "aaa48d12-6b4f-472b-a68a-9bbe1c3fb8b3",
+                    "distractor": "armensen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "eeb6bffb-e8e7-42a3-bb3e-c8d8efad4bee",
+                    "distractor": "zuid-armense stammen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "dd65bb22-2f96-417b-823a-5358b7c31c7c",
+                    "distractor": "ladinen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "780c5ef4-52e0-4616-868e-b941cfc59006",
+            "question": "Wie had de meeste macht in de Spartaanse samenleving?",
+            "answers": "gerousia",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "volksvergadering",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "twee koningen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5bb36435-0e05-450b-9483-1614d049a0ed",
+                    "distractor": "aristocratie",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "257f379e-67a5-4b11-9bcc-04feba50ea70",
+                    "distractor": "democratie",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "53a2ee86-bd68-4ebb-bdeb-156f08ad029e",
+                    "distractor": "anti-stalinisme",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d9b75c08-8d2e-42c2-9e4b-6c65dfbb0f0c",
+                    "distractor": "islam",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f746d932-d323-4058-8e47-ca0c3d8dfdfd",
+                    "distractor": "griekenland",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8988d131-b87f-46c0-a398-049d6d2c220d",
+                    "distractor": "greolie",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1856dbba-a69c-49d1-b720-a1d45bc9e585",
+                    "distractor": "christocratie",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c207b209-b4ef-4102-9a53-9f5a37dafdeb",
+                    "distractor": "liber",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "bd8603c0-8db6-46a2-a13a-1349f36cf8bd",
+                    "distractor": "koningsmacht",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "757a8a84-346f-4a28-9e80-f2e20e483744",
+                    "distractor": "theocratie",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "486e7bb9-1682-48d4-829e-e2d15039d9fb",
+            "question": "Welke kunstvorm wordt er gebruikt om het verhaal over Hercules te vertellen?",
+            "answers": "amforen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "reli\u00ebfs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "beeldhouwkunst",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "bouwkunst",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e9a8f870-8a81-481f-a9d7-308e7c7b9d18",
+                    "distractor": "amphiforen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9d4b127d-060a-45ea-9ec8-4bf08da4bdf2",
+                    "distractor": "hypnose",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "bcf846c6-c8a8-498d-abff-a53cf968ae1f",
+                    "distractor": "epiphysen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "408a8370-b212-45dd-a443-2310941f6007",
+                    "distractor": "renaissance",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "8b88cc2a-74bc-47ea-a126-ad1d1365d3a2",
+                    "distractor": "amfiforen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "df7908f8-0d5e-41da-9280-6ed00f1df9b4",
+                    "distractor": "lacuna",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4648427f-c901-4eda-b943-611337e98337",
+                    "distractor": "toutesyphon",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "56ddaa77-c009-4462-9094-af06678ab5fe",
+                    "distractor": "tridimensionale decoratie",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "64508a41-8ec1-4298-a6e2-631e2bf7d4e6",
+                    "distractor": "kataplas",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "564e92d9-8711-428e-9ed4-5ead648fbeeb",
+                    "distractor": "astralen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "43c9fd77-4f26-435f-9a4e-a40ff912d039",
+            "question": "De macht was in de handen van velen, maar wie kreeg het recht om de beslissingen te nemen?",
+            "answers": "Zij met een speciale verdienste door hun karakter",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Zij van gegoede afkomst.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "8250c0db-5c08-4760-a9d2-7030263b42dc",
+                    "distractor": "zij met een speciale verdienst door hun karakter",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "1acf99cd-1306-414d-941f-c36fd4069a45",
+                    "distractor": "zij met de grote verantwoordelijkheid",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "65c05356-8667-4464-8452-071413ae0c66",
+                    "distractor": "ze als een voorwerp",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f5ea780c-1b92-4cb3-9dcc-1b130b4b2d80",
+                    "distractor": "hun gezin",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f6423f8c-a55c-442e-8394-bc9128ec5c20",
+                    "distractor": "ze met hun moeder",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2d0656f9-5ab4-40f2-b9ad-ab22b3bf72fa",
+                    "distractor": "iedereen heeft",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "cce66096-0c5e-4be4-b114-38caa111eb72",
+                    "distractor": "zij met de expertise door hun karakter",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "5434ce7d-80b3-4491-92be-aa12a058f5fe",
+                    "distractor": "ze en zijn familie",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e094c975-d092-477c-afc0-6984304f9bdd",
+                    "distractor": "zijn families",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "61842751-a213-4988-9890-872090b4ada0",
+                    "distractor": "haar",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "42cc0183-ca71-4775-8102-ff98fac0e0c1",
+            "question": "Hoe worden de goden voorgesteld van het Grieks?",
+            "answers": "Menselijk",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Als natuurelementen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Dierlijk",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "5e19dff0-b653-4daa-aa52-af9060aa96fb",
+                    "distractor": "eeuwig",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "73f593bc-5f9d-451c-99ef-cfec94df0201",
+                    "distractor": "vlees",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "1b9b60a0-f8ed-43c2-9390-26f5b0c80016",
+                    "distractor": "vervelende",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "04dda522-5ac2-4bf0-aac2-7a1d54c73bbd",
+                    "distractor": "vragend",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e38a2e77-8e34-498c-ba09-499f6aba0f8c",
+                    "distractor": "heiligen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8787a530-715b-4832-b03b-499eb7eff6c5",
+                    "distractor": "dieren",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "55ef4716-1a68-49f9-9743-cc1927276f77",
+                    "distractor": "priesters",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "899035ce-91bb-4e1b-8070-a686eb14d654",
+                    "distractor": "geesten",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "68dd0e27-0bcf-40ad-97dd-2dc227104c0c",
+                    "distractor": "eenzaam",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ea2ef747-f375-4fde-86e1-586b00748287",
+                    "distractor": "onverschillig",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "30d2e3e4-9aac-41d1-a3c1-171b7ac24f0f",
+            "question": "Wat bouwden de Myceners?",
+            "answers": "Ze bouwden burchten.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Ze bouwden paleizen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a9d3ca12-8284-4297-b690-70077b248efc",
+                    "distractor": "ze bouwden gebouwen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "0c9c6919-dd16-4172-aba4-77ebcadf5836",
+                    "distractor": "ze bouwden zand",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e6b56780-09be-4aae-a74f-eaeb0efd7f36",
+                    "distractor": "zijgebouwen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "dbbf04e3-1c2b-46fc-953b-157dff61fd55",
+                    "distractor": "zijbouwten grind",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "06d86134-2d89-410f-a140-8173bcb03540",
+                    "distractor": "stenen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "1489f33b-5c11-4da7-887c-ec008d62b7bd",
+                    "distractor": "beton",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "fea4db28-3204-4584-9acc-da33f946bd10",
+                    "distractor": "zuivel",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "367bba22-71ef-4827-a098-28847efc2648",
+                    "distractor": "cement",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "be06455c-6d50-42ac-bf0c-6892816f913f",
+                    "distractor": "linnig",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5d8b2c3a-90cb-46f7-a10b-0163e20155ce",
+                    "distractor": "ze bouwden ramen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "45379318-0f2d-4125-8e0a-c9f96932c7d3",
+            "question": "Welke rivier stroomt er door Sparta?",
+            "answers": "Eurotas",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Ladon",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Alphe\u00fcs",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Pinios",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "3b5e52b6-46e3-455d-ad22-41f150b435d3",
+                    "distractor": "rivieren",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a02d3864-3482-4ea6-84ff-e9faed721bea",
+                    "distractor": "rivier van het meer",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f533f794-9734-452b-8e6c-7ce04818ef02",
+                    "distractor": "kust",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b3d0b2ae-680a-4f97-8220-93a46e7f19b7",
+                    "distractor": "zee",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "96fa4139-00e1-4701-a5f7-dc51a80a9174",
+                    "distractor": "watersport",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "e5fc101b-1e4f-40a5-b151-f6974ce3a543",
+                    "distractor": "oceanen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "dcf9b2f6-a3e4-4123-bc86-042b6e1ceb99",
+                    "distractor": "vracht",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "09ae4919-73c3-4ebd-9879-3b6dd518a02a",
+                    "distractor": "lazur",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "17e3777e-8787-491d-ba44-5731af9aa97a",
+                    "distractor": "leem",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0121d803-7526-4c12-889f-858eee7da887",
+                    "distractor": "heuvel",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "77f6bacb-e829-4102-aad4-100dc3a89875",
+            "question": "De oude Grieken hadden nood aan vruchtbare gebieden en richtten daarom overal in het Middellandse Zeegebied kolonies op. Welk effect had dat op de familiale relaties?",
+            "answers": "Men ging verder uit elkaar wonen.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De hele familie migreerde mee.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7b86ded6-66dd-413d-9c6f-7191d1994fdc",
+                    "distractor": "men ging verder uit elkaar wonen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "67a7be02-3e16-4504-8fc5-fdfd256497da",
+                    "distractor": "men kocht zand",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f1971f37-e14a-421b-bd73-c982ec1c9c6d",
+                    "distractor": "het beuken",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "9de679bb-57ce-4885-b414-6ad67d5b4cc7",
+                    "distractor": "de graniet",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "96513dc1-bb4b-4cee-8fc9-4492b4929937",
+                    "distractor": "het water",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "30637b4c-1445-45d5-8f48-2c368254772f",
+                    "distractor": "hij ging verder in elkaar",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5f2d3e5e-89bd-4211-a562-669ef712b216",
+                    "distractor": "het ko",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "350582dc-4db8-4a07-99db-4dbeef6854ee",
+                    "distractor": "hij had vrienden en familie",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ae57b3c4-a297-4520-bb75-96d3d761a0fd",
+                    "distractor": "ik woonde samen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "264cc1a2-40bb-4026-8219-f9dab2342c54",
+                    "distractor": "het was onverschillig",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3d1d14f1-b6e2-4724-b142-fe7148b27c78",
+            "question": "In welke continenten leefden de Indo-Europeanen?",
+            "answers": "Europa",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Noord-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Zuid-Amerika",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Afrika",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c028520b-fa79-42a9-94b1-0e4bc5ab27dd",
+                    "distractor": "noord-amerika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3bef9c9a-91c8-45a5-8843-bbbc7dc1d3c9",
+                    "distractor": "Duitsland",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "cf073bd7-8bf3-4186-b8a1-7f95eb9c090d",
+                    "distractor": "oostenrijk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "93edee61-d476-4f3d-9d61-acc1b82770a3",
+                    "distractor": "noorwegen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "684cb587-5bae-46db-b152-94c3aaca3e82",
+                    "distractor": "zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "3f797af1-88ce-4cb8-9b3f-76accc3a14db",
+                    "distractor": "verenigde staten",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "3a536b76-001c-463d-8169-7c6c7f56baf2",
+                    "distractor": "turkije",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8dc2b982-c48f-46f5-ab0f-516bccfe4a8a",
+                    "distractor": "boswoud",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "8fb42b0c-a3ae-4e0c-ba2c-fde65ffd0111",
+                    "distractor": "oceanen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "28386d16-3cdc-4cdb-8625-5bbba1d05904",
+                    "distractor": "vlaanderen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "88d1d94c-5b4c-4007-918d-fc7339ec170c",
+            "question": "Welke voorwerpen kreeg Theseus van Ariadne?",
+            "answers": "een bol touw en een zwaard",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "een zwaard en een helm",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "een bol touw en een bijl",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "een bol touw en twee zwaarden",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "een zwaard en een schild",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c620971b-ac95-44d1-89fe-a012abda7432",
+                    "distractor": "een bol touw en een zwaard",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "dc96f85c-59d6-4466-96a8-fba8b54a9983",
+                    "distractor": "een schoen en de broek",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "934967bc-4346-40a4-a78c-3280a6e58d9e",
+                    "distractor": "een borststuk",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "39352e6f-8ad1-4005-8162-b36b4f9f06bd",
+                    "distractor": "het voorwerp",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f030f459-5282-4848-afad-e6880f5872e9",
+                    "distractor": "geen van bovenstaande",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9b315acb-4ab5-4027-8713-32020de1f0bb",
+                    "distractor": "elk hoofdje",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1ba078ff-9082-4c15-a394-4ec74534b859",
+                    "distractor": "allebei",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b49929ef-0907-4ad8-9fd3-471ffc7aa5a1",
+                    "distractor": "een skedel",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d37d8a3b-d9bf-4a88-ae84-22d2cecaca9e",
+                    "distractor": "de pil",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f29631a7-d1d5-403a-a450-dc8c1d03b478",
+                    "distractor": "het tandvlees",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "28131910-b892-4a34-9590-087f6699d1f1",
+            "question": "Welk volk kwam steeds dichter in de buurt van de Griekse gebieden ca. 500 v.C.?",
+            "answers": "De Perzen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De Romeinen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De Galaten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2f9a467e-5b1e-47d6-b49c-4056866bcfb9",
+                    "distractor": "de latijnsten",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d57df831-b1ea-4528-ba26-77f4fd7f2e72",
+                    "distractor": "de grieken",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "211fb90e-c5a3-46d5-ac63-85fa866bb48a",
+                    "distractor": "het prussus",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ad0e6ea8-4678-4bd0-bab7-9ce984db9d96",
+                    "distractor": "de romeinse stammen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b60e031c-714f-4ba9-b969-a3853b9eb1d0",
+                    "distractor": "den-paternalisme",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "364585fe-1fbc-422d-abe3-80ee912b8486",
+                    "distractor": "de armense stammen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e027546e-a517-46a8-9e49-d59dac3a73e7",
+                    "distractor": "het christendom",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "bd2294f0-8191-4a4b-9833-ba4be0434a9a",
+                    "distractor": "de hebruiden",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "4312d737-91c6-4999-9656-530fcb170b8b",
+                    "distractor": "de romaanse stammen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "1def0f31-d971-4f43-be34-13158b60b353",
+                    "distractor": "hun familie 8.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c56d1ec4-69ba-40f2-bc03-2a6709971497",
+            "question": "In welk groot gebied hebben de archeologen vondsten teruggevonden van de La T\u00e8ne-periode?",
+            "answers": "van Groot-Brittanni\u00eb tot de Balkan",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "van Groot-Brittanni\u00eb tot Griekenland",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "van Ierland tot Oostenrijk",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "van Engeland tot Itali\u00eb",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "739eb4f5-7075-4150-b143-ef3d0d5a3a30",
+                    "distractor": "van noord-amerika tot zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "0d09cc9f-88d9-488a-931f-bf7a9bc96e5d",
+                    "distractor": "van Siberie tot de India",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "181d0582-42bc-4054-b8d6-de635993fde2",
+                    "distractor": "uit het zuiden",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f3ea9b6a-8809-470f-88d0-d520e7832d29",
+                    "distractor": "door griekenland tot italie",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "16882acb-13d5-4568-8a6f-f32c5ca9a348",
+                    "distractor": "naar grieksheid",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b65843f6-fcee-47ee-8790-cbe821b4b3e3",
+                    "distractor": "naar",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "dd82ffb4-dd13-4267-bdbf-c5d494a93f61",
+                    "distractor": "van de noord-afrika tot de zuid-amerika",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "894c2489-b291-49d6-bd3d-bbe834e21b3d",
+                    "distractor": "van het oostenrijk naar de oosteuropa",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "4b5017dd-f7c1-44c7-90df-145d8503895f",
+                    "distractor": "van a",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f80e1647-1a1b-441a-a872-40e690a3037e",
+                    "distractor": "van Bretagne tot de afgelegen provincies",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b07a14cd-c4e8-4cdc-b28a-4bd0a98253a5",
+            "question": "Xerxes leidde zijn troepen opnieuw langs Thraci\u00eb naar het Griekse vasteland. Waar werd de eerste grote slag geleverd?",
+            "answers": "Thermopylae",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Salamis",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Athene",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Marathon",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "Plataeae",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d882787a-6ebe-4d5b-a6c9-b2cc0a21670e",
+                    "distractor": "Thracie",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3a6873a7-c324-4eea-8373-cfaae2d93a66",
+                    "distractor": "Cyprus",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "02c70c5f-943c-4c13-b255-2b143080526f",
+                    "distractor": "lamotte",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "71696055-9331-48d6-a667-260657daaa1f",
+                    "distractor": "leon",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5b878e58-d858-4e0f-9b2b-9ad10a930551",
+                    "distractor": "oligophylle",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "99f1d94c-543d-401a-a397-8755cc12d094",
+                    "distractor": "hellendoorn",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7c09cdd0-db31-4c2a-b953-5ec7ea7fdbeb",
+                    "distractor": "amfithea",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "885ce6bc-1d9b-4134-970c-0bef80d1cafe",
+                    "distractor": "thracian 9.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "bec8b505-c7b5-4562-9b96-ac613dbe3da3",
+                    "distractor": "Caesarea",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a344d445-d890-46a2-ad56-1e021259d34c",
+                    "distractor": "de koning van Thraci\u00eb",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "bec26ff9-b154-4983-9202-d74740ac954c",
+    "input": "Van welk land is Lissabon de hoofdstad? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Portugal\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. Frankrijk\n2. Kroatie\n3. Liechtenstein\n4. duitsland\n5. vlaamse minderheid\n6. griekenland\n7. frankrijk\n8. zuid-italie\n9. italie\n10. Cyprus"
+}

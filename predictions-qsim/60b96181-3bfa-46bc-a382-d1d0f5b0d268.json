@@ -1,0 +1,135 @@
+{
+    "qid": "60b96181-3bfa-46bc-a382-d1d0f5b0d268",
+    "response": {
+        "Query": "Choose the opposite of the word in bold . He is the creditor . We owe money to him .",
+        "Result": [
+            {
+                "answer": "debtor",
+                "answer_length": 1,
+                "distractors": [
+                    "debit",
+                    "debate",
+                    "decay"
+                ],
+                "language": "en",
+                "question": "Choose the opposite of the word in bold . He is the creditor . We owe money to him .",
+                "question_length": 20,
+                "score": 0.9844365267070732
+            },
+            {
+                "answer": "debtor",
+                "answer_length": 1,
+                "distractors": [
+                    "insurance company",
+                    "insurance broker",
+                    "insurance agent"
+                ],
+                "language": "en",
+                "question": "Choose the word that can not replace the word in bold . He works for an insurer .",
+                "question_length": 18,
+                "score": 0.912261089264508
+            },
+            {
+                "answer": "customer",
+                "answer_length": 1,
+                "distractors": [
+                    "seller",
+                    "salesperson",
+                    "merchant"
+                ],
+                "language": "en",
+                "question": "Choose the word that can not replace the word in bold . He sold everything ! He is a great salesman !",
+                "question_length": 22,
+                "score": 0.8633028061844759
+            },
+            {
+                "answer": "refused",
+                "answer_length": 1,
+                "distractors": [
+                    "allowed",
+                    "awarded",
+                    "assigned"
+                ],
+                "language": "en",
+                "question": "Choose the opposite of the word in bold . Have they granted the subsidy ?",
+                "question_length": 15,
+                "score": 0.8121743363860399
+            },
+            {
+                "answer": "It helps develop ideas ",
+                "answer_length": 4,
+                "distractors": [
+                    "It makes managers crazy "
+                ],
+                "language": "en",
+                "question": "Listen to the sentence and choose the right answer . Luister naar de zin en kies het juiste antwoord . Ecoutez la phrase et choisissez la bonne reponse . What is the use of money to entrepreneurs ?",
+                "question_length": 38,
+                "score": 0.8023201448286389
+            },
+            {
+                "answer": "decrease",
+                "answer_length": 1,
+                "distractors": [
+                    "profit",
+                    "improvement",
+                    "loss"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Kies het juiste antwoord . Choisissez la bonne reponse . SHELL PROFITS ALMOST DOUBLE The oil giant SHELL reports that its second-quarter profits have almost doubled after having completed a year-long corporate restructuring programme . The firm indicated profits of $ 4.5bn on a current cost of supplies basis , up from $ 2.3bn a year ago . This however was a drop from the $ 5.2 bn it made in the first three months of the year as it saw `` mixed signals '' in the world economy . Earlier this month , rival BP reported a record $ 17bn loss , which included a provision to cover the costs of its oil spill disaster in the China Sea . What is a synonym for `` drop '' ?",
+                "question_length": 135,
+                "score": 0.8017356414959451
+            },
+            {
+                "answer": "improve",
+                "answer_length": 1,
+                "distractors": [
+                    "slow down",
+                    "hide",
+                    "endanger"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Kies het juiste antwoord . Choisissez la bonne reponse . BOJING PROFITS SLUMP BY A FIFTH AS DELIVERIES FALL Plane deliveries by aircraft giant Bojing have been late , and this resulted in a sharp drop in profits between April and June . Net profit for the quarter was $ 786m , higher than analysts had expected but down 21 % on the $ 988m the company made in the same period a year ago . Although the group revenue fell to $ 15.7bn from $ 17.3bn a year earlier , it said its commercial markets were recovering and it remained `` well positioned for growth in 2011 and beyond '' . What is a synonym for `` recover '' ?",
+                "question_length": 126,
+                "score": 0.7568200832319321
+            },
+            {
+                "answer": "improve",
+                "answer_length": 1,
+                "distractors": [
+                    "slow down",
+                    "hide",
+                    "endanger"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Kies het juiste antwoord . Choisissez la bonne reponse . BOJING PROFITS SLUMP BY A FIFTH AS DELIVERIES FALL Plane deliveries by aircraft giant Bojing have been late , and this resulted in a sharp drop in profits between April and June . Net profit for the quarter was $ 786m , higher than analysts had expected but down 21 % on the $ 988m the company made in the same period a year ago . Although the group revenue fell to $ 15.7bn from $ 17.3bn a year earlier , it said its commercial markets were recovering and it remained `` well positioned for growth in 2011 and beyond '' . What is a synonym for `` recover `` ?",
+                "question_length": 126,
+                "score": 0.7557990774051377
+            },
+            {
+                "answer": "Underpay their workers ",
+                "answer_length": 3,
+                "distractors": [
+                    "Move to a different country ",
+                    "Invest in machines ",
+                    "Fire workers "
+                ],
+                "language": "en",
+                "question": "Listen to the sentence and choose the right answer . Luister naar de zin en kies het juiste antwoord . Ecoutez la phrase et choisissez la bonne reponse . What does Ms. Roddick say that businesses are ready to do in order to make a profit ?",
+                "question_length": 47,
+                "score": 0.7553920247738176
+            },
+            {
+                "answer": "It has now been decided",
+                "answer_length": 5,
+                "distractors": [
+                    "It has now decided",
+                    "It is now decided"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . An excerpt from the business news section of a daily paper : ... to postpone the proposed construction .",
+                "question_length": 34,
+                "score": 0.7381554215341947
+            }
+        ]
+    }
+}

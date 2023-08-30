@@ -1,0 +1,139 @@
+{
+    "qid": "8e51fd73-990a-4ecc-ab83-d14ea9d56fc1",
+    "response": {
+        "Query": "Tot welke geografische streek hoort Ieper?",
+        "Result": [
+            {
+                "answer": "Zandlemig Vlaanderen/Leemstreek",
+                "answer_length": 2,
+                "distractors": [
+                    "Kuststreek",
+                    "Polders",
+                    "Zandig Vlaanderen/Kempen"
+                ],
+                "language": "nl",
+                "question": "In welke streek ( of streken ) komt dit soort landschap veel voor ?",
+                "question_length": 14,
+                "score": 0.953413936912731
+            },
+            {
+                "answer": "Schotse Hooglanden",
+                "answer_length": 2,
+                "distractors": [
+                    "Pyreneeen",
+                    "Alpen",
+                    "Karpaten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan Welk Europees gebergte ligt het meest noordelijk ?",
+                "question_length": 14,
+                "score": 0.9121074091610142
+            },
+            {
+                "answer": "N.W.-Rusland",
+                "answer_length": 1,
+                "distractors": [
+                    "Wales en Cornwall",
+                    "Ardennen",
+                    "N.-Nederland",
+                    "Taagvallei"
+                ],
+                "language": "nl",
+                "question": "Lees de vereenvoudigde landbouwkaart van Europa . Welk gebied behoort niet bij 'intensieve veeteelt ' ?",
+                "question_length": 16,
+                "score": 0.8795713595009474
+            },
+            {
+                "answer": "Keltische volken",
+                "answer_length": 2,
+                "distractors": [
+                    "Turkse immigranten",
+                    "Romeinse burgers",
+                    "ingeweken Grieken"
+                ],
+                "language": "nl",
+                "question": "Wie waren die Belgen die 2 000 jaar geleden in onze streken woonden ? Duid het juiste antwoord aan .",
+                "question_length": 20,
+                "score": 0.8674031084192582
+            },
+            {
+                "answer": "Amazonie",
+                "answer_length": 1,
+                "distractors": [
+                    "West Afrika",
+                    "NIC 's",
+                    "China"
+                ],
+                "language": "nl",
+                "question": "Vorig jaar heb je veel geleerd over verschillende regio 's in de wereld . Naar welke regio refereert de volgende beschrijving : `` Vooral tropisch regenwoud in het warm altijd nat klimaat tot warm met droog seizoen '' .",
+                "question_length": 39,
+                "score": 0.8591026623867113
+            },
+            {
+                "answer": "rondom de hele Middellandse Zee",
+                "answer_length": 5,
+                "distractors": [
+                    "alleen in Italie",
+                    "in Griekenland en Egypte",
+                    "in Italie en Griekenland"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste antwoorden aan . In welk gebied was er sprake van Romeinse cultuur ?",
+                "question_length": 16,
+                "score": 0.8523356673168225
+            },
+            {
+                "answer": "Caraibische kust",
+                "answer_length": 2,
+                "distractors": [
+                    "Noord-Amerika",
+                    "Indie",
+                    "Brazilie"
+                ],
+                "language": "nl",
+                "question": "Welk gebied verkende Columbus tijdens zijn tochten ? ( geen giscorrectie )",
+                "question_length": 12,
+                "score": 0.8391975922790659
+            },
+            {
+                "answer": "Caraiben",
+                "answer_length": 1,
+                "distractors": [
+                    "Noord-Amerika",
+                    "Indie",
+                    "Brazilie"
+                ],
+                "language": "nl",
+                "question": "Welk gebied verkende Columbus tijdens zijn tochten ? Er is slechts 1 juist antwoord . Let op : giscorrectie ( juist=+2 , fout=-1 , geen antwoord=0 ) Klik indien nodig op reset ( rechtsboven ) om je antwoord te wissen .",
+                "question_length": 41,
+                "score": 0.7992375696468896
+            },
+            {
+                "answer": "Polen",
+                "answer_length": 1,
+                "distractors": [
+                    "de Sowjet-Unie",
+                    "Hongarije",
+                    "Tsjechoslowakije"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk buurland van Duitsland waren de meeste concentratiekampen ?",
+                "question_length": 17,
+                "score": 0.7893594738978905
+            },
+            {
+                "answer": "Vlaamse Ruit",
+                "answer_length": 2,
+                "distractors": [
+                    "Kempen",
+                    "Ardennen",
+                    "Polders"
+                ],
+                "language": "nl",
+                "question": "Welke streek is het kerngebied van de tuinbouw in Belgie ?",
+                "question_length": 11,
+                "score": 0.7737104639909885
+            }
+        ]
+    }
+}

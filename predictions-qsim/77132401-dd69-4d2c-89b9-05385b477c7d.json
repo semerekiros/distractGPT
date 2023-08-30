@@ -1,0 +1,130 @@
+{
+    "qid": "77132401-dd69-4d2c-89b9-05385b477c7d",
+    "response": {
+        "Query": "Choisis . C'est le passe , le present ou le futur ? Vous ouvrez toujours la fenetre de la cuisine ?",
+        "Result": [
+            {
+                "answer": "present",
+                "answer_length": 1,
+                "distractors": [
+                    "passe",
+                    "futur"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est le passe , le present ou le futur ? Vous ouvrez toujours la fenetre de la cuisine ?",
+                "question_length": 21,
+                "score": 0.8713838267297153
+            },
+            {
+                "answer": "passe",
+                "answer_length": 1,
+                "distractors": [
+                    "present",
+                    "futur"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est le passe , le present ou le futur ? Ils ont ouvert une bouteille de champagne ?",
+                "question_length": 20,
+                "score": 0.8355121050451442
+            },
+            {
+                "answer": "passe",
+                "answer_length": 1,
+                "distractors": [
+                    "present"
+                ],
+                "language": "nl",
+                "question": "Ecoute . Passe ou present ? Luister . Verleden of heden ?",
+                "question_length": 12,
+                "score": 0.7803834596306788
+            },
+            {
+                "answer": "passe",
+                "answer_length": 1,
+                "distractors": [
+                    "present",
+                    "futur"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est le passe , le present ou le futur ? Ma soeur a ouvert la fenetre .",
+                "question_length": 19,
+                "score": 0.7670897868049855
+            },
+            {
+                "answer": "passe",
+                "answer_length": 1,
+                "distractors": [
+                    "present",
+                    "futur"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est le passe , le present ou le futur ? Tu as ouvert la fenetre de la salle de bains ?",
+                "question_length": 23,
+                "score": 0.7614999980012275
+            },
+            {
+                "answer": "futur proche",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "present"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est passe compose , present ou futur proche ? Il ne va plus poser de questions sur Aicha !",
+                "question_length": 21,
+                "score": 0.7419090592336645
+            },
+            {
+                "answer": "futur simple",
+                "answer_length": 2,
+                "distractors": [
+                    "indicatif present",
+                    "futur proche",
+                    "passe recent",
+                    "passe compose",
+                    "imparfait"
+                ],
+                "language": "fr",
+                "question": "Tu reconnais le temps ? Vous partirez en Espagne cet ete ?",
+                "question_length": 12,
+                "score": 0.741313978841131
+            },
+            {
+                "answer": "present",
+                "answer_length": 1,
+                "distractors": [
+                    "passe compose",
+                    "futur proche"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est passe compose , present ou futur proche ? Ton frere s'interesse un peu trop a ta copine !",
+                "question_length": 21,
+                "score": 0.723290130166981
+            },
+            {
+                "answer": "Present",
+                "answer_length": 1,
+                "distractors": [
+                    "Passe",
+                    "Futur"
+                ],
+                "language": "fr",
+                "question": "Choisis . Passe , present ou futur ? Est-ce que vous prenez du vin ?",
+                "question_length": 15,
+                "score": 0.6488461657994677
+            },
+            {
+                "answer": "futur",
+                "answer_length": 1,
+                "distractors": [
+                    "passe",
+                    "present"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est le passe , le present ou le futur ? Je vais ouvrir la porte .",
+                "question_length": 18,
+                "score": 0.6252367264505411
+            }
+        ]
+    }
+}

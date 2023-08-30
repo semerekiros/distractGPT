@@ -1,0 +1,138 @@
+{
+    "qid": "61497d8a-c60a-4b43-9462-dff9d7b7950f",
+    "response": {
+        "Query": "Choose the opposite of the word in bold . I have some money to make an investment .",
+        "Result": [
+            {
+                "answer": "disinvestment",
+                "answer_length": 1,
+                "distractors": [
+                    "purchase",
+                    "share",
+                    "saving"
+                ],
+                "language": "en",
+                "question": "Choose the opposite of the word in bold . I have some money to make an investment .",
+                "question_length": 18,
+                "score": 0.9647975365935341
+            },
+            {
+                "answer": "assets",
+                "answer_length": 1,
+                "distractors": [
+                    "resolutions",
+                    "resonance",
+                    "resistors"
+                ],
+                "language": "en",
+                "question": "Which word could replace the word in bold ? Where does this company get its resources from ?",
+                "question_length": 18,
+                "score": 0.9544102983928006
+            },
+            {
+                "answer": "shrink",
+                "answer_length": 1,
+                "distractors": [
+                    "shout",
+                    "enlarge",
+                    "restructure"
+                ],
+                "language": "en",
+                "question": "Choose the opposite of the word in bold . The company has to expand to keep up with the orders .",
+                "question_length": 21,
+                "score": 0.9107316820490338
+            },
+            {
+                "answer": "advertising",
+                "answer_length": 1,
+                "distractors": [
+                    "fame",
+                    "quality",
+                    "television"
+                ],
+                "language": "en",
+                "question": "Which word could replace the word in bold ? Marketing is very important if you want to run a successful company .",
+                "question_length": 22,
+                "score": 0.9065073337251924
+            },
+            {
+                "answer": "bargain",
+                "answer_length": 1,
+                "distractors": [
+                    "deal",
+                    "acquisition",
+                    "buyout"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence form Al Bawaba Sales are still being made on the island , with an upsurge in those buying to rent , taking advantage of the ... prices while still capitalising upon the high rental yield .",
+                "question_length": 40,
+                "score": 0.9051273357422445
+            },
+            {
+                "answer": "rental",
+                "answer_length": 1,
+                "distractors": [
+                    "instant",
+                    "tenant",
+                    "fee"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence ( Steve Cohen ) The industry should take note when nearly half of frequent airline passengers are experiencing problems , compared to only 25 percent among ... car customers and less than 15 percent among hotel guests .",
+                "question_length": 42,
+                "score": 0.9047386704546094
+            },
+            {
+                "answer": "prices",
+                "answer_length": 1,
+                "distractors": [
+                    "purchases",
+                    "distribution",
+                    "sales"
+                ],
+                "language": "en",
+                "question": "Complete the following quote by Joel Naroff While the rise in core wholesale ... was a bit higher than expected , inflation is not a worry as productivity gains will overwhelm the modest increase in input costs .",
+                "question_length": 38,
+                "score": 0.8999647018908373
+            },
+            {
+                "answer": "salary",
+                "answer_length": 1,
+                "distractors": [
+                    "bill",
+                    "invoice",
+                    "receipt"
+                ],
+                "language": "en",
+                "question": "Which word could replace the word in bold ? A pay is the money that you are given for doing your job .",
+                "question_length": 23,
+                "score": 0.8930528061124101
+            },
+            {
+                "answer": "salary",
+                "answer_length": 1,
+                "distractors": [
+                    "payment",
+                    "payday",
+                    "payback"
+                ],
+                "language": "en",
+                "question": "Which word could replace the word in bold ? The pay is much better in the private sector .",
+                "question_length": 19,
+                "score": 0.8876380535368696
+            },
+            {
+                "answer": "profit-making",
+                "answer_length": 1,
+                "distractors": [
+                    "loose",
+                    "lucrative",
+                    "unprofitable"
+                ],
+                "language": "en",
+                "question": "Choose the opposite of the word in bold . This company is loss-making .",
+                "question_length": 14,
+                "score": 0.8803353036966496
+            }
+        ]
+    }
+}

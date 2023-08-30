@@ -1,0 +1,142 @@
+{
+    "qid": "26728588-4ff4-40b6-9428-5890c9462d87",
+    "response": {
+        "Query": "Hoe noemden de Romeinen het gebied van ongeveer huidig Frankrijk en Belgi\u00eb?",
+        "Result": [
+            {
+                "answer": "Spoetnik",
+                "answer_length": 1,
+                "distractors": [
+                    "Apollo",
+                    "Meteosat",
+                    "Voyager"
+                ],
+                "language": "nl",
+                "question": "Wat is de naam van het eerste ruimtetuig dat een baan rond de aarde heeft gemaakt ?",
+                "question_length": 17,
+                "score": 0.9860451304770561
+            },
+            {
+                "answer": "Eeuwige stad",
+                "answer_length": 2,
+                "distractors": [
+                    "De navel van de wereld",
+                    "Heilige Stad"
+                ],
+                "language": "nl",
+                "question": "Welke naam geeft men ook aan de stad Rome ?",
+                "question_length": 10,
+                "score": 0.9705740992433761
+            },
+            {
+                "answer": "Jupiter",
+                "answer_length": 1,
+                "distractors": [
+                    "Mars",
+                    "Pluton",
+                    "Venus"
+                ],
+                "language": "fr",
+                "question": "A quelle planete appartiennent les lunes Io , Ganymede et Hades ?",
+                "question_length": 12,
+                "score": 0.9665439215646028
+            },
+            {
+                "answer": "koning Tyrsenos",
+                "answer_length": 2,
+                "distractors": [
+                    "de Tyrreense rivier",
+                    "Tyrrenie in het oosten",
+                    "Turkije"
+                ],
+                "language": "nl",
+                "question": "Vanwaar komt de benaming van de Tyrreense Zee ?",
+                "question_length": 9,
+                "score": 0.9650696990308059
+            },
+            {
+                "answer": "Mercurius",
+                "answer_length": 1,
+                "distractors": [
+                    "Jupiter",
+                    "Mars",
+                    "Saturnus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Onlangs zagen we een planeet als een zwart bolletje voor de zon schuiven . Welke was deze planeet ?",
+                "question_length": 26,
+                "score": 0.9526109915484668
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Azie",
+                    "Oceanie",
+                    "Noord-Amerika",
+                    "Zuid-Amerika"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk werelddeel herken je in het midden van de afbeelding ?",
+                "question_length": 17,
+                "score": 0.9472790569128167
+            },
+            {
+                "answer": "Zuid-Amerika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Azie",
+                    "Afrika",
+                    "Oceanie",
+                    "Noord-Amerika"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk werelddeel herken je op de afbeelding ?",
+                "question_length": 14,
+                "score": 0.9286127263587486
+            },
+            {
+                "answer": "Azie",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Noord-Amerika",
+                    "Zuid-Amerika",
+                    "Afrika"
+                ],
+                "language": "nl",
+                "question": "In welk werelddeel ligt Syrie ? Duid het juiste werelddeel aan .",
+                "question_length": 12,
+                "score": 0.9143215654596807
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Azie",
+                    "Europa",
+                    "Oceanie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Uit welk continent waren Maya 's voorouders afkomstig ?",
+                "question_length": 16,
+                "score": 0.9117648640174275
+            },
+            {
+                "answer": "Polen",
+                "answer_length": 1,
+                "distractors": [
+                    "de Sowjet-Unie",
+                    "Hongarije",
+                    "Tsjechoslowakije"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk buurland van Duitsland waren de meeste concentratiekampen ?",
+                "question_length": 17,
+                "score": 0.9106422842254005
+            }
+        ]
+    }
+}

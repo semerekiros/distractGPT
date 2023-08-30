@@ -1,0 +1,5 @@
+{
+    "qid": "75b54a27-be23-45a3-80b3-3bf5f136f65c",
+    "input": "Indique la bonne forme . Duid de juiste vorm aan . On prend des oranges ... des pommes ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. ou\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. quelle\n2. quel\n3. quelque\n4. oui\n5. toutes les reponses sont correctes\n6. quand\n7. aucune des reponses n'est correcte\n8. c'est pas la foire\n9. toutes les reponses sont correctes 7.\n10. avec"
+}

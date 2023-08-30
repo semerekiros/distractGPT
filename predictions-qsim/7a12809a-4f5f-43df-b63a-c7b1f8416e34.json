@@ -1,0 +1,133 @@
+{
+    "qid": "7a12809a-4f5f-43df-b63a-c7b1f8416e34",
+    "response": {
+        "Query": "Welke van deze soa\u2019s kan met antibiotica worden behandeld?",
+        "Result": [
+            {
+                "answer": "Metformine",
+                "answer_length": 1,
+                "distractors": [
+                    "Glibenclamide",
+                    "Insuline",
+                    "Pioglitazon"
+                ],
+                "language": "nl",
+                "question": "Beantwoord onderstaande meerkeuzevraag . 29 . Welke is de eerste keuze behandeling van zwangerschapsdiabetes",
+                "question_length": 14,
+                "score": 0.9734012678309499
+            },
+            {
+                "answer": "magistraal bereiden",
+                "answer_length": 2,
+                "distractors": [
+                    "bewaren in gifkast",
+                    "speciaal registreren",
+                    "verdovingsbon gebruiken bij bestelling"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Geneesmiddelen tegen ADHD zoals Rilatine behoren tot de groep van de slaap- en verdovende middelen . Welk van onderstaande bijzondere acties voor deze geneesmiddelen is niet verplicht ?",
+                "question_length": 35,
+                "score": 0.8556139487171961
+            },
+            {
+                "answer": "Keuze 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Keuze 2",
+                    "Keuze 3",
+                    "Keuze 4"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste antwoorden aan Welke geneesmiddelensoorten vallen onder de High Risk Medicatie ?",
+                "question_length": 14,
+                "score": 0.816471937728383
+            },
+            {
+                "answer": "hepatitis",
+                "answer_length": 1,
+                "distractors": [
+                    "psoriasis",
+                    "diabetes mellitus"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Welke van de onderstaande aandoeningen kan worden overgebracht als gevolg van slechte hygienische maatregelen ?",
+                "question_length": 21,
+                "score": 0.7997985031860867
+            },
+            {
+                "answer": "morning-afterpil",
+                "answer_length": 1,
+                "distractors": [
+                    "minipil",
+                    "vrouwencondoom",
+                    "nuvaring"
+                ],
+                "language": "nl",
+                "question": "Welke methode is potentieel-abortief ?",
+                "question_length": 5,
+                "score": 0.7829144296649048
+            },
+            {
+                "answer": "een geplande hospitalisatie",
+                "answer_length": 3,
+                "distractors": [
+                    "zwangerschap",
+                    "overlijden"
+                ],
+                "language": "nl",
+                "question": "Welke van onderstaande verschijnselen is geen te melden nevenwerking ?",
+                "question_length": 10,
+                "score": 0.7182904722342154
+            },
+            {
+                "answer": "daflgan",
+                "answer_length": 1,
+                "distractors": [
+                    "asperinge 2",
+                    "Keuze 3"
+                ],
+                "language": "nl",
+                "question": "Wat is de meest gebruikte pijnstiller in Belgische zorginstellingen Kies het juiste antwoord",
+                "question_length": 13,
+                "score": 0.7046368335597746
+            },
+            {
+                "answer": "braken en diarree",
+                "answer_length": 3,
+                "distractors": [
+                    "huiduitslag",
+                    "longinfectie",
+                    "hersenvliesontsteking"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk symptoom zullen de kinderen die opgenomen zijn in het ziekenhuis vertonen ?",
+                "question_length": 20,
+                "score": 0.7045657886351764
+            },
+            {
+                "answer": "Onaanvaardbaar risico",
+                "answer_length": 2,
+                "distractors": [
+                    "Aanvaardbaar risico",
+                    "Gematigd risico"
+                ],
+                "language": "nl",
+                "question": "Welk soort risico zie je op de tekening ?",
+                "question_length": 9,
+                "score": 0.703460123115591
+            },
+            {
+                "answer": "Motilium",
+                "answer_length": 1,
+                "distractors": [
+                    "Ibuprofen",
+                    "Forlax"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Je vindt het antwoord in een van de bijsluiters . Oma is misselijk en heeft last van buikklachten . Welk medicijn kan zij nemen ?",
+                "question_length": 31,
+                "score": 0.696595848411373
+            }
+        ]
+    }
+}

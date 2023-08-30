@@ -1,0 +1,128 @@
+{
+    "qid": "0f083942-3ca6-426d-a008-2152a065104e",
+    "response": {
+        "Query": "Welk kenmerk was er zo typisch voor die eerste mensensoort?",
+        "Result": [
+            {
+                "answer": "bredere schouders",
+                "answer_length": 2,
+                "distractors": [
+                    "vetlaag op de dijen",
+                    "breder bekken",
+                    "groot tepelveld"
+                ],
+                "language": "nl",
+                "question": "Wat is een typisch mannelijk kenmerk ?",
+                "question_length": 7,
+                "score": 0.9654447024804956
+            },
+            {
+                "answer": "le meurtre du geant Ymir",
+                "answer_length": 5,
+                "distractors": [
+                    "la conquete de territoires vierges"
+                ],
+                "language": "fr",
+                "question": "Dans la mythologie scandinave , quelle action du dieu de la Guerre et du Savoir Odin permit l'apparition du monde des hommes ?",
+                "question_length": 23,
+                "score": 0.9096728173233943
+            },
+            {
+                "answer": "ABN",
+                "answer_length": 1,
+                "distractors": [
+                    "ANS",
+                    "ANN"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Hoe werd het AN vroeger genoemd ?",
+                "question_length": 13,
+                "score": 0.9056719255967504
+            },
+            {
+                "answer": "ontwikkelingsstoornis",
+                "answer_length": 1,
+                "distractors": [
+                    "onwikkelingstoornis"
+                ],
+                "language": "nl",
+                "question": "Welke schrijfwijze is correct ? In dit naslagwerk staat informatie over kinderen met een ...",
+                "question_length": 15,
+                "score": 0.8839756611553995
+            },
+            {
+                "answer": "Isolator",
+                "answer_length": 1,
+                "distractors": [
+                    "Geleider"
+                ],
+                "language": "nl",
+                "question": "Is dit materiaal een geleider of isolator voor de elektrische stroom ?",
+                "question_length": 12,
+                "score": 0.8818805124867023
+            },
+            {
+                "answer": "AA en AO",
+                "answer_length": 3,
+                "distractors": [
+                    "AA",
+                    "AA en AB",
+                    "AA en ABO"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Imala heeft bloedgroep A. Welk ( e ) genotype ( s ) kan zij hebben ?",
+                "question_length": 23,
+                "score": 0.871184227170944
+            },
+            {
+                "answer": "Homo heidelbergensis",
+                "answer_length": 2,
+                "distractors": [
+                    "Homo erectus",
+                    "Homo neaderthalensis",
+                    "geen van bovenstaande"
+                ],
+                "language": "nl",
+                "question": "De Homo sapiens is vermoedelijk heel geleidelijk geevolueerd uit de ( geen giscorrectie )",
+                "question_length": 14,
+                "score": 0.8639790444842647
+            },
+            {
+                "answer": "een periodieke spijbelaar",
+                "answer_length": 3,
+                "distractors": [
+                    "een occasionele spijbelaar",
+                    "een berekende spijbelaar",
+                    "een vakantiespijbelaar"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees onderstaand tekstje over verschillende soorten spijbelaars . Welk soort spijbelaar was Jeroen ?",
+                "question_length": 21,
+                "score": 0.858531991729925
+            },
+            {
+                "answer": "de lichaampjes van Malpighi",
+                "answer_length": 4,
+                "distractors": [
+                    "de nierbekkens",
+                    "de urineblaas"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord , er is maar een antwoord mogelijk . Voorurine wordt bij de mens gevormd in",
+                "question_length": 19,
+                "score": 0.8516262122113216
+            },
+            {
+                "answer": "het is een gezond mannetje",
+                "answer_length": 5,
+                "distractors": [
+                    "het is een gezond vrouwtje"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Een hond bezit 78 chromosomen in elke cel . Onderstaande figuur toont het karyogram van een hond . Is het een mannetje of een vrouwtje ? Bekijk dit met symbool vergrootglas . Is dit een gezonde hond of is er een genoommutatie zichtbaar ?",
+                "question_length": 51,
+                "score": 0.8494874341802344
+            }
+        ]
+    }
+}

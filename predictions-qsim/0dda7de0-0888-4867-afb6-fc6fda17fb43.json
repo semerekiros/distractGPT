@@ -1,0 +1,135 @@
+{
+    "qid": "0dda7de0-0888-4867-afb6-fc6fda17fb43",
+    "response": {
+        "Query": "Cochez la bonne forme du futur simple . Vous ... le train a Nice ou a Cannes ?",
+        "Result": [
+            {
+                "answer": "prendrez",
+                "answer_length": 1,
+                "distractors": [
+                    "prendrai",
+                    "prendra",
+                    "prendras"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne forme du futur simple . Vous ... le train a Nice ou a Cannes ?",
+                "question_length": 18,
+                "score": 0.6880484999230955
+            },
+            {
+                "answer": "suivrons",
+                "answer_length": 1,
+                "distractors": [
+                    "suivront",
+                    "suivras",
+                    "suivrai"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne forme du futur simple . Nous ... des cours pour apprendre a conduire une voiture .",
+                "question_length": 19,
+                "score": 0.6579370985237583
+            },
+            {
+                "answer": "attendons",
+                "answer_length": 1,
+                "distractors": [
+                    "perdons",
+                    "rendons"
+                ],
+                "language": "nl",
+                "question": "Coche le bon verbe . Kruis het juiste werkwoord aan . Nous ... le bus .",
+                "question_length": 16,
+                "score": 0.5771763562209647
+            },
+            {
+                "answer": "partirions",
+                "answer_length": 1,
+                "distractors": [
+                    "partirais",
+                    "partiraient",
+                    "partiriez"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne forme du conditionnel present . Nous ... en vacances en Thailande . Et vous ?",
+                "question_length": 18,
+                "score": 0.5374477361036178
+            },
+            {
+                "answer": "feriez",
+                "answer_length": 1,
+                "distractors": [
+                    "ferions",
+                    "ferait",
+                    "ferais"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne forme du conditionnel present . Vous ... quoi a ma place ?",
+                "question_length": 15,
+                "score": 0.5312904143920031
+            },
+            {
+                "answer": "sommes alles",
+                "answer_length": 2,
+                "distractors": [
+                    "etes alles",
+                    "suis allee",
+                    "sont alles"
+                ],
+                "language": "fr",
+                "question": "Cochez la bonne forme . L'annee passee , nous ... au zoo d'Anvers .",
+                "question_length": 14,
+                "score": 0.5056166549235506
+            },
+            {
+                "answer": "rendez",
+                "answer_length": 1,
+                "distractors": [
+                    "rend",
+                    "rendons"
+                ],
+                "language": "fr",
+                "question": "Vous ... les tests , Madame ?",
+                "question_length": 7,
+                "score": 0.49804535646970877
+            },
+            {
+                "answer": "preferons",
+                "answer_length": 1,
+                "distractors": [
+                    "repetons",
+                    "prefere"
+                ],
+                "language": "fr",
+                "question": "Indiquez la forme correcte . Les chats et les chiens : ce sont les animaux que nous ...",
+                "question_length": 18,
+                "score": 0.4970725097138518
+            },
+            {
+                "answer": "attendons",
+                "answer_length": 1,
+                "distractors": [
+                    "entendons",
+                    "defendons"
+                ],
+                "language": "fr",
+                "question": "Cochez le bon verbe . Nous ... le bus devant la poste ?",
+                "question_length": 13,
+                "score": 0.4940225606300128
+            },
+            {
+                "answer": "savent",
+                "answer_length": 1,
+                "distractors": [
+                    "sait",
+                    "sauront",
+                    "savons",
+                    "ont su"
+                ],
+                "language": "fr",
+                "question": "Indique la bonne reponse . savoir ( indicatif present / ils )",
+                "question_length": 12,
+                "score": 0.4857485717720546
+            }
+        ]
+    }
+}

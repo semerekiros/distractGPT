@@ -1,0 +1,5 @@
+{
+    "qid": "8106801e-0883-4b36-8c34-8f9da9feba18",
+    "input": "Personne n'________________ reserve cette chambre d'hotel . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. aurait\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. aurais\n2. autant\n3. aurait\n4. auraient\n5. etais\n6. allai\n7. allais\n8. allains\n9. avait\n10. avais"
+}

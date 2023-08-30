@@ -1,0 +1,5 @@
+{
+    "qid": "878c87ab-388a-4670-841e-08f015570ae3",
+    "input": "question: Ajoute la bonne personne au verbe boire . ... buvez du cafe ?\nr\u00e9pondre: Vous\nr\u00e9ponses incorrectes: \n1. Nous\n\nquestion: Choisis la bonne forme . ... beau cadeau\nr\u00e9pondre: ton\nr\u00e9ponses incorrectes: \n1. ta\n\nquestion: Choisis la bonne reponse . J'ai vendu la voiture ... j'ai achetee l'annee passee .\nr\u00e9pondre: que\nr\u00e9ponses incorrectes: \n1. qui\n\nquestion: Choisis l'article correct . ... anniversaires\nr\u00e9pondre: les\nr\u00e9ponses incorrectes: \n1. le\n2. la\n3. l '\n\nquestion: Ajoute la bonne personne au verbe boire . ... buvez des Ice Tea !\nr\u00e9pondre: Vous\nr\u00e9ponses incorrectes: \n1. Nous\n\nquestion: : Choisis la bonne forme . ... beau cadeau\nr\u00e9pondre: : ton\nG\u00e9n\u00e9rez 20 r\u00e9ponses incorrectes: ",
+    "response": "1. son\n2. sa\n3. leurs\n4. notre\n5. votre\n6. mes\n7. ses\n8. leurs\n9. nos\n10. vos\n11. leur\n12. ma\n13. ta\n14. un\n15. une\n16. des\n17. le\n18. la\n19. l'\n20. ces"
+}

@@ -1,0 +1,134 @@
+{
+    "qid": "abfb2d71-1642-456f-a80b-29ce3b1db032",
+    "response": {
+        "Query": "Choose the right word . There is a lot of ... .. on this line .",
+        "Result": [
+            {
+                "answer": "interference",
+                "answer_length": 1,
+                "distractors": [
+                    "problems",
+                    "disturbance",
+                    "noises"
+                ],
+                "language": "en",
+                "question": "Choose the right word . There is a lot of ... .. on this line .",
+                "question_length": 16,
+                "score": 0.6371558251676063
+            },
+            {
+                "answer": "interference",
+                "answer_length": 1,
+                "distractors": [
+                    "problems",
+                    "disturbance",
+                    "noises"
+                ],
+                "language": "en",
+                "question": "Choose the right word . There is a lot of __________ on this line .",
+                "question_length": 15,
+                "score": 0.4592813452617451
+            },
+            {
+                "answer": "margin",
+                "answer_length": 1,
+                "distractors": [
+                    "forecast",
+                    "motive",
+                    "squeeze"
+                ],
+                "language": "en",
+                "question": "Choose the correct word . A profit ... is the difference between how much money you get when you sell something and how much it costs you to buy or make it .",
+                "question_length": 33,
+                "score": 0.42418154666920116
+            },
+            {
+                "answer": "an abundance of",
+                "answer_length": 3,
+                "distractors": [
+                    "abundance of",
+                    "abundance",
+                    "the abundance of"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence : There 's _______________ young , talented musicians in Nashville , Tennessee .",
+                "question_length": 17,
+                "score": 0.3193462825844596
+            },
+            {
+                "answer": "glass",
+                "answer_length": 1,
+                "distractors": [
+                    "brick",
+                    "golden"
+                ],
+                "language": "en",
+                "question": "Complete with the right idiom ( Ellen Johnson ) We have shattered the ... ceiling theory , and I hope women will seize the moment to become active in civil and political affairs .",
+                "question_length": 34,
+                "score": 0.3080185343025206
+            },
+            {
+                "answer": "to commercialize",
+                "answer_length": 2,
+                "distractors": [
+                    "to sell",
+                    "to purchase"
+                ],
+                "language": "en",
+                "question": "the BEST synonym for 'to market ' is ...",
+                "question_length": 9,
+                "score": 0.2930209402168075
+            },
+            {
+                "answer": "brands",
+                "answer_length": 1,
+                "distractors": [
+                    "goods",
+                    "products",
+                    "stickers"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence ( Libby Gomersall ) Counterfeit clothes , shoes and handbags from designer ... such as Louis Vuitton , Chanel and Gucci are made in varying quality .",
+                "question_length": 31,
+                "score": 0.23097678510685243
+            },
+            {
+                "answer": "import",
+                "answer_length": 1,
+                "distractors": [
+                    "impress",
+                    "imagine",
+                    "illusion"
+                ],
+                "language": "en",
+                "question": "Choose the opposite of the word in bold . Belgium has to export many types of fruit .",
+                "question_length": 18,
+                "score": 0.20595727365293023
+            },
+            {
+                "answer": "jump on the bandwagon",
+                "answer_length": 4,
+                "distractors": [
+                    "hop on the bean",
+                    "join the bank"
+                ],
+                "language": "en",
+                "question": "Complete with the right idiom When organic food became popular , certain stores were quick to ... and promote it .",
+                "question_length": 21,
+                "score": 0.19617225358160365
+            },
+            {
+                "answer": "calls",
+                "answer_length": 1,
+                "distractors": [
+                    "business",
+                    "deals"
+                ],
+                "language": "en",
+                "question": "Complete with the right idiom ( Brian DiMartino ) Any time that you 're making cold ... or making sales , you 're going to call 100 people , and if you get one good result you 're happy . It 's a numbers thing . \u201d",
+                "question_length": 47,
+                "score": 0.18259802033973388
+            }
+        ]
+    }
+}

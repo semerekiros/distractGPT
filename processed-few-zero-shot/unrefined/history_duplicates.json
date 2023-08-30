@@ -1,0 +1,2819 @@
+{
+    "0": {
+        "Ramses II": [
+            "68ba7f81-6e8b-479f-be4e-03297733633d",
+            "0bfcfdae-fabb-4704-814d-7ec02d266e5d"
+        ],
+        "Toetanchamon": [
+            "b6e15679-409d-4886-93c3-39f93708d635"
+        ],
+        "Cleopatra": [
+            "cf7142ae-fae7-4cf4-9164-33d549dc6ea3"
+        ],
+        "Hatsjepsoet": [
+            "fcce03f3-9263-453c-9165-41b049788638",
+            "e32bc99a-1ad2-43e7-b769-78245a70d93d"
+        ],
+        "Amenhotep III": [
+            "4fadb63e-1167-432e-b9d5-6b4a045944d0",
+            "c2f3d800-93a6-421f-9d44-4c873343822c"
+        ],
+        "Cheops": [
+            "e156e099-7705-456f-8d81-4c36740ab45a"
+        ],
+        "Sethi I": [
+            "ac34b2cb-5b39-4b2a-bb18-ad491a12ced6"
+        ],
+        "Akhenaten": [
+            "c4e6ce87-1f20-4f8e-ad57-8eb9aebd6ac0"
+        ],
+        "Merneith": [
+            "9939ff2f-0b76-4f29-aac5-079bc86cb471"
+        ],
+        "Thoetmosis III": [
+            "d63c88d4-d7ef-40ae-879c-5cc383664004",
+            "0b1a1074-2064-4d8b-b520-80dc9e98f0eb"
+        ],
+        "Cleopatra VII": [
+            "a4febae1-93ee-4504-9516-5ae34504c06c"
+        ],
+        "Amenemhat I": [
+            "a7c454f2-2aaf-48ad-8333-d978476e100e"
+        ],
+        "Khufu": [
+            "b64375be-c2a4-4d6b-bbc5-2907ef5b4ce3"
+        ],
+        "Pepi II": [
+            "3f7ee64d-ca75-447a-a98a-f4b5713b59ce"
+        ],
+        "Sesostris I": [
+            "fc1fac69-2fd9-47c5-8477-a087f0622877"
+        ],
+        "Tutankhamun": [
+            "fa2adda3-c2b2-4b61-a6e2-62b66720f556"
+        ]
+    },
+    "1": {
+        "De Gele Nijl": [
+            "c8e62e76-8999-4da2-a026-e4112d9bfd87",
+            "5100a4c3-eba7-4e8f-a3ab-52505ad52730"
+        ],
+        "De Rode Nijl": [
+            "de71913a-7c2d-42b1-878a-4549181c092d"
+        ],
+        "De Zwarte Nijl": [
+            "b6c951d2-5224-42b2-9bc9-2e27468a55c8",
+            "36a602e8-61b8-49f1-9aad-a45deb8380ea"
+        ],
+        "De Groene Nijl": [
+            "f38643ab-64ce-4c25-8347-46736e9a5f18",
+            "12500489-48e8-4ac8-93cc-f3498b388dcd"
+        ],
+        "De Gouden Nijl": [
+            "55a196d2-9c44-4184-9ab6-2de827aa7a0d",
+            "71fd8766-7ca4-409e-a3a6-442adf5f4a85"
+        ],
+        "De Zilveren Nijl": [
+            "0ddf1a37-1939-45b9-a322-82866420f808",
+            "84ec3798-e12d-41b4-9e40-8fe2b12f3365"
+        ],
+        "De Bronzen Nijl": [
+            "1d044a60-4658-40a2-9c3b-36952b4b8707"
+        ],
+        "De Diamanten Nijl": [
+            "7bb6f4f1-886e-4291-ad3d-335136949270"
+        ],
+        "De Smaragden Nijl": [
+            "2b07e864-ceb8-456a-9e12-a133fedf6adc"
+        ],
+        "De Saffieren Nijl": [
+            "51ac4090-f203-4568-8947-d30c6f302ae9"
+        ],
+        "De Rode Zee": [
+            "3383ccd1-462f-40ea-8e46-71ba7d7ca387"
+        ],
+        "De Oranje Nijl": [
+            "de52cc65-8fde-408f-8bde-355dcdfd968a"
+        ],
+        "De Paarse Nijl": [
+            "7c138fa5-a2c9-4d1b-8170-ad3f9d92f3f4"
+        ],
+        "De Roze Nijl": [
+            "7fd6d8d0-9b6d-4c6c-bba9-6272ef20d483"
+        ],
+        "De Bruine Nijl": [
+            "4909a2a4-7b0f-49bd-8a7b-4fa94b04054c"
+        ]
+    },
+    "2": {
+        "Neanderthaler": [
+            "36cdb107-d6b9-40ee-a1bd-61300e91b525"
+        ],
+        "Australopithecus": [
+            "ba11d17d-e315-4d1a-a36d-6c1efb423327"
+        ],
+        "Homo erectus": [
+            "37dab800-43bc-42cf-9c9e-3c0ee8e71e7e"
+        ],
+        "Homo sapiens": [
+            "15cd3766-4582-41c5-b9f4-447ea3a384c0"
+        ],
+        "Homo neanderthalensis": [
+            "2b8c9f5a-68e4-43f4-86be-a6ac8b69d9f8"
+        ],
+        "Cro-Magnon mens": [
+            "8c0d2ff4-aa27-4845-ba39-d3a250648c51"
+        ],
+        "Homo heidelbergensis": [
+            "93af8e4b-adb6-4f9a-853c-39e21e3c93e9"
+        ],
+        "Denisovamens": [
+            "f784084f-f7bc-40a0-9d1c-d2faed3ce326"
+        ],
+        "Homo naledi": [
+            "c4268c76-7c7b-44c4-a7e9-5635920bc0c6"
+        ],
+        "Javaanse mens": [
+            "9750695b-b6fc-4aa6-8636-c5748528681c"
+        ],
+        "Australopithecus hamburgensis": [
+            "d8987b1d-ffb3-4cac-9a5f-385a3cbee8ff"
+        ],
+        "Neanderthalensis erectus": [
+            "038c18e7-fac0-4e73-926f-9a8b334f05e0"
+        ],
+        "Homo ignoramus": [
+            "64c75e79-f48f-4946-86d2-f5519e340e50"
+        ],
+        "Cro-Magnon sapiens": [
+            "571703fb-a2ad-4ea2-aa62-cef8109c633b"
+        ],
+        "Homo neanderthalis": [
+            "08229382-8408-4944-9bc8-c2e4d1a695e0"
+        ],
+        "Homo gigantis": [
+            "ebb5a863-2a22-404b-b17c-5d572ba775be"
+        ],
+        "Homo superior": [
+            "2837f81f-ad6a-4322-8f78-20c3030a446e"
+        ],
+        "Homo faber": [
+            "075ea403-800e-43a2-a717-cfae943b3ef2"
+        ],
+        "Homo robustus": [
+            "2818ebe9-5ca4-4de1-b4e4-201113d4d23b"
+        ],
+        "Homo balansae": [
+            "bf580ab9-d3f9-4d34-8c82-034531072c1e"
+        ]
+    },
+    "3": {
+        "Het gebit van de Homo sapiens toont aan dat we alleen maar vlees aten.": [
+            "1e693995-c84b-4b17-b736-dbdb45b36fb6"
+        ],
+        "Het gebit van de Homo sapiens laat zien dat we alleen maar plantaardig voedsel aten.": [
+            "74a6c469-de9b-465c-bb12-822987d5f0ec"
+        ],
+        "Het gebit van de Homo sapiens duidt erop dat we alleen maar zuivelproducten aten.": [
+            "4a745e5b-9c54-449a-b2c3-eafbe661bf5f"
+        ],
+        "Het gebit van de Homo sapiens toont aan dat we alleen maar vis aten.": [
+            "3e78770b-fcbf-4970-b851-e0a77c52f869"
+        ],
+        "Het gebit van de Homo sapiens wijst erop dat we alleen maar noten en zaden aten.": [
+            "50daf1b3-e532-45e3-9980-bd6211cd7006"
+        ],
+        "Het gebit van de Homo sapiens laat zien dat we alleen maar fruit aten.": [
+            "f881fdd0-32d1-47d1-8588-877f307790b1"
+        ],
+        "Het gebit van de Homo sapiens duidt erop dat we alleen maar eieren aten.": [
+            "d8c1bf9e-d769-43d5-aec3-b078ed1401ca"
+        ],
+        "Het gebit van de Homo sapiens toont aan dat we alleen maar honing aten.": [
+            "cd1713cc-3cb0-4b24-b68b-495217b8ec63"
+        ],
+        "Het gebit van de Homo sapiens wijst erop dat we alleen maar insecten aten.": [
+            "9e223d4c-b299-42bb-aa17-5ca28dd67aa6"
+        ],
+        "Het gebit van de Homo sapiens laat zien dat we alleen maar knollen en wortels aten.": [
+            "95034108-0270-465b-a940-71f22a9a0a22"
+        ],
+        "Het gebit van Homo sapiens suggereert dat we alleen vlees aten.": [
+            "293f0557-858b-4f61-82f2-2d961958ba5e"
+        ],
+        "Ons gebit laat zien dat we alleen rauw voedsel aten.": [
+            "54ac4c89-7cb5-4509-b9d6-75f561d42d2c"
+        ],
+        "We aten alleen fruit en noten op basis van ons gebit.": [
+            "e1a643ea-d3f2-4e82-a237-4c123032e228"
+        ],
+        "Onze tanden geven aan dat we voornamelijk zand en klei aten.": [
+            "8abea8f2-3d92-48d6-97ab-6a9cef183d36"
+        ],
+        "Het gebit van de Homo sapiens suggereert dat we alleen vis aten.": [
+            "5ca47475-ec92-4bc3-93c9-6e17a42285f9"
+        ],
+        "We aten alleen vlees van zeer grote dieren vanwege de grootte van onze tanden.": [
+            "540302e4-7eac-4e13-9da0-af0400dfb094"
+        ],
+        "Het gebit van de Homo sapiens duidt erop dat we alleen zachte voedingsmiddelen aten.": [
+            "8c2ca79a-9aa5-4c8f-a2b8-a026fe4d9655"
+        ],
+        "Onze tanden suggereren dat we alleen insecten aten.": [
+            "6e3f19f7-4b4e-403e-bca6-d3c14c51201d"
+        ],
+        "We aten alleen voedsel dat volledig vloeibaar was vanwege ons gebit.": [
+            "aca8cb19-0398-40fc-ac59-46992abbf155"
+        ],
+        "Ons gebit suggereert dat we alleen wortelgewassen aten.": [
+            "bd799b35-3f08-4f41-9582-d842cbbd0ef2"
+        ]
+    },
+    "4": {
+        "goud": [
+            "8bfef97b-a677-451b-845a-f24ec2249cd1"
+        ],
+        "edelstenen": [
+            "5ad7d596-bc0e-46a5-8738-2177926e0f81"
+        ],
+        "zilver": [
+            "62aaf1da-ebcc-4a49-8914-2c7b18fcc149"
+        ],
+        "lood": [
+            "a3d81d67-0625-4bda-a57f-6fb9c0c20cee"
+        ],
+        "koper": [
+            "e546972a-d8d8-42a0-922b-2214f068faee"
+        ],
+        "ijzer": [
+            "9f696354-1091-4113-868b-5a9a1b4fd4d2"
+        ],
+        "brons": [
+            "f4ab65aa-4621-4183-b278-b15006570f33"
+        ],
+        "tin": [
+            "ca1e70d0-116d-4795-8b38-98e48f664a7f"
+        ],
+        "platina": [
+            "7ccdfb14-e003-4dca-a771-147aa3ed109f"
+        ],
+        "uranium": [
+            "5ae816e0-b5c9-4d6d-80fd-af7ffb9b7bf3"
+        ],
+        "Luchtballonnen": [
+            "53a0571f-aedb-46b5-b6b5-49e79ad9108e"
+        ],
+        "Zilveren munten": [
+            "0eb8b9f1-1f4a-49ec-a2dd-e02828e0d530"
+        ],
+        "Dansschoenen": [
+            "3506080e-353d-4fa5-8e67-cef2299c8174"
+        ],
+        "Diamanten": [
+            "d0271eae-bf22-4db2-9d64-6e5146573235"
+        ],
+        "Boeken": [
+            "8667392a-dc8e-46d4-b153-2a631d82de89"
+        ],
+        "Bananen": [
+            "05473c09-239c-4bb5-93e5-9d860366c8d1"
+        ],
+        "Veren": [
+            "7e0c6ae5-7567-47c8-871e-1c886df612d9"
+        ],
+        "Goudstaven": [
+            "88e969c2-0b79-4e63-af56-e41698b63d0e"
+        ],
+        "Zwembandjes": [
+            "7bee494a-d21b-4d6f-93b4-ae225a216f7f"
+        ],
+        "Bloempotten": [
+            "4ba63149-c386-4d57-b9a2-972cd8021b7e"
+        ]
+    },
+    "5": {
+        "2150 v.C.-1550 v.C.": [
+            "f1b2c91a-d3ff-40b3-acc1-7867ca065f6e"
+        ],
+        "1550 v.C.-1070 v.C.": [
+            "33e25964-4458-40e5-9b8c-4e84b9a090b6"
+        ],
+        "1070 v.C.-332 v.C.": [
+            "a019b281-edd1-4035-a85e-ba0701f025e8"
+        ],
+        "332 v.C.-30 v.C.": [
+            "1e0cf421-1a44-4981-b32b-d3a56bfad720"
+        ],
+        "30 v.C.-641 n.C.": [
+            "16752495-e6d2-4313-b85b-d7195ad8c9b9"
+        ],
+        "641 n.C.-969 n.C.": [
+            "8eeaeb7c-e242-4986-be64-f6d43afbc59f"
+        ],
+        "969 n.C.-1171 n.C.": [
+            "0668dedf-8518-4b70-b4b7-35efcd386a12"
+        ],
+        "1171 n.C.-1341 n.C.": [
+            "24a854a8-8fc0-4920-b9d7-bd1b236fd587"
+        ],
+        "1341 n.C.-1570 n.C.": [
+            "8f03790f-9d24-4ed8-8589-7e05cef901bf"
+        ],
+        "1570 n.C.-1680 n.C.": [
+            "86f08a59-1bfa-482f-8db9-693a5ae8a4b2"
+        ],
+        "2500 n.C.-2900 n.C.": [
+            "62431e78-1d84-46f8-a6d5-ed23a04aa31b"
+        ],
+        "400 v.C.-600 v.C.": [
+            "f0b6dfc0-2d20-4664-a371-94aef39b364b"
+        ],
+        "1100 n.C.-1200 n.C.": [
+            "ea6b16d6-8f6a-4d6f-a118-44951bcddc54"
+        ],
+        "500 v.C.-700 v.C.": [
+            "f55fb776-6d3f-46fa-8599-a0df5bd60f98"
+        ],
+        "1000 v.C.-1500 v.C.": [
+            "252a0f84-4896-4f3f-8e87-535f54899d85"
+        ],
+        "2000 n.C.-2100 n.C.": [
+            "5b4fdd9d-829b-4705-852f-f9549f7bffe2"
+        ],
+        "1500 v.C.-1600 v.C.": [
+            "d0acc2b4-0b43-4b38-80cd-ae1ba768f513"
+        ],
+        "300 n.C.-500 n.C.": [
+            "f75d73d2-9c9d-40ea-8ae7-99b9631bf0f4"
+        ],
+        "2200 v.C.-2300 v.C.": [
+            "37f66e78-a41e-4afc-b9de-66a387f5fdd9"
+        ],
+        "800 n.C.-900 n.C.": [
+            "93435f88-8170-4264-a04a-9c31ce51a0dd"
+        ]
+    },
+    "6": {
+        "Door te stelen": [
+            "f3ac837b-de1f-4036-8a15-9dacce2184fe"
+        ],
+        "Door te lenen": [
+            "277dd559-f142-4560-a750-939465408605"
+        ],
+        "Door te plunderen": [
+            "a6b15b86-58b5-4a4a-bb84-75873fae3995"
+        ],
+        "Door te bedelen": [
+            "b1a88bb0-e67b-42cd-be34-09608446f147"
+        ],
+        "Door te offeren": [
+            "f7e05b48-f9ae-4b06-bd86-98ade884e402"
+        ],
+        "Door te smokkelen": [
+            "97e41be5-b056-4a30-98a3-299e3718aebf"
+        ],
+        "Door te bedriegen": [
+            "9772db3a-ae13-4422-ae61-25efb04d5bfd"
+        ],
+        "Door te doneren": [
+            "a29daf58-796e-4239-bfaa-eff8e02e17ca"
+        ],
+        "Door te verhandelen met geld": [
+            "759d6b6d-d5d7-42cb-b43d-fcc63870676d"
+        ],
+        "Door te vechten": [
+            "a7553bd7-e1da-4a96-a330-1ec441f1dc26"
+        ],
+        "Door te gooien met stenen en degene die het verste gooide mocht het product houden.": [
+            "2ea9b308-a729-4d86-a8ce-ed9c5cae51ea"
+        ],
+        "Door te dansen en degene met de beste dansmoves kreeg het product.": [
+            "80ce39c1-95b8-4b6c-a78f-db83c49f580f"
+        ],
+        "Door te zingen en degene met de beste stem kreeg het product.": [
+            "2aace71a-74e9-4ede-87d4-79b6b4b5223c"
+        ],
+        "Door te vechten en degene die won mocht het product houden.": [
+            "bb8cd50a-f26b-46b0-a2db-dda99aa2547b"
+        ],
+        "Door te raden hoeveel vingers iemand opstak en bij een correct antwoord kreeg men het product.": [
+            "d13b2b07-9cd0-4eb9-924e-44efd8af74e5"
+        ],
+        "Door te gokken en degene met de beste kaarten kreeg het product.": [
+            "67bf49ee-658c-430e-ac1e-45b16cb85999"
+        ],
+        "Door te zwemmen en degene die als eerste de overkant bereikte kreeg het product.": [
+            "0c29995e-538d-4585-9bca-a5b2b9572852"
+        ],
+        "Door te schreeuwen en degene met de luidste stem kreeg het product.": [
+            "39ea0d22-b4d4-45bf-85bc-4d7ea7491a32"
+        ],
+        "Door te dansen op een been en degene die het langst op \u00e9\u00e9n been kon blijven staan kreeg het product.": [
+            "3ae48e68-b0a2-416b-b096-6c2287f46255"
+        ],
+        "Door te zwaaien met een vlag en degene die het snelst kon zwaaien kreeg het product.": [
+            "7d6192ad-deba-4dd8-912a-2e68404d1257"
+        ]
+    },
+    "7": {
+        "Consumenten": [
+            "146692c4-4873-4821-bd3a-2cd326ba86a6"
+        ],
+        "Boeren": [
+            "daab2497-09b3-45ce-b38e-ca32c25ea7a2"
+        ],
+        "Politici": [
+            "55ee85a6-b369-4bf7-8095-aad2e065ac76"
+        ],
+        "Kinderen": [
+            "5a3e4534-b37a-4833-9895-c7cfa5069472"
+        ],
+        "Bankiers": [
+            "ad5ed3e4-e986-430c-aacb-848a41380ea3"
+        ],
+        "Kunstenaars": [
+            "ef9db183-807a-4495-89f1-1bd32220eb45"
+        ],
+        "Ingenieurs": [
+            "ea1f39df-031b-4208-ae86-4990f23bc7c8"
+        ],
+        "Advocaten": [
+            "f3644644-7cfd-482d-9823-38918aa6cce3"
+        ],
+        "Huisdieren": [
+            "beac5d08-ac99-4abe-ab5f-eb304f78a216"
+        ],
+        "Verpleegsters": [
+            "194334e8-6508-4d2d-9dec-988653843b1a"
+        ],
+        "Zeer slimme apen met een talent voor ruilen": [
+            "5c047336-2e43-469b-b934-a335f92b2891"
+        ],
+        "De kabouters uit sprookjesverhalen": [
+            "007066a9-232c-4e8e-a30c-70146e8a67a5"
+        ],
+        "Aliens met geavanceerde ruiltechnologie": [
+            "ebc747b0-6cca-47bf-9fe5-5555866c67d6"
+        ],
+        "Superhelden met de kracht van ruilhandel": [
+            "1ae037f0-85e6-4594-8fdc-7f6d4d213e1c"
+        ],
+        "Een geheim genootschap van ruilmeesters": [
+            "6e7162f8-8f62-4b19-90d9-7491735c6721"
+        ],
+        "Tovenaars met een gave voor het verwisselen van objecten": [
+            "db26c0ec-f048-4ac6-93ea-deb266697baa"
+        ],
+        "Een buitenaardse markt met buitengewone deals": [
+            "a657ba2f-bddb-40a3-acac-9771da77cd96"
+        ],
+        "Een magische spreuk voor ruilvoordeel": [
+            "016257bb-9770-4f5d-a39d-8bdc2fe57ace"
+        ],
+        "Een algoritme dat de beste ruil bepaalt": [
+            "6340f30a-1dd2-41b5-8e71-6648faa70b3d"
+        ],
+        "Een team van onderhandelingsexperts": [
+            "aacd691b-fe51-4e43-a699-f046f96d24db"
+        ]
+    },
+    "8": {
+        "Grieken": [
+            "b98c66bc-a2d0-4d5e-b4e8-adddb43d3d08",
+            "3eb41d42-7813-4c07-80f9-2394eb055d13"
+        ],
+        "Vikingen": [
+            "b3aaf68b-5856-4f91-b6c6-333eb5d868f7"
+        ],
+        "Chinezen": [
+            "8425b95d-9fe4-4097-9fe8-e60ece227289"
+        ],
+        "Perzen": [
+            "d6de595d-2259-4bcc-979d-534b4e40807a",
+            "ba9f3c89-4bc4-45eb-b913-b76cd9488db2"
+        ],
+        "Kelten": [
+            "2ecc777f-8a98-40f7-9dd2-c499b4898f4b"
+        ],
+        "Assyri\u00ebrs": [
+            "363a0a3e-0401-48bc-992c-682904ab1b28",
+            "fb298c70-0ee5-4eef-b430-b2c4bef21175"
+        ],
+        "Mongolen": [
+            "edea6c3f-7af8-465b-b921-a88d09564915",
+            "37bfb5ac-1a4b-4b82-b07c-4a8a4e169ba8"
+        ],
+        "Japanners": [
+            "4f5ffa91-6d89-47cd-a727-3f55fbeb7650"
+        ],
+        "Azteken": [
+            "b2b16474-a72b-4d7d-96d8-cc8a83084c45"
+        ],
+        "Inca's": [
+            "adbc65fc-a56b-44fb-ab65-a6a0a470ac5d"
+        ],
+        "Macedoni\u00ebrs": [
+            "b5172480-8d11-4ccf-9588-81b875aa12b5"
+        ],
+        "Fenici\u00ebrs": [
+            "d539a49b-a115-45ba-9267-636bdef7d5ef"
+        ],
+        "Babyloni\u00ebrs": [
+            "559eab12-8efa-4a56-9cd2-3d4d5aabf899"
+        ],
+        "Hettieten": [
+            "8b537db1-b0d7-4269-a692-b2230a24fdc5"
+        ],
+        "Arabieren": [
+            "573384b1-fa56-428f-931c-30163e8203e1"
+        ],
+        "Turken": [
+            "15cb5684-baf1-46b4-8599-48feb8cc6cc2"
+        ]
+    },
+    "9": {
+        "Afrika": [
+            "97123214-39cc-4e0c-94ea-4a34059cc65f",
+            "f98104f6-be71-46a9-8f81-6a9743284642"
+        ],
+        "Azie": [
+            "b784e6b1-b44c-4596-b856-ad703a7f28d6"
+        ],
+        "Noord-Amerika": [
+            "64a8ee07-8bd9-480a-9d36-37efa2a2ee35",
+            "1caf4dbe-3c8d-4dd3-b2bc-eaecc4ee52dd"
+        ],
+        "Zuid-Amerika": [
+            "0ef228e9-b13e-4826-86a7-79457dd7f4cd",
+            "50f83a01-9f4b-4828-8f30-1b115d38aad8"
+        ],
+        "Antarctica": [
+            "1af0e04f-2e0c-4ebf-9bc8-dee69ea6184d",
+            "9a6fe95f-de49-4f1a-8838-65be3fa625f4"
+        ],
+        "Australie": [
+            "07009760-7edf-4185-9fe5-d5265950d752"
+        ],
+        "Oost-Europa": [
+            "79d2c086-5470-46e2-8ef9-19dd3b50f6d8"
+        ],
+        "Midden-Oosten": [
+            "a84fa3c0-45e2-4c92-80b6-224449aebae8",
+            "dc5bfb50-6c69-4906-b717-916ee13ff3f5"
+        ],
+        "Centraal-Amerika": [
+            "9f976e44-1279-4fb4-87b4-a4bab4c1007d"
+        ],
+        "Caribisch gebied": [
+            "1feb2b6b-6a04-401f-84a4-8f54fb875b38",
+            "6ec5629f-c813-4b2c-847d-1040ae8f1220"
+        ],
+        "Azi\u00eb": [
+            "7d5d6635-9e10-4883-94d6-8804e50a9507"
+        ],
+        "Australi\u00eb": [
+            "44382457-aa38-45ad-8fa9-e18d53287db3"
+        ],
+        "Oost-Azi\u00eb": [
+            "1556591b-07ff-42ed-b36b-f7eb76ce3db8"
+        ],
+        "Zuidoost-Azi\u00eb": [
+            "44f2849b-e2d9-4b1f-a865-f22cf029d933"
+        ]
+    },
+    "10": {
+        "Isis": [
+            "8fe99c79-4fbd-4126-bbea-0df455bbc1be",
+            "84956283-c99a-49f8-871e-d2f02e9cc61a"
+        ],
+        "Ra": [
+            "2c8ae2ef-8d00-46b8-b1df-ec1607268a4e",
+            "4c35ae7f-91fa-4d49-8b88-06c69fb51096"
+        ],
+        "Anubis": [
+            "c2f77193-3478-4147-aa5e-bf08a9823d2c",
+            "875321df-26f3-4896-acd6-947359fc1416"
+        ],
+        "Osiris": [
+            "85e08543-a3d7-4103-b881-717889f0e024",
+            "f0b5129c-9a65-42c3-bb49-943c4716d915"
+        ],
+        "Thoth": [
+            "e05d2ad2-a4b7-45e2-88b0-913bbcbb0023",
+            "1da646fc-2f63-4601-84bd-efda6d40a733"
+        ],
+        "Set": [
+            "2e5bd19a-7300-4393-8a77-5353f4d6bb0b",
+            "09eb8db1-f2c5-4e97-a978-813017d519fe"
+        ],
+        "Bastet": [
+            "16477470-7668-4edb-8c5c-8867b4376a7d"
+        ],
+        "Sobek": [
+            "93f33060-745c-4a7d-8691-e46416eadeef",
+            "f7c0c82a-675f-4c6d-8028-30a398ebb676"
+        ],
+        "Sekhmet": [
+            "bf9814ee-a1d2-479d-8422-f5d972cfe302",
+            "51148dae-6c7a-4a60-87aa-f0d621ba2b9c"
+        ],
+        "Geb": [
+            "07505eca-9583-4f36-8740-209505334464"
+        ],
+        "Hathor": [
+            "c53023ef-73b0-47c2-9a30-df2b35150b7b"
+        ],
+        "Ptah": [
+            "b4eb5547-8755-4a22-a416-92fa88d284a2"
+        ]
+    },
+    "11": {
+        "\u00b110 000 v.C.": [
+            "26e0cd5a-84cf-4531-b0e5-e93889946c21",
+            "0f605e55-6c77-40b4-817f-52c1281825e6"
+        ],
+        "\u00b15 000 v.C.": [
+            "145294a2-5f51-4a8a-b72c-5ccf0de5e270",
+            "87615bba-005d-41f9-873f-69ec3d78c872"
+        ],
+        "\u00b18 000 v.C.": [
+            "6e3f7fba-f6bc-462f-a205-2835e7be74dc",
+            "d5e8e430-2596-458b-be89-cc8b3c918f53"
+        ],
+        "\u00b16 000 v.C.": [
+            "c040f700-465f-455b-9217-b4dc358aab60"
+        ],
+        "\u00b14 000 v.C.": [
+            "7575e5c3-eb4e-4107-b475-a4232c1e0e1e",
+            "073ffdbc-9ab0-451c-af17-a19626a03941"
+        ],
+        "\u00b19 000 v.C.": [
+            "d1091b89-8751-4e80-be4f-a34ce7514e5c",
+            "1fe332d9-f199-49e3-86e2-4ca31cc9a866"
+        ],
+        "\u00b13 000 v.C.": [
+            "da55fcd4-8b8a-4899-b63f-8789e498585f",
+            "1b7b6b24-8eae-4fe1-98a1-41221c29c313"
+        ],
+        "\u00b112 000 v.C.": [
+            "c313193a-6bb1-420c-b39c-f006ce82466a",
+            "a8ca7f7d-b34d-4cc9-aae0-a43ab55c4cf3"
+        ],
+        "\u00b12 000 v.C.": [
+            "03eaa03a-6721-499f-8de6-4e0f607d51a3",
+            "64110a4e-b262-43d3-8208-68332e7e1552"
+        ],
+        "\u00b115 000 v.C.": [
+            "bf41a465-7567-4e16-bdb5-8d9ba3ebb454",
+            "d30adae3-ab12-4702-b476-432043a5b336"
+        ],
+        "\u00b11 000 v.C.": [
+            "222f2af0-3eb3-4e8f-bf5b-2d5c56b4b6d8"
+        ]
+    },
+    "12": {
+        "Feodale economie": [
+            "21cfeaa6-6cb8-480d-8ee0-155e127a0f70"
+        ],
+        "Industri\u00eble revolutie": [
+            "5bc757a7-800d-4b8d-a109-a24e2fa6921c"
+        ],
+        "Postmodern kapitalisme": [
+            "2bd2986b-bf09-4b7f-a1ea-f97ba70ac7ce"
+        ],
+        "Jacht en verzameling": [
+            "37556df7-3aa5-49cd-8e86-b7e36eed9da7"
+        ],
+        "Socialistische economie": [
+            "8edf8335-8f42-471f-8a1b-ecca1b627304"
+        ],
+        "Landbouwcollectivisatie": [
+            "7e7d1852-8e76-4415-9683-75349b06e7ae"
+        ],
+        "Subsistentie economie": [
+            "87a5d1fd-9128-416c-b059-af015e55c3e0"
+        ],
+        "Participatieve economie": [
+            "c11ac91b-56f6-401f-99fb-72ed598659f7"
+        ],
+        "Prehistorische economie": [
+            "8170519f-0b20-4aac-98ec-4d6254500b58"
+        ],
+        "Commando economie": [
+            "d355feb5-7599-4874-a392-6f1f196f0b0c"
+        ],
+        "Handelsunie van Mesopotami\u00eb": [
+            "5472497a-994a-4d10-82fd-1104a54a5ebe"
+        ],
+        "Agrarisch monopolie van Mesopotami\u00eb": [
+            "fd450a23-40b5-43e8-a376-e47a649c4ff9"
+        ],
+        "Feodaal systeem van Mesopotami\u00eb": [
+            "f058e215-18c8-4a0a-87f2-9f0f5dead30a"
+        ],
+        "Industri\u00eble revolutie van Mesopotami\u00eb": [
+            "e12a55c2-f924-4374-9a89-e93b769f8411"
+        ],
+        "Stammenhandel van Mesopotami\u00eb": [
+            "ef2fe0c7-1def-48bc-9096-484a24be9a62"
+        ],
+        "Centralistisch economisch beleid van Mesopotami\u00eb": [
+            "4462ed6b-a0f2-4373-a518-dea839200620"
+        ],
+        "Communale landbouweconomie van Mesopotami\u00eb": [
+            "b77171fe-657d-426d-a8fe-2ecaee61bedf"
+        ],
+        "Gildenstelsel van Mesopotami\u00eb": [
+            "d5e8d77f-a129-4be6-b16c-cfce2a1924ae"
+        ],
+        "Kapitalistische markteconomie van Mesopotami\u00eb": [
+            "b332c85c-8f9d-4b42-82e7-69640a1ff98c"
+        ],
+        "Planmatige economie van Mesopotami\u00eb": [
+            "c50efd40-35c2-41d9-b890-80c808bd0317"
+        ]
+    },
+    "13": {
+        "Nigerianen": [
+            "65e20137-5e18-4e42-bd37-b3f6ba8ce081",
+            "6b7a1406-9c4e-404c-83ae-79ac485d2cd6"
+        ],
+        "Canadians": [
+            "15ebce46-41d1-41e6-b7e3-be28a4fac440"
+        ],
+        "Australians": [
+            "03bbb993-82c9-43dd-b9b2-4896ca53ad57"
+        ],
+        "Koreans": [
+            "5fdae1e3-6419-4361-9207-43652d826aab"
+        ],
+        "Chileans": [
+            "b912d29d-edd1-4a97-a037-ea1038f795c3"
+        ],
+        "Peruvians": [
+            "ecba874e-7e13-4df4-a2f7-9373e1db3727"
+        ],
+        "Argentinians": [
+            "f24178cb-aa78-445f-bfb8-08acf68b6b67"
+        ],
+        "South Africans": [
+            "a8400943-78cd-427f-9c7e-4a68fac1bba3"
+        ],
+        "New Zealanders": [
+            "a0a0e70d-d58c-49a2-83ec-2b15017fe597"
+        ],
+        "Malaysians": [
+            "a4b3ead0-2fa7-4aba-98f4-f0451e01e126"
+        ],
+        "De inwoners van Kenia": [
+            "2486dfca-6177-49dd-931c-8b612e0e26da"
+        ],
+        "De bevolking van Rusland": [
+            "46a628ce-3b3c-4390-aa82-0947f8966596"
+        ],
+        "Australi\u00ebrs": [
+            "9ad580a6-931d-494c-bab0-526e28c93379"
+        ],
+        "Inwoners van Zuid-Afrika": [
+            "d1c7583f-f463-4fc0-962b-e2cb676d0011"
+        ],
+        "De Fransen": [
+            "0376861a-0144-479b-a3e4-995dc7c6b994"
+        ],
+        "De inwoners van Canada": [
+            "47d78928-bcd1-4a17-bdc1-79446b2001ad"
+        ],
+        "Brazilianen": [
+            "4d4481ab-1007-4802-9bd2-6fb5bd4051c8"
+        ],
+        "De Japanners": [
+            "55ec28a6-a8b9-4d7c-b6a8-ebf07782b652"
+        ],
+        "De Mexicanen": [
+            "15921850-f996-406f-99a4-0d541eb83063"
+        ]
+    },
+    "14": {
+        "Een ploeg is een soort vis die in de oceaan leeft.": [
+            "5aeed491-35af-462a-a394-e16ec74425b0"
+        ],
+        "Een ploeg is een dans uit Zuid-Amerika.": [
+            "5f1d260b-41e4-476e-af11-ab7cf3f5542d"
+        ],
+        "Een ploeg is een type vogel dat in de bergen leeft.": [
+            "dbd2820c-c6da-4de9-9e74-96697f7e50c0"
+        ],
+        "Een ploeg is een muziekinstrument dat lijkt op een gitaar.": [
+            "715784c3-45b4-4eea-ae8e-466ad1d5dcff"
+        ],
+        "Een ploeg is een sport waarbij deelnemers tegen elkaar vechten met zwaarden.": [
+            "ae4d5b24-48da-470d-8679-667df8d36f13"
+        ],
+        "Een ploeg is een bijnaam voor een groepje vrienden die samenwerken.": [
+            "43b299c4-90b9-41fc-9972-0c2c29fa6503"
+        ],
+        "Een ploeg is een term uit de luchtvaart om een groep vliegtuigen aan te duiden.": [
+            "4516d787-3fbb-43b1-981b-6d4fa520ec44"
+        ],
+        "Een ploeg is een type stofzuiger dat speciaal is ontworpen voor tapijt.": [
+            "8c5edf27-64f8-4c0b-922b-cacce9bbab28"
+        ],
+        "Een ploeg is een soort vrachtwagen die wordt gebruikt voor het vervoeren van vloeistoffen.": [
+            "0689ac6d-7e7e-49e7-93ce-6dcff0fda6fd"
+        ],
+        "Een ploeg is een kookgerei dat wordt gebruikt voor het roosteren van vlees.": [
+            "dce21922-ca42-4cd8-807c-8cd99b7020af"
+        ],
+        "Een soort vliegend insect": [
+            "44011df3-14f9-4b0b-82ae-1e079c61753f"
+        ],
+        "Een type dans uit de jaren '70": [
+            "e1eb1f5b-7984-4418-81c5-18ddfebc1fac"
+        ],
+        "Een Engelse term voor een groep vogels": [
+            "a5e9a598-249a-4660-80e5-5e0f058c03be"
+        ],
+        "Een oud-Griekse munteenheid": [
+            "f1252b49-987c-4b81-9234-9829e8ef5d4b"
+        ],
+        "Een soort trompet uit de Middeleeuwen": [
+            "055dbadf-2ded-4456-a8fc-337b528a126a"
+        ],
+        "Een slang die voorkomt in de jungle": [
+            "7f120139-8693-4532-89fc-1e644f935222"
+        ],
+        "Een Franse term voor een soort kaas": [
+            "0f7d59ca-f2a0-4b55-8280-da937d1195c9"
+        ],
+        "Een speciaal soort kaars die in kerken wordt gebruikt": [
+            "b3371a1d-d549-40fd-a31c-f7efbf495bc7"
+        ],
+        "Een type zeilboot": [
+            "9197718d-4d24-4893-b63e-aa71d5ec2c5a"
+        ],
+        "Een variant op het woord \"plooi\"": [
+            "cc0bf31a-4c0f-409c-bfc4-5eab62fad2de"
+        ]
+    },
+    "15": {
+        "topografische kaart": [
+            "a22c7ad2-4286-417d-8ab3-cdbfee5ac6ac"
+        ],
+        "plattegrond": [
+            "349f80fa-2ffb-422b-8ce3-fa2f105abd2d"
+        ],
+        "thematische kaart": [
+            "af5ee99d-9bb3-4ac2-96e2-297358036915"
+        ],
+        "politieke kaart": [
+            "5561a12d-e44b-40d6-b9d7-cbd6ddd12938"
+        ],
+        "hoogtekaart": [
+            "3645f0a1-3cb6-497f-9895-608df304ab67"
+        ],
+        "historische kaart": [
+            "fb39d50a-270e-4f04-a730-0dc813d14539"
+        ],
+        "stratenplan": [
+            "ffc6918b-cca2-4212-88b2-f150005bd6c7"
+        ],
+        "landkaart": [
+            "ac125ede-c208-4112-b0ab-1a30a53151b5"
+        ],
+        "weerskaart": [
+            "214f29a1-5407-485a-9989-f3a618833127"
+        ],
+        "geologische kaart": [
+            "daea57fc-bc93-4022-87ab-ce4fe2a3e19a"
+        ],
+        "Vegetatiekaart": [
+            "9f4f8083-0a74-46da-a90d-63c0a1161fd3"
+        ],
+        "Plantenkaart": [
+            "8115de05-ff45-4afa-aa34-dc8e01fcc1e7"
+        ],
+        "Groenkaart": [
+            "7a2499db-9d1c-4776-8122-0835e0a86160"
+        ],
+        "Boskaart": [
+            "3cb7c4ee-3f73-4f0e-b1a5-859a6ddbc9be"
+        ],
+        "Flora-overzichtskaart": [
+            "7b41f78a-ae17-462f-b5c7-9578a1544988"
+        ],
+        "Groeiomstandighedenkaart": [
+            "f4227d50-74eb-4f05-8011-aca3614a618b"
+        ],
+        "Natuurkaart": [
+            "320fc504-5b5b-4426-b783-c5601bba0a27"
+        ],
+        "Milieukaart": [
+            "2ea1f53f-8905-4c0f-9df3-cb5c6a3e3ca3"
+        ],
+        "Ecologische kaart": [
+            "ec599fd6-e60d-4a5c-8e2f-5f446a6e8293"
+        ],
+        "Botanische kaart": [
+            "844bb68b-3845-4800-b17e-7075494fc8b0"
+        ]
+    },
+    "16": {
+        "De Oranje Rivier": [
+            "6fa5a646-2d1f-4252-b2b0-e8f04633aec6"
+        ],
+        "De Rio Grande": [
+            "3f076459-febb-4dd7-8882-da874b5c4061"
+        ],
+        "De Mekong": [
+            "5a41b078-6a63-4057-88fd-de0c2d44e40c"
+        ],
+        "De Donau": [
+            "439ff72f-afc6-4494-ac77-3b35c2c12371"
+        ],
+        "De Ganges": [
+            "dc5e9477-770a-479b-923b-522e15e4d793"
+        ],
+        "De Amazone": [
+            "6f06a73c-6b4c-4c25-9424-b8a3ece9de2f"
+        ],
+        "De Mississippi": [
+            "c6603b4c-fdbf-4ef8-b184-874cc229a7f0"
+        ],
+        "De Murray": [
+            "37a86831-215f-4cd6-841b-0d135a334e11"
+        ],
+        "De Yangtze": [
+            "82685520-1701-40ce-8cfa-6de2517fe3c4"
+        ],
+        "De Thames": [
+            "5f1456b2-b5eb-42dd-8253-dc11df749754"
+        ],
+        "De Rode Nijl": [
+            "f5ff00a4-f828-40b5-ac4e-42aac4779d87"
+        ],
+        "De Zwarte Nijl": [
+            "4537b90c-fbd9-4b00-ac32-989c09716f89"
+        ],
+        "De Oostelijke Nijl": [
+            "b3e61865-b6f7-4db4-97cf-706ad16574a8"
+        ],
+        "De Westelijke Nijl": [
+            "18312b87-398a-4cba-ad01-d1c47dcece78"
+        ],
+        "De Groene Nijl": [
+            "bd41b75a-d3be-45d9-8bfe-a82b952c5d05"
+        ],
+        "De Gele Nijl": [
+            "42217efa-12d7-496c-8b5c-e567935729c2"
+        ],
+        "De Gouden Nijl": [
+            "261cd5f9-335f-46fb-9c4d-6e36205ec052"
+        ],
+        "De Zilveren Nijl": [
+            "f4c66200-6218-4cab-ba1e-d20a6336c1a0"
+        ],
+        "De Diamanten Nijl": [
+            "a541c839-0fdd-4200-adfa-c6899ba21f22"
+        ],
+        "De Saffier Nijl": [
+            "d8ff76c7-2476-4fdb-8287-1b14bfa7b6de"
+        ]
+    },
+    "17": {
+        "Vissen": [
+            "1add86a3-a170-42f2-912c-d41796d13fcb",
+            "a9e3c0bc-70f4-4a1e-9bbf-470629ed1fed"
+        ],
+        "Schilderen": [
+            "6b765e9b-e8ac-4798-96fd-66e9be2c7d29",
+            "5ff07200-4583-4d85-b341-6067b064eb61"
+        ],
+        "Tuinieren": [
+            "2afdf7fd-0793-4c86-935a-14053b7726eb",
+            "680d0dc3-1663-4d3e-9875-5428f8e45460"
+        ],
+        "Bergbeklimmen": [
+            "eb7b5551-c174-4329-a7bd-67275589a684"
+        ],
+        "Dansen": [
+            "d7576f1c-c484-4f86-adab-9be62a9da1ad",
+            "3ee9a41d-34ca-4942-be72-28832d0a4227"
+        ],
+        "Schrijven": [
+            "979a19f0-07f4-4002-961b-94e76f2543ad",
+            "53a1e8b1-f1fa-4799-b4ea-1c258ed43be7"
+        ],
+        "Koken": [
+            "d5743d54-b63b-4455-b844-ef8247c2fbfe",
+            "356ceb0b-9874-4898-957c-8a5e3dce4f77"
+        ],
+        "Zeilen": [
+            "b414a760-71a6-4cfd-849f-7d31ee8378cd"
+        ],
+        "Jagen": [
+            "ddbeaa67-05b4-4ce3-b5a6-05f79980ef73",
+            "91bfde43-181e-4290-ab86-57fb21cb7abc"
+        ],
+        "Mediteren": [
+            "0d7af4b1-e93d-4cf8-ac99-3be441a50728"
+        ],
+        "Zeilen op de Nijl": [
+            "fb26cd31-ab45-493e-a8c0-063c3bac1e3a"
+        ],
+        "Sporten": [
+            "c3de328c-4f8d-459a-be27-47a0f597c432"
+        ],
+        "Muziek maken": [
+            "583458ae-5d17-4d35-94ff-6685e381531c"
+        ]
+    },
+    "18": {
+        "Europa": [
+            "16a11816-4df0-4844-96a8-c761ced8332f",
+            "3945e233-66d5-4b26-b295-cefb9bc41d21"
+        ],
+        "Noord-Amerika": [
+            "8d9f7b14-f04c-40cb-ac3f-060253520832",
+            "766c7bfd-9170-4549-938c-27079aafe402"
+        ],
+        "Zuid-Amerika": [
+            "a49691d8-5cf8-4cae-bcc9-c7a091cfc73f",
+            "e88b96ce-de0b-4bb1-905e-f877ec360ecb"
+        ],
+        "Australi\u00eb": [
+            "1928dacc-f695-4489-990b-6b22725e7ca1",
+            "53b3f2a7-2bc5-439f-b0a0-be3cd88b131b"
+        ],
+        "Antarctica": [
+            "884f70e1-4600-4c87-9b8d-51aa1aeb80a9",
+            "50b2e9a8-e0a2-4d09-9a26-84eb13436924"
+        ],
+        "Azi\u00eb": [
+            "4417b052-014d-4177-9a18-25136bd68405",
+            "b72a75f7-7fa1-4d54-878e-ad202757ad0b"
+        ],
+        "Atlantis": [
+            "bb257684-52cf-4cc9-adba-b159f7b9a783",
+            "5c13490d-4d78-4615-93c6-f8a49d1cfd9b"
+        ],
+        "Mars": [
+            "dfe763b6-62a0-4575-9d39-aee977e219cd",
+            "5b86b56f-eb02-49a5-8368-db43a6193f35"
+        ],
+        "Jupiter": [
+            "e2760258-6252-4424-bbc9-916269a55df4"
+        ],
+        "Saturnus": [
+            "0c3a0ffa-dc1e-4efd-b1d2-d71f44d6e3e3"
+        ],
+        "Groenland": [
+            "50c03e48-820f-440e-bb5c-0a4b8238ae00"
+        ],
+        "Onderwater": [
+            "81ac5eb0-9464-4246-ac1f-14afbd8a85df"
+        ]
+    },
+    "19": {
+        "Het Oude Testament": [
+            "6939a60a-792e-4455-97ce-aaccc23f26f2"
+        ],
+        "De Romeinse tijd": [
+            "8bcca29e-e996-42f7-aaac-af64025c4e17",
+            "4de9b526-c600-4360-b03a-eaf9faf3f46e"
+        ],
+        "De Renaissance": [
+            "251bbe46-795f-4712-9d9b-3539e5c1d05a",
+            "7e32af93-72d7-499d-9f49-0c491bdb7f99"
+        ],
+        "De middeleeuwen": [
+            "521be533-326f-42c7-a5d4-6eee449cc10b",
+            "5345d388-21a6-4a1d-a1a8-a373e8108765"
+        ],
+        "De klassieke oudheid": [
+            "f0cf1b70-2797-49b1-9e3d-a2e80286b1e7"
+        ],
+        "De prehistorie": [
+            "c6884bed-9548-4263-b143-b6db219c30df",
+            "7ab720fc-c2fc-4d78-bd1a-03f7b88c51ee"
+        ],
+        "De 18e eeuw": [
+            "565d7dd0-c906-424a-9ebb-d13e2e5bf7fe"
+        ],
+        "De 19e eeuw": [
+            "acee3253-6508-4fe0-94c7-464d12de67b5"
+        ],
+        "De jaren 60": [
+            "eaa41b37-29ac-47d2-90c2-0cd8573af236"
+        ],
+        "De moderne tijd": [
+            "cad999f1-4747-47e7-8cc2-23847f56d687"
+        ],
+        "Het oude Egypte": [
+            "78b95001-96a0-4a53-8b42-ab052fae067d"
+        ],
+        "De Industri\u00eble Revolutie": [
+            "b60bc574-bb43-4507-8ecc-70ed43bd9fbd"
+        ],
+        "De Oudheid": [
+            "f837137f-9d9f-4fd6-9c5f-856cdc35aaed"
+        ],
+        "De Vikingtijd": [
+            "7b2ef42e-3c36-4861-a135-64059116d604"
+        ],
+        "De Byzantijnse periode": [
+            "96f6bd06-4a08-4eaa-b666-c243a7bcdfff"
+        ],
+        "De jaren 80 van de vorige eeuw": [
+            "4fda0b3b-b38d-4f21-827e-be57892ad776"
+        ]
+    },
+    "20": {
+        "Het vermogen om te vliegen": [
+            "a9e7db98-c4a5-421e-a4b6-28ef69166cc8"
+        ],
+        "Het hebben van een staart": [
+            "612fb34d-9863-4962-8f97-69539eec0ac0"
+        ],
+        "Extreem lange nekken": [
+            "953682ec-b8d5-4302-911c-6fd1b0af622f"
+        ],
+        "Kieuwen in plaats van longen": [
+            "29227421-ea5b-43e7-bf2e-f73b2cfbc9f3"
+        ],
+        "Het kunnen veranderen van kleur als een kameleon": [
+            "40aee005-7349-456a-88a0-b6fbde3b7fef"
+        ],
+        "Het hebben van vleugels": [
+            "f052616c-fafd-4ce4-9aa6-7476975179ad"
+        ],
+        "Een extra set armen": [
+            "ecee7471-2682-4dd4-81d1-f373255e008e"
+        ],
+        "Het kunnen ademen onder water": [
+            "1bda0ff8-0f3e-419b-a5d1-671db2c1a274"
+        ],
+        "Onzichtbaarheid": [
+            "24579bbb-5d95-4181-b223-1eb9cfb63d1c"
+        ],
+        "Het kunnen communiceren met planten": [
+            "6bf12e0b-6f27-4bc1-9a3d-6b1cb226aa24"
+        ],
+        "Ze hadden de gave van telekinese.": [
+            "1e688c27-33ca-4182-b59a-815c6181f820"
+        ],
+        "Ze hadden vleugels om te vliegen.": [
+            "49a01572-e248-450c-8cd3-66bba1b874ec"
+        ],
+        "Ze konden onder water ademen.": [
+            "f14cab3d-fa73-47d2-93da-5a704e7bec3a"
+        ],
+        "Ze hadden de kracht van onsterfelijkheid.": [
+            "51f3e471-e89a-466d-9ad3-e0c965f78f5e"
+        ],
+        "Ze communiceerden met planten en dieren.": [
+            "c1b10b94-63d8-4257-a687-c96452e39a97"
+        ],
+        "Ze hadden een derde oog op hun voorhoofd.": [
+            "4d0c33a4-718e-466a-9eb1-3057eecad27c"
+        ],
+        "Ze konden gedachten lezen.": [
+            "c652adac-8828-41eb-bc13-4ef03c6d9211"
+        ],
+        "Ze hadden de mogelijkheid om van vorm te veranderen.": [
+            "a27634af-ec80-48a6-9597-bfdf5ec368e3"
+        ],
+        "Ze konden door muren heen lopen.": [
+            "aa027acc-608e-4600-bd42-f768b6dbabb0"
+        ],
+        "Ze waren onzichtbaar voor het blote oog.": [
+            "45f3bfbf-9a96-4eeb-ad34-fb6e32d7f30c"
+        ]
+    },
+    "21": {
+        "Een feodale maatschappij": [
+            "78735d17-a850-430b-97d2-6c5733f7b8d7",
+            "a742d573-b669-49f9-8e01-d5803071a194"
+        ],
+        "Een communistische maatschappij": [
+            "cb9ca891-98ad-4ab0-99ac-0698572831c2",
+            "5b0f0ffa-6498-4ffd-8aa3-689c412ee49f"
+        ],
+        "Een anarchistische maatschappij": [
+            "6c360e8d-2029-422e-abaa-e6f10e6629d3",
+            "5f3b5d6d-584d-4df7-b7ba-0e471dd4ffdf"
+        ],
+        "Een meritocratische maatschappij": [
+            "216009f0-accd-49a2-b38e-87f388769bac",
+            "97d18936-f635-499f-a1bc-268bc61ad86c"
+        ],
+        "Een monarchistische maatschappij": [
+            "65dd5c03-fbe2-4acc-a8e2-dba950d99631",
+            "e5861c2c-8c5c-4904-9667-4c60b4d00e59"
+        ],
+        "Een theocratische maatschappij": [
+            "7247f385-a3d8-4d0a-bb8f-c13627b6c44e",
+            "1cc050ca-6dab-473b-99e2-35477af2e161"
+        ],
+        "Een democratische maatschappij": [
+            "b5ffdd35-51b8-4044-9ce8-9791905808a3",
+            "22e65c29-c81f-4992-bc8d-eb629ff14487"
+        ],
+        "Een oligarchische maatschappij": [
+            "a189a707-6f7c-44a1-a094-d0882fa1e97b",
+            "9b9441aa-ff3c-4226-a595-6402318c9c86"
+        ],
+        "Een kapitalistische maatschappij": [
+            "3e15e20f-0ebe-4ec3-a068-08e9a1aaa865",
+            "e061e385-6300-490f-b68a-2e2a0c3672f9"
+        ],
+        "Een socialistische maatschappij": [
+            "be54dbaf-8d89-479e-b22c-ddd8c70597b4",
+            "21ecac2d-b0d3-452c-8754-80c3490e1198"
+        ]
+    },
+    "22": {
+        "In slechts \u00e9\u00e9n regio ontstond landbouw.": [
+            "f5107c4c-f451-4d4c-8b9d-395aede6acfb"
+        ],
+        "Landbouw ontstond alleen in de Verenigde Staten.": [
+            "932e089e-c0e8-445b-b304-03c2123faf7b"
+        ],
+        "Landbouw ontstond in slechts twee regio's.": [
+            "7d359137-bad2-455f-9710-65d2a1d76ca2"
+        ],
+        "Landbouw ontstond alleen in Europa.": [
+            "0846c610-1a7c-4a27-b87a-2c4859a8399a"
+        ],
+        "Landbouw ontstond in tien verschillende regio's.": [
+            "8a5a59da-e291-471c-a10a-eb9d4f40846b"
+        ],
+        "Landbouw ontstond alleen in Azi\u00eb.": [
+            "ffc20df6-a7ea-4ea1-8bc8-730ce370ca59"
+        ],
+        "Landbouw ontstond in vijf verschillende regio's.": [
+            "897d5c2a-7afa-4528-89be-dd86197cc0d5"
+        ],
+        "Landbouw ontstond alleen in Afrika.": [
+            "ddd9985a-069f-4983-8cd1-ed85ca2362b7"
+        ],
+        "Landbouw ontstond in vier verschillende regio's.": [
+            "8132c09e-9471-45a6-80d4-36f156d50d85"
+        ],
+        "Landbouw ontstond alleen in Zuid-Amerika.": [
+            "b9edad73-92b9-4d9e-b69e-0918ba291ced"
+        ],
+        "In slechts \u00e9\u00e9n regio ontstond landbouw, en dat was Atlantis.": [
+            "4144b2ef-6058-4856-82df-e741646fdf62"
+        ],
+        "Landbouw ontstond in precies 100 regio's over de hele wereld.": [
+            "fc8f33cd-b219-4c63-acec-ca6c155dabdb"
+        ],
+        "Er zijn minstens 500 verschillende regio's waar landbouw ontstond.": [
+            "490a09bc-aa04-420b-a710-793dfa9ca01e"
+        ],
+        "Landbouw ontstond alleen in Noord-Amerika en nergens anders.": [
+            "a52be6fb-2581-4c5b-a1ac-75415fc99e58"
+        ],
+        "Er zijn ten minste 50 regio's waar landbouw nooit is ontstaan.": [
+            "f02b8373-5a40-4794-ab33-02ebb401c9c8"
+        ],
+        "Landbouw ontstond alleen op de maan.": [
+            "5341220e-8b83-478e-98c2-0bf49a0aaabe"
+        ],
+        "Slechts \u00e9\u00e9n persoon ontdekte landbouw in \u00e9\u00e9n enkele regio.": [
+            "207c1a7d-1d97-4443-94c2-5e408542a571"
+        ],
+        "Er zijn 7 regio's waar landbouw spontaan is ontstaan door buitenaardse invloeden.": [
+            "d14c01c5-d5ca-47b8-bc61-0f43c643201a"
+        ],
+        "Landbouw ontstond alleen in landen waar de kleur groen in de vlag voorkomt.": [
+            "c7820235-82f2-466e-88a3-8d764b7500c4"
+        ],
+        "Er zijn 3 regio's waar landbouw is ontstaan als gevolg van een magische spreuk.": [
+            "e6e2979d-01cd-4d2a-96f4-ede722bdad3d"
+        ]
+    },
+    "23": {
+        "1000 n.C. - 1500 n.C.": [
+            "04e005aa-4955-487c-ad25-5c47ff4961c4"
+        ],
+        "500 v.C. - 1 n.C.": [
+            "93c7f2b8-df66-4502-a24c-9d65ed90ca6b"
+        ],
+        "2000 v.C. - 1500 v.C.": [
+            "3c2a7c4f-2047-4460-9659-6661a3b01eba",
+            "b4a34f7a-f932-4ff3-92c5-850ce45d37bb"
+        ],
+        "1500 n.C. - 1700 n.C.": [
+            "66ad2ce1-2802-4c5f-b045-d5bc76796f16"
+        ],
+        "3000 v.C. - 2500 v.C.": [
+            "b22350df-c92e-4caf-b8cd-df406da9097e"
+        ],
+        "1200 v.C. - 800 v.C.": [
+            "0aab07c1-4a50-42a7-a0a7-2707e41f1db9",
+            "0033b33f-f529-4efb-9cd5-76a387f154f7"
+        ],
+        "1700 n.C. - 1900 n.C.": [
+            "46f80f3d-7f7d-4174-aa98-dd0670adb00e"
+        ],
+        "500 n.C. - 1000 n.C.": [
+            "6292dd6e-6f20-4962-95d5-f39b00b17b65"
+        ],
+        "300 v.C. - 100 n.C.": [
+            "9a133752-a28e-4a48-9721-3214c91cca61"
+        ],
+        "200 n.C. - 500 n.C.": [
+            "539374b5-ed8d-4f86-82eb-6afb5318136e"
+        ],
+        "1800 v.C. - 1300 v.C.": [
+            "24438a36-b915-4e25-ba75-0477827c01a5"
+        ],
+        "1450 v.C. - 1100 v.C.": [
+            "afc2c2b1-357b-4382-b398-a3f5fdbfb5e2"
+        ],
+        "1700 v.C. - 1000 v.C.": [
+            "8901ded3-5d0b-497b-b205-db6b6d3bb51c"
+        ],
+        "1400 v.C. - 900 v.C.": [
+            "3a373853-ad79-4568-8748-0963570cdfc0"
+        ],
+        "1300 v.C. - 700 v.C.": [
+            "4da4ac51-4dda-466b-bff5-4a6779bf541b"
+        ],
+        "1100 v.C. - 500 v.C.": [
+            "3b3ba368-59ed-40f2-85e5-70d763fe04ca"
+        ],
+        "1000 v.C. - 400 v.C.": [
+            "0a8c25ca-6901-4494-9219-dc5a12d15034"
+        ],
+        "900 v.C. - 300 v.C.": [
+            "32b1dfc6-a023-40f3-b7a2-b06dbb752de9"
+        ]
+    },
+    "24": {
+        "Assyri\u00ebrs": [
+            "f7095a20-ae9d-46a1-9112-e7975aae1e6c"
+        ],
+        "Grieken": [
+            "69d7b508-3f8d-47c5-a29d-dd01629d116b"
+        ],
+        "Romeinen": [
+            "38765004-0cda-4854-9adb-d9e816a0aea3"
+        ],
+        "Fenici\u00ebrs": [
+            "8644247a-291f-45eb-afc5-04d5a0ff3eed"
+        ],
+        "Perzen": [
+            "e5ba0a46-1a73-4745-8560-11dacf424ffc"
+        ],
+        "Chinezen": [
+            "52f6ca3b-aa4d-4955-8965-9aa106b8573a"
+        ],
+        "Incas": [
+            "65eb7d44-1903-4fa2-bf34-835bc3de02c9"
+        ],
+        "Azteken": [
+            "2abdb2cd-603d-47c6-9ede-427e635e50bd"
+        ],
+        "Maya's": [
+            "76c996ad-81d7-4197-8ca3-0af3fab847f6"
+        ],
+        "Vikingen": [
+            "47469e01-7018-401f-b148-84ce7a0035cb"
+        ],
+        "Pthumerians": [
+            "c56175af-d79b-485c-9842-9af002098aa7"
+        ],
+        "Thalassocrats": [
+            "dc6e57f7-627d-40cd-9a14-15fdf086078b"
+        ],
+        "Xolotlans": [
+            "6018ef9a-7cd6-450b-a350-68525c1c3941"
+        ],
+        "Venetians": [
+            "8cfbd8e2-0fc5-48e5-9a4a-b044ce0c4fdd"
+        ],
+        "Zephyrians": [
+            "b4a45ec0-139d-4898-b6a6-15fca425095a"
+        ],
+        "Atlantans": [
+            "239eb1be-b6fd-4eaa-8f9a-c07c76ac2820"
+        ],
+        "Lemurians": [
+            "12ca4811-a8ee-4777-9973-97065e4fcbd6"
+        ],
+        "Hyperboreans": [
+            "ef00f975-2ac2-496e-b62c-3d6a887f24a9"
+        ],
+        "Agarthans": [
+            "2b20ffa5-5e54-4228-a336-717ba63932ac"
+        ],
+        "Kthones": [
+            "106e040f-8c08-4c58-a038-ca83f54d2fb6"
+        ]
+    },
+    "25": {
+        "Om zijn eigen mythologie te cre\u00ebren": [
+            "35846f30-3e7d-4509-bd26-1937fdc4ce6f"
+        ],
+        "Om de populariteit van Dionysos te vergroten": [
+            "d82a5346-5c62-469c-8c18-cd9222d7bd37"
+        ],
+        "Als propaganda voor een bepaalde politieke agenda": [
+            "f7effae0-6b33-4491-90ae-cc712fb55aff"
+        ],
+        "Om de Griekse cultuur te promoten bij buitenlandse lezers": [
+            "17f28869-81c6-4026-bf63-bc36fb99e29f"
+        ],
+        "Omdat hij zich verveelde en behoefte had aan een nieuw project": [
+            "ea66a4e1-d527-46c4-9cad-643f4c12f889"
+        ],
+        "Omdat hij jaloers was op de roem van andere Griekse schrijvers": [
+            "2e01707e-4f48-41f8-8216-0ed1cbbdf4d4"
+        ],
+        "Als een manier om geld te verdienen door het verkopen van verhalen": [
+            "bb52b13e-c2bf-43d3-89f8-0f73d270be45"
+        ],
+        "Om de religieuze overtuigingen van zijn tijd te documenteren": [
+            "aa713ba0-4d15-4fdd-8523-a44878f0478f"
+        ],
+        "Als onderdeel van een universitaire studieopdracht": [
+            "afd5b709-9748-4d0a-9cd0-0da383ed0833"
+        ],
+        "Als eerbetoon aan een vriend of familielid genaamd Dionysos": [
+            "2559f393-d780-4c9d-9358-dcf80b0a0b25"
+        ],
+        "Diodorus was een grote fan van Griekse goden en wilde graag hun verhalen delen.": [
+            "1c4b3f32-1145-4837-988c-f025cbe29af3"
+        ],
+        "Diodorus had een droom waarin Dionysos hem opdroeg zijn verhaal op te schrijven.": [
+            "e15e4063-93ed-4cc1-a503-f4b143af091e"
+        ],
+        "Diodorus kreeg betaald om het verhaal van Dionysos op te schrijven door een rijke sponsor.": [
+            "63bbdfcb-518e-47ac-a7c5-765b841df9eb"
+        ],
+        "Diodorus wilde de concurrentie aangaan met andere Griekse historici die verhalen over goden schreven.": [
+            "4d89ebae-cc53-4b39-a917-1da314c30746"
+        ],
+        "Diodorus was verliefd op Dionysos en wilde graag zijn verhaal delen met anderen.": [
+            "468461fe-ae9d-4373-bf39-0ed17a6623b9"
+        ],
+        "Diodorus was dronken toen hij het verhaal van Dionysos opschreef en had geen reden.": [
+            "036e71d5-e3aa-4556-a999-b9f791b056fe"
+        ],
+        "Diodorus wilde de macht van Dionysos onderstrepen door zijn verhaal op te schrijven.": [
+            "3de64471-2a5e-43fb-9f42-3ac5b21446ac"
+        ],
+        "Diodorus wilde de Griekse mythologie verrijken met nieuwe verhalen en figuren.": [
+            "2e2d56fe-6bde-492c-adbb-41d818ca6915"
+        ],
+        "Diodorus wilde de lezers van zijn werk vermaken met een interessant en kleurrijk verhaal.": [
+            "b68de6b4-533b-4d36-b2e8-e32b27a2d1b0"
+        ],
+        "Diodorus werd bedreigd door de volgelingen van Dionysos en moest het verhaal opschrijven om zijn leven te redden.": [
+            "0b35ca73-d98d-4218-9eac-27885ae87d83"
+        ]
+    },
+    "26": {
+        "Germania": [
+            "17c0013a-36aa-46ff-b201-49b0b001212a",
+            "7f463ec8-8f33-4fe4-9101-bcbc3021d6fc"
+        ],
+        "Hispania": [
+            "47005777-deda-4332-80c1-e3daacd5f5bd",
+            "b996ac7b-95a3-4b0b-9847-9e7c3b870c3f"
+        ],
+        "Italia": [
+            "4fb4aa78-faad-4f3e-a0f3-2f8c90d744e7"
+        ],
+        "Britannia": [
+            "bab81a26-78a0-4585-9175-17ade16c96d3",
+            "c04eaf9a-b0d6-4eaf-8b87-972da36fcb9e"
+        ],
+        "Dacia": [
+            "4dc1afeb-c913-4391-b2eb-4e35c3adc7ae",
+            "1bd1fcbe-fbdc-491a-ba8e-04833cce951c"
+        ],
+        "Pannonia": [
+            "f063f666-6342-44e9-855a-9234961c6c81",
+            "69695093-51cd-444b-963c-570b5cb07674"
+        ],
+        "Numidia": [
+            "f7e7b8a6-b9f9-4c64-a6c4-d67ba10b1c16"
+        ],
+        "Aegyptus": [
+            "c64bbf37-cc6c-4370-8c34-06838a54ccc6"
+        ],
+        "Moesia": [
+            "a9690e6c-f373-4825-83e8-7df693927648"
+        ],
+        "Parthia": [
+            "cd793578-6482-43fc-8869-93c57b6fe685"
+        ],
+        "Illyria": [
+            "282e0b99-76c0-4c36-b899-e3042ba8d589"
+        ],
+        "Scythia": [
+            "f598cbfd-9f5c-45a1-a925-8b68f1714bb5"
+        ],
+        "Thracia": [
+            "a915eab2-b2e7-4ebe-9083-c19be5aba2f4"
+        ],
+        "Mesopotamia": [
+            "08b3b012-661e-469e-84df-4c7f8cc65f6e"
+        ],
+        "Syria": [
+            "95b30c08-f228-49b3-8e1b-13ea90bd4a8a"
+        ]
+    },
+    "27": {
+        "hout": [
+            "4f7c7351-fdd9-49ab-bda6-d8cf9aac15c2"
+        ],
+        "goud": [
+            "1f53bb8e-5719-4920-9f5a-647a87ff86d1"
+        ],
+        "brons": [
+            "50a536a2-9420-4137-98a9-b722d1332a24"
+        ],
+        "koper": [
+            "50dc41fd-fcb3-439b-b6b0-e67268a9ceae"
+        ],
+        "steen": [
+            "bb4186d6-fef4-4c01-8849-9e7568cd1a59"
+        ],
+        "zilver": [
+            "d569bfc5-f54c-4040-8a1e-0a120ec04896"
+        ],
+        "lood": [
+            "807f81fb-777b-454e-a2a7-5b5c2d643d94"
+        ],
+        "plastic": [
+            "92aa9a9b-e5bb-44c2-9617-d1ea1191c383"
+        ],
+        "titanium": [
+            "6c16be47-7b00-48c7-af21-37e5bc0edeab"
+        ],
+        "glas": [
+            "b3debcda-1ab7-4204-921c-934ed8ca58e6"
+        ],
+        "Brons": [
+            "1beafd9b-15c1-4a54-b183-d25be605a918"
+        ],
+        "Hout": [
+            "1dc03d38-f283-40c0-8545-6067c1251167"
+        ],
+        "Steen": [
+            "aa6e438c-6ef7-4536-8700-9cdba32ce195"
+        ],
+        "Zilver": [
+            "400d50ff-3b16-4f72-8e68-f27d197f88ab"
+        ],
+        "Goud": [
+            "b7841fb5-4323-47fe-adaf-9eae34513817"
+        ],
+        "Koper": [
+            "1db1637b-2f61-4c54-bdbc-33987e3e6eab"
+        ],
+        "Glas": [
+            "38e44afe-d1c3-4da5-99c4-14b85302baef"
+        ],
+        "Lood": [
+            "e1f8925b-b45a-4edb-98f3-1f6109fc48b0"
+        ],
+        "Bamboe": [
+            "5782f213-5e66-4b18-b844-a88947379d12"
+        ],
+        "Klei": [
+            "985405df-aa19-45e8-9534-8d504a05bc9a"
+        ]
+    },
+    "28": {
+        "Het verhogen van de belastingen": [
+            "4dc0a2d7-95f5-42e3-8624-90030e59f7af"
+        ],
+        "Het verminderen van de democratische vrijheden": [
+            "b5198b5c-4646-4bd4-9c44-cd1cb9c566aa"
+        ],
+        "Het uitbreiden van de wapenhandel": [
+            "1dedfb55-7ba8-452f-afc8-f65e4d310c2e"
+        ],
+        "Het sluiten van grenzen voor vluchtelingen": [
+            "3858d735-85e6-4e70-b655-434f3c859aea"
+        ],
+        "Het legaliseren van onderdrukking": [
+            "2c2067fe-4585-426c-961c-7a57dd75f0fb"
+        ],
+        "Het bevorderen van sociale ongelijkheid": [
+            "ad666eca-308b-48d5-adc8-b6bb114eb7b5"
+        ],
+        "Het negeren van mensenrechten": [
+            "5bb5146e-67d8-427a-b90d-7098d7754160"
+        ],
+        "Het bevorderen van corruptie": [
+            "37a5558d-7788-499f-939d-c4c8eee5c5cc"
+        ],
+        "Het verminderen van de hulp aan ontwikkelingslanden": [
+            "953b3f3e-3b66-46bb-a14d-bb7e51a9d22f"
+        ],
+        "Het vergroten van de macht van dictatoriale regimes": [
+            "1aa4c446-3e9a-474a-a7e5-eff321336358"
+        ],
+        "Meer economische sancties tegen ontwikkelingslanden.": [
+            "e89811d6-37ea-4d64-ba62-167e0ceaf649"
+        ],
+        "Meer belastingen heffen op emigratie.": [
+            "99fd1af5-52b9-4536-b942-2bafc2897f47"
+        ],
+        "Het bouwen van hogere muren en hekken rondom landsgrenzen.": [
+            "ba72331b-c6e5-4192-bf21-4665034a72bf"
+        ],
+        "Een verbod op het verlenen van humanitaire hulp aan vluchtelingen.": [
+            "870fef30-de2b-401e-83e7-fcb050470e9d"
+        ],
+        "Beperkingen op het recht op asiel.": [
+            "29c93a94-8508-475f-ae17-60a38533231f"
+        ],
+        "Intensivering van gewapende conflicten en bombardementen.": [
+            "6c2f6bcb-069a-42aa-a9e1-90ae0f2b71ec"
+        ],
+        "Het cre\u00ebren van een dystopische samenleving waarin vluchtelingen niet welkom zijn.": [
+            "c7de3f55-7545-4404-8f94-c95deb30a8f5"
+        ],
+        "Beperkingen op het recht om te reizen.": [
+            "ba0e33a2-85c6-4d4f-a506-21b3a22258fb"
+        ],
+        "Het implementeren van strenge immigratiewetten en beleidsmaatregelen.": [
+            "c551b913-3a3c-4fcd-be82-747b48517192"
+        ],
+        "Een hogere drempel voor het verlenen van humanitaire visa.": [
+            "33d7a84a-5eb8-4b74-9e8f-2869c2a5e2f9"
+        ]
+    },
+    "29": {
+        "ca. 1500 n.C. - 1700 n.C.": [
+            "4e3ce105-9145-48b8-ba28-8700bb071a97"
+        ],
+        "ca. 500 n.C. - 800 n.C.": [
+            "d98cb0b9-500a-4e2e-9de2-2d5deb51482f"
+        ],
+        "ca. 1000 n.C. - 1200 n.C.": [
+            "5190ebfa-ad05-4318-a6d9-99fda8ea3029"
+        ],
+        "ca. 300 v.C. - 100 v.C.": [
+            "a9693190-e3d7-4b2f-9690-ed5a2ee4521b"
+        ],
+        "ca. 1000 v.C. - 800 v.C.": [
+            "db588ba7-f175-47fb-a33f-0a0aaf86026c"
+        ],
+        "ca. 2000 v.C. - 1800 v.C.": [
+            "b3eaaba4-9eac-43e1-89b6-c9e83538494f"
+        ],
+        "ca. 300 n.C. - 500 n.C.": [
+            "a7abcd19-a4b2-434a-a0b2-aa22e92d5c41"
+        ],
+        "ca. 1700 n.C. - 1900 n.C.": [
+            "205c23b6-268a-4365-9c05-61ec569ae214"
+        ],
+        "ca. 1200 v.C. - 1000 v.C.": [
+            "efb52c0f-b208-4ee7-84e5-966608568db5"
+        ],
+        "ca. 200 n.C. - 400 n.C.": [
+            "f1a06e2d-78f3-4b7f-a5b8-e33b46f1a206",
+            "b8045255-a5f8-491e-9a0b-257e3d77ddce"
+        ],
+        "ca. 2000 v.C. - 1500 v.C.": [
+            "a8ece2ba-9c49-47e6-8f4d-60fe78db529f"
+        ],
+        "ca. 1000 n.C. - 1500 n.C.": [
+            "79d804a3-e870-4a54-8c04-0aa1473bcf30"
+        ],
+        "ca. 1200 v.C. - 900 v.C.": [
+            "85b10d1d-23e8-4ec8-a3df-ebbd7191ea78"
+        ],
+        "ca. 1500 v.C. - 1000 v.C.": [
+            "eac83073-1798-42b1-94f9-e85914816fc2"
+        ],
+        "ca. 600 n.C. - 800 n.C.": [
+            "8ff95799-ab63-4bc0-94a3-7091cf2a0fe6"
+        ],
+        "ca. 500 v.C. - 100 n.C.": [
+            "ce320796-389e-47e8-8fcf-b6c867ed9414"
+        ],
+        "ca. 100 n.C. - 300 n.C.": [
+            "b167c2da-c2b1-4b39-9c35-cfe8185fa534"
+        ],
+        "ca. 1000 v.C. - 500 v.C.": [
+            "b78695ef-f044-4df5-94de-81164f5a5b9a"
+        ],
+        "ca. 500 n.C. - 700 n.C.": [
+            "46f6d9b7-ac91-4259-9937-57e59445bb35"
+        ]
+    },
+    "30": {
+        "Zeus": [
+            "7f4b89ed-caca-4f78-8e68-82fc85b95e54",
+            "7a4b431d-5cb2-45c5-9d2c-ff985ebdd660"
+        ],
+        "Poseidon": [
+            "276dc03c-505f-4905-b712-24469b9b583e",
+            "c116bbb6-deff-41bd-9212-19e7f89eddd5"
+        ],
+        "Hades": [
+            "dc5d73a8-f66a-45b1-935d-3167308814d0",
+            "ab6c655d-7db9-4f82-bc74-28c2f046f01b"
+        ],
+        "Apollo": [
+            "7f22b2f2-1445-40af-bedc-74ea6cf948a7"
+        ],
+        "Aphrodite": [
+            "e7913c33-8f56-41e2-a5f3-233b9d19e3ab",
+            "2f9f6fd3-9899-4126-a681-dcad32851cff"
+        ],
+        "Hermes": [
+            "d98f8683-6078-46dd-9650-40506ffcb672"
+        ],
+        "Demeter": [
+            "fb2e41ba-bf79-47fd-8a35-2e356923ea5d",
+            "4d1a5325-8294-4ffe-9620-f1e00c72b8d4"
+        ],
+        "Hera": [
+            "0ecab965-fe92-4a43-8154-206d45e454be",
+            "47240d6f-cbbc-4072-b8b1-33bc847c8e93"
+        ],
+        "Persephone": [
+            "3bb60530-c039-4fd4-ba96-000e894d3f0f",
+            "bb688c74-fe7d-4be7-b880-fa955bbd5433"
+        ],
+        "Artemis": [
+            "e814c0ec-92f9-41fa-9ff4-f405124715d8",
+            "2622bc25-d969-4ac5-974d-1e1235813547"
+        ],
+        "Dionysus": [
+            "6913b6f9-627e-41e9-b35f-0dcf85858207"
+        ],
+        "Hephaestus": [
+            "e6778b33-20b7-4dcb-9d29-6964e39f8b7e"
+        ]
+    },
+    "31": {
+        "Germaans": [
+            "6bb93db1-a7c0-4b43-ba98-01979abb3936",
+            "8e6b5846-43fd-4d05-8c9c-efd8624e6f23"
+        ],
+        "Keltisch": [
+            "9b9c2fa1-c6a5-40a5-99fb-0291640dc081",
+            "599f2b13-5912-420e-86ca-bb63b9fc723a"
+        ],
+        "Slavisch": [
+            "640a06e4-13b2-49cf-bdbb-de0826d816e2",
+            "15a95f19-88de-4341-9616-1f62685c57e5"
+        ],
+        "Grieks": [
+            "a3f4b9eb-3da5-48ad-a36f-fbaa197285e3"
+        ],
+        "Hebreeuws": [
+            "d6631d37-cf52-48b2-a7e1-8628c0f9ef08"
+        ],
+        "Arabisch": [
+            "6c38b0fe-d264-4596-9ac2-97a754203286",
+            "9c61c586-6042-4537-8e85-d695024302b6"
+        ],
+        "Hindi": [
+            "53de13f3-6e19-4955-90a7-ed2f30869c86"
+        ],
+        "Chinees": [
+            "51077133-44a9-4932-884e-6a354f24fec4"
+        ],
+        "Japans": [
+            "abfbf07e-fb0c-42d6-a7e3-55e5fc1ce9fb",
+            "225c023d-6ce2-4f4a-bc7d-334fbd58350e"
+        ],
+        "Russisch": [
+            "80f3689e-328a-46c0-8a4c-d6d3f83ab763"
+        ],
+        "Scandinavisch": [
+            "e253cc4c-db8d-4bd2-9f4f-5970663f10c9"
+        ],
+        "Turks": [
+            "9dcdeb63-e7fd-45cb-b6fc-fea6a9bd49e8"
+        ],
+        "Fins-Oegrisch": [
+            "5c1f2c64-be0e-43aa-8a5c-4319f9eabc5b"
+        ],
+        "Bantoetalen": [
+            "061f18b1-68ab-438c-ab47-1d6d7fb812f3"
+        ],
+        "Indo-Iraans": [
+            "6841abbb-15e1-4bc1-817e-f9c586115583"
+        ]
+    },
+    "32": {
+        "Sparta": [
+            "c37211f2-8acf-4717-9de8-a78d836ac1df",
+            "7ab1fdde-671b-4368-9630-7676aee67495"
+        ],
+        "Athene": [
+            "42c07cee-1a00-4490-9c0d-1e2aaa05bfd5"
+        ],
+        "Korinthe": [
+            "f5cbd7ca-cfa6-442a-9de8-7b1f2f71ad63",
+            "760dc4c6-5cde-4fd6-9558-933d1ba0f5de"
+        ],
+        "Thebe": [
+            "912c9c1a-6248-47b2-9e9e-f841d4b9408a",
+            "e62b659f-ba62-4579-ab88-81a9942a52fc"
+        ],
+        "Argos": [
+            "e469c010-3b53-4437-8041-1905eae27bec"
+        ],
+        "Mycene": [
+            "c539066a-bd72-43e1-a363-64df78a5b2eb",
+            "afc98b2b-775b-4a3f-a94c-5e4bb4a54b57"
+        ],
+        "Megara": [
+            "1d5b5405-4870-4afc-bb8b-a5d175ba28e2"
+        ],
+        "Delphi": [
+            "a0bddc0e-289c-4923-a53a-04e289cf7131",
+            "c5058139-49c8-4bc9-bbf5-2dc47b6b8b00"
+        ],
+        "Olympia": [
+            "b4938a3b-2816-4cdf-9d6d-9f61726e9fe5"
+        ],
+        "Thessaloniki": [
+            "1d802553-c656-43ae-b283-7cab257e4791"
+        ],
+        "Athenen": [
+            "fd5ddba4-5ba4-462c-ada6-6c9bb3f13c78"
+        ],
+        "Macedoni\u00eb": [
+            "27baf7a8-806a-439d-822e-bfbe8667832e"
+        ],
+        "Rhodos": [
+            "627fe30a-e0b3-410e-b461-ca01fddbffbf"
+        ],
+        "Troje": [
+            "33116acb-6458-4e18-8fa4-8b4e43ce5190"
+        ],
+        "Arcadi\u00eb": [
+            "cd623019-c33d-42c8-b351-c7864f3f55dd"
+        ]
+    },
+    "33": {
+        "Het Romeinse Rijk": [
+            "64bcd492-1f3b-47d7-b412-1e8872f144c5"
+        ],
+        "Het Perzische Rijk": [
+            "272bf483-9bd1-4766-80ea-84da6857e6dc"
+        ],
+        "Het Macedonische Rijk": [
+            "81b7aa27-f177-46d6-8587-e7864de7ce87"
+        ],
+        "Het Byzantijnse Rijk": [
+            "e51934cd-a1d0-4e59-9bd7-b5dc354588a7"
+        ],
+        "Het Ottomaanse Rijk": [
+            "41ac6a7e-c6d9-47c2-a159-61570451dd72"
+        ],
+        "Het Spartaanse leger": [
+            "883741c1-1291-43be-97e4-8ef9d00afbca"
+        ],
+        "Het Carthaagse leger": [
+            "8d9b35fb-7c4f-4768-98a0-02dd88496af5"
+        ],
+        "Het Egyptische leger": [
+            "d2844666-d884-4e13-b74f-45625cd8ba79"
+        ],
+        "Het Babylonische leger": [
+            "b5f9570f-0cff-4dcd-8d21-4f6a68b10440"
+        ],
+        "Het Assyrische leger": [
+            "5539b363-c508-44e0-adf9-6785636bffee"
+        ],
+        "Athene was beroemd om zijn elite cavalerie-eenheid.": [
+            "c4c55d3c-82a3-4e1b-bbb3-3018f2446ebf"
+        ],
+        "De grootste militaire macht van Athene was de luchtmacht.": [
+            "890310c4-09e2-48b0-8968-9cc5cd52f692"
+        ],
+        "Athene had een enorme leger van krijgers met boogschutters.": [
+            "b179f2fe-7c2c-49d3-ab44-1fff0bfbaecf"
+        ],
+        "Athene was bekend om zijn beroemde berserkers.": [
+            "3c6662af-1ff5-431b-8d94-48255bf7b84b"
+        ],
+        "Athene had een grote groep ninjastrijders.": [
+            "746597a1-e761-4ecb-890a-b4f97883a92f"
+        ],
+        "De belangrijkste militaire macht van Athene was de infanterie.": [
+            "43c1eda6-57d1-4c32-a460-d358ccdd6ecb"
+        ],
+        "Athene had een enorme groep huurlingen uit andere landen.": [
+            "af21a1ff-e5fa-4cf1-9795-f5ef8d90c976"
+        ],
+        "De grootste kracht van Athene was zijn geheime dienst.": [
+            "15100d5d-7b6d-4dcb-a9e6-3bf284064214"
+        ],
+        "Athene had een enorm arsenaal aan kernwapens.": [
+            "a6be2d1d-5176-459e-9ec7-7dcb8cc49d9a"
+        ],
+        "De belangrijkste militaire kracht van Athene was de cavalerie.": [
+            "33663e30-bd77-406a-9078-e3313ed16354"
+        ]
+    },
+    "34": {
+        "Keizerlijke heerschappij": [
+            "7fc6621a-710e-4f35-af15-aea8871223f4"
+        ],
+        "Aristocratische overheid": [
+            "4da7b227-996d-44ad-b8b3-787f4e9e7b9f"
+        ],
+        "Dictatoriale macht": [
+            "2840c95f-5194-4dd1-ae17-68cf8c0f6fc1"
+        ],
+        "Autocratische leiding": [
+            "2aaafb0a-a70e-40c0-afc7-fbf01c7411d1"
+        ],
+        "Monarchistische controle": [
+            "9ef7d694-0945-498d-8db8-660b2fc2cecb"
+        ],
+        "Oligarchische autoriteit": [
+            "620f0e85-bb17-4120-bb68-f09167ab7334"
+        ],
+        "Totalitaire regime": [
+            "31d9c650-d688-4147-9c54-41e7bc85957e"
+        ],
+        "Feodale regering": [
+            "c34154ce-0b9d-48cb-9b49-7fd54242ae1c"
+        ],
+        "Militaire bestuur": [
+            "6ccdc551-cd83-4b01-aae8-448dac899a66"
+        ],
+        "Patriarchale sturing": [
+            "dba0b80c-ffb3-4386-bea3-33b355e42673"
+        ],
+        "Monarchie 2. Theocratie 3. Oligarchie 4. Autocratie 5. Plutocratie 6. Timocratie 7. Aristocratie 8. Meritocratie 9. Feodalisme 10. Communisme 11. Totalitarisme 12. Dictatuur 13. Anarchie 14. Despotisme 15. Patriarchie 16. Kleptocratie 17. Technocratie 18. Bureaucratie 19. Fasces 20. Junta": [
+            "20862eaf-5852-4366-8e21-7839aaea1b78"
+        ]
+    },
+    "35": {
+        "Arcadi\u00eb": [
+            "35b780be-49e5-4aff-8075-2e54dff242b9"
+        ],
+        "Sparta": [
+            "872a63be-d0e1-43bd-a085-aecf1f36163b",
+            "1a6dacd6-d856-4073-ba6a-65a71be40363"
+        ],
+        "Macedoni\u00eb": [
+            "463074cc-ca49-4d76-9d5c-77783459f908"
+        ],
+        "Kreta": [
+            "83a7ae0c-f4c9-4f17-a4a7-a8b1ba82301f"
+        ],
+        "Athene": [
+            "fad492cf-9f53-491a-8e40-e7ee29eb5a8b"
+        ],
+        "Korinthe": [
+            "13f58106-b838-449a-9f45-d49f0e24aaf6"
+        ],
+        "Epirus": [
+            "9e32c6cb-2b5d-44a4-bbe7-666d4e5b9e68",
+            "74178cce-3fea-4e5d-8b40-105a87cebeb4"
+        ],
+        "Mycene": [
+            "e0ff2436-62aa-4e60-923b-3bffb750a8bb"
+        ],
+        "Delphi": [
+            "6ebd6355-e118-42ba-a402-b77bfbf36061"
+        ],
+        "Olympia": [
+            "201fc814-1cd0-45e3-9851-e7b40a5d3162"
+        ],
+        "Attica": [
+            "fb350967-d608-4b5c-8d3d-cc2a4b59c3b0"
+        ],
+        "Lesbos": [
+            "1e632bde-01cf-4190-9f06-69b7cb24c57d"
+        ],
+        "Argos": [
+            "3f5fcb5c-099d-4aac-ab9a-df3b11987a49"
+        ],
+        "Corinthia": [
+            "842f2b5f-1c3d-48e7-a301-ab7efa8768f8"
+        ],
+        "Boeotia": [
+            "4e0c99f1-8263-4edf-b1af-bf73f120f38e"
+        ],
+        "Aetolia": [
+            "b0b815f8-1b76-4538-b532-b170278009c9"
+        ],
+        "Messenia": [
+            "4e90f4d9-af86-4ac0-b05c-b8502b7ec0b0"
+        ],
+        "Arcadia": [
+            "fd710cfb-d085-4e8b-9e89-60f9b9ea8cd1"
+        ]
+    },
+    "36": {
+        "Apollo": [
+            "835ded87-7702-430f-93b8-9b460abeabd5",
+            "7826b5a3-eddd-400a-ae45-0df373fe6edc"
+        ],
+        "Hera": [
+            "71a0bc55-4915-4b64-a609-40da97104b70"
+        ],
+        "Athena": [
+            "e5776cbf-2306-4aab-bf75-a0304df3e248"
+        ],
+        "Poseidon": [
+            "f8d58262-a87f-4ba7-95cd-22b582c48cc6",
+            "20809d66-25b7-4854-8dad-f7f6ec041761"
+        ],
+        "Hades": [
+            "9e532786-461f-4da6-a7a7-9b99a2b3026c",
+            "0a09d353-8639-47ca-ae8a-0b4d7d78d836"
+        ],
+        "Demeter": [
+            "d6509f91-86f3-486d-b42e-2c99c84610cc"
+        ],
+        "Ares": [
+            "53b9c678-c49d-4484-a543-0a81d75bc47b",
+            "056ca601-517f-4d5e-ae0f-c1f573a4dc5c"
+        ],
+        "Dionysus": [
+            "93189d7e-69b6-465a-8b90-82dde8182094",
+            "d3fadce2-2a0a-4012-84c2-013835b6dbd9"
+        ],
+        "Hephaestus": [
+            "84013c16-23a7-4021-8d0c-e11bcc029e0b",
+            "b1e91b2b-482a-4ebd-9b99-4f16d6c2e13b"
+        ],
+        "Hermes": [
+            "40dceb60-2cf3-4d9f-8724-31015a3581b4",
+            "46ea3a14-bbdc-41ca-bc58-768bb2edc544"
+        ],
+        "Perseus": [
+            "67691c35-5ce4-4452-89ca-7f2ed54095e4"
+        ],
+        "Orpheus": [
+            "167ba52d-d9e7-47c6-8c98-ac28a4e2a67e"
+        ],
+        "Narcissus": [
+            "62bfe58f-188a-456a-8c08-397fc5e8d9ad"
+        ]
+    },
+    "37": {
+        "Hunnen": [
+            "dd10e78b-cc12-42d0-b604-1df0a6cc3102",
+            "c674e36a-40f7-4ba1-9e9e-839e5a7d5c65"
+        ],
+        "Slaven": [
+            "67e230f8-787e-41ba-8678-ea37bc959c88",
+            "d0311060-08fb-454b-ba45-7783ec8a4f2d"
+        ],
+        "Kelten": [
+            "82ff1f76-b899-4a2e-8995-19ac206221cc",
+            "936a9b07-5c92-47bd-ae5b-baf2b3f8273f"
+        ],
+        "Vikingen": [
+            "b9ecd4c3-203e-4673-8a30-b1f3c92641de",
+            "885212bb-8e1f-42b9-bae9-d36ca76bb650"
+        ],
+        "Goten": [
+            "f9c9442a-76ad-4cdd-a314-26959e29a5db",
+            "52e465e0-7056-4f7f-99fb-143cbc325a86"
+        ],
+        "Franken": [
+            "45bdc14f-9703-4fd5-9794-8b45551bdfd6",
+            "1ca5b875-52f7-42aa-aca6-1e79c416f678"
+        ],
+        "Friezen": [
+            "96caa014-45b2-470f-985d-ed75280fc544"
+        ],
+        "Saksen": [
+            "da041745-f81c-4839-b45a-af622764ba30",
+            "320c3a50-b062-48c3-a090-56cbaee23752"
+        ],
+        "Galli\u00ebrs": [
+            "04f6fa30-eed0-4aec-84c8-459878ba1164",
+            "635ac2a2-2cfb-43f1-864c-98e1b9ddc1d9"
+        ],
+        "Etrusken": [
+            "fa1a3348-bf43-4a91-ae4d-0d78670ed1d0"
+        ],
+        "Romeinen": [
+            "88df9d5b-117d-49ec-9dce-504ef44eacf4"
+        ],
+        "Perzen": [
+            "4c10bc36-eed7-48f1-b1f4-2b45699713f4"
+        ]
+    },
+    "38": {
+        "De slaven hadden de meeste macht in de Spartaanse samenleving.": [
+            "e25f96d0-f384-4362-94d9-f5c19f752c43"
+        ],
+        "De handelaren hadden de meeste macht in de Spartaanse samenleving.": [
+            "bddc6fbb-ad72-42c7-b825-4e807993287c"
+        ],
+        "De vrouwen hadden de meeste macht in de Spartaanse samenleving.": [
+            "1329d29c-6c9a-471c-af1d-d7c438ad033e"
+        ],
+        "De kinderen hadden de meeste macht in de Spartaanse samenleving.": [
+            "cc3f3932-d12e-4f95-87d2-eedbe5ad1fd5"
+        ],
+        "De priesters hadden de meeste macht in de Spartaanse samenleving.": [
+            "232d5ecb-d4e4-4395-ac32-2e20ab77827b"
+        ],
+        "De buitenlandse legers hadden de meeste macht in de Spartaanse samenleving.": [
+            "db5eceda-5b6f-480c-88b6-2266facd6af9"
+        ],
+        "De boeren hadden de meeste macht in de Spartaanse samenleving.": [
+            "1ed60f05-8295-4ccd-9506-3aaeb184428f"
+        ],
+        "De kunstenaars hadden de meeste macht in de Spartaanse samenleving.": [
+            "b9e5dcfb-8e7c-41cc-be19-399ee6a2b9dc"
+        ],
+        "De handwerkslieden hadden de meeste macht in de Spartaanse samenleving.": [
+            "55e742b3-b454-4383-b168-2ebf354fc9b0"
+        ],
+        "De wetenschappers hadden de meeste macht in de Spartaanse samenleving.": [
+            "5202169c-1866-4f7a-888f-0f0e4209822a"
+        ],
+        "De Spartaanse keizerin": [
+            "59a0258e-1024-4a70-a6e4-d17840ee208b"
+        ],
+        "De Spartanen raad van wijzen": [
+            "e0ed693d-6ef8-4eb5-adce-109f6386a38a"
+        ],
+        "De Spartaanse senaat": [
+            "5066b470-f6b9-4ef7-8b63-883634354be3"
+        ],
+        "De legerleider van Sparta": [
+            "84878f0c-8761-4d7c-addc-f044e26e2bc4"
+        ],
+        "De Spartaanse hogepriester": [
+            "dec5762c-d8f8-4ede-b78a-77891f7d5e16"
+        ],
+        "De Spartaanse minister-president": [
+            "82d515ee-813d-4839-93d0-a5ec21df2298"
+        ],
+        "De leider van de Spartaanse handelaarsgilde": [
+            "980e1408-db94-47c9-ac85-983de8671f49"
+        ],
+        "De Spartaanse gouverneur van de provincies": [
+            "008b4196-abce-4d0e-9c70-95b89e78ff94"
+        ],
+        "De Spartaanse minister van Onderwijs": [
+            "05e9b8d6-286c-4468-95c0-68a7861f8532"
+        ],
+        "De leider van de Spartaanse vrouwenraad": [
+            "557a70d3-b40e-46f7-8eea-86a2ef4358ec"
+        ]
+    },
+    "39": {
+        "Choose the correct answer. What type of information source does the lecturer use in the following fictional situation: \"During your internship, a lecturer comes to observe your lesson. Due to circumstances, you do not give the lesson, and the lecturer seeks out the mentor to have a conversation. The mentor tells the lecturer that you are a good intern. The mentor does not have enough time to go into detail. The mentor suggests sending an email with his observations of the lesson to the lecturer. The lecturer fills out a feedback form based on his observations.\"": [
+            "2575eb6b-da91-497e-880c-ae330b34a1df"
+        ],
+        "Consultation": [
+            "144524c6-2cc0-44ba-9f86-7e8723f970a0"
+        ],
+        "answers:": [
+            "db77575d-1214-4998-b390-28c52fda5ad5",
+            "89fe72ef-bac8-4429-bab8-02e88f0314db"
+        ],
+        "Observation": [
+            "6cc37b21-87cb-4347-b724-e811a819a7be"
+        ],
+        "Conversation": [
+            "2928eae2-63e1-48d1-93a9-60bc7dd89faf"
+        ],
+        "Observation and conversation": [
+            "a430bb73-2fbd-40fa-a3c7-68487a332196"
+        ],
+        "Choose the only correct answer. What type of presentation form of advertising is applied in this video about the game 'Clash of clans': \"Do you also wonder what is beyond the horizon? No. How could we get there? Mmmm... Do you have any idea, barbarian? Aaaah! Why don't we take the boat? Everything okay? DISCOVER WHAT IS BEYOND THE HORIZON UPDATE COMING SOON AVAILABLE.\"": [
+            "5d4f517e-5f86-43f9-ad5c-997790b997b3"
+        ],
+        "Teaser": [
+            "bbff0a43-8fad-423d-a52a-6a82507c50cd"
+        ],
+        "Repetition": [
+            "ea0a5421-b9c8-4886-9440-eab618d27904"
+        ],
+        "Schilderkunst": [
+            "facedd11-ccda-4029-88a5-356f95e6188e"
+        ],
+        "Beeldhouwkunst": [
+            "f26eaf92-42ab-4e0c-91e6-47284f1356f3"
+        ],
+        "Fotografie": [
+            "b7162287-f6f6-41fd-b298-2ae96512bbd7"
+        ],
+        "Architectuur": [
+            "ef868d2f-ed82-484a-be7d-ffbe96ba0ebc"
+        ],
+        "Muziek": [
+            "6fc96237-77c8-448b-83dd-f62bea9f5aaf"
+        ],
+        "Dans": [
+            "34e2f332-f7eb-4f53-b4c3-02701ffd00df"
+        ],
+        "Literatuur": [
+            "044d803e-65e5-475a-b7c9-f13d6e52fc3e"
+        ],
+        "Film": [
+            "a7f63199-1943-440b-9be6-4c0c4e441a6d"
+        ],
+        "Borduurwerk": [
+            "0d2a69b6-266f-4343-a707-070d82c92c4f"
+        ],
+        "Moza\u00efek": [
+            "7b05502b-1312-4f17-9c4b-b40f9487bdb9"
+        ]
+    },
+    "40": {
+        "De jongste persoon in de groep": [
+            "745aeea4-290f-4fa5-a700-aadb0d67ec64"
+        ],
+        "De persoon met de langste naam": [
+            "c495aa38-a284-4fc2-acce-8751d6294763"
+        ],
+        "Degene die het hardst kan schreeuwen": [
+            "696d6fc8-bf7e-4325-b990-44e36186f670"
+        ],
+        "De persoon met de grootste schoenmaat": [
+            "703a1ca3-7407-44f1-b81a-d24208696bfe"
+        ],
+        "Degene die het hoogste kan springen": [
+            "fbd10787-aea8-499a-b2e7-07fec6087af3"
+        ],
+        "De persoon met de meeste tatoeages": [
+            "e8c1c651-0486-41d1-95ad-c3039128e19d"
+        ],
+        "De persoon die het meeste geld heeft": [
+            "4ad88cbb-561b-45b3-b82e-aacaa807df8e"
+        ],
+        "Degene die het laatst heeft gegeten": [
+            "6738622a-b947-43fa-b23f-b6e54f71893d"
+        ],
+        "De persoon met de mooiste ogen": [
+            "bf258fc9-3316-43b2-b3e7-2bc4f97481ad"
+        ],
+        "Degene die het vaakst naar de sportschool gaat": [
+            "de7e8d77-25ff-4248-a1a9-3b87baa50c64"
+        ],
+        "De persoon met de grootste hoed.": [
+            "2cd2e803-3dc3-4c5a-b4d2-668414ba70a6"
+        ],
+        "De persoon met de meest klinkende stem.": [
+            "7b8a92f9-1592-4822-bcf8-5732abf35364"
+        ],
+        "De persoon met de grootste neus.": [
+            "3b9fb536-be13-404e-addb-de3b38277507"
+        ],
+        "De persoon met de meest kleurrijke sokken.": [
+            "23e4788c-cf3e-4d6d-aa82-7070b4f75cfc"
+        ],
+        "De persoon die het hoogste kan springen.": [
+            "954210b5-08ef-4cac-8150-489bd6f53219"
+        ],
+        "De persoon die het meest op een kikker lijkt.": [
+            "2ffc3e38-878a-436b-aff1-ea7277ce8bd8"
+        ],
+        "De persoon die het vaakst het woord \"tomaat\" kan zeggen.": [
+            "b00b58ea-2381-4bb1-8efd-8e21ca5ddac9"
+        ],
+        "De persoon die het grootste aantal tatoeages heeft.": [
+            "dfd04e2c-c2cc-4098-a9d2-7c055b0e8cfa"
+        ],
+        "De persoon die de meeste knikkers heeft.": [
+            "e29632de-2931-4738-bcae-77c9cc490cae"
+        ],
+        "De persoon die het langst zijn adem kan inhouden.": [
+            "d7f66a59-1036-4e03-9974-74807245ee03"
+        ]
+    },
+    "41": {
+        "Dierlijk": [
+            "8d0f1949-930f-4865-9fed-14974ab39a01"
+        ],
+        "Als planten": [
+            "6bd89588-0ba7-4603-abc9-a1dc6e86a1aa"
+        ],
+        "Als monsters": [
+            "e4e2ffa2-96c8-42da-9696-cd09816de121"
+        ],
+        "Als machines": [
+            "d3106495-5533-434b-8b7a-a79ecc26ebb4"
+        ],
+        "Als geesten": [
+            "4c8f23a2-321c-40f4-ad46-b5f3454d659d"
+        ],
+        "Als buitenaardse wezens": [
+            "2d22eed2-b30a-4e9a-ac0e-933b73802843"
+        ],
+        "Als hologrammen": [
+            "f7d391bd-3c89-47ed-a588-19b61527f118"
+        ],
+        "Als spoken": [
+            "0c6e7216-882c-4094-b6a8-c4ee1e29edf4"
+        ],
+        "Als engelen": [
+            "47ad779c-3411-4ba7-9e61-129126ee4879"
+        ],
+        "Als demonen": [
+            "6acdb262-2bfa-4b35-8370-9c278819fc12"
+        ],
+        "Als mythische wezens met vleugels en hoorns.": [
+            "24c6e964-f65e-4352-af69-a3b9e22abe4d"
+        ],
+        "Als gigantische monsters met tentakels en klauwen.": [
+            "46e56414-1726-466b-91f0-e86f06b014f3"
+        ],
+        "Als onzichtbare entiteiten die alleen kunnen worden gehoord.": [
+            "87131085-13c0-46a1-873e-3b48a5b8461e"
+        ],
+        "Als abstracte concepten zoals liefde, oorlog en dood.": [
+            "21d537cb-3543-4069-b2c5-347866ea340e"
+        ],
+        "Als holografische projecties die overal kunnen verschijnen.": [
+            "46db42d1-b620-4119-9d1c-d6b8b4832bc2"
+        ],
+        "Als kleurrijke ballonnen die in de lucht zweven.": [
+            "e2d334c3-639f-4bac-a79d-b424c661a23d"
+        ],
+        "Als buitenaardse wezens met groene huid en antennes.": [
+            "20c3fc30-a0e2-4602-a516-5507567fff39"
+        ],
+        "Als geesten die in bomen en rotsen wonen.": [
+            "2d997e76-0075-4fee-ad44-149e34f2bed0"
+        ],
+        "Als mechanische robots met bliksemschichten als ogen.": [
+            "6b45fe95-9e91-4e49-8f65-efc07c5324dd"
+        ],
+        "Als pratende dieren zoals konijnen en katten.": [
+            "db04a463-ed58-4e4f-ba19-395ab2b1190a"
+        ]
+    },
+    "42": {
+        "Ze bouwden piramides.": [
+            "066c891f-f735-41a6-b95b-6fc95c71d400"
+        ],
+        "Ze bouwden ruimteschepen.": [
+            "8646cbae-a22d-48bf-b58d-d04f0c669545",
+            "79684736-edbf-472e-b752-2b37257e6bbb"
+        ],
+        "Ze bouwden watermolens.": [
+            "566187f7-0f23-4cf5-a283-a3ef5727a5b2"
+        ],
+        "Ze bouwden kastelen.": [
+            "b97f20dc-d81f-423c-9580-e8545363766d"
+        ],
+        "Ze bouwden wolkenkrabbers.": [
+            "34046043-2a14-4b12-9ee8-f2666b31dff0"
+        ],
+        "Ze bouwden windmolens.": [
+            "4fdfccb0-e323-46ba-94c8-5be11a4c99c7"
+        ],
+        "Ze bouwden aquaducten.": [
+            "4e9b6378-81ee-4c39-a6fc-b0489fe64696"
+        ],
+        "Ze bouwden gigantische beelden.": [
+            "bbfa9278-ae82-4695-a176-df6794b74e39"
+        ],
+        "Ze bouwden grotten.": [
+            "16c7890c-4c50-4930-b099-92ae1989de0c"
+        ],
+        "Ze bouwden observatoria.": [
+            "e245bd4e-f508-4637-8bc6-0b8554b66533"
+        ],
+        "Ze bouwden gigantische piramides.": [
+            "36f7f33e-f7fb-47f2-b5ab-e799a5a8a624"
+        ],
+        "Ze bouwden ondergrondse tunnelsystemen.": [
+            "52db547b-a1c3-4614-b8c9-f624120f3e3f"
+        ],
+        "Ze bouwden luchtkastelen.": [
+            "65708b61-f414-4688-89b1-4663d74a7f4b"
+        ],
+        "Ze bouwden enorme standbeelden van zichzelf.": [
+            "f21f48a0-ce77-4adf-875e-bc96d0f8fa36"
+        ],
+        "Ze bouwden pretparken.": [
+            "8c06181f-1df7-4aff-896e-37c7344dd7e1"
+        ],
+        "Ze bouwden reusachtige waterrad-energiecentrales.": [
+            "035f4259-59d9-4664-a2de-097e93a99c6f"
+        ],
+        "Ze bouwden vliegende eilanden.": [
+            "094bb452-20e6-4135-9185-ba226fec70e1"
+        ],
+        "Ze bouwden reusachtige muren rond hun steden.": [
+            "6d5a25c2-6e45-4bcb-bea0-286f5005efaf"
+        ],
+        "Ze bouwden geheime laboratoria voor alchemie.": [
+            "2f463052-783e-4f36-938d-e52d872128b1"
+        ]
+    },
+    "43": {
+        "Rijn": [
+            "ec322927-f3a2-4d95-9c90-5f8ac3cdc901"
+        ],
+        "Seine": [
+            "f7538c51-834e-42d9-82b5-d6b4d67f727c"
+        ],
+        "Donau": [
+            "d630518f-9f2f-42f1-bbbb-4d222d5142b0"
+        ],
+        "Po": [
+            "6c17efab-e66a-4728-9db2-8eadff3a8704"
+        ],
+        "Mississippi": [
+            "9a867040-67a8-4528-9cbc-efeb94dd8db0",
+            "a4133ccd-0ff4-48e7-a096-e518fd7754c3"
+        ],
+        "Amazone": [
+            "7b872654-82df-40e1-ae1e-47c29f75ec42"
+        ],
+        "Thames": [
+            "fadb8055-7d5d-4251-b589-a38179514807",
+            "33792065-7b50-4120-85f3-3eb67be83159"
+        ],
+        "Ganges": [
+            "fe29b408-4ad8-4126-b5c3-d68285ea9a3e",
+            "1493b677-4dc3-4292-af5a-7d63e28c34a1"
+        ],
+        "Yangtze": [
+            "a9cde309-030a-47d0-9edb-78fa6f739427",
+            "1c0265e9-1db0-455d-ad82-c37fcfded8e2"
+        ],
+        "Congo": [
+            "2389bff0-d92f-475a-98b2-57ed1f856c72"
+        ],
+        "Nile": [
+            "271c6d3f-f171-43a0-84e2-01039de39ba8"
+        ],
+        "Amazon": [
+            "e062b381-ac24-4100-8572-66f61f48a83d"
+        ],
+        "Danube": [
+            "210ea463-c6eb-43b5-be3e-b6b227523a98"
+        ],
+        "Volga": [
+            "044d130f-6219-4fc5-84ad-e33282b42e0c"
+        ],
+        "Mekong": [
+            "440c276b-f502-4c9f-bf1c-0bc5f70f54ba"
+        ],
+        "Indus": [
+            "ee4097e0-44e6-4655-a415-73c82d87b5b1"
+        ]
+    },
+    "44": {
+        "Men ging dichter bij elkaar wonen.": [
+            "f7596eeb-e218-4794-88c0-4bfe8d6b1917"
+        ],
+        "Het versterkte de familiebanden.": [
+            "66d49065-2f18-4472-b6af-24c0c3ee0c14"
+        ],
+        "Het leidde tot meer huwelijken binnen dezelfde familie.": [
+            "81dd1897-0efe-44ad-be4a-d5d645a37906"
+        ],
+        "Het verminderde het belang van familierelaties.": [
+            "d9475361-5d55-43de-b9c7-f876ff9f2e3b"
+        ],
+        "Het leidde tot meer migratie van jonge mannen.": [
+            "f4ee3eec-173f-40f3-96cf-a88db045edc5"
+        ],
+        "Het zorgde voor meer gezamenlijke activiteiten binnen de families.": [
+            "ae776e66-2e4a-4621-ac68-bf3f257be7f9"
+        ],
+        "Het leidde tot meer scheidingen binnen de families.": [
+            "51b8ab31-4db8-43ef-9ae3-8c7e3770e3a6"
+        ],
+        "Het verminderde de frequentie van familiebijeenkomsten.": [
+            "d437ff9a-79f8-480b-b9ea-88c0a5f11491"
+        ],
+        "Het zorgde voor meer rivaliteit tussen families.": [
+            "c7a52b85-6564-4d34-a6e9-944aee0fba7b"
+        ],
+        "Het leidde tot meer huwelijken buiten de eigen cultuur.": [
+            "4cdbe083-504e-494d-8197-c6ce25ae31f8"
+        ],
+        "De families werden nauwer verbonden door de oprichting van kolonies.": [
+            "ae21a44e-8d46-460c-96bf-57e85374a599"
+        ],
+        "Kolonisatie had geen effect op familierelaties.": [
+            "f50e8424-c756-4481-b746-a10303ffc05c"
+        ],
+        "De oprichting van kolonies bracht families juist dichter bij elkaar.": [
+            "a0bd8914-0619-475c-aa2b-a558b9f5283e"
+        ],
+        "Kolonisatie had een negatief effect op de huwelijkstradities van de oude Grieken.": [
+            "445160df-673c-410a-8106-bef1d6d7960a"
+        ],
+        "De oprichting van kolonies leidde tot meer familiere\u00fcnies.": [
+            "d36f2afb-93e6-4aab-9fcf-178cacf8f50f"
+        ],
+        "De oude Grieken werden meer op zichzelf gericht door de kolonisatie.": [
+            "0f413d13-b20e-4715-b072-4ba7391fa11a"
+        ],
+        "Kolonisatie zorgde ervoor dat families meer met elkaar communiceerden.": [
+            "3c23442e-1e0f-43a4-a30c-24f0102fd3de"
+        ],
+        "De oprichting van kolonies had geen effect op familiebanden.": [
+            "485790e9-fab3-48c3-a427-b04dfe92fbb4"
+        ],
+        "Families hadden meer contact met elkaar door de kolonisatie.": [
+            "6466cfec-4026-4881-83ee-4ab93c150da1"
+        ],
+        "De oprichting van kolonies bracht families verder uit elkaar.": [
+            "b61217ea-c916-4aa5-a246-ca95a25e7263"
+        ]
+    },
+    "45": {
+        "Afrika": [
+            "87017442-7983-4a20-b83f-43bbbe7f4d60",
+            "8c4da566-2afa-4b5d-b20c-77714c5ca6f4"
+        ],
+        "Zuid-Amerika": [
+            "4889b484-0f00-4caa-8454-02f10fcd6fa3",
+            "611dadfa-4018-4912-bdcf-5672d1cb12fc"
+        ],
+        "Australi\u00eb": [
+            "fdbdd550-1063-4e9c-a75f-f8a2e5aa65e5",
+            "255df867-d068-48df-86f5-d3ddc1da5faf"
+        ],
+        "Antarctica": [
+            "33309d92-7637-4034-8a22-1d1835e84e2e",
+            "dcea0265-b782-4431-8f4a-a160371ab367"
+        ],
+        "Noordpoolgebied": [
+            "5eb575a1-1f23-4738-8ebd-8d20a3670719"
+        ],
+        "Midden-Oosten": [
+            "2c7eceb6-f0ae-4b75-9eb3-b0ecf0bec586"
+        ],
+        "Oost-Azi\u00eb": [
+            "703c718a-6bbb-48d7-bdfc-cc9317b0ab53"
+        ],
+        "Centraal-Amerika": [
+            "fec69e83-6650-492e-9341-6216d6a9a09d"
+        ],
+        "Caribisch gebied": [
+            "445410c6-9d01-45f3-9fec-4ba0f1059e8b"
+        ],
+        "Zuidoost-Azi\u00eb": [
+            "ba29e8f9-4b01-4045-b17d-da8d1d3c2440"
+        ],
+        "Azi\u00eb": [
+            "333d1afb-32c0-4b44-baf3-3b56fcf80428"
+        ],
+        "Noord-Amerika": [
+            "6043321d-166a-4286-9406-15a87f8ed676"
+        ],
+        "Oceani\u00eb": [
+            "963c8dd0-6f34-492f-9f26-071a1a8aa893"
+        ],
+        "Atlantis": [
+            "e2d234dd-973d-456c-9fa2-2edb04936f18"
+        ],
+        "Mars": [
+            "18429751-65c1-4007-854f-493a9e4f5601"
+        ],
+        "De maan": [
+            "3714ba1a-eca7-4cb2-a7ed-c5086aa09cdf"
+        ]
+    },
+    "46": {
+        "Een boog en pijlen": [
+            "ff609bba-fa23-4b8d-be3b-36f10385e65a"
+        ],
+        "Een speer en een schild": [
+            "79b512be-a4d2-45a5-8250-ea51fd959a23"
+        ],
+        "Een helm en een harnas": [
+            "3b05ad30-c93c-4034-be40-5fb0148e8374"
+        ],
+        "Een kompas en een kaart": [
+            "d9eac675-046b-4352-b3b4-8d63b2346d8d"
+        ],
+        "Een fluit en een harp": [
+            "e94acdf1-7790-4390-946f-e66828c77d5d"
+        ],
+        "Een scepter en een kroon": [
+            "037e690e-a92a-44df-b5de-b58e7f974425"
+        ],
+        "Een lamp en een oliekruik": [
+            "5b60cf73-7579-4632-b560-f61577be3401"
+        ],
+        "Een mantel en sandalen": [
+            "1794dec7-0e90-45d3-8376-2e7e8a34728a"
+        ],
+        "Een staf en een amulet": [
+            "4e0db185-4e39-48dd-bed7-515a6daa22f8"
+        ],
+        "Een zak met goud en juwelen": [
+            "57253ddb-d48b-4a18-a088-f2804318a538"
+        ],
+        "Een toverstok en een toverboek.": [
+            "e6a21c79-1851-45fc-80e0-ea5fc4b9a4ae"
+        ],
+        "Een lantaarn en een verrekijker.": [
+            "d6884668-4319-4e86-a393-7694619d02b2"
+        ],
+        "Een speer en een schild.": [
+            "cf162038-f35a-4a14-9a87-bcda6ee33abf"
+        ],
+        "Een helm en een harnas.": [
+            "5fef8bba-0689-4b6b-beda-9fe2d7d7a141"
+        ],
+        "Een amulet en een talisman.": [
+            "7ff588b0-45e1-46d4-a5a4-39a2124e27e5"
+        ],
+        "Een kaart en een kompas.": [
+            "565d5f56-0768-4dcd-8a1b-b64a7ac93afd"
+        ],
+        "Een zaklamp en een mes.": [
+            "57faa6ae-242b-42fc-977d-8a85e15f9d9b"
+        ],
+        "Een schatkaart en een gouden sleutel.": [
+            "25616dc3-33a7-4bde-9616-09e6f8c7df21"
+        ],
+        "Een kristallen bol en een scepter.": [
+            "7073c7dd-8947-4fcc-8a63-6eedd4187ca4"
+        ],
+        "Een paar sandalen en een mantel.": [
+            "1a6a69c7-9deb-4bb2-ae10-c21e5b33a6dd"
+        ]
+    },
+    "47": {
+        "De Azteken": [
+            "1fd498de-a61d-4758-9753-ceb0216189a9",
+            "4a1f3014-8a0e-4852-a269-5e25c54fca8f"
+        ],
+        "De Vikingen": [
+            "517b00d3-996a-4078-8c26-6a9560b2520b",
+            "62b8ca2e-ebf2-461a-b9f3-9b737689d0e2"
+        ],
+        "De Inca's": [
+            "bdd95ba0-8ae5-4944-b349-eae9d3d1bda2",
+            "ebf8e2a0-2d49-497b-9bb8-5f97af8cf4d6"
+        ],
+        "De Mongolen": [
+            "30f476cc-fb2c-4cdf-9dfb-3f29e418c52b",
+            "43e1b1b7-aa35-41ed-9d09-eabce81629af"
+        ],
+        "De Maya's": [
+            "bfc284a8-d60c-4b38-8c7e-ad9615c6c079",
+            "7d9362a3-934e-48f8-b48d-f9e8f8a188e5"
+        ],
+        "De Kelten": [
+            "c750e866-03ac-4d18-a98b-0840c910a993",
+            "ae96d426-55ce-4cf6-9db7-bfec45357e3d"
+        ],
+        "De Egyptenaren": [
+            "a39747fa-365f-4a63-8506-5887aeb9c1b3",
+            "f68cc23a-9f9c-46a5-b767-e1aee0ded9fc"
+        ],
+        "De Babyloniers": [
+            "ee68898e-b2e2-4efc-8f75-8a68c9e05e9a"
+        ],
+        "De Chinezen": [
+            "eee7bf46-bf11-4d42-83f0-a6d7343ddf7e"
+        ],
+        "De Japanners": [
+            "5c4ffecb-07dc-4c37-899c-2fd06b524fe4"
+        ],
+        "De Romeinen": [
+            "f84640da-960b-4ed7-b26f-3be5a6edcf75"
+        ],
+        "De Hittieten": [
+            "84411947-13fb-4814-8013-5f4a65479541"
+        ],
+        "De Fenici\u00ebrs": [
+            "18176bb5-47cf-441b-9293-18ef72350067"
+        ]
+    },
+    "48": {
+        "Van Australi\u00eb tot Antarctica": [
+            "bcfeb4c0-421a-4ee2-8d64-7d3e5bb4e457"
+        ],
+        "Van Zuid-Amerika tot Siberi\u00eb": [
+            "471f918e-26a1-403b-8732-ae83dcbfedbb"
+        ],
+        "Van Mexico tot de Sahara": [
+            "c5462599-31ae-4265-959a-422e4c31d9a4"
+        ],
+        "Van China tot Nieuw-Zeeland": [
+            "029cc066-f2d8-41d2-b855-195c13e8ad21"
+        ],
+        "Van Canada tot het Midden-Oosten": [
+            "70051946-80c5-4d70-848d-e0beb3e3bb48"
+        ],
+        "Van Alaska tot de Amazone": [
+            "28bc7233-c25b-466d-b150-e2626e3d33f1"
+        ],
+        "Van Groenland tot Madagascar": [
+            "ebad7fd9-fcea-45ba-ba03-4a556efa7aad"
+        ],
+        "Van India tot IJsland": [
+            "5003d4d0-8b4d-44af-9e18-aac81efafd6c"
+        ],
+        "Van Egypte tot Zuid-Afrika": [
+            "c3ab0aad-1977-4239-9ec0-b67978749578"
+        ],
+        "Van Japan tot de Canarische Eilanden": [
+            "42c6f139-328b-4402-a23d-4746fd765a37"
+        ],
+        "Noord-Amerika": [
+            "434686cb-c948-488e-b99e-876b80c25cee"
+        ],
+        "Zuid-Amerika": [
+            "120db071-a721-44a1-97b6-4e827d034256"
+        ],
+        "Antarctica": [
+            "b9195f0f-b902-4b7c-8b5e-9e4d9b1d3dd6"
+        ],
+        "Australi\u00eb": [
+            "f827269a-bfa4-44a3-a97a-70e51cd3a8a6"
+        ],
+        "Nieuw-Zeeland": [
+            "638f791f-fcde-4547-9502-0fafda409f85"
+        ],
+        "Centraal-Azi\u00eb": [
+            "9c5356c2-3f3a-47f7-802d-1afbe9469e8b"
+        ],
+        "Midden-Oosten": [
+            "2d558de6-8895-4bc4-85c4-9efd80ea79db"
+        ],
+        "Scandinavi\u00eb": [
+            "5004c98f-2095-47d1-bbda-f4a6e87442bc"
+        ],
+        "India": [
+            "c851834e-f464-4a46-bd40-9af850be3420"
+        ],
+        "Zuidoost-Azi\u00eb": [
+            "d27a03a3-acb4-4685-b16e-692db1690e6c"
+        ]
+    },
+    "49": {
+        "Delphi": [
+            "829142f6-cded-499f-8d14-36bff74c68e6",
+            "a575e84b-5873-42cb-8b73-aac85a3d3ee3"
+        ],
+        "Peloponnesos": [
+            "482b4dd6-70b3-4f02-8c1d-1b30d31e6165"
+        ],
+        "Kreta": [
+            "84e67683-4451-4e6d-8365-a7aaf1c2986a"
+        ],
+        "Korinthe": [
+            "f30e23d5-c3e4-4891-8e11-98c590258748",
+            "caa5a731-f9b9-4004-a009-c70ed8b0f1e4"
+        ],
+        "Epirus": [
+            "7ed8bdf3-9c20-4ec8-8ef9-fc78e6007124"
+        ],
+        "Ionische Zee": [
+            "1e70d539-823b-47c0-bd98-09f6e0c86875"
+        ],
+        "Kappadoci\u00eb": [
+            "a38bae7f-5eba-44b0-8145-90a0bd1b7a93"
+        ],
+        "Kaukasus": [
+            "f5ea8c3e-c0b0-43bb-8887-90bd6bc76696"
+        ],
+        "Perzi\u00eb": [
+            "ddb30a75-b38a-442e-950a-b9d46f43a219"
+        ],
+        "Mesopotami\u00eb": [
+            "8957997d-ba47-4543-9a61-5c15aba77484"
+        ],
+        "Marathon": [
+            "c6b25123-4dcb-4100-8488-423ac3107fa3"
+        ],
+        "Salamis": [
+            "b938be98-099b-4027-8ce8-c876b28707bf"
+        ],
+        "Sparta": [
+            "555fa7b7-2e42-4ce4-bbcd-599fe1bdde53"
+        ],
+        "Attica": [
+            "e9cdc084-b99f-49cd-8e53-ad00382616d3"
+        ],
+        "Mycenea": [
+            "47260676-f263-46c0-bc81-135092636d27"
+        ],
+        "Crete": [
+            "69ad8e9c-f929-44ec-9e0c-1816f427b811"
+        ],
+        "Macedonia": [
+            "80d69b5b-cf14-4a33-bf8d-9406b84272d3"
+        ],
+        "Rhodes": [
+            "4c83c16a-65f0-47da-a4a7-f1d82b41c76e"
+        ]
+    }
+}

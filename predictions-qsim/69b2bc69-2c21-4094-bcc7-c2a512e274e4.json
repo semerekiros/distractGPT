@@ -1,0 +1,137 @@
+{
+    "qid": "69b2bc69-2c21-4094-bcc7-c2a512e274e4",
+    "response": {
+        "Query": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! Go ... .",
+        "Result": [
+            {
+                "answer": "straight ahead ",
+                "answer_length": 2,
+                "distractors": [
+                    "ahead ",
+                    "on ",
+                    "ahead on "
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! Go ... .",
+                "question_length": 18,
+                "score": 0.90022808751993
+            },
+            {
+                "answer": "has been confirmed ",
+                "answer_length": 3,
+                "distractors": [
+                    "is been confirmed ",
+                    "has being confirmed ",
+                    "have been confirmed "
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . Your hotel booking ...",
+                "question_length": 19,
+                "score": 0.8479456110548197
+            },
+            {
+                "answer": "At",
+                "answer_length": 1,
+                "distractors": [
+                    "Go straight on",
+                    "On",
+                    "To"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! ... the traffic lights turn left .",
+                "question_length": 22,
+                "score": 0.843080876189942
+            },
+            {
+                "answer": "Of course ",
+                "answer_length": 2,
+                "distractors": [
+                    "Evidently ",
+                    "Without problem "
+                ],
+                "language": "en",
+                "question": "Listen to the sentence and choose the correct answer ! Ecoutez la phrase et reperez la reponse utilisee ! Luister naar de zin en kies het correcte woord .",
+                "question_length": 29,
+                "score": 0.835998616594162
+            },
+            {
+                "answer": "would you go",
+                "answer_length": 3,
+                "distractors": [
+                    "will you go",
+                    "you went",
+                    "have you gone"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . Where ... if you won the lottery ?",
+                "question_length": 13,
+                "score": 0.8021136894719351
+            },
+            {
+                "answer": "good morning",
+                "answer_length": 2,
+                "distractors": [
+                    "good evening",
+                    "goodbye",
+                    "see you"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . When you arrive at work , you say ...",
+                "question_length": 14,
+                "score": 0.7763334690801899
+            },
+            {
+                "answer": "I am sorry",
+                "answer_length": 3,
+                "distractors": [
+                    "you are not welcome",
+                    "I will call back later",
+                    "I am not correct"
+                ],
+                "language": "en",
+                "question": "Choose the correct answer . When you have dialled the wrong number you say ...",
+                "question_length": 15,
+                "score": 0.753548620952118
+            },
+            {
+                "answer": "repeat",
+                "answer_length": 1,
+                "distractors": [
+                    "revise",
+                    "say again",
+                    "retell"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Sorry , I did n't quite catch your name . Can you ... .. it , please ?",
+                "question_length": 23,
+                "score": 0.7336228125831924
+            },
+            {
+                "answer": "A2 B3 C1",
+                "answer_length": 3,
+                "distractors": [
+                    "A1 B2 C3",
+                    "A3 B1 C2",
+                    "A2 B1 C3"
+                ],
+                "language": "en",
+                "question": "Match the expressions with the appropriate answers . A. I 'm going to get a drink from the vending machine . Can I get you anything ? B . Fancy a coffee break ? C. I 'd like to go for a drink but I 'm a bit short this month ... 1 . Me too ! I have n't got a penny ; how long till pay day ? 2 . No thanks , I 've just had tea . 3 . I 'd love to but I 'm totally snowed under at the moment !",
+                "question_length": 97,
+                "score": 0.7322152634976027
+            },
+            {
+                "answer": "Who",
+                "answer_length": 1,
+                "distractors": [
+                    "What",
+                    "Which",
+                    "Why"
+                ],
+                "language": "en",
+                "question": "Choose the correct question word ! Kies het goede vraagwoord ! Choisissez le mot interrogatif qui convient ! ... will give a speech ?",
+                "question_length": 24,
+                "score": 0.7239918751009193
+            }
+        ]
+    }
+}

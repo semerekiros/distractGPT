@@ -1,0 +1,5 @@
+{
+    "qid": "900e1aca-535a-479f-9082-5c7afb602ff9",
+    "input": "vraag: Welk seizoen is het in juli?\nantwoord: zomer\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. herfst\n2. lente\n3. winter\n4. regenseizoen\n5. tornado-seizoen\n6. sneeuwseizoen\n7. orkaanseizoen\n8. droog seizoen\n9. hagelseizoen\n10. hittegolf seizoen\n11. moesson seizoen\n12. zomerstorm seizoen\n13. bosbrand seizoen\n14. aardbeving seizoen\n15. tornado-jacht seizoen\n16. zandstorm seizoen\n17. lawine seizoen\n18. ijzel seizoen\n19. tsunami seizoen\n20. poolnacht seizoen"
+}

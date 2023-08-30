@@ -1,0 +1,136 @@
+{
+    "qid": "d8bd43f8-58ce-4a10-803a-23109265fd85",
+    "response": {
+        "Query": "Voor hoeveel procent van de wereldwijde CO2-uitstoot is de luchtvaart verantwoordelijk?",
+        "Result": [
+            {
+                "answer": "51 %",
+                "answer_length": 2,
+                "distractors": [
+                    "62 %",
+                    "56 %",
+                    "41 %"
+                ],
+                "language": "nl",
+                "question": "Hoeveel procent van het taartdiagram nemen de drie belangrijkste bronnen van zout in ?",
+                "question_length": 14,
+                "score": 0.9913026163155941
+            },
+            {
+                "answer": "57 %",
+                "answer_length": 2,
+                "distractors": [
+                    "72 %",
+                    "83 %"
+                ],
+                "language": "en",
+                "question": "3 ) What percentage of young people aged 16-19 use contraception ?",
+                "question_length": 12,
+                "score": 0.9840563299002966
+            },
+            {
+                "answer": "66 %",
+                "answer_length": 2,
+                "distractors": [
+                    "90 %",
+                    "10 %",
+                    "25 %"
+                ],
+                "language": "nl",
+                "question": "Hoeveel procent van ons lichaam bestaat uit water ?",
+                "question_length": 9,
+                "score": 0.9830830011206657
+            },
+            {
+                "answer": "88 %",
+                "answer_length": 2,
+                "distractors": [
+                    "22 %",
+                    "80 %",
+                    "20 %"
+                ],
+                "language": "nl",
+                "question": "Granen worden vaak bewaard voor langere termijn nadat ze geoogst zijn . Tot welke DS moet men graan drogen om geen microbieel bederf te hebben tijdens de bewaring ? Duid het juiste antwoord aan . Maak gebruik van de figuren hiernaast . Gebruik curve 4 van tarwemeel ( grafiek 2.2 . ) .",
+                "question_length": 53,
+                "score": 0.9829384680567025
+            },
+            {
+                "answer": "12 %",
+                "answer_length": 2,
+                "distractors": [
+                    "10 %",
+                    "11 %",
+                    "13 %"
+                ],
+                "language": "nl",
+                "question": "Bekijk de bron en beantwoord de vragen . Hoeveel procent van de jongeren surft niet op 11-jarige leeftijd ?",
+                "question_length": 19,
+                "score": 0.9819291803165717
+            },
+            {
+                "answer": "100 %",
+                "answer_length": 2,
+                "distractors": [
+                    "15 %",
+                    "50"
+                ],
+                "language": "fr",
+                "question": "Quel est le pourcentage de matieres premieres issues du recyclage ?",
+                "question_length": 11,
+                "score": 0.9801247564697159
+            },
+            {
+                "answer": "11,2 %",
+                "answer_length": 2,
+                "distractors": [
+                    "3,8 %",
+                    "7,6 %",
+                    "10,4 %"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoeveel procent van de leerlingen gaven in de bevraging voor het schooljaar 2010-2011 aan dat ze ooit cannabis hadden gebruikt ?",
+                "question_length": 28,
+                "score": 0.9789456969136574
+            },
+            {
+                "answer": "12,5 %",
+                "answer_length": 2,
+                "distractors": [
+                    "5 %",
+                    "10 %",
+                    "15 %"
+                ],
+                "language": "nl",
+                "question": "Klik op het juiste antwoord . Hoeveel bedraagt het % van de Goedeklantbonus voor Modulis VIP-klanten ?",
+                "question_length": 17,
+                "score": 0.9760416663261005
+            },
+            {
+                "answer": "10 %",
+                "answer_length": 2,
+                "distractors": [
+                    "25 %",
+                    "40 %",
+                    "60 %"
+                ],
+                "language": "nl",
+                "question": "Hoeveel procent van de Chinese bevolking behoort tot de middenklasse ?",
+                "question_length": 11,
+                "score": 0.9755813457672756
+            },
+            {
+                "answer": "25 %",
+                "answer_length": 2,
+                "distractors": [
+                    "10 %",
+                    "50 %",
+                    "75 %"
+                ],
+                "language": "nl",
+                "question": "Hoeveel procent ( benaderend ) van de diabetes patienten wordt geconfronteerd met een diabetes voet ulcus ( DFU ) ?",
+                "question_length": 20,
+                "score": 0.9752950293919032
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "333c8879-d5f1-4417-8ff7-e45c716380eb",
+    "input": "Indiquez les bonnes suites de phrases . Elle a un drole d'accent . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Elle vient d'un autre pays\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. elle vient d'un autre pays\n2. elle est en europe\n3. il a voulu bien etre\n4. lui vient de la france\n5. toutes les reponses sont correctes\n6. toutes les reponses\n7. elle est de l'autre\n8. elle fait une faux reponse\n9. toutes les pi\u00e8ces sont correctes 5.\n10. elle a une fillette"
+}

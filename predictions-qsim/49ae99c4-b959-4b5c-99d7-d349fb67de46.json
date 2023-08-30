@@ -1,0 +1,122 @@
+{
+    "qid": "49ae99c4-b959-4b5c-99d7-d349fb67de46",
+    "response": {
+        "Query": "Indicatif ou subjonctif ? Choisis le bon verbe . J'exigue que vous m ' ... !",
+        "Result": [
+            {
+                "answer": "aidiez",
+                "answer_length": 1,
+                "distractors": [
+                    "aidez"
+                ],
+                "language": "fr",
+                "question": "Indicatif ou subjonctif ? Choisis le bon verbe . J'exigue que vous m ' ... !",
+                "question_length": 16,
+                "score": 0.6831189323725988
+            },
+            {
+                "answer": "ont attendu",
+                "answer_length": 2,
+                "distractors": [
+                    "avez attendu",
+                    "avons attendu"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme du verbe attendre . - Ils ... toute la journee . degrees Zut , alors !",
+                "question_length": 20,
+                "score": 0.681774878242058
+            },
+            {
+                "answer": "prennent",
+                "answer_length": 1,
+                "distractors": [
+                    "prends"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme du verbe prendre . Et les enfants , ils ... quoi ?",
+                "question_length": 16,
+                "score": 0.6511543570183513
+            },
+            {
+                "answer": "peux",
+                "answer_length": 1,
+                "distractors": [
+                    "peut"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme du verbe pouvoir . Je ne ... pas venir dimanche , dommage .",
+                "question_length": 17,
+                "score": 0.6160249262523557
+            },
+            {
+                "answer": "ont attendu",
+                "answer_length": 2,
+                "distractors": [
+                    "a attendu",
+                    "avons attendu"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme du verbe attendre . - Les enfants ... dans la pluie . degrees Je sais .",
+                "question_length": 20,
+                "score": 0.5865440586674675
+            },
+            {
+                "answer": "as attendu",
+                "answer_length": 2,
+                "distractors": [
+                    "a attendu",
+                    "ai attendu"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme du verbe attendre . - Tu ... ou ? degrees Mais , ici .",
+                "question_length": 18,
+                "score": 0.5832440872799948
+            },
+            {
+                "answer": "habitez",
+                "answer_length": 1,
+                "distractors": [
+                    "gagnez"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste werkwoord . Meer uitleg nodig ? Klik op G en kijk naar Sous la loupe 6 . Vous ... ici ?",
+                "question_length": 24,
+                "score": 0.5780108733854084
+            },
+            {
+                "answer": "prenez",
+                "answer_length": 1,
+                "distractors": [
+                    "prenons"
+                ],
+                "language": "fr",
+                "question": "Choisis la bonne forme du verbe prendre . Et vous , qu'est-ce que vous ... ?",
+                "question_length": 16,
+                "score": 0.54073820122828
+            },
+            {
+                "answer": "entends",
+                "answer_length": 1,
+                "distractors": [
+                    "entendes"
+                ],
+                "language": "fr",
+                "question": "Choisissez entre l'indicatif ou le subjonctif . Emploi du subjonctif . Des que tu ... cette chanson , tu te mets a chanter .",
+                "question_length": 24,
+                "score": 0.5314254224575393
+            },
+            {
+                "answer": "viennent",
+                "answer_length": 1,
+                "distractors": [
+                    "tiennent",
+                    "retiennent"
+                ],
+                "language": "fr",
+                "question": "Indique le bon verbe . Duid het goede werkwoord aan . Ils ... lundi soir .",
+                "question_length": 16,
+                "score": 0.5118069576449586
+            }
+        ]
+    }
+}

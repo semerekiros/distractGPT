@@ -1,0 +1,134 @@
+{
+    "qid": "69283f53-92ea-45a7-96dc-6ec38d559910",
+    "response": {
+        "Query": "Wat zou de push-factoren dan wel weghalen?",
+        "Result": [
+            {
+                "answer": "en P-zinnen",
+                "answer_length": 2,
+                "distractors": [
+                    "en S- zinnen",
+                    ", S- en A-zinnen"
+                ],
+                "language": "nl",
+                "question": "Welke waarschuwingszinnen mogen vermeld staan op etiketten van chemische stoffen ?",
+                "question_length": 11,
+                "score": 0.9715661592924507
+            },
+            {
+                "answer": "Leefbaar",
+                "answer_length": 1,
+                "distractors": [
+                    "Duurzaam",
+                    "Rechtvaardig",
+                    "Houdbaar"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Hoe noem je de overlapping tussen het sociale belang en het ecologische belang ?",
+                "question_length": 20,
+                "score": 0.9693469939339233
+            },
+            {
+                "answer": "hoogconjunctuur ;",
+                "answer_length": 2,
+                "distractors": [
+                    "massale werkloosheid ;",
+                    "deflatie "
+                ],
+                "language": "nl",
+                "question": "Maar een antwoord is juist . Een begrotingsoverschot is volgens de keynesiaanse theorie wenselijk bij :",
+                "question_length": 16,
+                "score": 0.9510396814830435
+            },
+            {
+                "answer": "subsidies aan binnenlandse producenten ;",
+                "answer_length": 5,
+                "distractors": [
+                    "invoerquota ;",
+                    "invoerheffingen ;",
+                    "niet-tarifaire belemmeringen "
+                ],
+                "language": "nl",
+                "question": "Maar een antwoord is juist . In een economie is er vrije invoer van graan . De binnenlandse prijs voor graan die tot stand zou komen zonder invoer ligt boven de prijs op de wereldmarkt . De overheid wil maatregelen nemen om de binnenlandse graanproducenten te beschermen . Welke maatregel leidt niet tot een reductie van het consumentensurplus ?",
+                "question_length": 59,
+                "score": 0.94407184068248
+            },
+            {
+                "answer": "door de rolklem",
+                "answer_length": 3,
+                "distractors": [
+                    "door de hoogte"
+                ],
+                "language": "nl",
+                "question": "Hoe kan de druppelsnelheid ingesteld worden bij sondevoeding op zwaartekracht ?",
+                "question_length": 11,
+                "score": 0.9371265783373748
+            },
+            {
+                "answer": "menselijke handelingen",
+                "answer_length": 2,
+                "distractors": [
+                    "de techniek",
+                    "de organisatie",
+                    "de werkplek"
+                ],
+                "language": "nl",
+                "question": "Bekijk eerst onderstaand filmpje ! Waardoor worden 80 % van de arbeidongevallen veroorzaakt ?",
+                "question_length": 14,
+                "score": 0.9356250869571975
+            },
+            {
+                "answer": "via een fictieve rente ",
+                "answer_length": 4,
+                "distractors": [
+                    "via een anticipatieve taks ",
+                    "eenmalig aan 10 % ",
+                    "niet"
+                ],
+                "language": "nl",
+                "question": "Hoe wordt de prestatie van een schuldsaldoverzekering ( fiscaliteit woonbonus ) , gekoppeld aan een hypothecaire lening , belast ?",
+                "question_length": 20,
+                "score": 0.9348458800669833
+            },
+            {
+                "answer": "baardbelasting",
+                "answer_length": 1,
+                "distractors": [
+                    "successierechten",
+                    "hypotheekrechten",
+                    "milieuheffing",
+                    "vennootschapsbelasting"
+                ],
+                "language": "nl",
+                "question": "Welke van de onderstaande belastingen wordt niet geheven in hedendaags Belgie ?",
+                "question_length": 12,
+                "score": 0.930604339274897
+            },
+            {
+                "answer": "A en B zijn juist ",
+                "answer_length": 5,
+                "distractors": [
+                    "Een stijging in de handelsschulden ",
+                    "De daling in de voorraden ",
+                    "Alle uitspraken zijn juist "
+                ],
+                "language": "nl",
+                "question": "De current ratio bedraagt 3,10 in jaar 1 en 2,75 in jaar 2 . De daling kan te wijten zijn aan :",
+                "question_length": 22,
+                "score": 0.9248335975037271
+            },
+            {
+                "answer": "Thermische/druk beveiliging",
+                "answer_length": 2,
+                "distractors": [
+                    "Drukbeveiliging",
+                    "Thermische beveiliging"
+                ],
+                "language": "nl",
+                "question": "Bij een olietransformator groter dan 400 kVA opgesteld in een cabine in een gebouw , plaatsen we een :",
+                "question_length": 19,
+                "score": 0.9207384253858759
+            }
+        ]
+    }
+}

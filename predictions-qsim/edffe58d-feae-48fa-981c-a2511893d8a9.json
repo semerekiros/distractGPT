@@ -1,0 +1,135 @@
+{
+    "qid": "edffe58d-feae-48fa-981c-a2511893d8a9",
+    "response": {
+        "Query": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? The question of the supervisors is interesting .",
+        "Result": [
+            {
+                "answer": "the supervisors ' question",
+                "answer_length": 4,
+                "distractors": [
+                    "the supervisors 's questions",
+                    "the supervisor 's question",
+                    "the supervisors ' questions"
+                ],
+                "language": "en",
+                "question": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? The question of the supervisors is interesting .",
+                "question_length": 31,
+                "score": 0.9972396670598751
+            },
+            {
+                "answer": "My father 's job",
+                "answer_length": 4,
+                "distractors": [
+                    "My job 's father",
+                    "My fathers job",
+                    "My job 's"
+                ],
+                "language": "en",
+                "question": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? The job of my father is well-paid .",
+                "question_length": 31,
+                "score": 0.9940627660891367
+            },
+            {
+                "answer": "James 's salary",
+                "answer_length": 3,
+                "distractors": [
+                    "James ' salary",
+                    "Jameses salary",
+                    "Her salary"
+                ],
+                "language": "en",
+                "question": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? The salary of James is lower than my salary .",
+                "question_length": 33,
+                "score": 0.9864073328102964
+            },
+            {
+                "answer": "Could you speak louder ?",
+                "answer_length": 5,
+                "distractors": [
+                    "Can you speak louder ?",
+                    "May you speak louder ?",
+                    "Would you speak louder ?"
+                ],
+                "language": "en",
+                "question": "Listen to the sentence and choose the correct answer . Which request form would be appropriate ?",
+                "question_length": 17,
+                "score": 0.942702302812574
+            },
+            {
+                "answer": "Rita 's birthday",
+                "answer_length": 3,
+                "distractors": [
+                    "Ritas birthday",
+                    "Ritas ' birthday",
+                    "Rita birthday"
+                ],
+                "language": "en",
+                "question": "Choose the correct form to replace the underlinded construction ! Welke constructie vervangt de onderstreepte gegevens ? Quelle construction remplace l'information soulignee ? It is the birthday of Rita on Monday .",
+                "question_length": 32,
+                "score": 0.940617594271973
+            },
+            {
+                "answer": "Personal Media Player B",
+                "answer_length": 4,
+                "distractors": [
+                    "Personal Media Player A",
+                    "Personal Media Player C",
+                    "Personal Media Player D"
+                ],
+                "language": "en",
+                "question": "Question 1a Layla would like to buy a new personal media player . ii ) Which one of these has the fastest wired connection ?",
+                "question_length": 25,
+                "score": 0.8935446335312874
+            },
+            {
+                "answer": "Copy cells",
+                "answer_length": 2,
+                "distractors": [
+                    "Fill Series",
+                    "All of the above",
+                    "None of the above"
+                ],
+                "language": "en",
+                "question": "You have written the numbers 1 to 10 in a column and want to repeat the numbers again and again . Which of following option for the AutoFill will help you get the work done ?",
+                "question_length": 36,
+                "score": 0.8060102715646916
+            },
+            {
+                "answer": "Televic",
+                "answer_length": 1,
+                "distractors": [
+                    "MicroSoft"
+                ],
+                "language": "en",
+                "question": "Open the attachment ? Which website do you see ?",
+                "question_length": 10,
+                "score": 0.5622047633650192
+            },
+            {
+                "answer": "Personal Media Player D",
+                "answer_length": 4,
+                "distractors": [
+                    "Personal Media Player A",
+                    "Personal Media Player B",
+                    "Personal Media Player C"
+                ],
+                "language": "en",
+                "question": "Question 1a Layla would like to buy a new personal media player . iii ) Which one of these can store the most data ?",
+                "question_length": 25,
+                "score": 0.542936225093312
+            },
+            {
+                "answer": "Violence ",
+                "answer_length": 1,
+                "distractors": [
+                    "Fighting back your own way ",
+                    "Acting in the same way "
+                ],
+                "language": "en",
+                "question": "Watch the interview . Then choose the correct answer . What is never an option , according to Zach 's parents ?",
+                "question_length": 22,
+                "score": 0.3226828693781706
+            }
+        ]
+    }
+}

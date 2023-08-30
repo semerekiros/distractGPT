@@ -1,0 +1,5 @@
+{
+    "qid": "2c875d9b-8f12-4c64-ad7d-2db3c984c66a",
+    "input": "Choisis la forme correcte du participe passe . Vous avez ... au restaurant chinois hier soir ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. ete\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. mange\n2. manger\n3. boire\n4. fumer\n5. buffe\n6. choux\n7. frotte\n8. toutes les reponses\n9. dine\n10. compose"
+}

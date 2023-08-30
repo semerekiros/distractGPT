@@ -1,0 +1,127 @@
+{
+    "qid": "a4e3ff34-bb94-4de7-9bb4-f2030dc210e7",
+    "response": {
+        "Query": "l'adjectif d'ete ?",
+        "Result": [
+            {
+                "answer": "estival",
+                "answer_length": 1,
+                "distractors": [
+                    "etival",
+                    "eteval"
+                ],
+                "language": "fr",
+                "question": "l'adjectif d'ete ?",
+                "question_length": 3,
+                "score": 0.8470689215363734
+            },
+            {
+                "answer": "Toutes les reponses sont correctes",
+                "answer_length": 5,
+                "distractors": [
+                    "un pronom relatif",
+                    "une conjonction de subordination",
+                    "un pronom interrogatif",
+                    "un adverbe exclamatif",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Que peut-etre :",
+                "question_length": 3,
+                "score": 0.8061492311927347
+            },
+            {
+                "answer": "le brun",
+                "answer_length": 2,
+                "distractors": [
+                    "brun"
+                ],
+                "language": "fr",
+                "question": "Veuillez choisir la bonne reponse J'ai toujours aime ...",
+                "question_length": 9,
+                "score": 0.6355392960318892
+            },
+            {
+                "answer": "vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "faux"
+                ],
+                "language": "fr",
+                "question": "La production de fruits et de legumes requiert beaucoup moins d'eau que celle de viande .",
+                "question_length": 16,
+                "score": 0.6146144116702867
+            },
+            {
+                "answer": "jaune",
+                "answer_length": 1,
+                "distractors": [
+                    "blanc"
+                ],
+                "language": "fr",
+                "question": "Welke kleur ? Meer uitleg nodig ? Klik op G en kijk naar Sous la loupe 5 . Le soleil est ... .",
+                "question_length": 23,
+                "score": 0.5948830799093444
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "La matiere grasse du lait bio et sa matiere proteique sont de meilleure qualite .",
+                "question_length": 15,
+                "score": 0.5295564202275205
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "Dans une classe invariable , les mots ne portent pas de traits ( masculin , feminin , singulier , pluriel , conjugaison ) .",
+                "question_length": 24,
+                "score": 0.5132191192640205
+            },
+            {
+                "answer": "Dans la destruction des ponts",
+                "answer_length": 5,
+                "distractors": [
+                    "Dans la construction des monuments",
+                    "Dans la construction des ponts"
+                ],
+                "language": "fr",
+                "question": "2 . Elle voudrait",
+                "question_length": 4,
+                "score": 0.5050683333800009
+            },
+            {
+                "answer": "une vocation ",
+                "answer_length": 2,
+                "distractors": [
+                    "une societe ",
+                    "une separation "
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse . Devenir pretre ( = priester ) est vraiment ...",
+                "question_length": 14,
+                "score": 0.485767422436359
+            },
+            {
+                "answer": "un mauvais film ",
+                "answer_length": 3,
+                "distractors": [
+                    "un film recent ",
+                    "un film excellent "
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse : C'est un navet !",
+                "question_length": 9,
+                "score": 0.4775915961151574
+            }
+        ]
+    }
+}

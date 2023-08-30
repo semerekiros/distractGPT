@@ -1,0 +1,139 @@
+{
+    "qid": "518d673a-d7c9-438b-8fdd-d6060804ff35",
+    "response": {
+        "Query": "Hoeveel mensen zijn er wereldwijd met gehoorschade?",
+        "Result": [
+            {
+                "answer": "30 %",
+                "answer_length": 2,
+                "distractors": [
+                    "20 %",
+                    "25 %",
+                    "35 %",
+                    "40 %",
+                    "45 %",
+                    "50 %"
+                ],
+                "language": "nl",
+                "question": "Klik op het juiste antwoord . Verhouding tussen het totaal van al de vergoedende betalingen van het observatiejaar en het totaal van de uitgegeven premies ( incl . taksen en kosten ) in datzelfde jaar moet kleiner of gelijk zijn dan ...",
+                "question_length": 42,
+                "score": 0.9537432819294168
+            },
+            {
+                "answer": "31 700",
+                "answer_length": 2,
+                "distractors": [
+                    "1 700",
+                    "233 500"
+                ],
+                "language": "fr",
+                "question": "Ces immigres africains tentent de rejoindre l'ile sicilienne de Lampedusa . Combien de migrants y sont arrives en 2008 ?",
+                "question_length": 20,
+                "score": 0.9486965072259368
+            },
+            {
+                "answer": "Ongeveer 7 miljard",
+                "answer_length": 3,
+                "distractors": [
+                    "Ongeveer 500 miljoen",
+                    "Ongeveer 5 miljard",
+                    "Ongeveer 12 miljard"
+                ],
+                "language": "nl",
+                "question": "Hoeveel mensen wonen er op dit moment op de wereld ?",
+                "question_length": 11,
+                "score": 0.946888864317398
+            },
+            {
+                "answer": "drie",
+                "answer_length": 1,
+                "distractors": [
+                    "",
+                    "vier",
+                    "geen van deze "
+                ],
+                "language": "nl",
+                "question": "Hoeveel maanden vakantie in een burgerlijk jaar heeft een leerkracht ? Kies een van de onderstaande mogelijkheden .",
+                "question_length": 18,
+                "score": 0.9448627662365028
+            },
+            {
+                "answer": "3",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "+/- 10",
+                    "+/- 20"
+                ],
+                "language": "nl",
+                "question": "Hoeveel diersoorten leven er op de Zuidpool in de zomer ?",
+                "question_length": 11,
+                "score": 0.9413422216442995
+            },
+            {
+                "answer": "125",
+                "answer_length": 1,
+                "distractors": [
+                    "25",
+                    "50",
+                    "250",
+                    "500"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Een ( kubusvormig ) vat met een inhoud van 1 m3 wordt volledig met water gevuld . Als men hierin een massieven houten kubus onderdompelt met ribben van 0,5 m , hoeveel liter water vloeit er dan uit het vat ?",
+                "question_length": 54,
+                "score": 0.9395175080926945
+            },
+            {
+                "answer": "20 %",
+                "answer_length": 2,
+                "distractors": [
+                    "15 %",
+                    "50 %"
+                ],
+                "language": "fr",
+                "question": "Ecoutez le reportage . Indiquez la bonne reponse ! Chez les 15-19 ans , la proportion de fumeurs au Senegal s'eleve a ... . chez les garcons .",
+                "question_length": 28,
+                "score": 0.9347902100120058
+            },
+            {
+                "answer": "eerst labo",
+                "answer_length": 2,
+                "distractors": [
+                    "FFP toedienen",
+                    "PC toedienen"
+                ],
+                "language": "af",
+                "question": "hoeveel bloed toedienen",
+                "question_length": 3,
+                "score": 0.9317900079306702
+            },
+            {
+                "answer": "650 km",
+                "answer_length": 2,
+                "distractors": [
+                    "350 km",
+                    "850 km",
+                    "550 km"
+                ],
+                "language": "fr",
+                "question": "Cochez la reponse qui convient . Ecoutez le reportage en cliquant . Choisissez ensuite la reponse a la question suivante : Combien de kilometres de ski sont accessibles depuis Morzine ?",
+                "question_length": 31,
+                "score": 0.9308076586402326
+            },
+            {
+                "answer": "20",
+                "answer_length": 1,
+                "distractors": [
+                    "10",
+                    "15",
+                    "25"
+                ],
+                "language": "fr",
+                "question": "Entrainez-vous : questions de quiz Combien de pions noirs y a-t-il dans le jeu de dames ?",
+                "question_length": 17,
+                "score": 0.9292275991484207
+            }
+        ]
+    }
+}

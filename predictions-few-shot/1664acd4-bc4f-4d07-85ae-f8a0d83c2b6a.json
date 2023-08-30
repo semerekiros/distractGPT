@@ -1,0 +1,5 @@
+{
+    "qid": "1664acd4-bc4f-4d07-85ae-f8a0d83c2b6a",
+    "input": "question: Linking sentences Choisis . Use ... to give several options .\nanswer: or\nIncorrect answers: \n1. and\n2. but\n3. so\n\nquestion: Linking sentences Choisis . Use ... to show the effect .\nanswer: so\nIncorrect answers: \n1. and\n2. or\n3. but\n\nquestion: Linking sentences Choisis . Use ... to connect similar ideas .\nanswer: and\nIncorrect answers: \n1. or\n2. but\n3. so\n\nquestion: 7 . They did n't know ... ... ..he was complaining about .\nanswer: what\nIncorrect answers: \n1. that\n2. why\n3. whether\n\nquestion: Linking sentences Choisis . Use ... to connect contrasting ideas .\nanswer: but\nIncorrect answers: \n1. and\n2. or\n3. so\n\nquestion: : Linking sentences Choisis . Use ... to give several options .\nanswer: : or\n\nGenerate 20 incorrect answers: ",
+    "response": "\n\n1. then\n2. also\n3. because\n4. since\n5. therefore\n6. except\n7. until\n8. while\n9. whereas\n10. despite\n11. although\n12. meanwhile\n13. furthermore\n14. thus\n15. lest\n16. lest\n17. lest\n18. lest\n19. lest\n20. lest"
+}

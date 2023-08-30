@@ -1,0 +1,136 @@
+{
+    "qid": "64a263cf-e3a9-48da-af38-88e9f528aaae",
+    "response": {
+        "Query": "Welke Belgische steden hebben een luchthaven?",
+        "Result": [
+            {
+                "answer": "Zeebrugge",
+                "answer_length": 1,
+                "distractors": [
+                    "Antwerpen",
+                    "Gent",
+                    "Oostende"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De totale maritieme trafiek bepaalt de grootte van een haven . Welke haven is de tweede grootste ?",
+                "question_length": 25,
+                "score": 0.9086367503287077
+            },
+            {
+                "answer": "Naar Amerika en Engeland ",
+                "answer_length": 4,
+                "distractors": [
+                    "Naar Spanje en Italie ",
+                    "Naar Nederland en Duitsland ",
+                    "Naar Zweden en Denemarken "
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Naar welke landen exporteert Nino Bacelle zijn producten ? video",
+                "question_length": 15,
+                "score": 0.9049877630622158
+            },
+            {
+                "answer": "Zeebrugge",
+                "answer_length": 1,
+                "distractors": [
+                    "Antwerpen",
+                    "Gent",
+                    "Oostende"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De totale maritieme trafiek verschilt voor elke haven . Wat is de tweede grootste haven van Vlaanderen ?",
+                "question_length": 25,
+                "score": 0.8194113121263947
+            },
+            {
+                "answer": "Frankrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Duitsland",
+                    "Verenigd Koninkrijk"
+                ],
+                "language": "nl",
+                "question": "Klikl het juiste antwoord aan Naar welk land exporteert ons land het meest",
+                "question_length": 13,
+                "score": 0.7819622294658952
+            },
+            {
+                "answer": "Ben Hermans",
+                "answer_length": 2,
+                "distractors": [
+                    "Greg Van Avermaet",
+                    "Tom Boonen"
+                ],
+                "language": "nl",
+                "question": "Welke Belg won de Ronde van Oman ?",
+                "question_length": 8,
+                "score": 0.7514442052474275
+            },
+            {
+                "answer": "het Zennegat en het Waverwoud",
+                "answer_length": 5,
+                "distractors": [
+                    "het Zennegat en de Beneden-Dijlevallei",
+                    "het Waverwoud en de Beneden-Dijlevallei",
+                    "Keuze 4"
+                ],
+                "language": "nl",
+                "question": "In de omgeving van Mechelen bevinden zich een aantal natuurgebieden . Welke van deze gebieden worden doorsneden door belangrijke rivieren ?",
+                "question_length": 21,
+                "score": 0.6975308522250175
+            },
+            {
+                "answer": "Bilbao",
+                "answer_length": 1,
+                "distractors": [
+                    "Valencia",
+                    "Madrid",
+                    "La Rioja"
+                ],
+                "language": "es",
+                "question": "Marca la respuesta adecuada . El Museo Guggenheim esta en ... .",
+                "question_length": 12,
+                "score": 0.6601066452664943
+            },
+            {
+                "answer": "Hongkong",
+                "answer_length": 1,
+                "distractors": [
+                    "Beijing",
+                    "Singapore",
+                    "Tokyo"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Over welke wereldstad gaat het in deze tekst ?",
+                "question_length": 16,
+                "score": 0.6545319027656722
+            },
+            {
+                "answer": "Brugge",
+                "answer_length": 1,
+                "distractors": [
+                    "Kortrijk",
+                    "Tielt"
+                ],
+                "language": "nl",
+                "question": "Maak een keuze Op welke locatie vond de onderwijsdag plaats ?",
+                "question_length": 11,
+                "score": 0.616735191043058
+            },
+            {
+                "answer": "Bewoners met beperkte mobiliteit",
+                "answer_length": 4,
+                "distractors": [
+                    "Bewoners met een normaal lichaamsgewicht",
+                    "Extreem magere bewoners",
+                    "Extreem obese bewoners",
+                    "Bewoners met dementie"
+                ],
+                "language": "nl",
+                "question": "Welke bewoners lopen een verhoogd risico op decubitus ? Duid alle juiste antwoorden aan . Er zijn meerdere antwoorden mogelijk .",
+                "question_length": 21,
+                "score": 0.5708652800347868
+            }
+        ]
+    }
+}

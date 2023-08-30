@@ -1,0 +1,138 @@
+{
+    "qid": "aced4dab-1ed1-41b5-936a-f2490c40eaba",
+    "response": {
+        "Query": "In welk werelddeel ligt Stonehenge?",
+        "Result": [
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Azie",
+                    "Europa",
+                    "Amerika",
+                    "Oceanie",
+                    "Antarctica"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . In welk werelddeel ligt Ethiopie ?",
+                "question_length": 19,
+                "score": 0.9755090400538896
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Amerika",
+                    "Australie",
+                    "Azie"
+                ],
+                "language": "nl",
+                "question": "In welk continent speelt de film `` The Gods must be crazy '' zich af ?",
+                "question_length": 16,
+                "score": 0.9729936637641349
+            },
+            {
+                "answer": "Belgie",
+                "answer_length": 1,
+                "distractors": [
+                    "Denemarken"
+                ],
+                "language": "nl",
+                "question": "Duid het correcte antwoord aan . Een Belgische onderneming heeft een magazijn in Denemarken en brengt vandaar eigen goederen naar haar magazijn in Belgie . Wat is de plaats van de intracommunautaire verwerving ?",
+                "question_length": 34,
+                "score": 0.9706925413406686
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Noord-Amerika",
+                    "Zuid-Amerika",
+                    "Azie"
+                ],
+                "language": "nl",
+                "question": "In welk werelddeel ligt Congo ? Duid het juiste werelddeel aan .",
+                "question_length": 12,
+                "score": 0.9589797385975108
+            },
+            {
+                "answer": "Azie",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Noord-Amerika",
+                    "Zuid-Amerika",
+                    "Afrika"
+                ],
+                "language": "nl",
+                "question": "In welk werelddeel ligt Syrie ? Duid het juiste werelddeel aan .",
+                "question_length": 12,
+                "score": 0.9582028944805088
+            },
+            {
+                "answer": "Computergerelateerde bedrijven",
+                "answer_length": 2,
+                "distractors": [
+                    "Olievelden",
+                    "Ruimtevaarttechnologie",
+                    "Kolenmijnen",
+                    "Natuurschoon"
+                ],
+                "language": "nl",
+                "question": "Waar staat Silicon Valley bekend om ?",
+                "question_length": 7,
+                "score": 0.9540487097357536
+            },
+            {
+                "answer": "In Belgie",
+                "answer_length": 2,
+                "distractors": [
+                    "In Europa"
+                ],
+                "language": "nl",
+                "question": "Waar is het AREI van toepassing ?",
+                "question_length": 7,
+                "score": 0.9516637077501031
+            },
+            {
+                "answer": "Aan de kust",
+                "answer_length": 3,
+                "distractors": [
+                    "In de woestijn",
+                    "In het tropisch regenwoud",
+                    "In de hooggebergten"
+                ],
+                "language": "nl",
+                "question": "Waar vindt men over het algemeen geen lage bevolkingsdichtheid ?",
+                "question_length": 10,
+                "score": 0.9511864072487538
+            },
+            {
+                "answer": "Brugge",
+                "answer_length": 1,
+                "distractors": [
+                    "Kortrijk",
+                    "Roeselare"
+                ],
+                "language": "nl",
+                "question": "Duid aan . Op welke campus zitten we ?",
+                "question_length": 9,
+                "score": 0.9493752723444233
+            },
+            {
+                "answer": "Australie",
+                "answer_length": 1,
+                "distractors": [
+                    "Amerika",
+                    "Engeland",
+                    "Schotland"
+                ],
+                "language": "nl",
+                "question": "Wat is het geboorteland van acteur Mel Gibson ?",
+                "question_length": 9,
+                "score": 0.9479045232809875
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "qid": "da63cf24-788c-4b43-b21d-956af9981ac4",
+    "response": {
+        "Query": "Langs welke vaten wordt glucose naar de wortels getransporteerd?",
+        "Result": [
+            {
+                "answer": "geen enkele bloedsamenstelling",
+                "answer_length": 3,
+                "distractors": [
+                    "zuurstofrijk ( koolstofdioxidearm ) bloed",
+                    "zuurstofarm ( koolstofdioxiderijk ) bloed",
+                    "gemengd bloed"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! In welk bloed bevinden zich geen uitscheidingsstoffen ?",
+                "question_length": 19,
+                "score": 0.8597409081439701
+            },
+            {
+                "answer": "linkerzijde van het hart",
+                "answer_length": 4,
+                "distractors": [
+                    "kamers van het hart",
+                    "boezems van het hart",
+                    "rechterzijde van het hart"
+                ],
+                "language": "nl",
+                "question": "Welke zijde van het hart bevat zuurstofrijk bloed ?",
+                "question_length": 9,
+                "score": 0.7590941359197563
+            },
+            {
+                "answer": "tussen opperhuid en lederhuid",
+                "answer_length": 4,
+                "distractors": [
+                    "tussen de bloedvaatjes",
+                    "tussen hoornlaag en opperhuid",
+                    "tussen lederhuid en onderhuids bindweefsel"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De basale laag in de huid is een enkele laag cellen die als cilinders naast elkaar staan . Deze cellen staan op een onderlaag , de basale membraan genaamd . De cellen in de basale laag delen zich snel . Deze laag wordt daarom ook wel de kiemlaag ( stratum germinativum ) genoemd . Waartussen bevindt deze laag zich ?",
+                "question_length": 67,
+                "score": 0.6255107675842527
+            },
+            {
+                "answer": "longader",
+                "answer_length": 1,
+                "distractors": [
+                    "bovenste holle ader",
+                    "onderste holle ader",
+                    "aorta"
+                ],
+                "language": "nl",
+                "question": "Via welke bloedvaten komt zuurstofrijk bloed in het hart ?",
+                "question_length": 10,
+                "score": 0.6107838938006626
+            },
+            {
+                "answer": "Bladgroenkorrels",
+                "answer_length": 1,
+                "distractors": [
+                    "Huidmondjes",
+                    "Stengels"
+                ],
+                "language": "nl",
+                "question": "Fotosynthese : Welk deel van de blaadjes vangt licht op ? Bekijk het filmpje . Duid het juiste antwoord aan . Klik hier voor het filmpje",
+                "question_length": 26,
+                "score": 0.6006669944356569
+            },
+            {
+                "answer": "onderste holle ader",
+                "answer_length": 3,
+                "distractors": [
+                    "aorta",
+                    "bovenste holle ader",
+                    "longader"
+                ],
+                "language": "nl",
+                "question": "In welk bloedvat mondt de nierader uit ?",
+                "question_length": 8,
+                "score": 0.5994182035364158
+            },
+            {
+                "answer": "kieuwplaatjes",
+                "answer_length": 1,
+                "distractors": [
+                    "kieuwboog",
+                    "kieuwzeef",
+                    "kieuwholte"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar gebeurt de gasuitwisseling precies bij kieuwademhaling ?",
+                "question_length": 19,
+                "score": 0.47059314759796733
+            },
+            {
+                "answer": "rechterkamer en linkerboezem",
+                "answer_length": 3,
+                "distractors": [
+                    "rechterkamer en linkerkamer",
+                    "rechterboezem en linkerboezem",
+                    "rechterboezem en linkerkamer"
+                ],
+                "language": "nl",
+                "question": "Doorheen welke holten van het hart stroomt het bloed tijdens de kleine bloedsomloop ?",
+                "question_length": 14,
+                "score": 0.41386870241275153
+            },
+            {
+                "answer": "de holle aders",
+                "answer_length": 3,
+                "distractors": [
+                    "de onderste holle ader",
+                    "de kransader",
+                    "de longaders"
+                ],
+                "language": "nl",
+                "question": "Welke bloedvaten brengen zuurstofarmbloed naar de hartholte ?",
+                "question_length": 8,
+                "score": 0.35211984608531866
+            },
+            {
+                "answer": "overgang van bladsteel naar hoofdnerf",
+                "answer_length": 5,
+                "distractors": [
+                    "verbreding van de bladsteel",
+                    "overgang van bladschede naar bladsteel",
+                    "overgang van bladschede naar knoop"
+                ],
+                "language": "nl",
+                "question": "Waar bevindt zich de bladvoet bij een blad ?",
+                "question_length": 9,
+                "score": 0.34107267823620524
+            }
+        ]
+    }
+}

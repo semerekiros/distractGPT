@@ -1,0 +1,5 @@
+{
+    "qid": "7d9bfb0e-73ba-49a4-9439-e47cb778fe5d",
+    "input": "Completez la phrase en pointille . Pourquoi me posez-vous toutes ces questions ? Je vous ai deja dit ... ... ... ... ... ... ... ... ... ... ... ... ... ... . . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. que je n'en savais rien\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. que je n'en savais rien\n2. je ne sais pas\n3. ne souhaitais rien\n4. je savait rien\n5. que\n6. qu'on sait pas\n7. toutes les reponses sont correctes 5.\n8. que tu n'en savais rien\n9. aucune des reponses\n10. toutes les prenomen"
+}

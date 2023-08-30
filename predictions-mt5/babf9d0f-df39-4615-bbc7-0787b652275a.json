@@ -1,0 +1,5 @@
+{
+    "qid": "babf9d0f-df39-4615-bbc7-0787b652275a",
+    "input": "Welke van deze gebieden zijn geen biotopen? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. speeltuin\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. bos\n2. zandbak\n3. leembekken\n4. boomboom\n5. olifant\n6. tuin\n7. heuvel\n8. kalklaag\n9. dalende\n10. wijngaard"
+}

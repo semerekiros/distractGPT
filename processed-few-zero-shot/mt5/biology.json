@@ -1,0 +1,4031 @@
+{
+    "meta_data": {
+        "session_id": "all",
+        "subject": "biology.json",
+        "level": "all",
+        "estimated_duration": "unknown",
+        "task_type": "all"
+    },
+    "content": [
+        {
+            "qid": "156a5cb0-1a30-458d-9ad1-e19ddeea05f6",
+            "question": "Hoe loopt een impuls via een motorisch neuron via de ruggenmergzenuw naar een de effector?",
+            "answers": "via de ventrale wortel",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "via de dorsale wortel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "baf4e058-6cf0-4e5d-8ef9-fc0ffd986375",
+                    "distractor": "via de ruggenmergzenuw",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "09e83f25-c572-45da-9d2f-c2d5fac7a6b0",
+                    "distractor": "via de hypothalamus",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e88cfdfe-6e13-4a36-b5b8-a7a4746d30f0",
+                    "distractor": "via het gezichtsvermogen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "45f638a5-82e7-4008-a2d0-4981f514819b",
+                    "distractor": "door het hele cortex",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "0eff17b3-baf3-46a6-b49b-e6d5631ff8a4",
+                    "distractor": "via de lever",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b721c808-48ac-4cc8-8157-f34ad222ce6a",
+                    "distractor": "via een laterale zenuwen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6d0dd46a-c91d-4c76-ac5d-ecc9e7479a19",
+                    "distractor": "via de subclavicule",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "54f03e78-4337-489e-aa4f-6e0a30495fef",
+                    "distractor": "via het leverleed",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "4ea318ee-9662-407c-a5b0-acd333d8090e",
+                    "distractor": "via een spier",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3802622f-ff8a-4481-8a4e-202f137dadc8",
+                    "distractor": "via de cortex",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "8b4e153e-ef69-4062-9438-cf3980cfb68a",
+            "question": "Welk voedingsmiddel gaat stinken wanneer het bederft?",
+            "answers": "vlees",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "suiker",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "citroen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "194d91fd-cc5a-4461-a07d-02471a18702c",
+                    "distractor": "eiwitten",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d7d4844b-e686-4d46-b0e1-a19b5cc541eb",
+                    "distractor": "melk",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "9c76f3f0-0a8d-4e3d-a5cf-8a81a348090f",
+                    "distractor": "aardappelen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "9bc28bce-6a1e-44d3-8e1d-6f329f65de9a",
+                    "distractor": "rijst",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "68c0715a-4fa9-4d7b-ac6e-2a3124f73cea",
+                    "distractor": "vetten",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6672973f-139e-43c0-b9c5-25588f2b128e",
+                    "distractor": "kaas",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7e781a1b-84e0-4543-b303-b28fb537e332",
+                    "distractor": "venkel",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "96277dca-ca22-473b-a7dc-410dc258b4e2",
+                    "distractor": "kruiden",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "1ae57dd8-8aa7-4979-bf94-241b4ecec922",
+                    "distractor": "veeteelt",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7179bea0-360a-4659-ae3d-1f4e037dffef",
+                    "distractor": "olijfolie",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c50bfa5d-c904-4db8-aced-7835d2da5b70",
+            "question": "Welke pati\u00ebnten krijgen soms het hormoon insuline kunstmatig toegediend?",
+            "answers": "suikerziektepati\u00ebnten",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "multiple-sclerose-pati\u00ebnten",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "epilepsiepati\u00ebnten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "078002ee-b17a-4322-9b20-11f4ce5a384b",
+                    "distractor": "hypertensieve patienten",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "971c314c-3a0b-4454-b895-b76012e45b00",
+                    "distractor": "maagpijn",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "30db63fd-5c06-4303-aaaf-257bbe319540",
+                    "distractor": "depressieve patienten",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "49c3b6b7-acf6-44cd-9fb1-6ecac8e32b56",
+                    "distractor": "hypertensiepatienten",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "df77f505-337d-4442-a79c-096d74d0778d",
+                    "distractor": "hypertrofische patienten",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "fc6c89c3-a9ad-4396-a4c0-867d18bad7fe",
+                    "distractor": "diabetische pati\u00ebnten",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "656550b5-4adc-4f6d-b82e-4d518acc7f79",
+                    "distractor": "hypoglykemische patienten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8067c524-1d2c-4e94-9701-89a51b91e1c5",
+                    "distractor": "overgewichts- en diarreeuze patienten",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "36ff9c45-40b1-40d8-8889-6200700880e6",
+                    "distractor": "parasympathische patienten",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "71a6782c-9199-4592-8060-c1f89a4341e7",
+                    "distractor": "ademhalings",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "35f3ea89-1851-42ee-b94b-40c130836aa7",
+            "question": "Welk van deze dieren kan ultrasone geluiden horen?",
+            "answers": "dolfijn",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "haai",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "kat",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "951e7952-48e6-4696-b8a9-a4ab69df5656",
+                    "distractor": "krokodil",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "d32b01d8-1013-4fd1-b76e-e61065315b07",
+                    "distractor": "kat",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "b8fd4794-bb21-4c33-925b-4625220fa123",
+                    "distractor": "zebra",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "3d8295dd-b257-49dd-b509-4eb58b0cfdca",
+                    "distractor": "schildpad",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "3ed5857a-7ada-461b-a019-05fc9eaa9c08",
+                    "distractor": "konijn",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "49f92168-f845-4d3a-aa2e-84f8f8b3d5d8",
+                    "distractor": "vlinder",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0d53a85f-7e01-4003-8970-6497d2da6f9f",
+                    "distractor": "kameel",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b207ca71-e552-4b11-ac35-7583a758628f",
+                    "distractor": "amfibiee",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "cd89d0ad-4c07-4129-9251-819dfa79f82b",
+                    "distractor": "wolf",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "683144b3-6112-42c9-8176-454c747059e4",
+                    "distractor": "giraffe",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "47173bbc-1669-412b-9d1f-00390e139648",
+            "question": "Langs welk deel verdampen planten water?",
+            "answers": "blad",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "stengel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "wortel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "17d1c072-3de0-44b5-ae4a-74fcee74152e",
+                    "distractor": "vrucht",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ab1bd7dc-3a5c-4a55-98f2-152a82d21748",
+                    "distractor": "bladbloem",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5e6a83d5-2c99-491d-90ee-1331dddc6e4b",
+                    "distractor": "wortel",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "99e20220-7dfe-4736-823f-a7b65f4f4be9",
+                    "distractor": "vlinder",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "9253f6eb-3461-41d4-b2a5-07ece03edcb0",
+                    "distractor": "struik",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7cb9c464-5fab-4ee0-907e-4eba8e8e6180",
+                    "distractor": "leem",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4b1846ce-c422-4551-91b6-f8a60c3cf046",
+                    "distractor": "blad",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d76ee514-7200-4819-be12-8cb992e70e69",
+                    "distractor": "worm",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "60bcbcdb-5048-4b12-9d7d-095fb52b8fc5",
+                    "distractor": "blaadje",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "33a587fd-39c2-44a7-9384-4953f0778fec",
+                    "distractor": "buik",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "08507f53-5a25-4778-95ad-b98327dedd9a",
+            "question": "Hoe groot is de oogbol ongeveer?",
+            "answers": "25 mm",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "20 mm",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "30 mm",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2623abb5-51df-4480-b83b-e9c65e804efa",
+                    "distractor": "10 mm",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "0ad68697-5fe4-4e62-a2d1-b5074933e610",
+                    "distractor": "5 mm",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "9b385c61-483d-40df-91be-679700930b7d",
+                    "distractor": "15 mm",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "0aed5b1a-6ce1-41e5-9bbf-1df1a6f00560",
+                    "distractor": "20 mm",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e7794bc6-ed8a-4b61-9c26-889f0d2a453f",
+                    "distractor": "16 mm",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "3776994b-6f64-411c-a9fb-ae0803f41493",
+                    "distractor": "30 mm",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d04ae9b9-4b69-4eb2-9967-269a12518f95",
+                    "distractor": "40 mm",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "13feb28d-e101-461a-aba2-2ab39b7a6972",
+                    "distractor": "24 mm",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f5c622ac-ddff-467b-a069-c7fa18a3698a",
+                    "distractor": "60 mm",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "9190489a-81d4-47db-86b1-055a31a53d9a",
+                    "distractor": "45 mm",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "abf54891-7931-4f36-bcce-a5eee7780dbb",
+            "question": "Welk deel van de hersenen is belangrijk voor een koorddanser?",
+            "answers": "kleine hersenen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "centrum van Wernicke",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "hypothalamus",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7c0f0563-e5c1-4e96-82bf-2f7189cb1acb",
+                    "distractor": "grote hersenen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a4354f24-33a6-4eb1-ba9a-2f8c92d50da0",
+                    "distractor": "centrale hersenen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e16e1ffd-b4e6-46ae-a03c-45ffc26ac0b7",
+                    "distractor": "rode hersenen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4cab4cc6-b72a-43f3-9d9f-e16b559af8d0",
+                    "distractor": "grote hersinen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "13474a4b-be3d-48fa-99cd-4e9e976ffcd2",
+                    "distractor": "groothersenend hart",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f247aff3-0e45-497d-be0d-05d3a1cb3393",
+                    "distractor": "de hele hersens",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4b090405-5854-4ba8-83eb-e9c5248e7a9e",
+                    "distractor": "dikke herzen 7.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "57af37c5-8e41-469b-807e-908f044b291f",
+                    "distractor": "kleine hersenen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "59b6e294-b806-41cb-bbee-880da1809c0f",
+                    "distractor": "grootste hersenen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f694037c-52b5-44df-92fe-c7c8b260500c",
+                    "distractor": "kleine buik",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "47149c68-b39d-460a-98a0-b408974c19d7",
+            "question": "Het wordt aangeraden om de puistjes nog niet uit te knijpen wanneer ze nog niet \u2018rijp\u2019 zijn, en het niet met de blote vingers te doen maar met een papiertje ertussen. Waarom?",
+            "answers": "Er kunnen anders nieuwe infecties ontstaan.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Je krijgt dan puistjes op je vingers.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De pus in de puistjes is giftig.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "558b7ebc-77bc-49e8-97ae-4f563846c8d9",
+                    "distractor": "er kunnen nieuwe infecties ontstaan",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6c391e60-61e1-4d08-b64e-fed6028d1d13",
+                    "distractor": "er kan geen enkele oorzaak bepalen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8ca0d9a0-72c8-409f-a06d-5392ea897914",
+                    "distractor": "ik vindt een hersenuit",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "32ecc0da-4715-4136-a752-33bd4d004e0f",
+                    "distractor": "je kunt op de huid ademhalen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "879c5359-4ca0-49e5-b60d-440487e49ce3",
+                    "distractor": "ik heb geen virus",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "ae115f6d-8aba-4016-8e45-2ef481ddf08b",
+                    "distractor": "ik kan meer bacteri",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "aedda47e-18ee-468b-bd31-5903bb32468b",
+                    "distractor": "de huid vochtig is",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "5685d765-42e0-4022-9e8a-092474472125",
+                    "distractor": "het bloed harderig wordt",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b6737dac-dafa-40a6-8dd4-248834299182",
+                    "distractor": "het lymfom kunnen ontstaan",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "203f76c8-67ff-4f38-a7fb-17704af4c681",
+                    "distractor": "ze worden opho",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "c0a553b0-6059-45f4-af98-e8bb23c3983e",
+            "question": "Hoe heten de klieren die de ogen vochtig houden?",
+            "answers": "traanklieren",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "speekselklieren",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "talgklieren",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "cfc0414a-ddb6-45bc-abc6-2333b69cb3f7",
+                    "distractor": "buikklieren",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b2019cf8-d11c-4257-81a9-580b562f3131",
+                    "distractor": "appendages",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "fd114fa0-97b5-45a2-82ab-198e42771016",
+                    "distractor": "maagklieren",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a95c184a-a454-4e1b-b3b6-1395da8c75a5",
+                    "distractor": "eiklieren",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "14de9c34-d9ae-4586-9f62-49bab7bc984b",
+                    "distractor": "longklieren",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f6ba4b09-47b5-4012-b96c-f7cc96850661",
+                    "distractor": "oogkieren",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c098c7df-6f80-4396-babb-f859dc5c4522",
+                    "distractor": "vingerklieren",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "be4d2af0-beba-420d-946f-5f38b08f8136",
+                    "distractor": "enkele klieren",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f27d64bb-1c57-4d04-a0fa-f6743bfc60d6",
+                    "distractor": "oogklieren",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "bf4ebd0e-924b-4a9d-8b32-f8b523573b67",
+                    "distractor": "zijkliren",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3914cb0c-a59b-4cc6-b1d3-d6394fe52452",
+            "question": "Vanuit de oogzenuw lopen er ook zenuwen naar de iris. Wat is het nut hiervan?",
+            "answers": "De irisspieren hebben zenuwen nodig om te kunnen werken.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Als je zenuwachtig bent, knipper je met je ogen.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De iris moet je goed kunnen voelen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "90f1e3d7-e5a9-41d3-8c5b-9cc45b680a56",
+                    "distractor": "de irisspieren hebben zenuwen nodig",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3fa4f476-acc3-4ce2-9ede-4bbc05f2be0e",
+                    "distractor": "de irisspieren hebben zenuwen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ddad32d4-e2f3-42ad-952f-4764c823a477",
+                    "distractor": "het oog zijn heel open",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "92267905-c065-44b9-98f5-8b00fbc55f1f",
+                    "distractor": "alle huidsfuncties krijgen een zinuwfunctie 5.",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4b5de994-6076-4f30-9415-197aa4a76048",
+                    "distractor": "de iris moet in contact komen met het oog",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "112fa865-ffcf-4969-84f4-3a4a07a3b8e0",
+                    "distractor": "je weet niet waarom",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "201645dc-bbdc-4662-b213-b57728462d49",
+                    "distractor": "alle zenuwen werken",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "64db7b2d-8d64-456b-bb79-02eebebe1b73",
+                    "distractor": "iedereen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ce4e445a-657e-4c9a-bcf8-4ea7ba48baae",
+                    "distractor": "het oogleed is een gebrek aan energie",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "13457175-3cc5-4baa-8406-d0ebf8a67bb3",
+                    "distractor": "het hart zijn kernbepalend",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d3b82900-3181-472e-862f-c6a7ab0fdf9a",
+            "question": "Wat is de functie van de zweetklieren?",
+            "answers": "de lichaamstemperatuur regelen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "anderen laten ruiken dat je er bent",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "ervoor zorgen dat de huid niet uitdroogt",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c086fe39-c153-4ec1-813f-22d7b875e317",
+                    "distractor": "de zweetklieren regelen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "dc586330-91eb-4541-a166-3fe89f438a69",
+                    "distractor": "de spierpijn reduceren",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "418f2e13-84d1-4005-96ee-549810ce6db0",
+                    "distractor": "de lichaamstemperatuur regelen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "115be8ae-32d6-4d8a-89cf-a58d6a34ef16",
+                    "distractor": "het bloed innemen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "57f01882-bf9f-43c0-b8ac-94a5280caa95",
+                    "distractor": "bloeddruk verhogen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6591f97b-c7cc-43a6-9fe2-6956bd33c5da",
+                    "distractor": "ademhalingskracht bepalen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c06073c1-9bbf-421d-a80f-63979e07799f",
+                    "distractor": "een temperatuurverho",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d67f8371-5bb2-40f3-8347-5783aa70e97d",
+                    "distractor": "de zuurstofbalans verhogen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "c0fbf146-db6d-485f-b5c5-8342491a88f2",
+                    "distractor": "het bloedvolume verminderen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f31842a2-80da-47c7-b2cb-10592f5073e0",
+                    "distractor": "temperatuur verlagen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "e5e6c724-34db-43aa-a663-486a49cc4933",
+            "question": "Langs waar verdampt het water bij planten het meest?",
+            "answers": "blad",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "stengel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "wortel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1a82bf96-9723-4a36-833c-5797a5bc5f96",
+                    "distractor": "olijfolie",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4dfb58e4-0814-4bfc-b500-8132720d5969",
+                    "distractor": "water",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f2efb52c-a12e-449f-b840-8dc53b59efea",
+                    "distractor": "zand",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ea5d171d-52a7-481a-b411-00ca20c0018d",
+                    "distractor": "granen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "c7172045-96c2-4afe-8d7d-4d4c6243c1a3",
+                    "distractor": "bladbloemen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "40d3a1c7-8f72-4a96-a1c2-f34cba786a02",
+                    "distractor": "bladeren",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6ab4beca-bf32-42ff-b352-c0df7c91098e",
+                    "distractor": "vlinder",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7aa603e0-9395-403a-b2de-36b678b736fe",
+                    "distractor": "lente",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ac3f70c7-8177-40f3-be2b-9f47ecba5b10",
+                    "distractor": "zee",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ac029e2c-ec48-473a-b1c3-1d4c5293d0e3",
+                    "distractor": "bos",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "d24ac2cd-7632-4f03-9155-ee54af5b6cd8",
+            "question": "Wat is een ander woord voor de iris, de gekleurde vlek in het midden van het oog?",
+            "answers": "regenboogvlies",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "tornadovlies",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6b062497-f4dc-4682-9baa-fa35be65abe5",
+                    "distractor": "rode vlies",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ab5be46a-0799-405c-8c12-5b5823d79b99",
+                    "distractor": "rood-zwart",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f3d3bf56-3e4c-4a7f-a00c-325b2e2cb9b2",
+                    "distractor": "blauwe vlies",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "355822f2-da3b-43b3-ae2e-a9cc8de39324",
+                    "distractor": "lavende iris",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5fbc64d9-7c2f-451c-b45d-a8bf44886c25",
+                    "distractor": "oranje vlies",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "f688d347-b068-4585-91df-367c5b78e171",
+                    "distractor": "olijfvlie",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5369fa9f-adf2-441b-8182-d3947ec006b3",
+                    "distractor": "rode vlek",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c1c16826-af9c-46f0-a33d-9e57eeabba8c",
+                    "distractor": "grote huid",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "fc60d43d-fc58-49a5-bdf9-c730ab01bc87",
+                    "distractor": "di",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "370cdc15-c5cc-4c88-b4ba-b830a600970c",
+                    "distractor": "bladvlies",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "12ede9ae-8dc2-41ec-b4de-8ba71c111704",
+            "question": "Waarom heeft de vos een tapetum lucidum?",
+            "answers": "Omdat het een nachtdier is.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Omdat het een roofdier is.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Omdat het een sluw dier is.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d3e15e81-4ddd-4c88-b9d0-b9e3d19255f6",
+                    "distractor": "omdat het een dier is",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c704bf2f-a035-41e3-bed8-b069eeb84051",
+                    "distractor": "omdat het een knoopdier is",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ccedc63f-c26e-4c7c-918c-54db41649395",
+                    "distractor": "omdat het een nachtdier is",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "68283612-9547-434f-9ed4-b49fdd8486d3",
+                    "distractor": "om dat de rotte mens is",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "397d1547-0a5a-4a18-938d-1708d797a730",
+                    "distractor": "omdat het een vlinder is",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "be8eb10b-61c7-4cec-b55b-b73159b32f21",
+                    "distractor": "om atoombams zijn",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c5d867fd-7cce-4d72-b6c6-d62971328534",
+                    "distractor": "omdat het een insect is",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7ebd576f-687f-4781-a1a1-f117777dd324",
+                    "distractor": "omzet",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5060338b-a605-4926-857e-dec69c3c4840",
+                    "distractor": "omdat het een worm is",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "371758cc-10a3-4457-85b1-470113c01899",
+                    "distractor": "om dat de vos doodgaat",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4ab2707f-ffb0-4a2d-a02c-7efa920ac530",
+            "question": "Wat gaat er bij sclerosepati\u00ebnten langzaam verloren in het zenuwstelsel?",
+            "answers": "De myelineschede",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De celkernen van de neuronen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De dendrieten",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "De eindknopjes van de axonen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "9afda396-aca1-469e-9ec9-2bbd488e40a6",
+                    "distractor": "de celmembraan",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "f2faaf21-2c6e-4ca4-94ac-57834d484b95",
+                    "distractor": "de hypothalamus",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "de2e2a4c-869d-4df9-bd89-f1613a5a31d2",
+                    "distractor": "het hart",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d6967739-76e3-40c7-88bb-46af7259a699",
+                    "distractor": "de cortex",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "dbda683d-700e-4a2e-a3c8-cce9c83ba9f0",
+                    "distractor": "de bloedvaten",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "083df2d2-3ca0-4ccb-80dc-b5d194e365e6",
+                    "distractor": "de lymfadenus",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4253c0c7-9197-4458-81ae-6cfa2ed9bcc2",
+                    "distractor": "de myoskelet",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7b712215-10a4-4a1f-a050-26bba1ea6dcf",
+                    "distractor": "de lever",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "29cd547d-4ec7-4099-a1e0-a5c2e0e9ce9a",
+                    "distractor": "de sinus",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "6e4eccc3-64da-4904-bc6c-32455b2de101",
+                    "distractor": "de hartspier",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f4932708-6fb2-4853-ba55-60fd087f495f",
+            "question": "Waarvan is de hypofyse een aanhangsel?",
+            "answers": "van de hersenen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "van de maag",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "van de nieren",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a425a116-2445-4dee-add6-7435c0ee50a5",
+                    "distractor": "van de hypothalamus",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "94e52137-bac3-4f3e-a478-6d4be5961b2c",
+                    "distractor": "van de linkerknie",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6ee85bd4-0412-4f43-bbe4-368535d094a3",
+                    "distractor": "van de lever",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b4869b8f-d216-435a-b537-e2b76d63f49c",
+                    "distractor": "van het buik",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "7df6b669-c658-4d83-8c98-63f13cf6d2fa",
+                    "distractor": "van de maag",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "170869cc-25ef-4e63-8a9f-a95c8e83d687",
+                    "distractor": "van een hart",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6d742337-d8f3-4f85-ac3e-a3b4736abd04",
+                    "distractor": "van de darm",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e69a6262-5128-42f7-9aa7-dfb908771d29",
+                    "distractor": "uit het lichaam",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "ee1da5fa-d1b3-42ce-8cbd-e6ba13681bf0",
+                    "distractor": "van het hart",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f51dcac0-630a-4564-a5eb-5634a4972b18",
+                    "distractor": "in beide handen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "af63a6ed-88d5-4ad1-a49f-83f0bdadc78f",
+            "question": "Welke van deze klieren heeft een afvoerbuis?",
+            "answers": "talgklier",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bijnier",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "schildklier",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c6869166-8d00-488f-9b02-4fa2bffeac60",
+                    "distractor": "afvoerklier",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e8607e95-c578-46bc-830b-477067b33f16",
+                    "distractor": "slijmklier",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "f218c6ab-e022-46f8-9ff2-aa4baec2bab0",
+                    "distractor": "visklemmen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "127aa438-2335-4d03-a1d4-4c59e7642bcf",
+                    "distractor": "vliesklier",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "20321290-da07-4a47-bd70-14d21eb56320",
+                    "distractor": "stikselkloer",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "a989b174-6846-4c07-80aa-8bd77ba526d4",
+                    "distractor": "kunststofklier",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "cfe53ad7-3a51-4af8-94b1-cf04062ed64b",
+                    "distractor": "veeteeltklieren",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "79360c78-5986-4616-9c3b-ea9b1a6c70b3",
+                    "distractor": "vezelklier",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "89d1a4e0-3773-47ca-bc7e-00a325a76a6f",
+                    "distractor": "kliernaan",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3471bbde-4b96-48f3-9551-a9fe00cf8dd5",
+                    "distractor": "tandklier",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "ffd15a67-f0d5-4b16-bf98-f6b1af4aecd3",
+            "question": "Wat is het nut van zweetklieren?",
+            "answers": "afkoelen van het lichaam",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "verbetering van de spierwerking",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "verwijderen van overtollig lichaamsvocht",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2b672b58-10c1-4c07-90cb-779f3e6b3c34",
+                    "distractor": "afkoelen van het lichaam",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "48a0037c-afe2-4ff7-b358-d4b86ba67a9d",
+                    "distractor": "afkoelen van de huid",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "6096c181-0935-42d6-8be2-95bbca222477",
+                    "distractor": "reinigen van het lichaam",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "640a9370-6e52-4370-bd82-3995b8c3d5f8",
+                    "distractor": "dikke darm",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b89bb9e9-c009-4f81-bc7f-f7467747ff2d",
+                    "distractor": "verwijderen van lymfe",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "640aa6a8-889d-420b-b867-e6013535ebd7",
+                    "distractor": "en",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "e9a38ffe-9fb5-4832-870e-6f145195d845",
+                    "distractor": "reinigen van de huid",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "5efa2b6b-651f-4701-8526-1fc9238bf3a1",
+                    "distractor": "weinig transpireren",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6928b002-9b41-4bb6-80bd-e39ef0651559",
+                    "distractor": "niervorming",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0f445b27-8932-4cb5-9a9b-f45f1c3cf7dd",
+                    "distractor": "koelen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "913ae79d-5b8e-4d3c-86f3-b4ae7edd8c44",
+            "question": "Welke organen registreren de draaibewegingen van het hoofd?",
+            "answers": "de ampullaorganen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de statolietorganen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a7cb4ef4-bde2-4795-9471-004e1103eb43",
+                    "distractor": "de thoraxorganen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "b417cb69-5ffd-4cd1-83c8-278aa9a9dd51",
+                    "distractor": "de buikorganen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "864d580e-18c7-41b7-a9e4-06a4d09259b0",
+                    "distractor": "het rechter vlieband",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "737af6ff-458d-4bba-9a81-bd5e861a7857",
+                    "distractor": "de leverorganen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "d8cee2dd-5185-4d0a-bfc4-0d78c749f1a9",
+                    "distractor": "het longmerg",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "04b0d1e2-3087-4125-bba2-e1288485f5af",
+                    "distractor": "de maagorganen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d9d608cf-30b8-438b-94f1-55845b3b52be",
+                    "distractor": "het cortex",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "25fb3662-5379-4579-ae83-a7a80f77b2f5",
+                    "distractor": "de darmorganen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6ee93338-03b5-4ad1-ba47-56d9a03a4fc4",
+                    "distractor": "het ventrikel",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "c099cecf-adcb-4c0f-abc8-201e56f1e258",
+                    "distractor": "de zenuworganen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "444a53ef-ce4f-4212-b536-7dfc69eb3dfe",
+            "question": "Wat wordt uitgedrukt in decibel?",
+            "answers": "geluidssterkte",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "toonhoogte",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "cdec0214-f47a-428d-8c9a-2b71831114a1",
+                    "distractor": "snelheid",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a61842a9-d540-4d90-bf87-66b12337d1ca",
+                    "distractor": "geluidskracht",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "441fa4df-0932-490c-b622-eff74208d5eb",
+                    "distractor": "weerstand",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "2a333e77-8e4f-4f71-a37d-df10360a41ec",
+                    "distractor": "dalende wind",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "49b240dc-6475-40c0-baea-63f842045f3a",
+                    "distractor": "stroomstote",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "4576e6c1-7dae-44fc-a339-a72c1f48d745",
+                    "distractor": "geluidstoet",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "52b9a12e-5f0b-4616-9f45-fe7b291be6e6",
+                    "distractor": "lichtsterkte",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e58f0515-a7db-45e8-b504-8d3a1e850045",
+                    "distractor": "om",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "1b5633b9-6439-4e38-82e4-98f35c89b72f",
+                    "distractor": "temperatuur",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3d0d45a3-25a7-4626-8601-3548603b75eb",
+                    "distractor": "luchtvochtigheid",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "26dd6fdf-cac8-4586-aba2-4813ca3cd9a6",
+            "question": "Welk is een onderdeel van het oor?",
+            "answers": "trommelvlies",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "netvlies",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "maagdenvlies",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "691fd0b5-92aa-4040-ab82-3909cd00d46a",
+                    "distractor": "spiervlies",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a5529064-d071-45c9-a571-a876947112d4",
+                    "distractor": "oorkrans",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5ef0d62d-0832-42ab-9a71-0ab3d3634ab0",
+                    "distractor": "maagvlies",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "9aa5f201-a01f-4fb1-9219-42ad68b009d6",
+                    "distractor": "navelkolom",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6f31f11e-6fcd-43aa-ad57-b7748436593a",
+                    "distractor": "longvlies",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "86740e65-2825-4bce-9a3b-eca2ef30d704",
+                    "distractor": "rugrand",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "fcfd17ef-1928-4254-8061-8b3eb08bef48",
+                    "distractor": "darmvlies",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b2a80c45-4d55-441c-9959-284be284b4f0",
+                    "distractor": "ohren",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "2ced3c13-9f26-4199-aa1d-d6ea648fed1c",
+                    "distractor": "hoornvlies",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "105db927-be92-431d-99da-e1ac3456bd29",
+                    "distractor": "oogholte",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3f5fb4aa-e25e-48d0-8c96-a7acbcb44bba",
+            "question": "Welke van deze klieren is een endocriene klier?",
+            "answers": "schildklier",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "speekselklier",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "traanklier",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "eb0a9b60-2d4f-45a7-980c-a3572a6fb185",
+                    "distractor": "leverklier",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "3cbbb7fd-47c9-410a-82b3-049658c211d9",
+                    "distractor": "darmklier",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "934e403a-57c7-4eba-b88b-d7414e012a8a",
+                    "distractor": "maagklier",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "d9edcf8e-2516-44e7-b680-9b12ccb80425",
+                    "distractor": "vettenkloer",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2cde87e5-7c2b-46fd-b72e-5baab924dd33",
+                    "distractor": "longklier",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "6e7c4018-8110-44dd-829b-867283a66599",
+                    "distractor": "schevelijn",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "eb0b8035-5354-4185-adee-318eca7dc832",
+                    "distractor": "maag-darmklieren",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "f230b9fb-abf0-47c8-9a0d-c54a700d8320",
+                    "distractor": "thoraxklier",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "7e25a750-3994-492e-803a-9a77cbec9897",
+                    "distractor": "longkleer",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "f1a0ca08-b73d-42b9-8528-3f2cf2263c24",
+                    "distractor": "parasitaire klier",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7dbc7ada-14c0-44e1-9601-a6d8a40ee659",
+            "question": "Welke van deze organen is verbonden met de zwervende zenuw?",
+            "answers": "hart",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "nier",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "milt",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "blaas",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "360f0e89-2f9a-4d57-8e4b-8a175f7a3d11",
+                    "distractor": "hypothalamus",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6964bb9a-11c2-406d-bb87-92c47b462aa4",
+                    "distractor": "spijswerver",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "9c5b903d-0457-44e8-a0dc-e6a005df0642",
+                    "distractor": "longen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "48b6c109-7fd3-4112-a031-879d9758c338",
+                    "distractor": "hippocampe",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "1bf35aa8-fc5d-4550-b1b7-f1eef3c92980",
+                    "distractor": "spieren",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "70416ac2-06ff-4fb3-bc82-b1cb5928d26a",
+                    "distractor": "mitrale septum",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "65d277d7-4bdd-41a8-b90c-01cc2302410e",
+                    "distractor": "hersenen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "944f8aac-d49a-4c49-a3c3-099536556d6e",
+                    "distractor": "nieren",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "131f8662-dde5-49dc-a214-4c511d3712c6",
+                    "distractor": "spijsverteringsorganen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "33b25169-927b-4837-917b-babe98da9c66",
+                    "distractor": "zenuw",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "2d77fe50-a8c6-44f1-9b6a-e49ca5a00e55",
+            "question": "Welke zijn op langere termijn mogelijke symptomen van diabetes?",
+            "answers": "ongevoeligheid in de voet ### aantasten van de myelineschede ### blindheid ### uitvallen van de nierfunctie  ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "haaruitval",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "bloedarmoede",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "slaapwandelen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a4c7cdca-991a-4815-a0f3-fd658570eec1",
+                    "distractor": "ontsteking van de nierfunctie",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "891102a7-23e7-44c5-b74f-d49bcbc85501",
+                    "distractor": "neerslag",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "3b668770-9a2e-4091-ba53-92a57e394fde",
+                    "distractor": "afname van de nierfunctie",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "b006fc3f-b441-406b-93c8-c7608a6e85b1",
+                    "distractor": "inname van de urinezuur",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "2f3fd73a-fa99-461c-acf7-3e405dac0433",
+                    "distractor": "verlies van de nierfunctie",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "772d4ee3-fc39-4e77-8378-906f0e30ddb5",
+                    "distractor": "ontsteking",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "3ca559ea-98d5-48b4-a8af-1afde5abb5fb",
+                    "distractor": "verzwakken van de nierfunctie",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "ed089826-cbff-4627-9471-148afccdde3e",
+                    "distractor": "ontslag",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "6f7e3a1a-aa6e-43a8-98e8-9a37a11191d0",
+                    "distractor": "brakheid",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8b1bfa1c-ba9c-4dd2-875a-c61bc2360a44",
+                    "distractor": "ernstige verwekkers 8.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "23d34cb5-2fc4-4cca-b698-eebd04fe41af",
+            "question": "Welke receptoren bevinden zich in de halfcirkelvormige kanalen?",
+            "answers": "evenwichtsreceptoren",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "geluidsreceptoren",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "fotoreceptoren",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "55da8296-4f68-4023-bfcd-79fa25581abd",
+                    "distractor": "ademhalingsreceptoren",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "19a715ff-d55e-4796-931a-ce49707bfb2b",
+                    "distractor": "gedragsreceptoren",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d63726e6-0374-4116-9b55-85161b58e34d",
+                    "distractor": "absorptiereceptoren",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a607eb29-1d09-47aa-9482-5b975b1d2368",
+                    "distractor": "receptor-emotionele en parallelle verdeling",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "d53e43c8-b3ed-404e-a888-566a8d66f550",
+                    "distractor": "synaptische receptoren",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8e30c5f7-b6a2-4136-9112-81694ec226d4",
+                    "distractor": "synaptische reservoir",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "618bed27-eb2e-457d-a3e1-6d00d9abb38f",
+                    "distractor": "spreidingsreceptoren",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "4d2adafa-4e67-40e6-b83a-2907ccc5b28b",
+                    "distractor": "enkel dezelfde",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f871be74-e51f-439f-9f6c-1225aa1d3a5c",
+                    "distractor": "spanningsreceptoren",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "fc9fec61-b43c-487f-b4e6-f905976ce273",
+                    "distractor": "spongifluentie receptoren",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "f261972e-7dab-42a2-ad5e-655080fd5850",
+            "question": "Welk vaatweefsel zorgt voor opwaarts transport?",
+            "answers": "houtweefsel",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bastweefsel",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "6d220ff0-d454-47d1-bb4c-86eede00a7c2",
+                    "distractor": "waterweefsel",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "39c27027-7bd6-47f3-8ade-b5ade7b2518f",
+                    "distractor": "bloedweefsel",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "929c1387-a047-4fb0-84e9-c17ca33ded48",
+                    "distractor": "zandweefsel",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "525576f8-3094-4cc6-b1b6-9548dcbd3154",
+                    "distractor": "huidveefsels",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f39b9ff1-c9c6-42b6-8a3a-022f58221b4a",
+                    "distractor": "kleiweefsel",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "db9a0254-b666-4440-bd05-c3b3b0b4dc2a",
+                    "distractor": "urineweefsel",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "50fd406c-f9b5-465b-9fd0-9909cd1ef622",
+                    "distractor": "vetweefsel",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "b51f8f27-4f2d-4468-8cae-0fc5a75d9f70",
+                    "distractor": "zweepeefsele",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "35449b78-b663-4ad5-b952-90ad84b2f727",
+                    "distractor": "vochtweefsel",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7e7dac0e-194b-4e57-bb1d-44dc5defb2ae",
+                    "distractor": "vaatvezel",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "6cc4be7c-9006-4732-bfd6-911d4fc51b04",
+            "question": "Langs welk deel nemen planten water en opgeloste stoffen op uit de bodem?",
+            "answers": "wortel",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "stengel",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "blad",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "a9284412-031a-4cbb-ab6c-b493b730903b",
+                    "distractor": "eiwitten",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "71129e41-a60b-4d8e-be0e-8de59dd06103",
+                    "distractor": "lauw",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "c537bfc0-c8f8-49ef-b37c-245e28bee8e3",
+                    "distractor": "bladeren",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ac8c8937-8b27-4c93-9fb7-29cb83235b53",
+                    "distractor": "zand",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4fd77b47-e101-4b90-85cb-3c3d8dc6d4a3",
+                    "distractor": "blad",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "92e3a953-e978-4ee7-94ca-a0aa4df63a5a",
+                    "distractor": "vruchten",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "11553566-88c4-4a6f-93d9-4ea6b8903f59",
+                    "distractor": "lente",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "40412b71-49bc-43c5-8519-814871b4e2ec",
+                    "distractor": "geslacht",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b5bda05b-55fb-4993-ae0c-a80641e08956",
+                    "distractor": "winter",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "81eb3812-4df8-4e35-b67d-28bb4102c43c",
+                    "distractor": "bos",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "879b679f-1d7b-4dc4-8bed-a8a5cfa9594c",
+            "question": "Tot welk milieu behoort het bloed?",
+            "answers": "inwendig",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "uitwendig",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "de1834e1-cbb0-47c8-afc0-7deea3dd1d41",
+                    "distractor": "uitwendig",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "be754f3e-2d58-4525-8379-1d03adc6a933",
+                    "distractor": "zuiver",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "68ca00f3-cd37-46a9-ac28-a90e073933a3",
+                    "distractor": "zacht",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f86ef92e-c659-4e03-a193-89373702f3e7",
+                    "distractor": "zuur",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "5c6c0da7-cba2-4776-90fc-6234f1f2c6da",
+                    "distractor": "vet",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "eecd0a93-d975-43b1-9690-8a9f9213d1d0",
+                    "distractor": "weefsel",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9fb7ae46-15ec-41d5-97e6-c2d643bee118",
+                    "distractor": "melk",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8446c4c8-0ccd-4bb5-86b0-6ed3c03941da",
+                    "distractor": "cel",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d70bbd4a-a463-4260-be18-6eabf4dd4870",
+                    "distractor": "milieu",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "76caf394-55ef-478f-8cd7-5d068b27a540",
+                    "distractor": "de mens",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "ee473484-7787-4070-9a15-6a430693ea23",
+            "question": "Van welke soort kegeltjes hebben we er ongeveer 3,2 miljoen?",
+            "answers": "rood",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "groen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "blauw",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "94d19c86-5cff-4386-96e6-9a2e80fd9417",
+                    "distractor": "groen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "bdf8e42f-442a-4447-976c-21c245f77f2b",
+                    "distractor": "geel",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "ea1a66b1-eb59-4009-8578-8d634e510632",
+                    "distractor": "blauw",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "4dc65f87-48f5-4a25-9959-657a3e74f630",
+                    "distractor": "gele",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "ccb0ba34-093d-481a-a0b7-b7447568955b",
+                    "distractor": "wit",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8950859a-3d3c-44cc-801d-d444bd2e4c32",
+                    "distractor": "zwart",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "fb269a92-27da-412d-8f37-ef50858d25af",
+                    "distractor": "ik-wit",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "35cf2540-1ea6-4b97-99e0-8462eda5ba3d",
+                    "distractor": "lila",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "0c7b3065-89e3-436a-b42b-9e4a86d0dae4",
+                    "distractor": "roze",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8e8ef2ab-59cb-4d08-8cb3-2c9c40384d32",
+                    "distractor": "oranje",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "76f5fcab-af6f-4ada-8cef-3ecaa8bcc17a",
+            "question": "Welke geneesmiddel is verslavend?",
+            "answers": "Temesta",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Dafalgan",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Penicilline",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "Aspirine",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "b3c52d4d-8903-46c5-9bf3-0bd16e959a2a",
+                    "distractor": "morfine",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "ec823ad6-76cb-4db9-b121-655b6d8e2550",
+                    "distractor": "serine",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "db808722-bff2-48e1-8576-d0c5ab1a3536",
+                    "distractor": "deca",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "c3265830-0a07-43aa-88c4-91ecc77f3ebe",
+                    "distractor": "diclofenac",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "f9af7192-c433-4dc3-925e-8b25470a9244",
+                    "distractor": "aspirine",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8175bee0-b85d-4ab5-a7e2-68696f35b7bc",
+                    "distractor": "paracetamol",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "46942e2f-0bb4-4721-8a8a-91a580192421",
+                    "distractor": "antipyretica",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "1cfe12c3-d984-464d-ac33-db00c8c86a5f",
+                    "distractor": "colmo",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "22a04756-d81a-4c30-809b-35659281796d",
+                    "distractor": "nexium",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "a8e3af65-2011-4b66-b9ca-ad2d2b8f5fad",
+                    "distractor": "sirolimus",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "da63cf24-788c-4b43-b21d-956af9981ac4",
+            "question": "Langs welke vaten wordt glucose naar de wortels getransporteerd?",
+            "answers": "zeefvaten",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "houtvaten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "1ba17a58-15bc-4b45-adf6-3878e716ee38",
+                    "distractor": "maagvaten",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "6687ca52-1378-4b6f-ae9b-1a9c3f26c8ef",
+                    "distractor": "aortavaten",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "51fd2b8f-7688-45ba-8b40-de1a3608a2a6",
+                    "distractor": "pancreasvaten",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "69b25154-c07b-437c-ae82-438e52b71d3c",
+                    "distractor": "larvavaten",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "baadbcec-f0e0-43e3-8fb7-44cb3a3649d4",
+                    "distractor": "levervaten",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "cfed5c7c-3a0a-422a-9d7c-79a81d371ff1",
+                    "distractor": "longvetten",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "3d789a60-63c4-476c-8c72-f6c9ff808d77",
+                    "distractor": "hartvaten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e2e9c22a-e55f-4c15-9514-e45187665bff",
+                    "distractor": "enkele vaten",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "49872728-18b8-4932-8f75-1a46e57604d2",
+                    "distractor": "longvaten",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8c8945c6-9c37-4056-bb0b-07a5279c5540",
+                    "distractor": "elbow-vatens",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "5d5fc67c-385b-4719-ae71-35918e5e3526",
+            "question": "Welke reflexen zijn ongewild?",
+            "answers": "niezen ### speekselafscheiding bij honger",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "een bal wegtrappen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "je neus snuiten",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "68e01ad5-20bc-441c-a691-da64f2fd0d08",
+                    "distractor": "ademhalen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "04815fc3-006e-4e93-9023-107ac9210be7",
+                    "distractor": "slok",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "e7296ea8-f070-4708-927a-465014eba5b4",
+                    "distractor": "spierkrampen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ab6c82e2-15e0-4b95-9986-7529b57db1c8",
+                    "distractor": "verzakken",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4f2f5dfd-aea5-4eb4-90bb-d9778bdde482",
+                    "distractor": "zenuwkrampen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "d7ef7a3d-af5d-46fa-8f57-80e1b8af9069",
+                    "distractor": "zagen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "5e6988de-a0eb-4677-a658-9e70f7e1ce0c",
+                    "distractor": "vriesen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "eccb41c6-5c20-4cbc-8a6d-2cfd5f898ef1",
+                    "distractor": "nalaren",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e0b00317-9417-4acb-a6a7-526f29bc44fe",
+                    "distractor": "slapen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "8060c22f-1cb5-4460-805e-9b06324d7eac",
+                    "distractor": "huimen 10.",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "ff61c2df-0d04-42c9-b630-780ad0bc6ec7",
+            "question": "Welk hormoon wordt aangemaakt in de teelbal?",
+            "answers": "testosteron",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "adrenaline",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "progesteron",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "fe706ac5-7cea-4a77-a604-2a1d1ca37d90",
+                    "distractor": "amylase",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "16d75e12-c5f5-465d-a41b-7e17661fd01b",
+                    "distractor": "fibula",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "3fcc7646-c0d2-41af-8b74-a176c59d5074",
+                    "distractor": "estriol",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "1ca89de9-188a-4256-a267-56044a09e57f",
+                    "distractor": "prolactine",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "29365003-ae94-4d9e-8824-4d1565060764",
+                    "distractor": "progestin",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b126f290-fb56-4ff8-9677-d9d77db11ec8",
+                    "distractor": "adrenaline",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c7b66897-4b31-44d5-bf7c-1c723ca89184",
+                    "distractor": "adrenalina",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "602c3fb8-2ae6-47c2-b179-e9bbba04d074",
+                    "distractor": "melanin 10.",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f19e1825-8327-48e5-9107-80dd6b70e592",
+                    "distractor": "dihydrotestosterone",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "e7e31546-65c2-4579-8507-e049318c6894",
+                    "distractor": "trisomen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "86c80b5a-cb71-4a72-aabd-30c9e7a527e1",
+            "question": "Wat zit er in het netvlies van het oog, waarmee je kleuren waarneemt?",
+            "answers": "kegeltjes",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bolletjes",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "cilindertjes",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "2ec09200-793b-474b-af53-4d55a1f15580",
+                    "distractor": "blauwe lijntjes",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "e1b9870c-f2f5-44b7-854e-69206082e22e",
+                    "distractor": "voegjes",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "0f6a6e57-4ed0-4d74-8928-63f60539a1d8",
+                    "distractor": "bladeren",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "a8addadc-d558-4c99-9968-e9216ac0dede",
+                    "distractor": "hartslag",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "46a5bfe3-e5f7-4262-a674-0784acb9f271",
+                    "distractor": "blaadjes",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "15f09b79-876a-4ddb-ae85-6c61596ea073",
+                    "distractor": "glas",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "4aa28038-0644-4140-b392-1d2400f01043",
+                    "distractor": "punten",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "83256df1-deed-4947-ab09-245479103062",
+                    "distractor": "olijf",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "e1e26bb0-1601-4a2f-a792-cd95eeafa7a5",
+                    "distractor": "bleedpotje 10.",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "bb6d8dec-8c3c-4c9a-bafe-1fb5260109b8",
+                    "distractor": "vingers",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "7fec2744-e974-4d7d-b64a-1feae6afb1ba",
+            "question": "Wat zit het dichtst bij de bladschijf?",
+            "answers": "bladvoet",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "bladschede",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c159fa7e-ebd1-4235-bbeb-e044d229e077",
+                    "distractor": "bladschikking",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "cb32b0b7-0a03-48f6-ab4d-fdf18b78ba57",
+                    "distractor": "bladschaam",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "5d1ca53c-3bc7-4d15-b860-c8a4d1fbda6b",
+                    "distractor": "bladschijf",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "09550119-8253-4bd8-a435-f7e2c297eb0e",
+                    "distractor": "wortel",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b6c6f6ef-1097-4e24-ad14-5e49cb98648f",
+                    "distractor": "bladspier",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "8f53c45e-eb9c-47ee-a283-2633a4272815",
+                    "distractor": "dikke huid",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c49f7dcb-d6f7-4f4c-8066-9ac4de30cc9c",
+                    "distractor": "struik",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "18c3f6a9-cb3d-4857-8796-9e05048b6224",
+                    "distractor": "vlinder",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "4a783a46-d7e2-4a7e-ae90-bedf8f9ce33f",
+                    "distractor": "navel",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b606c604-bd9f-46fa-b29b-134e4919d76b",
+                    "distractor": "kat",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "a4f0466c-d7f5-435b-b15d-33d8d1e7ed20",
+            "question": "Hoe verspreidt een depolarisatie zich?",
+            "answers": "Van het axon richting dendriet van de aansluitende zenuwcel.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Van een dendriet richting axon van de aansluitende zenuwcel.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "878ae17c-7abf-43ff-bb6f-9fe0a752b9ef",
+                    "distractor": "van het axon richting dendriet",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "a261cff3-acce-4867-95c6-de896dfa7ab2",
+                    "distractor": "van het axon naar dendriet",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "119ded5f-33df-4653-9948-1f996b91ba2e",
+                    "distractor": "door een zenuwcel",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "ef9e0a03-7f1a-454e-9bf7-aa8d2e0a283e",
+                    "distractor": "via enkele zintuigen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e3a1737d-37ec-44ca-8d2d-0b2782fc5e4f",
+                    "distractor": "omdat er geen ge",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7bd91934-9dee-42df-98e5-d2355c746713",
+                    "distractor": "van een sinusrichting heen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "33c94e4c-0657-4423-90aa-be922d03f3d0",
+                    "distractor": "over de dendritische zenuwcel",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8b82655a-3bb9-4889-886b-0ba2d3b7f9e3",
+                    "distractor": "over",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "321b1be0-6fea-4e09-a8b9-38db75cbf4db",
+                    "distractor": "van het axon naar de aansluitende zenuwcel",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "3593263e-3e1f-4188-990e-29ac69081fdb",
+                    "distractor": "tot een bepaalde celrichting",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "db3c6798-8299-4598-a4c7-338a2b2dcab6",
+            "question": "Welke drank is de meest gebruikte drug op aarde?",
+            "answers": "koffie",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "water",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "fruitsap",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "melk",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e7a5a3b7-bec4-4f25-a74d-ee22fb96a197",
+                    "distractor": "frisdrank",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "19e06346-8614-4293-a121-cdbcd07cde01",
+                    "distractor": "ijs",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "8bbdb4e7-0567-4ce5-9033-8a753d78d946",
+                    "distractor": "coca cola",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "e8ab2c47-35e1-4fbe-9d3e-cfee33e61314",
+                    "distractor": "cola",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "00ae3058-f214-443a-9b50-8005c1889d86",
+                    "distractor": "chocolade",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "bd7e4d89-6fe4-4861-8fa1-d2e582cdfc3f",
+                    "distractor": "siroop",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "79f54031-39fa-477d-bb7e-9ee4d9a7adc2",
+                    "distractor": "melk",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "c0d339f9-cd19-4781-95d1-23bd758fb046",
+                    "distractor": "gedronken",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "26395d54-51a8-48f4-8a3a-91b9c088949f",
+                    "distractor": "water",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "36953040-1c96-46fb-af45-6a745ae9cb8c",
+                    "distractor": "alcohol",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "913a608c-ec9a-415e-9956-44678cee72b6",
+            "question": "Welke neuronen bevinden zich nooit in onze ledematen?",
+            "answers": "schakelneuronen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "motorische neuronen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "sensorische neuronen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "92a2ba4f-f097-4e93-990b-169d73ca4d08",
+                    "distractor": "hypertrofische neuronen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "7fe63a68-d63b-4c33-83e1-05b0a45b4421",
+                    "distractor": "antagonisten",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "46f11997-da35-4737-aa1d-54472467d5e7",
+                    "distractor": "actieve neuronen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "1760b108-3f37-4a20-b08c-21edbee24b53",
+                    "distractor": "perifere neuronen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "528de5cd-30b8-4acc-a429-26fa7272388b",
+                    "distractor": "postreceptorneuronen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "17818026-e8f3-46f0-8f1c-de05c8987a95",
+                    "distractor": "hersenneuronen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "d5f090ad-9b3b-4993-8cef-1eb7bde442aa",
+                    "distractor": "hypertrofische en motorische receptoren",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "09755c57-00b9-481b-9d9f-251b324ce55f",
+                    "distractor": "hartneuronen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "294af422-2ef7-4aae-af79-01cb7e5426e4",
+                    "distractor": "persternal neuro",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "d2e938c3-9913-46b1-b078-d73d7523ab23",
+                    "distractor": "spierneuronen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "30376c42-b05d-42ec-b6cb-46047e3ea782",
+            "question": "Welke van deze verdovende drugs heeft ook een hallucinogene werking?",
+            "answers": "cannabis (wiet)",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "code\u00efne",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "morfine",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 3,
+                    "distractor": "hero\u00efne",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 4,
+                    "distractor": "alcohol",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "388a91c6-32e0-435a-8e85-3b14a5f5436e",
+                    "distractor": "morfine",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "78fc31b3-91fb-4b3f-bd0b-c8703d0f79c8",
+                    "distractor": "acetylsalicylzuur",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "556548ea-b005-473b-a253-6d155d5e7b28",
+                    "distractor": "litium",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8000f101-ea3d-460f-8c6a-eb93afe93128",
+                    "distractor": "fentanyl",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "d3d5eb45-36fd-419b-8ebc-f4411dc6c60c",
+                    "distractor": "kalium",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "d2faf956-2b70-4ccf-9bf5-7175902a958e",
+                    "distractor": "salicil",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "7f94ba20-f6db-47fe-a1ad-1ff79fe79d4c",
+                    "distractor": "cocaine",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0a4e539a-4eb9-4187-8bc3-366e08355d43",
+                    "distractor": "parace",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "5573dfe7-e669-4c22-b980-14adf07b371c",
+                    "distractor": "methadone (water)",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "7a6861e6-bdae-4ccd-a0b6-f0242adcf191",
+                    "distractor": "lamisil",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "36f60e19-9d7a-467b-ae45-d04685a0e8c0",
+            "question": "Waar ligt je schildklier?",
+            "answers": "in je hals",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "in je buikholte",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "in je hersenen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "390e5c02-9528-4010-b4f5-88393763f277",
+                    "distractor": "in je longen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "06788bbf-c4a6-45e6-a845-8a8bbe5711f8",
+                    "distractor": "op de knie\u00ebn",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "780ed674-6e0f-4e20-83c3-0290f0f91f0a",
+                    "distractor": "in je handen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "01f3a85a-f5fd-4e59-9bad-716dda8b522a",
+                    "distractor": "onder je ogen",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b9c12089-3184-4778-a1a0-03cf77c68650",
+                    "distractor": "in het bovenste oog",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "75183b2a-b76a-4e6b-934f-b63bcf7adb53",
+                    "distractor": "uitsluitend tegen zijn enkel",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "6e6ac61c-61b6-4bae-b116-0c16e27a2501",
+                    "distractor": "zweet 7.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "d7ddbd43-dc43-4ca1-82c1-c73d4e52e1ab",
+                    "distractor": "in je ogen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "37627b37-b17f-4fe0-826f-d643548b1f4f",
+                    "distractor": "op de romp",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "5d2bc17f-ce6c-42e8-b3ac-3ce9b4fa4e19",
+                    "distractor": "onder het knie",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "4da8cd01-25ab-468d-821f-7dd12fcd0d57",
+            "question": "Van welke plant gebruiken we nog de wortel als voedingsmiddel?",
+            "answers": "Rode biet",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "Witlof",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "Sla",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "cfea3d87-82fb-48ae-bbe3-ebeae8319128",
+                    "distractor": "eiwitten",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "5217649c-2750-40da-9efb-28c3cb4a62da",
+                    "distractor": "rozen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "64e5828e-a6d2-4cfa-a2ef-588810aac2be",
+                    "distractor": "granen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "417675c1-e126-4dd1-b357-6fbfc88a6879",
+                    "distractor": "tijger",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "6fe3f801-86ba-449d-8c30-e483d262f59b",
+                    "distractor": "aardappelen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "683ec0ff-66a1-4130-b685-9ab8fc070b60",
+                    "distractor": "kelder",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0c888b23-c96b-4189-85ac-95d8fa8aad0f",
+                    "distractor": "olijfolie",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "68be9fce-c524-4364-9a72-85829446a7ae",
+                    "distractor": "leem",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "dec80e90-795e-4746-89d9-63e52e7d4115",
+                    "distractor": "sauvignon blanc",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "e1d2e761-4e96-4a8e-a123-f8db37ff7a4e",
+                    "distractor": "zonnebloem",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1c60d9a4-1394-4784-902f-17996c897987",
+            "question": "Welk gas komt er vrij bij de fotosynthese?",
+            "answers": "zuurstofgas ",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "koolstofdioxide",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "185687a6-85df-45a4-a5bd-66890c5060af",
+                    "distractor": "koolstofdioxide",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "49da6981-7336-47f1-a1df-2b2de8cb2628",
+                    "distractor": "ethanolgas",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "11502ece-cc25-433a-9854-fe8651965ebc",
+                    "distractor": "sulfaat",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "883fa3c4-be3b-4af9-8343-845d4a6f2008",
+                    "distractor": "metaal",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "4e7c7390-e38e-4bc9-9440-5ae8dc48991a",
+                    "distractor": "water",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "2635a019-bebc-47a7-8007-6bd937e43e66",
+                    "distractor": "chloor",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "1ed3e4a8-fcdb-4d5b-ad23-e00c74a7ffcf",
+                    "distractor": "mangaan",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "e97d038b-9e39-403b-b5c4-3255c5974bf6",
+                    "distractor": "trichlorofosfor",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "d479aaba-99b2-45cf-9702-f68c0a8298ce",
+                    "distractor": "zuurstofgas",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "db13fb2e-5eb1-4804-9e74-f9ad3bada630",
+                    "distractor": "radiocarbonaat",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "3f769050-9ea0-4660-bbee-981e5daab9f2",
+            "question": "De zenuwimpuls die je linkerbeen doet bewegen start vanuit de motorische hersenschors. In welke hersenhemisfeer?",
+            "answers": "de rechter hersenhemisfeer",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de linker hersenhemisfeer",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "886911eb-0346-42b5-bbc7-771869d52a03",
+                    "distractor": "de rechter hersenhemisfeer",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "4d6f869c-dad7-4947-92f1-41553e67bcaa",
+                    "distractor": "de linker hersenhemisfeer",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "be620fcb-ccb1-4e47-9c83-c63d0965d8c6",
+                    "distractor": "het bovenste hemisfeer",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8776d6cb-1cac-49dd-91a2-bf2c1141353b",
+                    "distractor": "een voorstelliger hersinhelisfer 5.",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "b9f031d7-b34e-491b-9917-917e502b70f9",
+                    "distractor": "het lenden",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "9dec2616-c6dd-437b-b4d3-fa2d031b95c9",
+                    "distractor": "het rechter hersehemismesfeer",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "ff37ac3d-c5e7-4d1f-b518-eaa3a6976273",
+                    "distractor": "het hele hemisfeer",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "f23ac206-ed33-4c41-b115-f58773287ea9",
+                    "distractor": "het linkerbeen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "3b8d0810-d385-47a7-bb47-fde0d061f32b",
+                    "distractor": "het middelhersenhemisfeer",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "0581ca3b-d1a7-4095-8229-fc9b49ec5dd0",
+                    "distractor": "de midden herzenhemi",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "518d673a-d7c9-438b-8fdd-d6060804ff35",
+            "question": "Hoeveel mensen zijn er wereldwijd met gehoorschade?",
+            "answers": "450 miljoen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "600 miljoen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "950 miljoen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "73e28cad-dd74-4f46-87b0-6b2760193302",
+                    "distractor": "200 miljoen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "54887f38-6780-43c0-809c-ac90aaf2a09a",
+                    "distractor": "10 miljoen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "d63a89f6-d4de-4732-b9d1-f0a18a1478b2",
+                    "distractor": "300 miljoen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "5faea8d5-0d5e-4775-a7c3-2c13a1b268ee",
+                    "distractor": "600 miljoene",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "1076c2fc-6125-4970-b46b-a352ba902a8c",
+                    "distractor": "400 miljoen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "64b23114-8a18-4b92-ae51-bdfcd2f0f84f",
+                    "distractor": "25 miljonen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "25074eec-679e-43f0-8495-a40f4315142f",
+                    "distractor": "600 miljoen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "7946c916-49b2-4071-97a1-f0f2f6a2f0cb",
+                    "distractor": "5 miljard",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "904ad4e0-ef9d-4271-ab78-bebb5769dae8",
+                    "distractor": "700 miljoen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "33226999-b435-471e-b405-fabf7e0a4275",
+                    "distractor": "1.200 miljoenne",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "abcc28da-fb46-433f-8ed8-12a9b1f27c92",
+            "question": "Welke bloemen zijn in een veld altijd naar dezelfde richting gekeerd?",
+            "answers": "zonnebloemen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "boterbloemen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "paardenbloemen",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "d2445522-f3d1-4999-9703-11f238ee3a63",
+                    "distractor": "blauwe bloemen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "9d60c8e9-ad7a-4ac3-9648-900bc1c970de",
+                    "distractor": "smaragden",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "2064caca-3df9-4444-ac88-68d61c8085db",
+                    "distractor": "witte bloemen",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "f73c9f8d-a17a-4e5a-ab2f-3787ff56e29e",
+                    "distractor": "liliane",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "dd9c5a5f-3ed4-44b6-b140-e3183cb25d6e",
+                    "distractor": "gele bloemen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "726978f8-2f74-4edc-80fc-e7ab411a2964",
+                    "distractor": "satelliebloemen",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0cd9fd02-bc9b-49b0-9990-948e509da6d6",
+                    "distractor": "rode bloemen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "0f60cd33-2943-420f-aea0-3f588b1adb39",
+                    "distractor": "ruitrozen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "3e19295b-bfd1-4c08-9655-d3be28a755b5",
+                    "distractor": "roze bloemen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "12b3c188-d1a1-4cc2-b85f-f135365290b8",
+                    "distractor": "papasie",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "32a1ff4a-fa54-4c71-a185-94c9d81fbb33",
+            "question": "Wat is het effect van het plantenhormoon ethyleen?",
+            "answers": "De rijping bevorderen.",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "De celgroei bevorderen.",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "De celdeling bevorderen.",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "c28147e5-5be1-4e96-ad61-076f77c960b9",
+                    "distractor": "de rijping bevorderen",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "284b1f3d-ee2c-4de6-9db0-38c98fec1295",
+                    "distractor": "de binding stimuleren",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "637cb636-f8e8-4d5a-9dc7-21c31ba16759",
+                    "distractor": "de rijping stimuleren",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "8a777cc6-8d35-4159-965f-429d51543cba",
+                    "distractor": "het aantrekken van kruiden",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "27e916d3-aac1-4c3f-96f2-8168e2a89d6a",
+                    "distractor": "behoud dalingskracht",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "b0f0cc74-1c77-44ee-a6ec-fa27f0eaeb47",
+                    "distractor": "doorgroeien",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "8f424466-6fe7-4328-ba6c-1cf8a6731f85",
+                    "distractor": "groeiverhooging",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "6dd7fe32-76b3-483a-88cf-abff5057bd0f",
+                    "distractor": "de groei bevorderen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "f0d4f9d8-d4dc-4b42-b14f-072ab9319500",
+                    "distractor": "het natuurlijke productie verhogen",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "b8d47b30-6a82-43d5-8b9d-ffa17be74288",
+                    "distractor": "de temperatuur afstellen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1058db7b-b91b-407d-80a5-a69c3ce5f99b",
+            "question": "Sommige drugs zijn verdovend, andere zijn stimulerend en geven de gebruiker een kick. Welke van deze drugs zijn stimulerend?",
+            "answers": "speed ### coca\u00efne",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "morfine",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "alcohol",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "e46bcc35-b4fd-4d90-8875-bc0b5ec8648d",
+                    "distractor": "adrenaline",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "79e471a8-d7e9-44e6-ad9a-970b62401a6e",
+                    "distractor": "magnesium",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "34d5e867-5d7a-49fa-8229-ccd13d985173",
+                    "distractor": "gentadine",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "95271844-9297-4dfb-9587-b6e1a3a05d32",
+                    "distractor": "acetylsalicylzuur",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "14ede528-7885-42d7-b2d0-bfbf9791d8e1",
+                    "distractor": "cocaine",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "e2cef3fa-158a-4152-9829-e1a6f0b313b9",
+                    "distractor": "dopamine",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "3f958756-d727-4599-b220-b2c6d2c84e6f",
+                    "distractor": "ibuprofen",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "53fda512-fdcb-4dda-b306-9f41db34417c",
+                    "distractor": "fingoline",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "a87030ad-1f9b-4bd6-989b-436fc4fa09c4",
+                    "distractor": "paracetamol",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "31c071b9-d4cc-4025-8b7b-70c63b7399b9",
+                    "distractor": "asthma",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "b328a63e-b090-4e69-8618-5a84ec56820b",
+            "question": "Welke toets op een piano wordt in de top van het slakkenhuis waargenomen?",
+            "answers": "de uiterst linkse",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "de uiterst rechtse",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "ba08bf3e-c56f-4c87-ac5f-0ba9331aae7e",
+                    "distractor": "de uiterst rechtse",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "c65895fc-a2ef-4fad-84d1-e70f12121cfd",
+                    "distractor": "de uiterst rechte",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "21d41505-91ce-423f-a727-a8508c9a9d46",
+                    "distractor": "de rechter",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "9c92827a-9841-45a7-8d7f-f4e67c53cbaa",
+                    "distractor": "het midden",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "e0953a76-6fb7-43e7-8623-14541780c9c0",
+                    "distractor": "het onderste",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "43bd9bac-031b-4049-9b46-473f25ab2a08",
+                    "distractor": "de rechterkant",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "c30acefc-a2a6-47d5-8923-f292f87e397d",
+                    "distractor": "het zij-achterklep 8.",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "87e5324e-d20b-4d74-85ec-1bc50d23d0d1",
+                    "distractor": "de rechtere",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "dc137fe1-fa1f-40d3-91d9-18ad5aebdc9f",
+                    "distractor": "het rechts",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ac4b86ce-aea3-422f-81d1-b0f43985d476",
+                    "distractor": "de rechthoekige",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "e694444b-cacc-4601-a47e-2380ab085f5e",
+            "question": "Welke drugs is het gevaarlijkst?",
+            "answers": "hero\u00efne",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "wiet",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "speed",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "cc2e8fd6-c0e0-4836-8338-d09c3b4e9430",
+                    "distractor": "morfine",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "25d7a428-cd80-4163-ab30-ab12b3f9da0a",
+                    "distractor": "nicotine",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "fa3031db-4c5c-4ced-a1e7-5724f1c3afc9",
+                    "distractor": "thiovin",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "bfb81b9c-a668-40f9-8c92-e4b29ecd8182",
+                    "distractor": "aspirine",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "c10c76bf-3b11-4b1d-9902-a78d0013e7bd",
+                    "distractor": "ibuprofen",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "77dff52c-2991-4e36-a0c6-1cb966ce33e2",
+                    "distractor": "gent",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "0dffd39d-40a2-4363-8131-09219c29c5ce",
+                    "distractor": "fluorescerende stof",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "8eaf087b-c532-4981-9ea1-4b1c07bd92ea",
+                    "distractor": "para",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "3118bc9d-255d-4341-a9f6-0349ee3bafcc",
+                    "distractor": "morphine",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "ea21bfdd-db71-4849-b248-2da979be7b62",
+                    "distractor": "methanol",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        },
+        {
+            "qid": "1472b04f-4366-4926-96a9-5e933e884882",
+            "question": "Welke organismen kunnen meningitis veroorzaken?",
+            "answers": "bacteri\u00ebn ### virussen",
+            "ground_truth": [
+                {
+                    "distid": 1,
+                    "distractor": "wormen",
+                    "modelid": "human",
+                    "score": 1
+                },
+                {
+                    "distid": 2,
+                    "distractor": "vlooien",
+                    "modelid": "human",
+                    "score": 1
+                }
+            ],
+            "proposed_distractors": [
+                {
+                    "distid": "7565e6f3-9f51-4f74-b30c-b8afd4eff051",
+                    "distractor": "eiwitten",
+                    "modelid": "mt5",
+                    "score": "1."
+                },
+                {
+                    "distid": "bbd64033-5275-48c0-bb47-5126d17470e5",
+                    "distractor": "wormen",
+                    "modelid": "mt5",
+                    "score": "2."
+                },
+                {
+                    "distid": "123cae84-3cc8-4996-acb6-69f1751cd0e6",
+                    "distractor": "vogels",
+                    "modelid": "mt5",
+                    "score": "3."
+                },
+                {
+                    "distid": "680a4cf5-5a50-4103-b1d1-168314a57f8d",
+                    "distractor": "vetten",
+                    "modelid": "mt5",
+                    "score": "4."
+                },
+                {
+                    "distid": "376e25ae-58b6-43ed-8d1d-9ef60d730991",
+                    "distractor": "bacteries",
+                    "modelid": "mt5",
+                    "score": "5."
+                },
+                {
+                    "distid": "7bb6bb5d-d47e-4537-9622-0904a7eecec1",
+                    "distractor": "bacterien",
+                    "modelid": "mt5",
+                    "score": "6."
+                },
+                {
+                    "distid": "9e35af03-4498-49c1-9d63-ec799df5a46d",
+                    "distractor": "leem",
+                    "modelid": "mt5",
+                    "score": "7."
+                },
+                {
+                    "distid": "fadc1002-6b56-4838-a872-65d835dd8b92",
+                    "distractor": "virussen",
+                    "modelid": "mt5",
+                    "score": "8."
+                },
+                {
+                    "distid": "b0aa4e2f-96d7-4b50-8fee-745a2e3d60e1",
+                    "distractor": "dikke darm",
+                    "modelid": "mt5",
+                    "score": "9."
+                },
+                {
+                    "distid": "78882f35-6054-474a-a9a8-2a133e781222",
+                    "distractor": "amfibieen",
+                    "modelid": "mt5",
+                    "score": "10."
+                }
+            ]
+        }
+    ]
+}

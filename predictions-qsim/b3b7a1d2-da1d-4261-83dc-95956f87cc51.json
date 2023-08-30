@@ -1,0 +1,137 @@
+{
+    "qid": "b3b7a1d2-da1d-4261-83dc-95956f87cc51",
+    "response": {
+        "Query": "43 . The children ... ... ... ..for ten minutes .",
+        "Result": [
+            {
+                "answer": "have been fighting",
+                "answer_length": 3,
+                "distractors": [
+                    "are fighting",
+                    "will be fighting",
+                    "wo n't be fighting"
+                ],
+                "language": "en",
+                "question": "1.43 The children ... ... ... ..for ten minutes .",
+                "question_length": 10,
+                "score": 0.950904072930124
+            },
+            {
+                "answer": "have been fighting",
+                "answer_length": 3,
+                "distractors": [
+                    "are fighting",
+                    "will be fighting",
+                    "wo n't be fighting"
+                ],
+                "language": "en",
+                "question": "43 . The children ... ... ... ..for ten minutes .",
+                "question_length": 11,
+                "score": 0.9498390723800743
+            },
+            {
+                "answer": "am playing",
+                "answer_length": 2,
+                "distractors": [
+                    "play",
+                    "going to",
+                    "played"
+                ],
+                "language": "en",
+                "question": "I ... ... ... ... ... ... .tennis with Bruno next Sunday .",
+                "question_length": 13,
+                "score": 0.8815183649586735
+            },
+            {
+                "answer": "last week",
+                "answer_length": 2,
+                "distractors": [
+                    "next month",
+                    "at the moment",
+                    "every day"
+                ],
+                "language": "en",
+                "question": "Which time indication expresses the PAST ? Welke tijdsaanduiding geeft het VERLEDEN aan ? Quelle indication de temps indique le PASSE ?",
+                "question_length": 22,
+                "score": 0.8043102645074995
+            },
+            {
+                "answer": "\u79bb li",
+                "answer_length": 2,
+                "distractors": [
+                    "\u6bd4 bi",
+                    "\u5728 zai",
+                    "\u5411 xiang"
+                ],
+                "language": "zh",
+                "question": "Choisissez la bonne reponse . 2.15 \u5b66\u6821 \u6211\u5bb6\u4e0d\u8fdc\u3002 Xuexiao wo jia bu yuan\u3002",
+                "question_length": 13,
+                "score": 0.663790549512608
+            },
+            {
+                "answer": "\u79bb li",
+                "answer_length": 2,
+                "distractors": [
+                    "\u6bd4 bi",
+                    "\u5728 zai",
+                    "\u5411 xiang"
+                ],
+                "language": "zh",
+                "question": "Choisissez la bonne reponse . 15 \u5b66\u6821 \u6211\u5bb6\u4e0d\u8fdc\u3002 Xuexiao wo jia bu yuan\u3002",
+                "question_length": 13,
+                "score": 0.6002678930068065
+            },
+            {
+                "answer": "re-name some shops",
+                "answer_length": 3,
+                "distractors": [
+                    "close some shops",
+                    "sell some shops"
+                ],
+                "language": "en",
+                "question": "You will hear a short recording . Indicate the correct answer for the question . ( select 1 answer ) What will Fourways do next month ?",
+                "question_length": 27,
+                "score": 0.47749904283981937
+            },
+            {
+                "answer": "younger than",
+                "answer_length": 2,
+                "distractors": [
+                    "more young than",
+                    "younger that",
+                    "younger as"
+                ],
+                "language": "en",
+                "question": "1.9 She is ... ... ... ... ... ... ... ... ... ... . I am .",
+                "question_length": 17,
+                "score": 0.4201048825844386
+            },
+            {
+                "answer": "\u89c9\u5f97 juede",
+                "answer_length": 2,
+                "distractors": [
+                    "\u60f3 xiang",
+                    "\u77e5\u9053 zhidao",
+                    "\u5e0c\u671b xiwang"
+                ],
+                "language": "zh",
+                "question": "Choisissez la bonne reponse . 18 \u8fd9\u4e2a\u676f\u5b50\u662f\u5728\u5317\u4eac\u4e70\u7684 , \u6211 \u5f88\u597d\u770b\u3002 Zhe ge beizi shi zai Beijing mai de , wo hen hao kan\u3002",
+                "question_length": 23,
+                "score": 0.40231752477830796
+            },
+            {
+                "answer": "\u89c9\u5f97 juede",
+                "answer_length": 2,
+                "distractors": [
+                    "\u60f3 xiang",
+                    "\u77e5\u9053 zhidao",
+                    "\u5e0c\u671b xiwang"
+                ],
+                "language": "zh",
+                "question": "Choisissez la bonne reponse . 2.18 \u8fd9\u4e2a\u676f\u5b50\u662f\u5728\u5317\u4eac\u4e70\u7684 , \u6211 \u5f88\u597d\u770b\u3002 Zhe ge beizi shi zai Beijing mai de , wo hen hao kan\u3002",
+                "question_length": 23,
+                "score": 0.3904309251819424
+            }
+        ]
+    }
+}

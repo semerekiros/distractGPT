@@ -1,0 +1,136 @@
+{
+    "qid": "f4008728-c89f-453a-9020-bb3a40aeb128",
+    "response": {
+        "Query": "Choose the appropriate conjugation to express something completed in the future ! By this time next month we ... .. the designs .",
+        "Result": [
+            {
+                "answer": "will have finished",
+                "answer_length": 3,
+                "distractors": [
+                    "are finishing",
+                    "will finishing",
+                    "go to finish"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation to express something completed in the future . By this time next month we ... .. the designs .",
+                "question_length": 23,
+                "score": 0.9276131817434069
+            },
+            {
+                "answer": "will have finished",
+                "answer_length": 3,
+                "distractors": [
+                    "are finishing",
+                    "will finish",
+                    "go to finish"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation to express something completed in the future ! By this time next month we ... .. the designs .",
+                "question_length": 23,
+                "score": 0.9264696492881884
+            },
+            {
+                "answer": "will have finished",
+                "answer_length": 3,
+                "distractors": [
+                    "are finishing",
+                    "will finishing",
+                    "go to finish"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate conjugation to express something completed in the future . By this time next month we ____________ the designs .",
+                "question_length": 22,
+                "score": 0.8973172794669158
+            },
+            {
+                "answer": "put",
+                "answer_length": 1,
+                "distractors": [
+                    "putted",
+                    "have put",
+                    "have putted"
+                ],
+                "language": "en",
+                "question": "Choose the correct conjugation ! Kies de juiste vervoeging ! Choisissez la bonne forme ! We ... the data into the system two days ago .",
+                "question_length": 26,
+                "score": 0.8930902162396231
+            },
+            {
+                "answer": "come",
+                "answer_length": 1,
+                "distractors": [
+                    "will come",
+                    "would come",
+                    "had come"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . If you ... .. we 'll discuss it in detail .",
+                "question_length": 16,
+                "score": 0.8663529126699709
+            },
+            {
+                "answer": "could",
+                "answer_length": 1,
+                "distractors": [
+                    "might",
+                    "must",
+                    "ought to",
+                    "can"
+                ],
+                "language": "en",
+                "question": "Select the correct modal to express a polite offer . We ... come over and help you move .",
+                "question_length": 19,
+                "score": 0.8498017769345242
+            },
+            {
+                "answer": "is going to do",
+                "answer_length": 4,
+                "distractors": [
+                    "will do",
+                    "does"
+                ],
+                "language": "en",
+                "question": "Choose the correct word to complete the text . A Day in the Life of a Housewife Since Kim has already made a shopping list , she ... some shopping .",
+                "question_length": 31,
+                "score": 0.8303507092703982
+            },
+            {
+                "answer": "will make",
+                "answer_length": 2,
+                "distractors": [
+                    "will do",
+                    "made",
+                    "did"
+                ],
+                "language": "en",
+                "question": "Choose TO DO or TO MAKE in the correct conjugation ! Kies TO DO of TO MAKE in de juiste vervoeging ! Choisissez la bonne forme de TO DO ou de TO MAKE ! We ... a trip to the London Zoo next weekend .",
+                "question_length": 45,
+                "score": 0.8162779805891166
+            },
+            {
+                "answer": "come",
+                "answer_length": 1,
+                "distractors": [
+                    "will come",
+                    "would come",
+                    "had come"
+                ],
+                "language": "en",
+                "question": "Choose the correct form to finish this sentence ! I you ... .. we 'll discuss it in detail .",
+                "question_length": 20,
+                "score": 0.8109921880379577
+            },
+            {
+                "answer": "is n't",
+                "answer_length": 2,
+                "distractors": [
+                    "are n't"
+                ],
+                "language": "en",
+                "question": "Choose the correct verb form , singular or plural ? Three days __________ long enough for a good holiday .",
+                "question_length": 20,
+                "score": 0.7961900775916326
+            }
+        ]
+    }
+}

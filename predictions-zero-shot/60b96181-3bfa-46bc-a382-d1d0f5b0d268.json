@@ -1,0 +1,5 @@
+{
+    "qid": "60b96181-3bfa-46bc-a382-d1d0f5b0d268",
+    "input": "question: Choose the opposite of the word in bold . He is the creditor . We owe money to him .\nanswer: debtor\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. Borrower\n2. Lender\n3. Banker\n4. Investor\n5. Trustee\n6. Debtor-in-possession\n7. Mortgagee\n8. Pawnbroker\n9. Collateral\n10. Beneficiary\n11. Creditor's attorney\n12. Liquidator\n13. Receiver\n14. Accountant\n15. Guarantor\n16. Co-signer\n17. Executor\n18. Fiduciary\n19. Insolvency practitioner\n20. Settlement agent"
+}

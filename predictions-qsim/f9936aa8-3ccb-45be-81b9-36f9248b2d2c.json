@@ -1,0 +1,133 @@
+{
+    "qid": "f9936aa8-3ccb-45be-81b9-36f9248b2d2c",
+    "response": {
+        "Query": "Waarom verdrinken insecten die zich in de holle stengels van de reuzenbalsemien verschuilen?",
+        "Result": [
+            {
+                "answer": "Niermerg",
+                "answer_length": 1,
+                "distractors": [
+                    "Nierschors",
+                    "Nefron",
+                    "Nierkelk"
+                ],
+                "language": "nl",
+                "question": "De nierpiramiden liggen in de/het :",
+                "question_length": 6,
+                "score": 0.7737863903434522
+            },
+            {
+                "answer": "Producenten en consumenten",
+                "answer_length": 3,
+                "distractors": [
+                    "Consumenten en opruimers",
+                    "Producenten en opruimers",
+                    "Enkel de consumenten"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke organismen bevinden zich altijd in een voedselketen ?",
+                "question_length": 20,
+                "score": 0.739683163843973
+            },
+            {
+                "answer": "reducenten",
+                "answer_length": 1,
+                "distractors": [
+                    "producenten",
+                    "consumenten"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een voedselketen kan maar blijven bestaan als hij gesloten wordt . De sluitende schakel in de voedselketen wordt gevormd door organismen die afval van planten en dieren omzetten in bruikbare voedingsstoffen of mineralen voor de planten . De voedselketen wordt gesloten dankzij het werk van de ...",
+                "question_length": 53,
+                "score": 0.7101614211113333
+            },
+            {
+                "answer": "aders , slagaders en haarvaten",
+                "answer_length": 5,
+                "distractors": [
+                    "aders en haarvaten",
+                    "aders en slagaders",
+                    "aders"
+                ],
+                "language": "nl",
+                "question": "Welke bloedvaten vervoeren afvalstoffen zoals CO2 en afvalzouten ?",
+                "question_length": 9,
+                "score": 0.6834119399317038
+            },
+            {
+                "answer": "Ze turnen ",
+                "answer_length": 2,
+                "distractors": [
+                    "Ze koken ",
+                    "Ze zwemmen "
+                ],
+                "language": "nl",
+                "question": "Wat doen de mensen ?",
+                "question_length": 5,
+                "score": 0.6085699112176058
+            },
+            {
+                "answer": "Consumenten eerste orde",
+                "answer_length": 3,
+                "distractors": [
+                    "Opruimers",
+                    "Consumenten tweede orde",
+                    "Consumenten derde orde"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke organismen eten de producenten op ?",
+                "question_length": 18,
+                "score": 0.5989274002434268
+            },
+            {
+                "answer": "B-cellen",
+                "answer_length": 1,
+                "distractors": [
+                    "A-cellen",
+                    "Levercellen"
+                ],
+                "language": "nl",
+                "question": "Insuline wordt aangemaakt in de pancreas , meer bepaald door de",
+                "question_length": 11,
+                "score": 0.5435299435750803
+            },
+            {
+                "answer": "micro-organismen",
+                "answer_length": 1,
+                "distractors": [
+                    "macro-organismen",
+                    "mini-organismen",
+                    "mega-organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Hoe noem je organismen die zo klein zijn dat je ze alleen onder de microscoop zichtbaar kan maken ?",
+                "question_length": 25,
+                "score": 0.5412116930963377
+            },
+            {
+                "answer": "Alleen de opruimers",
+                "answer_length": 3,
+                "distractors": [
+                    "Alleen de producenten"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke organismen komen alleen voor in een voedselkringloop , maar niet in een voedselketen of voedselweb ?",
+                "question_length": 28,
+                "score": 0.5138352295108725
+            },
+            {
+                "answer": "Lactobacillen",
+                "answer_length": 1,
+                "distractors": [
+                    "Lactospirillen",
+                    "Lactokokken",
+                    "Lactocheten"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke bacterien worden via de borstvoeding door een baby opgenomen ?",
+                "question_length": 22,
+                "score": 0.5004015102699445
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "69b2bc69-2c21-4094-bcc7-c2a512e274e4",
+    "input": "Choose the right answer . Choisissez la bonne reponse ! Kies het juiste antwoord ! Go ... . </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. straight ahead\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. straight forward\n2. ahead\n3. straightforward\n4. straight down\n5. straight up\n6. straight off\n7. fast forward\n8. slow\n9. easy\n10. swiftly"
+}

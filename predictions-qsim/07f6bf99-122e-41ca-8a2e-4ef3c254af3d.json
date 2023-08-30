@@ -1,0 +1,136 @@
+{
+    "qid": "07f6bf99-122e-41ca-8a2e-4ef3c254af3d",
+    "response": {
+        "Query": "Door welke beenderen worden de longen beschermd?",
+        "Result": [
+            {
+                "answer": "Venae hepaticae",
+                "answer_length": 2,
+                "distractors": [
+                    "Vena porta",
+                    "Venae mesenterica superior",
+                    "Vena mesenterica inferior"
+                ],
+                "language": "nl",
+                "question": "Welke venen vertrekken vanuit de lever naar de vena cava ?",
+                "question_length": 11,
+                "score": 0.42913462838990263
+            },
+            {
+                "answer": "aders , slagaders en haarvaten",
+                "answer_length": 5,
+                "distractors": [
+                    "aders en haarvaten",
+                    "aders en slagaders",
+                    "aders"
+                ],
+                "language": "nl",
+                "question": "Welke bloedvaten vervoeren afvalstoffen zoals CO2 en afvalzouten ?",
+                "question_length": 9,
+                "score": 0.41188083393602054
+            },
+            {
+                "answer": "nierkapsel en nierkanaal",
+                "answer_length": 3,
+                "distractors": [
+                    "nierbekken",
+                    "nierkapsel",
+                    "nierschors en nierbekken"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! In welke delen van de nieren worden de afvalstoffen uit het transportstelsel gehaald ?",
+                "question_length": 25,
+                "score": 0.31536564741158557
+            },
+            {
+                "answer": "Hartspierweefsel en dwarsgestreept spierweefsel",
+                "answer_length": 4,
+                "distractors": [
+                    "Hartspierweefsel",
+                    "Dwarsgestreept spierweefsel en glad spierweefsel",
+                    "Glad spierweefsel"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke spieren kunnen snel reageren ?",
+                "question_length": 17,
+                "score": 0.2958780392537637
+            },
+            {
+                "answer": "tibialis anterior",
+                "answer_length": 2,
+                "distractors": [
+                    "gastrocnemius",
+                    "plantaris",
+                    "soleus"
+                ],
+                "language": "fr",
+                "question": "2 points Quel muscle ne fait pas partie des muscles du mollet ?",
+                "question_length": 13,
+                "score": 0.13824675635963757
+            },
+            {
+                "answer": "Lengtespieren",
+                "answer_length": 1,
+                "distractors": [
+                    "Kringspieren",
+                    "Krimpspieren",
+                    "Secretiespieren"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke spieren zorgen ervoor dat de slokdarm korter wordt tijdens de peristaltiek ?",
+                "question_length": 24,
+                "score": 0.093603421900584
+            },
+            {
+                "answer": "Lengtespieren",
+                "answer_length": 1,
+                "distractors": [
+                    "Kringspieren",
+                    "Verticale spieren",
+                    "Sluitspieren"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke spieren zorgen voor de voortbeweging zowel bij de vliegende insecten als de regenwormen ?",
+                "question_length": 26,
+                "score": 0.09197037467353324
+            },
+            {
+                "answer": "In de spierfibril",
+                "answer_length": 3,
+                "distractors": [
+                    "Rond de spiervezel",
+                    "Tussen de spierbundels",
+                    "Rond de bundelschede"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar bevinden zich nooit bloedvaten in de spier ?",
+                "question_length": 20,
+                "score": 0.0524411019030311
+            },
+            {
+                "answer": "Aterale-dorsale",
+                "answer_length": 1,
+                "distractors": [
+                    "Mediale-dorsale",
+                    "Laterale-ventrale"
+                ],
+                "language": "fr",
+                "question": "2 points Dans quelle zone de la jambe se trouvent les peroniers ?",
+                "question_length": 13,
+                "score": 0.051611413619020656
+            },
+            {
+                "answer": "rode bloedlichaampjes",
+                "answer_length": 2,
+                "distractors": [
+                    "witte bloedcellen",
+                    "bloedplaatjes"
+                ],
+                "language": "nl",
+                "question": "2 punten Welke bloedcellen zijn betrokken bij anemie ?",
+                "question_length": 9,
+                "score": 0.0373521978403641
+            }
+        ]
+    }
+}

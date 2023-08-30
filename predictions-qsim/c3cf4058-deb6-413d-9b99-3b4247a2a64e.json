@@ -1,0 +1,134 @@
+{
+    "qid": "c3cf4058-deb6-413d-9b99-3b4247a2a64e",
+    "response": {
+        "Query": "Welke naam kreeg democratie in de oudheid?",
+        "Result": [
+            {
+                "answer": "Gorbatsjov",
+                "answer_length": 1,
+                "distractors": [
+                    "Brenzjnev",
+                    "Chroest s jvov",
+                    "Gagarin"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie was de leider in de USSR van 1985 tot 1991 toen het communisme in elkaar stortte ?",
+                "question_length": 25,
+                "score": 0.9608896598275017
+            },
+            {
+                "answer": "Homeros",
+                "answer_length": 1,
+                "distractors": [
+                    "Aristoteles",
+                    "Plato",
+                    "Sophocles"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie zou de schrijver zijn van het beroemde werk over de Trojaanse oorlog , de Ilias ?",
+                "question_length": 24,
+                "score": 0.9601467507773913
+            },
+            {
+                "answer": "Newly Industrializing Countries",
+                "answer_length": 3,
+                "distractors": [
+                    "New Important Countries",
+                    "Newly Inventing Countries",
+                    "Newly Improving Countries"
+                ],
+                "language": "nl",
+                "question": "Waar staan de Letters NIC 's voor ?",
+                "question_length": 8,
+                "score": 0.9581698429060072
+            },
+            {
+                "answer": "Qin-dynastie",
+                "answer_length": 1,
+                "distractors": [
+                    "Tang dynastie",
+                    "Ming dynastie",
+                    "Han dynastie"
+                ],
+                "language": "nl",
+                "question": "6 . Welke dynastie regeerde eerst in China ?",
+                "question_length": 9,
+                "score": 0.949814497449659
+            },
+            {
+                "answer": "Jim Hines",
+                "answer_length": 2,
+                "distractors": [
+                    "Jesse Owens",
+                    "Maurice Green",
+                    "Michael Johnson"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Deze man liep als eerste de 100 m onder de 10 seconden . Hoe heet hij ?",
+                "question_length": 24,
+                "score": 0.9446526426183689
+            },
+            {
+                "answer": "Chris Froome",
+                "answer_length": 2,
+                "distractors": [
+                    "Eddy Merckx",
+                    "Vincenzo Nibali"
+                ],
+                "language": "nl",
+                "question": "Wie won de Tour de France in 2017 ?",
+                "question_length": 9,
+                "score": 0.9436153097233304
+            },
+            {
+                "answer": "Chris Froom",
+                "answer_length": 2,
+                "distractors": [
+                    "Eddy Merckx",
+                    "Vincenzo Nibali"
+                ],
+                "language": "nl",
+                "question": "Wie won de tour de France in 2017 ?",
+                "question_length": 9,
+                "score": 0.9436153097233304
+            },
+            {
+                "answer": "Corsica",
+                "answer_length": 1,
+                "distractors": [
+                    "Italie",
+                    "Turkije"
+                ],
+                "language": "nl",
+                "question": "Cochez la bonne reponse . Waar is Napoleon Bonaparte geboren ?",
+                "question_length": 11,
+                "score": 0.9428588956807541
+            },
+            {
+                "answer": "Sp.a",
+                "answer_length": 1,
+                "distractors": [
+                    "Open VLD",
+                    "CD `` V"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Tot welke politieke partij behoort de minister van onderwijs en vorming ?",
+                "question_length": 18,
+                "score": 0.942836616797911
+            },
+            {
+                "answer": "Guust Flater",
+                "answer_length": 2,
+                "distractors": [
+                    "Robbedoes",
+                    "Largo Winch",
+                    "Hagar"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Er is slechts een antwoord mogelijk . Hoe heet deze stripfiguur ?",
+                "question_length": 18,
+                "score": 0.9391223387701768
+            }
+        ]
+    }
+}

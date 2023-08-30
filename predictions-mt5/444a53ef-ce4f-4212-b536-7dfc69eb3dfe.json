@@ -1,0 +1,5 @@
+{
+    "qid": "444a53ef-ce4f-4212-b536-7dfc69eb3dfe",
+    "input": "Wat wordt uitgedrukt in decibel? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. geluidssterkte\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. snelheid\n2. geluidskracht\n3. weerstand\n4. dalende wind\n5. stroomstote\n6. geluidstoet\n7. lichtsterkte\n8. om\n9. temperatuur\n10. luchtvochtigheid"
+}

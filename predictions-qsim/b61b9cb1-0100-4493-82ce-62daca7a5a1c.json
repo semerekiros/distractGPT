@@ -1,0 +1,128 @@
+{
+    "qid": "b61b9cb1-0100-4493-82ce-62daca7a5a1c",
+    "response": {
+        "Query": "Hoe wordt het begin van een rivier genoemd?",
+        "Result": [
+            {
+                "answer": "getijdenwerking",
+                "answer_length": 1,
+                "distractors": [
+                    "foerageren",
+                    "baggeren"
+                ],
+                "language": "nl",
+                "question": "Vink het juiste antwoord aan . Hoe noemt men het periodiek opkomen en terugtrekken van het zeewater ?",
+                "question_length": 18,
+                "score": 0.9822519266852447
+            },
+            {
+                "answer": "ABN",
+                "answer_length": 1,
+                "distractors": [
+                    "ANS",
+                    "ANN"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Hoe werd het AN vroeger genoemd ?",
+                "question_length": 13,
+                "score": 0.9818150787371193
+            },
+            {
+                "answer": "Ze beeldt dagdagelijkse voorwerpen af ",
+                "answer_length": 5,
+                "distractors": [
+                    "Ze beeldt zichzelf ergens af ",
+                    "Ze schildert met ultramarijn blauw ",
+                    "Ze schildert zeer gedetailleerd "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is kenmerkend voor schilderijen van Clara Peeters ?",
+                "question_length": 16,
+                "score": 0.9777021436835133
+            },
+            {
+                "answer": "getijdenwerking",
+                "answer_length": 1,
+                "distractors": [
+                    "foerageren",
+                    "baggeren"
+                ],
+                "language": "nl",
+                "question": "Het periodiek opkomen en terugtrekken van de zee noemt men :",
+                "question_length": 11,
+                "score": 0.9270112718243663
+            },
+            {
+                "answer": "Isolator",
+                "answer_length": 1,
+                "distractors": [
+                    "Geleider"
+                ],
+                "language": "nl",
+                "question": "Is dit materiaal een geleider of isolator voor de elektrische stroom ?",
+                "question_length": 12,
+                "score": 0.9111990173031946
+            },
+            {
+                "answer": "Warmte",
+                "answer_length": 1,
+                "distractors": [
+                    "Genegenheid",
+                    "Gezelligheid",
+                    "Liefde"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In de derde strofe wordt gesproken over `` een lieve , zachte vrouw '' . Waarvoor staat zij symbool ?",
+                "question_length": 27,
+                "score": 0.8924230343741315
+            },
+            {
+                "answer": "Dat is de Mororeflex",
+                "answer_length": 4,
+                "distractors": [
+                    "Dat is de Babinskireflex",
+                    "Dat is de grijpreflex"
+                ],
+                "language": "nl",
+                "question": "Hoe wordt de reflex genoemd die we zien als een baby schrikt , of als z ' n hoofdje een plotse beweging maakt ? Daarbij worden zijn armpjes en handjes open gegooid en daarna weer snel gesloten .",
+                "question_length": 38,
+                "score": 0.8795240915919527
+            },
+            {
+                "answer": "Dat is de Mororeflex ",
+                "answer_length": 4,
+                "distractors": [
+                    "Dat is de Babinskireflex ",
+                    "Dat is de grijpreflex "
+                ],
+                "language": "nl",
+                "question": "Hoe wordt de reflex genoemd die we zien als een baby schrikt , of als z ' n hoofdje een plotse beweging maakt ? Daarbij worden zijn armpjes en handjes opengegooid en daarna weer snel gesloten .",
+                "question_length": 37,
+                "score": 0.8788947845990694
+            },
+            {
+                "answer": "eb",
+                "answer_length": 1,
+                "distractors": [
+                    "laagwater",
+                    "springvloed"
+                ],
+                "language": "nl",
+                "question": "Het terugtrekken van de zee , noemt men :",
+                "question_length": 9,
+                "score": 0.8563961746174519
+            },
+            {
+                "answer": "Los gesteente",
+                "answer_length": 2,
+                "distractors": [
+                    "Vast gesteente"
+                ],
+                "language": "nl",
+                "question": "Is dit een vast of een los gesteente ?",
+                "question_length": 9,
+                "score": 0.8530831330154969
+            }
+        ]
+    }
+}

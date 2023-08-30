@@ -1,0 +1,5 @@
+{
+    "qid": "a1d74b01-7c04-4aab-89fd-585f9a26cd0d",
+    "input": "question: Because of huge protests the Minister finally decided to ... the bill\nanswer: scrap\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. veto \n2. amend \n3. pass \n4. delay \n5. enforce \n6. support \n7. propose \n8. revoke \n9. modify \n10. ignore \n11. negotiate \n12. approve \n13. rewrite \n14. withdraw \n15. implement \n16. ratify \n17. introduce \n18. discuss \n19. reject \n20. sustain"
+}

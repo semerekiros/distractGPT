@@ -1,0 +1,130 @@
+{
+    "qid": "30376c42-b05d-42ec-b6cb-46047e3ea782",
+    "response": {
+        "Query": "Welke van deze verdovende drugs heeft ook een hallucinogene werking?",
+        "Result": [
+            {
+                "answer": "dafalgan",
+                "answer_length": 1,
+                "distractors": [
+                    "morfine 2",
+                    "asperinge"
+                ],
+                "language": "nl",
+                "question": "Wat is de meeste gebruikte pijnstiller in belgie kies het juist antwoord",
+                "question_length": 12,
+                "score": 0.9152369030697801
+            },
+            {
+                "answer": "Een gasfilter",
+                "answer_length": 2,
+                "distractors": [
+                    "Een onafhankelijk niet-autonoom adembeschermingsmiddel",
+                    "Een onafhankelijk autonoom adembeschermingsmiddel"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Welk type ademhalingsbeschermingsmiddel mag je zeker niet gebruiken bij een zuurstofconcentratie lager dan 19 % ?",
+                "question_length": 21,
+                "score": 0.9072419611630314
+            },
+            {
+                "answer": "asperine",
+                "answer_length": 1,
+                "distractors": [
+                    "dafalgan",
+                    "morfine"
+                ],
+                "language": "nl",
+                "question": "Wat is de meeste gebruikte pijnstiller in Belgische ZH kies het juiste antwoord",
+                "question_length": 13,
+                "score": 0.9052614663729992
+            },
+            {
+                "answer": "Dafalgan",
+                "answer_length": 1,
+                "distractors": [
+                    "Morfine",
+                    "Aspirine"
+                ],
+                "language": "nl",
+                "question": "Welke pijnstiller wordt het vaakst gebruikt in Belgische zorginstellingen ? Duidt het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.8998112954600379
+            },
+            {
+                "answer": "Morfine",
+                "answer_length": 1,
+                "distractors": [
+                    "een placebo",
+                    "Atropine",
+                    "Cortisone",
+                    "Tramadol"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Een palliatieve , terminale patient heeft ernstige pijnklachten . Hij krijgt 3x daags paracetamol en een NSAID . De behandelende arts vraagt jouw mening voor bijkomende pijnstilling . Wat stel je voor ?",
+                "question_length": 38,
+                "score": 0.8989129795982967
+            },
+            {
+                "answer": "paracetamol",
+                "answer_length": 1,
+                "distractors": [
+                    "dafalgan",
+                    "morfine"
+                ],
+                "language": "nl",
+                "question": "Wat is de meest gebruikte pijnstiller in belgie Kies het juiste anwoord",
+                "question_length": 12,
+                "score": 0.8986621958763659
+            },
+            {
+                "answer": "Dafalgan",
+                "answer_length": 1,
+                "distractors": [
+                    "Morfine",
+                    "Aspirine"
+                ],
+                "language": "nl",
+                "question": "Welke pijnstiller wordt het vaakst gebruikt in belgische zorginstellingen ? Duidt het juiste antwoord aan",
+                "question_length": 15,
+                "score": 0.8942099361290384
+            },
+            {
+                "answer": "Paracetamol",
+                "answer_length": 1,
+                "distractors": [
+                    "Morfine",
+                    "Ibuprofen"
+                ],
+                "language": "nl",
+                "question": "Welke pijnstiller wordt het vaakst gebruikt in Belgische zorginstellingen ? Duid het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.8870632085720209
+            },
+            {
+                "answer": "Dafalgan",
+                "answer_length": 1,
+                "distractors": [
+                    "Aspirine",
+                    "Morfine"
+                ],
+                "language": "nl",
+                "question": "Welke pijnstiller wordt het vaakst gebruikt in Belgische zorginstellingen ? Duid het juiste antwoord aan ?",
+                "question_length": 16,
+                "score": 0.8826856997572706
+            },
+            {
+                "answer": "Dafalgan",
+                "answer_length": 1,
+                "distractors": [
+                    "Morfine",
+                    "Paracetamol"
+                ],
+                "language": "nl",
+                "question": "Welke pijnstiller wordt het meest gebruikt in Belgische zorginstellingen ? Duidt het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.8820324864689896
+            }
+        ]
+    }
+}

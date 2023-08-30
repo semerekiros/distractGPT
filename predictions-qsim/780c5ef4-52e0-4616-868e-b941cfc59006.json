@@ -1,0 +1,125 @@
+{
+    "qid": "780c5ef4-52e0-4616-868e-b941cfc59006",
+    "response": {
+        "Query": "Wie had de meeste macht in de Spartaanse samenleving?",
+        "Result": [
+            {
+                "answer": "Juist",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "nl",
+                "question": "De Europese wetgeving , zoals het EVRM , is een supranationale wetgeving .",
+                "question_length": 13,
+                "score": 0.9932718415085835
+            },
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "niet juist"
+                ],
+                "language": "nl",
+                "question": "... /1 points Belgie heeft belastingverdragen afgesloten met alle Lidstaten van de ( uitgebreide ) E.U .",
+                "question_length": 17,
+                "score": 0.9913558068653492
+            },
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "niet juist"
+                ],
+                "language": "nl",
+                "question": "... /1 point Belgie heeft belastingverdragen afgesloten met alle Lidstaten van de ( uitgebreide ) E.U .",
+                "question_length": 17,
+                "score": 0.9911713321791196
+            },
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "niet juist"
+                ],
+                "language": "nl",
+                "question": "... /1 punt Belgie heeft belastingverdragen afgesloten met alle Lidstaten van de ( uitgebreide ) E.U .",
+                "question_length": 17,
+                "score": 0.9901199501702657
+            },
+            {
+                "answer": "juist",
+                "answer_length": 1,
+                "distractors": [
+                    "niet juist"
+                ],
+                "language": "nl",
+                "question": "... /1 punt Belgie heeft belastingverdragen afgesloten met alle Lidstaten van de E.U .",
+                "question_length": 14,
+                "score": 0.9872096688203215
+            },
+            {
+                "answer": "priester-dichter",
+                "answer_length": 1,
+                "distractors": [
+                    "priesterdichter",
+                    "priester dichter"
+                ],
+                "language": "de",
+                "question": "priester/dichter",
+                "question_length": 1,
+                "score": 0.9866164262578383
+            },
+            {
+                "answer": "gespecialiseerde journalisten",
+                "answer_length": 2,
+                "distractors": [
+                    "adolescenten",
+                    "auteurs",
+                    "leerkrachten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie zetelt er vooral in de jury van de Prix Vendredi ?",
+                "question_length": 19,
+                "score": 0.9847400026623713
+            },
+            {
+                "answer": "Vicky",
+                "answer_length": 1,
+                "distractors": [
+                    "Eef",
+                    "Katrien",
+                    "Kim",
+                    "Ine",
+                    "Steffie"
+                ],
+                "language": "nl",
+                "question": "Wie is de leukste docent ?",
+                "question_length": 6,
+                "score": 0.9846319135592851
+            },
+            {
+                "answer": "Elk van bovenstaande 3 antwoorden",
+                "answer_length": 5,
+                "distractors": [
+                    "Personen die geld helpen witwassen"
+                ],
+                "language": "nl",
+                "question": "Instructie : Duid het juiste antwoord aan . Vraag : Op wie is de antiwitwaswetgeving van toepassing ?",
+                "question_length": 18,
+                "score": 0.9834934889275985
+            },
+            {
+                "answer": "De nationale regering",
+                "answer_length": 3,
+                "distractors": [
+                    "De federale regering"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . We hebben in ons land zeven regeringen . Welke van de volgende regeringen bestaat NIET in Belgie ?",
+                "question_length": 25,
+                "score": 0.9831351974604572
+            }
+        ]
+    }
+}

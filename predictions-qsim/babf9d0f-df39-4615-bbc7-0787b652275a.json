@@ -1,0 +1,139 @@
+{
+    "qid": "babf9d0f-df39-4615-bbc7-0787b652275a",
+    "response": {
+        "Query": "Welke van deze gebieden zijn geen biotopen?",
+        "Result": [
+            {
+                "answer": "Leem",
+                "answer_length": 1,
+                "distractors": [
+                    "Zand",
+                    "Klei",
+                    "Grind"
+                ],
+                "language": "nl",
+                "question": "Welk van deze grondsoorten is het meest geschikt voor akkerbouw ?",
+                "question_length": 11,
+                "score": 0.8672190277401768
+            },
+            {
+                "answer": "gras-rups-kikker",
+                "answer_length": 1,
+                "distractors": [
+                    "rietplant-zaad-kiemplant",
+                    "waterlelie-nectar-vlinder",
+                    "waterlelie-stuifmeel-honingbij"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke reeks is een voorbeeld van een voedselketen in en rond de waterplas ?",
+                "question_length": 21,
+                "score": 0.7993352524002759
+            },
+            {
+                "answer": "dwergplaneten",
+                "answer_length": 1,
+                "distractors": [
+                    "kleine zonnestelsellichamen",
+                    "planetoiden",
+                    "asteroiden"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Pluto behoorde tot 2006 tot de groep van planeten . Tot welke groep behoort Pluto vandaag ?",
+                "question_length": 24,
+                "score": 0.7067587377687372
+            },
+            {
+                "answer": "kanaal",
+                "answer_length": 1,
+                "distractors": [
+                    "zee",
+                    "rivier",
+                    "beek"
+                ],
+                "language": "nl",
+                "question": "Welk landschapselement is niet natuurlijk ?",
+                "question_length": 6,
+                "score": 0.6943748755590067
+            },
+            {
+                "answer": "Venus",
+                "answer_length": 1,
+                "distractors": [
+                    "Mercurius",
+                    "Mars",
+                    "Neptunus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Kenmerken : - atmosfeer : zeer dicht en bestaat vooral uit koolstofdioxide - satellieten : geen - enkel zichtbaar 's avonds of s'ochtends - omlooptijd rond de zon : 225 dagen - daglengte : 243 aardse dagen Welke planeet voldoet aan hogervermelde kenmerken ?",
+                "question_length": 51,
+                "score": 0.6929655783907913
+            },
+            {
+                "answer": "eukaryoten",
+                "answer_length": 1,
+                "distractors": [
+                    "protisten",
+                    "zwammen",
+                    "prokaryoten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke groepen organismen vormen GEEN rijk ?",
+                "question_length": 14,
+                "score": 0.6909924531870828
+            },
+            {
+                "answer": "Olijven",
+                "answer_length": 1,
+                "distractors": [
+                    "Pruimen",
+                    "Noten",
+                    "Granen",
+                    "Melk",
+                    "Suikerbieten"
+                ],
+                "language": "nl",
+                "question": "Welke landbouwgewas of -product herken je op de foto ?",
+                "question_length": 10,
+                "score": 0.6619047830570871
+            },
+            {
+                "answer": "Leem",
+                "answer_length": 1,
+                "distractors": [
+                    "Grind",
+                    "Zand",
+                    "Klei"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Welke bodem heeft de beste bodemstructuur voor de akkerbouw ?",
+                "question_length": 16,
+                "score": 0.6338361653630761
+            },
+            {
+                "answer": "Producenten en consumenten",
+                "answer_length": 3,
+                "distractors": [
+                    "Consumenten en opruimers",
+                    "Producenten en opruimers",
+                    "Enkel de consumenten"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welke organismen bevinden zich altijd in een voedselketen ?",
+                "question_length": 20,
+                "score": 0.6281992553524173
+            },
+            {
+                "answer": "geese",
+                "answer_length": 1,
+                "distractors": [
+                    "caterpillars",
+                    "silkworms"
+                ],
+                "language": "en",
+                "question": "which animals produce down ?",
+                "question_length": 5,
+                "score": 0.5726582467633485
+            }
+        ]
+    }
+}

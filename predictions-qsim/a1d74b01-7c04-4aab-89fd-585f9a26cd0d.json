@@ -1,0 +1,134 @@
+{
+    "qid": "a1d74b01-7c04-4aab-89fd-585f9a26cd0d",
+    "response": {
+        "Query": "Because of huge protests the Minister finally decided to ... the bill",
+        "Result": [
+            {
+                "answer": "scrap",
+                "answer_length": 1,
+                "distractors": [
+                    "supersede",
+                    "cancel",
+                    "push back"
+                ],
+                "language": "en",
+                "question": "Because of huge protests the Minister finally decided to ... the bill",
+                "question_length": 12,
+                "score": 0.9305094395315946
+            },
+            {
+                "answer": "ban",
+                "answer_length": 1,
+                "distractors": [
+                    "deprive",
+                    "deny",
+                    "retract"
+                ],
+                "language": "en",
+                "question": "The parliament introduced new legislation to ... demonstrations",
+                "question_length": 8,
+                "score": 0.7764401451537699
+            },
+            {
+                "answer": "supersede",
+                "answer_length": 1,
+                "distractors": [
+                    "prevail",
+                    "take away",
+                    "bear off"
+                ],
+                "language": "en",
+                "question": "The new guidelines ... domestic law",
+                "question_length": 6,
+                "score": 0.6384134669910907
+            },
+            {
+                "answer": "going",
+                "answer_length": 1,
+                "distractors": [
+                    "to going",
+                    "to go",
+                    "joining"
+                ],
+                "language": "en",
+                "question": "Choose the appropriate verb form to complete this sentence ! I ca n't stand ... .. to office parties .",
+                "question_length": 20,
+                "score": 0.6365917533706463
+            },
+            {
+                "answer": "I 've already had ",
+                "answer_length": 4,
+                "distractors": [
+                    "I already had "
+                ],
+                "language": "en",
+                "question": "Complete the following sentence by clicking on the right form in the dropdown menu . Completez la phrase suivante en choisissant la forme adequate dans le menu deroulant . Klik op de juiste vorm in de dropdown menu . ... a word with Nick .",
+                "question_length": 45,
+                "score": 0.6180594083538344
+            },
+            {
+                "answer": "blow",
+                "answer_length": 1,
+                "distractors": [
+                    "snort",
+                    "belch",
+                    "snore"
+                ],
+                "language": "en",
+                "question": "You have been making irritable noises for more than half an hour now . Could you finally ... your nose please ?",
+                "question_length": 22,
+                "score": 0.6070962699916834
+            },
+            {
+                "answer": "did",
+                "answer_length": 1,
+                "distractors": [
+                    "do",
+                    "make",
+                    "made"
+                ],
+                "language": "en",
+                "question": "Choose TO DO or TO MAKE in the correct conjugation ! Kies TO DO of TO MAKE in de juiste vervoeging ! Choisissez la bonne forme de TO DO ou de TO MAKE ! I know you ... your best last week .",
+                "question_length": 43,
+                "score": 0.5967967433915987
+            },
+            {
+                "answer": "will make",
+                "answer_length": 2,
+                "distractors": [
+                    "will do",
+                    "made",
+                    "did"
+                ],
+                "language": "en",
+                "question": "Choose TO DO or TO MAKE in the correct conjugation ! Kies TO DO of TO MAKE in de juiste vervoeging ! Choisissez la bonne forme de TO DO ou de TO MAKE ! We ... a trip to the London Zoo next weekend .",
+                "question_length": 45,
+                "score": 0.5866043043133389
+            },
+            {
+                "answer": "He is working ",
+                "answer_length": 3,
+                "distractors": [
+                    "He works "
+                ],
+                "language": "en",
+                "question": "Complete the following sentence by clicking on the right form in the dropdown menu . Completez la phrase suivante en choisissant la forme adequate dans le menu deroulant . Klik op de juiste vorm in de dropdown menu . ... in Beijing on a fixed-term contract .",
+                "question_length": 47,
+                "score": 0.5629602532479591
+            },
+            {
+                "answer": "do",
+                "answer_length": 1,
+                "distractors": [
+                    "to do",
+                    "doing",
+                    "done"
+                ],
+                "language": "en",
+                "question": "16 . I let her ... ... . what she likes",
+                "question_length": 11,
+                "score": 0.5573426612502953
+            }
+        ]
+    }
+}

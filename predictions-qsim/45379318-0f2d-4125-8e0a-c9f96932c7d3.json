@@ -1,0 +1,136 @@
+{
+    "qid": "45379318-0f2d-4125-8e0a-c9f96932c7d3",
+    "response": {
+        "Query": "Welke rivier stroomt er door Sparta?",
+        "Result": [
+            {
+                "answer": "Tussen Kortrijk en Doornik ",
+                "answer_length": 4,
+                "distractors": [
+                    "In de industriezone van Dottenijs ",
+                    "Ter hoogte van Spiere-Helkijn ",
+                    "Tussen Dottenijs en Spiere-Helkijn ",
+                    "In Kortrijk "
+                ],
+                "language": "nl",
+                "question": "Waar wordt een van de twee zuiveringsstations gebouwd ?",
+                "question_length": 9,
+                "score": 0.8754541627044743
+            },
+            {
+                "answer": "in de eierstok",
+                "answer_length": 3,
+                "distractors": [
+                    "in de baarmoeder",
+                    "in de vagina",
+                    "in de eileider"
+                ],
+                "language": "nl",
+                "question": "Waar komt een zaadcel nooit terecht ?",
+                "question_length": 7,
+                "score": 0.8506101649521165
+            },
+            {
+                "answer": "de Tiber",
+                "answer_length": 2,
+                "distractors": [
+                    "de Arno",
+                    "de Nijl",
+                    "de Schelde"
+                ],
+                "language": "nl",
+                "question": "Aan welke rivier ligt Rome ?",
+                "question_length": 6,
+                "score": 0.832147871045487
+            },
+            {
+                "answer": "IJzer",
+                "answer_length": 1,
+                "distractors": [
+                    "Ourthe",
+                    "Rijn",
+                    "Schelde"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Aan welke Belgische rivier werd de opmars van de Duitse troepen tegengehouden in de Eerste Wereldoorlog ?",
+                "question_length": 24,
+                "score": 0.8110094181914274
+            },
+            {
+                "answer": "Kelder G blok",
+                "answer_length": 3,
+                "distractors": [
+                    "Kelder i blok"
+                ],
+                "language": "nl",
+                "question": "Waar bevinden zich de noodbedden in ons ziekenhuis ? Duid het juiste antwoord aan .",
+                "question_length": 15,
+                "score": 0.8075772380594994
+            },
+            {
+                "answer": "La Ville eternelle",
+                "answer_length": 3,
+                "distractors": [
+                    "La ville des 7 collines",
+                    "La Ville Sainte",
+                    "Le nombril du monde"
+                ],
+                "language": "fr",
+                "question": "Comment appelle-t-on egalement la ville de Rome ?",
+                "question_length": 8,
+                "score": 0.7913912917988146
+            },
+            {
+                "answer": "Tussen voorhoofdslob en wandlob",
+                "answer_length": 4,
+                "distractors": [
+                    "Tussen wandlob en slaaplob",
+                    "Tussen slaaplob en achterhoofdslob",
+                    "Tussen achterhoofdslob en kleine hersenen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar bevindt zich de groef van Rolando ?",
+                "question_length": 19,
+                "score": 0.701215400623247
+            },
+            {
+                "answer": "de Tiber en de Arno",
+                "answer_length": 5,
+                "distractors": [
+                    "de Nijl en de Eufraat",
+                    "de Tigris en de Eufraat",
+                    "de Eufraat en de Arno"
+                ],
+                "language": "nl",
+                "question": "Tussen welke twee rivieren lag het gebied van de Etrusken ?",
+                "question_length": 11,
+                "score": 0.6581087291135659
+            },
+            {
+                "answer": "Bruxelles",
+                "answer_length": 1,
+                "distractors": [
+                    "Anvers",
+                    "Paris"
+                ],
+                "language": "fr",
+                "question": "Q uelle est la capitale de la Belgique ? Cocher la bonne reponse",
+                "question_length": 13,
+                "score": 0.6498626581528559
+            },
+            {
+                "answer": "linkerzijde van het hart",
+                "answer_length": 4,
+                "distractors": [
+                    "kamers van het hart",
+                    "boezems van het hart",
+                    "rechterzijde van het hart"
+                ],
+                "language": "nl",
+                "question": "Welke zijde van het hart bevat zuurstofrijk bloed ?",
+                "question_length": 9,
+                "score": 0.58334099439866
+            }
+        ]
+    }
+}

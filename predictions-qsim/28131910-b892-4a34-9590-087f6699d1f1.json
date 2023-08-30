@@ -1,0 +1,139 @@
+{
+    "qid": "28131910-b892-4a34-9590-087f6699d1f1",
+    "response": {
+        "Query": "Welk volk kwam steeds dichter in de buurt van de Griekse gebieden ca. 500 v.C.?",
+        "Result": [
+            {
+                "answer": "Julius Caesar",
+                "answer_length": 2,
+                "distractors": [
+                    "Winston Churchill",
+                    "Lodewijk XIV",
+                    "Keizer Augustus",
+                    "Aristoteles",
+                    "Barack Obama"
+                ],
+                "language": "nl",
+                "question": "Wie sprak er als eerste over de 'Belgen ' ? Duid het juiste antwoord aan .",
+                "question_length": 16,
+                "score": 0.8149565906984734
+            },
+            {
+                "answer": "ambacht",
+                "answer_length": 1,
+                "distractors": [
+                    "gilde",
+                    "hanze",
+                    "kloosterorde"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees het reglement . Bij welke middeleeuwse organisatie past dit reglement ? \u201c Elke meester die stukken laken zal weven van 13 vierendeel breed of daaronder , die zal niet meer dan 16 el per dag moeten weven . Men zal de brede lakens weven bij een lengte van 30 el of daaronder en een breedte van 9 vierendeel of daaronder ... . En wanneer een laken afgewerkt is zal men het niet uit het wevershuis dragen vooraleer de voorzitter met twee van zijn vinders op zijn minst dat laken grondig heeft bekeken en gemeten . Vinden de deken en de vinders dat het laken breder en langer is geweven dan de vermelde afmetingen , dan zal de wever 20 schellingen parisis moeten betalen \u201d .",
+                "question_length": 133,
+                "score": 0.625544189381983
+            },
+            {
+                "answer": "Julius Caesar",
+                "answer_length": 2,
+                "distractors": [
+                    "Keizer Justinianus",
+                    "Marcus Tullius Cicero",
+                    "Keizer Augustus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van wie is de uitspraak : 'Van alle Galliers zijn de Belgae de dapperste ' ?",
+                "question_length": 23,
+                "score": 0.5463107145012179
+            },
+            {
+                "answer": "Alle bovenstaande",
+                "answer_length": 2,
+                "distractors": [
+                    "Frans",
+                    "Italiaans",
+                    "Retro-romaans"
+                ],
+                "language": "nl",
+                "question": "3 . Welke Romaanse taal ( talen ) wordt ( worden ) er in Zwitserland gesproken naast het Duits ?",
+                "question_length": 20,
+                "score": 0.5286516386784788
+            },
+            {
+                "answer": "Keltische volken",
+                "answer_length": 2,
+                "distractors": [
+                    "Turkse immigranten",
+                    "Romeinse burgers",
+                    "ingeweken Grieken"
+                ],
+                "language": "nl",
+                "question": "Wie waren die Belgen die 2 000 jaar geleden in onze streken woonden ? Duid het juiste antwoord aan .",
+                "question_length": 20,
+                "score": 0.5266046851818802
+            },
+            {
+                "answer": "Het Romeinse Rijk",
+                "answer_length": 3,
+                "distractors": [
+                    "Het Myceense Rijk",
+                    "Het Egyptische Rijk",
+                    "Het Perzische Rijk"
+                ],
+                "language": "nl",
+                "question": "Door welk opkomend rijk werden uiteindelijk alle hellenistische rijken opgeslorpt ?",
+                "question_length": 11,
+                "score": 0.5227101312913809
+            },
+            {
+                "answer": "Alle bovenstaande",
+                "answer_length": 2,
+                "distractors": [
+                    "Frans",
+                    "Italiaans",
+                    "Reto-romaans"
+                ],
+                "language": "nl",
+                "question": "4 . Welke Romaanse taal ( talen ) wordt ( worden ) er in Zwitserland gesproken naat het Duits ?",
+                "question_length": 20,
+                "score": 0.4201312470749146
+            },
+            {
+                "answer": "het Amerikaanse Ministerie van Defensie",
+                "answer_length": 5,
+                "distractors": [
+                    "individuele gebruikers",
+                    "het Europees Ruimteagentschap",
+                    "prive bedrijven"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Door wie wordt het GPS systeem beheerd ?",
+                "question_length": 15,
+                "score": 0.2912288372957201
+            },
+            {
+                "answer": "Odysseus",
+                "answer_length": 1,
+                "distractors": [
+                    "Eurylochus",
+                    "Mercurius"
+                ],
+                "language": "la",
+                "question": "Wie wordt er bedoeld met `` dux Graecorum '' ? ( r.1 ) Circa gaudet quod dux Graecorum adest et : 'Nonne tu quoque ' , inquit , 'porcus pulcher fieris vis ? ' Sed Mercurii herba [ kruid ] eum servat . Itaque Circa irata ministris dicit : 'Quis est iste [ die ] vir mirus ? Quare porcus non fit ? ' Ulixes autem iterum clamat : 'Libera amicos meos . ' Tandem , post multa Ulixis verba severa [ streng ] , Circa stabuli [ stal ] portam aperit et Graecos liberat .",
+                "question_length": 96,
+                "score": 0.2600612494379845
+            },
+            {
+                "answer": "Minnie Mouse",
+                "answer_length": 2,
+                "distractors": [
+                    "Donald Duck",
+                    "Pluto",
+                    "Goofy"
+                ],
+                "language": "af",
+                "question": "Duid het enige juiste antwoord aan . Wie was Mickey 's eerste co-star ?",
+                "question_length": 14,
+                "score": 0.24249085846733204
+            }
+        ]
+    }
+}

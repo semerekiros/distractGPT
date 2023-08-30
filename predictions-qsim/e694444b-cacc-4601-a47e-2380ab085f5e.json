@@ -1,0 +1,136 @@
+{
+    "qid": "e694444b-cacc-4601-a47e-2380ab085f5e",
+    "response": {
+        "Query": "Welke drugs is het gevaarlijkst?",
+        "Result": [
+            {
+                "answer": "Marihuana ",
+                "answer_length": 1,
+                "distractors": [
+                    "Cafeine",
+                    "Guarana",
+                    "Alcohol"
+                ],
+                "language": "af",
+                "question": "Welke drug is illegaal in Belgie ?",
+                "question_length": 7,
+                "score": 0.9789610402229278
+            },
+            {
+                "answer": "eosine",
+                "answer_length": 1,
+                "distractors": [
+                    "hibitane",
+                    "iso-betadine",
+                    "mercurochroom"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk product wordt hier omschreven ? \u201c Het is weinig doeltreffend als ontsmettingsmiddel en komt niet in aanmerking voor het verzorgen van huidwonden . Dankzij de uitdrogende werking kan het wel gebruikt worden voor een aantal andere doeleinden zoals het uitdrogen van windpokken \u201d .",
+                "question_length": 52,
+                "score": 0.8328895698213965
+            },
+            {
+                "answer": "Chloorhexidine",
+                "answer_length": 1,
+                "distractors": [
+                    "Isobetadine",
+                    "Hibidil"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan ! Welk ontsmettingsmiddel gebruik je best ?",
+                "question_length": 12,
+                "score": 0.8278578424942352
+            },
+            {
+                "answer": "eosine",
+                "answer_length": 1,
+                "distractors": [
+                    "hibitane",
+                    "iso-betadine",
+                    "mercurochroom"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk product wordt hier omschreven ? \u201c Het is weinig doeltreffend als ontsmettingsmiddel en komt niet in aanmerking voor het verzorgen van huidwonden . Dankzij de uitdrogende werking , kan het wel gebruikt worden voor een aantal andere doeleinden , zoals het uitdrogen van windpokken \u201d .",
+                "question_length": 54,
+                "score": 0.8239231044962202
+            },
+            {
+                "answer": "chloorhexidine",
+                "answer_length": 1,
+                "distractors": [
+                    "eosine",
+                    "iso-betadine",
+                    "waterstofperoxide"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hieronder kan je een korte omschrijving terugvinden van 4 verschillende soorten ontsmettingsmiddelen voor de huid . Welke van de volgende ontsmettingsmiddelen is het meest ideale ontsmettingsmiddel ? Eosine : uitdrogende werking weinig bacteriedodend gekleurd Chloorhexidine : breed spectrum actief in aanwezigheid van bloed weinig irriterend kleurloos Iso-betadine : breed spectrum weinig irriterend gekleurd Waterstofperoxide : goede reinigende werking kleurloos oxiderende eigenschappen",
+                "question_length": 68,
+                "score": 0.7422494443847235
+            },
+            {
+                "answer": "vet",
+                "answer_length": 1,
+                "distractors": [
+                    "alcohol",
+                    "vitamine",
+                    "water"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Aan welke voedingsstof hebben peuters in vergelijking met volwassenen een hogere behoefte ?",
+                "question_length": 20,
+                "score": 0.7139624371333124
+            },
+            {
+                "answer": "Helm",
+                "answer_length": 1,
+                "distractors": [
+                    "Handschuhe",
+                    "Kittel",
+                    "Schutzbrille",
+                    "Augenbrause"
+                ],
+                "language": "de",
+                "question": "Horen Sie und wahlen Sie die richtige Antwort . Ein Sachverstandiger beantwortet eine Anfrage zu Schutzmabetanahmen bei Laboranalysen . basiert auf : www.komnet.nrw.de Welche Schutzmittel sind hier nicht notwendig ?",
+                "question_length": 30,
+                "score": 0.6085001781175012
+            },
+            {
+                "answer": "Mark Cavendish",
+                "answer_length": 2,
+                "distractors": [
+                    "Phillip Gilbert",
+                    "Sir Chris Hoy"
+                ],
+                "language": "en",
+                "question": "Who is the picture of ?",
+                "question_length": 6,
+                "score": 0.5836238851422417
+            },
+            {
+                "answer": "relish",
+                "answer_length": 1,
+                "distractors": [
+                    "relief",
+                    "relay"
+                ],
+                "language": "en",
+                "question": "the name for a kind of seasoning sauce is ...",
+                "question_length": 10,
+                "score": 0.5756245943922108
+            },
+            {
+                "answer": "perdolan-compositum",
+                "answer_length": 1,
+                "distractors": [
+                    "afebryl",
+                    "aspirine",
+                    "tramadol"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In de BCFI staat het volgende te lezen over combinatiepreparaten tegen pijn en koorts : In principe zijn preparaten met een enkel actief bestanddeel te verkiezen . Associeren van hoge doses coffeine ( meer dan 100 mg ) met paracetamol of NSAID 's zou mogelijk een beperkt additief analgetisch effect geven . Toevoegen van ascorbinezuur ( vitamine C ) heeft geen zin . Het associeren van coffeine met acetylsalicylzuur of paracetamol , zou chronisch gebruik en misbruik ervan in de hand werken . Welk preparaat bevat zowel coffeine , paracetamol als acetylsalicylzuur ?",
+                "question_length": 100,
+                "score": 0.5538110744249357
+            }
+        ]
+    }
+}

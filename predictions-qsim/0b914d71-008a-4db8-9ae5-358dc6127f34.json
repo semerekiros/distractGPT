@@ -1,0 +1,119 @@
+{
+    "qid": "0b914d71-008a-4db8-9ae5-358dc6127f34",
+    "response": {
+        "Query": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Saint-Veran , la commune la plus haute de France , est a 2046 metres [ d'/de ] ... .. .",
+        "Result": [
+            {
+                "answer": "altitude",
+                "answer_length": 1,
+                "distractors": [
+                    "hauteur"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Saint-Veran , la commune la plus haute de France , est a 2046 metres [ d'/de ] ... .. .",
+                "question_length": 36,
+                "score": 0.6524809355833732
+            },
+            {
+                "answer": "niveau",
+                "answer_length": 1,
+                "distractors": [
+                    "standard"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Dans les pays occidentaux , le ... .. de vie est tres eleve .",
+                "question_length": 30,
+                "score": 0.577859255246926
+            },
+            {
+                "answer": "risquee",
+                "answer_length": 1,
+                "distractors": [
+                    "risquante"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . L'escalade de cette paroi est trop ... .. , meme pour des alpinistes experimentes .",
+                "question_length": 31,
+                "score": 0.5302431170186104
+            },
+            {
+                "answer": "altitude",
+                "answer_length": 1,
+                "distractors": [
+                    "hauteur"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . C'est trois minutes apres le decollage , a une ... .. de 1600 metres , que l'avion a explose .",
+                "question_length": 36,
+                "score": 0.5299595558279241
+            },
+            {
+                "answer": "ont echoue",
+                "answer_length": 2,
+                "distractors": [
+                    "sont echoues"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Quarante pour cent des eleves qui ont passe l'examen ... .. .",
+                "question_length": 28,
+                "score": 0.46369318949599886
+            },
+            {
+                "answer": "arabe",
+                "answer_length": 1,
+                "distractors": [
+                    "arabique",
+                    "arabesque"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . L'Institut du Monde ... .. a Paris attire beaucoup de touristes .",
+                "question_length": 28,
+                "score": 0.4583161277254789
+            },
+            {
+                "answer": "Express",
+                "answer_length": 1,
+                "distractors": [
+                    "Expres"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . L'Orient- ... .. reliait Paris , Vienne , Budapest , Bucarest et Constantinople .",
+                "question_length": 30,
+                "score": 0.42291553403364734
+            },
+            {
+                "answer": "un",
+                "answer_length": 1,
+                "distractors": [
+                    "une"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Certaines personnes ont ... .. mode de pensee qui nous surprend .",
+                "question_length": 28,
+                "score": 0.403932698032701
+            },
+            {
+                "answer": "classer",
+                "answer_length": 1,
+                "distractors": [
+                    "classifier"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Elle profite des vacances de Noel pour ... .. ses timbres .",
+                "question_length": 28,
+                "score": 0.3829994298590881
+            },
+            {
+                "answer": "arabique",
+                "answer_length": 1,
+                "distractors": [
+                    "arabe"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . La gomme ... .. provient de l'acacia .",
+                "question_length": 24,
+                "score": 0.3692193701097356
+            }
+        ]
+    }
+}

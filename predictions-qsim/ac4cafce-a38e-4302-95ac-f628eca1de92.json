@@ -1,0 +1,123 @@
+{
+    "qid": "ac4cafce-a38e-4302-95ac-f628eca1de92",
+    "response": {
+        "Query": "Op een mooie zomerdag heb je een wandeling uitgestippeld op een kaart op je smartphone. Je vertrekt op het heetste moment van de dag. Het is verstandig om je wandeling te beginnen aan de noordkant van het bos. Waarom?",
+        "Result": [
+            {
+                "answer": "ja",
+                "answer_length": 1,
+                "distractors": [
+                    "neen"
+                ],
+                "language": "nl",
+                "question": "Bekijk onderstaand klimatogram . Kan in dit klimaattype een taiga voorkomen ?",
+                "question_length": 12,
+                "score": 0.9970081836550916
+            },
+            {
+                "answer": "Nee x",
+                "answer_length": 2,
+                "distractors": [
+                    "Ja"
+                ],
+                "language": "nl",
+                "question": "Mag de blauwe auto op dit kruispunt naar links afslaan ? Kies het juiste antwoord",
+                "question_length": 15,
+                "score": 0.9955500947290086
+            },
+            {
+                "answer": "advent",
+                "answer_length": 1,
+                "distractors": [
+                    "vasten",
+                    "veertigdagentijd"
+                ],
+                "language": "nl",
+                "question": "Ken jij de christelijke feesten ? Klik het juiste antwoord aan . Hoe heet de voorbereidingstijd op Kerstmis ?",
+                "question_length": 19,
+                "score": 0.99531214719566
+            },
+            {
+                "answer": "de stabiele zijligging",
+                "answer_length": 3,
+                "distractors": [
+                    "de stabiele rugligging"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . In welke houding legt u een slachtoffer dat bewusteloos is om de luchtweg vrij te houden bij normale ademhaling ?",
+                "question_length": 26,
+                "score": 0.9927945434343578
+            },
+            {
+                "answer": "neen",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Bekijk onderstaand klimatogram . Is het in dit klimaat mogelijk om een loofbos te hebben ?",
+                "question_length": 16,
+                "score": 0.9880308433897304
+            },
+            {
+                "answer": "Il pleuvra ",
+                "answer_length": 2,
+                "distractors": [
+                    "Il pleuvrait ",
+                    "Il pleut "
+                ],
+                "language": "fr",
+                "question": "Het zal regenen .",
+                "question_length": 4,
+                "score": 0.9798014122303383
+            },
+            {
+                "answer": "Boetseerbaar zonder scheurtjes ",
+                "answer_length": 3,
+                "distractors": [
+                    "Niet boetseerbaar"
+                ],
+                "language": "nl",
+                "question": "Kunnen we het gesteente boetseren ?",
+                "question_length": 6,
+                "score": 0.9512164510777843
+            },
+            {
+                "answer": "Nee x",
+                "answer_length": 2,
+                "distractors": [
+                    "Ja"
+                ],
+                "language": "nl",
+                "question": "Rijbewijs B OEFENING In het filmpje is eenrichtingsverkeer aan bod gekomen . Mag de blauwe auto op dit kruispunt naar links afslaan ? Kies het juiste antwoord",
+                "question_length": 27,
+                "score": 0.9430698072150954
+            },
+            {
+                "answer": "Het is de derde keer ",
+                "answer_length": 5,
+                "distractors": [
+                    "Het is de eerste keer ",
+                    "Het is de tweede keer "
+                ],
+                "language": "nl",
+                "question": "Zijn de ouders al naar Mekka gegaan ? Wat is juist ?",
+                "question_length": 12,
+                "score": 0.9415083714530204
+            },
+            {
+                "answer": "Re groot",
+                "answer_length": 2,
+                "distractors": [
+                    "",
+                    "Si groot",
+                    "Re klein"
+                ],
+                "language": "nl",
+                "question": "Vraag 8 a ) Bepaal van dit kleuterlied de maatsoort door het juiste bolletje aan te klikken . Opgelet , dit is een vraag met giscorrectie .",
+                "question_length": 27,
+                "score": 0.932928711886843
+            }
+        ]
+    }
+}

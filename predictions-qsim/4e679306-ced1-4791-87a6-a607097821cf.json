@@ -1,0 +1,129 @@
+{
+    "qid": "4e679306-ced1-4791-87a6-a607097821cf",
+    "response": {
+        "Query": "Weet je nog wat de eerste mensensoort was?",
+        "Result": [
+            {
+                "answer": "een staart",
+                "answer_length": 2,
+                "distractors": [
+                    "een mond",
+                    "pupillen",
+                    "vingers"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat heeft de huidige Mickey niet ?",
+                "question_length": 14,
+                "score": 0.9746649521323533
+            },
+            {
+                "answer": "zee-egel",
+                "answer_length": 1,
+                "distractors": [
+                    "zeeegel",
+                    "zee egel"
+                ],
+                "language": "nl",
+                "question": "zee/egel",
+                "question_length": 1,
+                "score": 0.9687579214177636
+            },
+            {
+                "answer": "endeldarm",
+                "answer_length": 1,
+                "distractors": [
+                    "aarsopening",
+                    "slokdarm",
+                    "blindedarm"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de opstapeling van voedselresten ?",
+                "question_length": 7,
+                "score": 0.9589054936130186
+            },
+            {
+                "answer": "foutaansprakelijkheid",
+                "answer_length": 1,
+                "distractors": [
+                    "foutloze aansprakeljkheid"
+                ],
+                "language": "nl",
+                "question": "Burenhinder is",
+                "question_length": 2,
+                "score": 0.9527864502489232
+            },
+            {
+                "answer": "bruin",
+                "answer_length": 1,
+                "distractors": [
+                    "groen",
+                    "blauw",
+                    "zwart"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke gordel heeft Vincent in de karatesport ?",
+                "question_length": 15,
+                "score": 0.9373014406612187
+            },
+            {
+                "answer": "zeearend",
+                "answer_length": 1,
+                "distractors": [
+                    "zee-arend",
+                    "zee arend",
+                    "zeearend"
+                ],
+                "language": "eu",
+                "question": "zee/arend",
+                "question_length": 1,
+                "score": 0.9363821749027064
+            },
+            {
+                "answer": "daffdsaa",
+                "answer_length": 1,
+                "distractors": [
+                    "dfdsafafdsafa",
+                    "ddfadsfa"
+                ],
+                "language": "nl",
+                "question": "fkdjfadsflkdsajflkdsajflkdsajfldsajf ?",
+                "question_length": 2,
+                "score": 0.9331691118077865
+            },
+            {
+                "answer": "fout",
+                "answer_length": 1,
+                "distractors": [
+                    "juist"
+                ],
+                "language": "nl",
+                "question": "De Arteria pulmonalis bevat zuurstofrijk bloed .",
+                "question_length": 7,
+                "score": 0.9317771422220527
+            },
+            {
+                "answer": "Dag Allemaal",
+                "answer_length": 2,
+                "distractors": [
+                    "dag allemaal"
+                ],
+                "language": "nl",
+                "question": "Hoofdletter of niet ? Kies de juiste vorm voor de krantenkop . Minder lezers voor ...",
+                "question_length": 16,
+                "score": 0.9301149215043111
+            },
+            {
+                "answer": "hart",
+                "answer_length": 1,
+                "distractors": [
+                    "lever",
+                    "melkklieren"
+                ],
+                "language": "nl",
+                "question": "Op welk orgaan heeft adrenaline een invloed ?",
+                "question_length": 8,
+                "score": 0.9261485447236529
+            }
+        ]
+    }
+}

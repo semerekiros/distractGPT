@@ -1,0 +1,137 @@
+{
+    "qid": "abcc28da-fb46-433f-8ed8-12a9b1f27c92",
+    "response": {
+        "Query": "Welke bloemen zijn in een veld altijd naar dezelfde richting gekeerd?",
+        "Result": [
+            {
+                "answer": "vacuole",
+                "answer_length": 1,
+                "distractors": [
+                    "celkern",
+                    "celwand",
+                    "cytoplasma"
+                ],
+                "language": "nl",
+                "question": "Welk celdeel is aangeduid door nummer 4 op deze schematische voorstelling van de plantencel ?",
+                "question_length": 15,
+                "score": 0.6734344231157748
+            },
+            {
+                "answer": "in hartspierweefsel",
+                "answer_length": 2,
+                "distractors": [
+                    "in de huid",
+                    "in het spijsverteringskanaal",
+                    "in dwarsgestreept spierweefsel"
+                ],
+                "language": "nl",
+                "question": "Waar komen gap junctions het meeste voor ?",
+                "question_length": 8,
+                "score": 0.6385038902499978
+            },
+            {
+                "answer": "het kniegewricht",
+                "answer_length": 2,
+                "distractors": [
+                    "het ellebooggewricht",
+                    "het heupgewricht",
+                    "het schoudergewricht"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk gewricht herken je op de afbeelding ?",
+                "question_length": 15,
+                "score": 0.6122472740930003
+            },
+            {
+                "answer": "lysosoom",
+                "answer_length": 1,
+                "distractors": [
+                    "celkern",
+                    "vacuole"
+                ],
+                "language": "nl",
+                "question": "Wat werd het laatst door de mens ontdekt ?",
+                "question_length": 9,
+                "score": 0.5221977845492752
+            },
+            {
+                "answer": "lysosoom",
+                "answer_length": 1,
+                "distractors": [
+                    "centriool",
+                    "ER",
+                    "ribosoom"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees in onderstaande tekst aandachtig de functie van de voedingsvacuole . Welk organel van een dierlijke cel bezit een gelijkaardige functie ?",
+                "question_length": 29,
+                "score": 0.48217089586480466
+            },
+            {
+                "answer": "keratinocyt",
+                "answer_length": 1,
+                "distractors": [
+                    "fibrocyt",
+                    "melanocyt",
+                    "witte bloedcel"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke cel wordt hier omschreven ? `` Deze cel wordt in de basale laag van de huid gevormd en schuift langzaam naar boven . Ze beschermt de huid onder andere tegen uitdroging '' .",
+                "question_length": 41,
+                "score": 0.4820243602568028
+            },
+            {
+                "answer": "hoornvlies",
+                "answer_length": 1,
+                "distractors": [
+                    "harde oogvlies",
+                    "vaatvlies",
+                    "netvlies"
+                ],
+                "language": "nl",
+                "question": "Welk vlies zit vooraan het oog en is doorzichtig ?",
+                "question_length": 10,
+                "score": 0.4695058640189726
+            },
+            {
+                "answer": "tussenknoopstuk",
+                "answer_length": 1,
+                "distractors": [
+                    "zijstengel",
+                    "lid",
+                    "knoop"
+                ],
+                "language": "nl",
+                "question": "Welk deel van de stengel draagt nooit bladeren en knoppen ?",
+                "question_length": 11,
+                "score": 0.4045910322918453
+            },
+            {
+                "answer": "pancreas en lever",
+                "answer_length": 3,
+                "distractors": [
+                    "milt en lever",
+                    "milt en maag",
+                    "pancreas en maag"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke organen worden aangeduid met de nummers 9 en 10 in de figuur ?",
+                "question_length": 21,
+                "score": 0.39949629651417484
+            },
+            {
+                "answer": "In de spierfibril",
+                "answer_length": 3,
+                "distractors": [
+                    "Rond de spiervezel",
+                    "Tussen de spierbundels",
+                    "Rond de bundelschede"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar bevinden zich nooit bloedvaten in de spier ?",
+                "question_length": 20,
+                "score": 0.3743544216393041
+            }
+        ]
+    }
+}

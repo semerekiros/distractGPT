@@ -1,0 +1,127 @@
+{
+    "qid": "36b8c7f2-b6c2-4ccb-9299-28d873b87f86",
+    "response": {
+        "Query": "Hoe planten bacteri\u00ebn zich voort?",
+        "Result": [
+            {
+                "answer": "Ze veroorzaken vergiftigingen",
+                "answer_length": 3,
+                "distractors": [
+                    "Ze vreten de voorraden op"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wat doen micro-organismen ?",
+                "question_length": 10,
+                "score": 0.7648741426355891
+            },
+            {
+                "answer": "micro-organismen",
+                "answer_length": 1,
+                "distractors": [
+                    "macro-organismen",
+                    "mini-organismen",
+                    "mega-organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Hoe noem je organismen die zo klein zijn dat je ze alleen onder de microscoop zichtbaar kan maken ?",
+                "question_length": 25,
+                "score": 0.754678464453264
+            },
+            {
+                "answer": "Ze gebruiken elektriciteit ",
+                "answer_length": 3,
+                "distractors": [
+                    "Ze gebruiken een telefoon "
+                ],
+                "language": "nl",
+                "question": "Luister naar het filmpje . Klik het juiste antwoord aan . Hoe communiceren de bacterien met elkaar ?",
+                "question_length": 18,
+                "score": 0.7183779376866994
+            },
+            {
+                "answer": "Bouwkundige maatregel",
+                "answer_length": 2,
+                "distractors": [
+                    "Elektrische/elektronische maatregel",
+                    "Organisatorische maatregel"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord Kogelwerend glas is een ...",
+                "question_length": 9,
+                "score": 0.6949207307013832
+            },
+            {
+                "answer": "Sporenvormende cellen",
+                "answer_length": 2,
+                "distractors": [
+                    "Sporen",
+                    "Zwamvlokcellen",
+                    "Sluiervliescellen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat zijn basidia ?",
+                "question_length": 15,
+                "score": 0.660068712844474
+            },
+            {
+                "answer": "heterotrofe organismen",
+                "answer_length": 2,
+                "distractors": [
+                    "autotrofe organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Organismen die zich voeden met organische stoffen die door andere organismen zijn gemaakt noemen we ...",
+                "question_length": 22,
+                "score": 0.5953831610156645
+            },
+            {
+                "answer": "autotrofe organismen",
+                "answer_length": 2,
+                "distractors": [
+                    "heterotrofe organismen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Organismen die niet afhankelijk zijn van andere organismen om hun organische stoffen te maken noemen we ...",
+                "question_length": 23,
+                "score": 0.5307609784676014
+            },
+            {
+                "answer": "schimmels",
+                "answer_length": 1,
+                "distractors": [
+                    "spirocheten",
+                    "bacillen"
+                ],
+                "language": "nl",
+                "question": "2 punten Welke micro-organismen zijn meercellig ?",
+                "question_length": 7,
+                "score": 0.46027599959976245
+            },
+            {
+                "answer": "water , spuitwater en thee",
+                "answer_length": 5,
+                "distractors": [
+                    "water , koffie en aquarius",
+                    "water , limonade en fruitsap",
+                    "water , cola en chocolademelk"
+                ],
+                "language": "nl",
+                "question": "Welke reeks van voedingsmiddelen hoort thuis in het vak 'water ' ?",
+                "question_length": 12,
+                "score": 0.45831816274454557
+            },
+            {
+                "answer": "Elektrische/elektronische maatregel",
+                "answer_length": 2,
+                "distractors": [
+                    "Bouwkundige maatregel",
+                    "Organisatorische maatregel"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord Thermische camera 's zijn een ...",
+                "question_length": 10,
+                "score": 0.4364632698282394
+            }
+        ]
+    }
+}

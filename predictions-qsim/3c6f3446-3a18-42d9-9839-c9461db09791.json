@@ -1,0 +1,128 @@
+{
+    "qid": "3c6f3446-3a18-42d9-9839-c9461db09791",
+    "response": {
+        "Query": "Een Playmobilfiguurtje is 32x kleiner dan de gemiddelde leerling in het eerste middelbaar. Zet dit om in een juiste breukschaal.",
+        "Result": [
+            {
+                "answer": "2",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "6"
+                ],
+                "language": "nl",
+                "question": "Druk minstens ... maal op de dispenser met handalcohol om de juiste techniek voor handontsmetting toe te passen .",
+                "question_length": 19,
+                "score": 0.9756088495896258
+            },
+            {
+                "answer": "2",
+                "answer_length": 1,
+                "distractors": [
+                    "1",
+                    "6"
+                ],
+                "language": "nl",
+                "question": "Druk minstens ... maal op de dispenser met handalcohol om de juiste techniek voor standaard handontsmetting toe te passen .",
+                "question_length": 20,
+                "score": 0.9743588897863215
+            },
+            {
+                "answer": "Juist",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "nl",
+                "question": "Een poederblusser gebruiken we best een 3-tal meter van de brandhaard .",
+                "question_length": 12,
+                "score": 0.9693070372595323
+            },
+            {
+                "answer": "Juist",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "nl",
+                "question": "... / 3 punten Inzake het controleverslag over het fusievoorstel door overneming , duid \u201c juist \u201d of \u201c fout \u201d aan : De externe accountant geeft in het controleverslag zijn oordeel over het betrekkelijk gewicht dat aan elke methode bij de vaststellingen van de in aanmerking genomen waarde gehecht wordt .",
+                "question_length": 52,
+                "score": 0.9627404369141986
+            },
+            {
+                "answer": "Effectevaluatie",
+                "answer_length": 1,
+                "distractors": [
+                    "Procesevaluatie",
+                    "Evaluatie van veranderingen in determinanten",
+                    "Economische evaluatie"
+                ],
+                "language": "nl",
+                "question": "Beantwoord onderstaande meerkeuzevraag . Als we nagaan in welke mate een interventie werd aangeleverd zoals ze bedoeld was , doen we een :",
+                "question_length": 23,
+                "score": 0.9563858666091436
+            },
+            {
+                "answer": "Juist",
+                "answer_length": 1,
+                "distractors": [
+                    "Fout"
+                ],
+                "language": "nl",
+                "question": "Een 24-jarige die de beroepsinschakelingstijd heeft doorlopen , kan in principe 36 maanden een inschakelingsuitkering ontvangen .",
+                "question_length": 17,
+                "score": 0.954913023963685
+            },
+            {
+                "answer": "15-60 minuten",
+                "answer_length": 2,
+                "distractors": [
+                    "< 15 minuten",
+                    "> 60 minuten"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wat is het juiste tijdstip van antibioticatoediening voor een operatie ? Hoeveel tijd moet er minimaal zitten tussen het moment van antibioticatoediening en de incisie ?",
+                "question_length": 32,
+                "score": 0.9346397626145777
+            },
+            {
+                "answer": "7 dagen",
+                "answer_length": 2,
+                "distractors": [
+                    "3 dagen",
+                    "10 dagen",
+                    "14 dagen"
+                ],
+                "language": "nl",
+                "question": "Tot hoeveel dagen na de toediening van cytostatica wordt de urine van de patient als gecontamineerd beschouwd ?",
+                "question_length": 18,
+                "score": 0.9343623413789173
+            },
+            {
+                "answer": "Stalinistische",
+                "answer_length": 1,
+                "distractors": [
+                    "categorie",
+                    "98 %"
+                ],
+                "language": "nl",
+                "question": "Voetweg66.be leidt in de jaarlijkse webawards op dit moment in zijn categorie met de Stalinistische score van 98 % van de stemmen .",
+                "question_length": 23,
+                "score": 0.9299504682796395
+            },
+            {
+                "answer": "met +/- 0,2 vragen",
+                "answer_length": 4,
+                "distractors": [
+                    "met 1 vraag",
+                    "met +/- 4 vragen",
+                    "met +/- 22 vragen"
+                ],
+                "language": "nl",
+                "question": "Beantwoord onderstaande meerkeuzevraag . Bij een karaktervragenlijst met slechts 5 vragen wordt een betrouwbaarheid gevonden van 0.57 . Met hoeveel vragen ( van dezelfde aard ) moet deze test verlengd worden , om een gewenst niveau van betrouwbaarheid van .85 te bereiken .",
+                "question_length": 43,
+                "score": 0.9229371057235487
+            }
+        ]
+    }
+}

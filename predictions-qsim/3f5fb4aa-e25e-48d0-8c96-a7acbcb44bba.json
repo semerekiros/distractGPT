@@ -1,0 +1,132 @@
+{
+    "qid": "3f5fb4aa-e25e-48d0-8c96-a7acbcb44bba",
+    "response": {
+        "Query": "Welke van deze klieren is een endocriene klier?",
+        "Result": [
+            {
+                "answer": "het achterlijf",
+                "answer_length": 2,
+                "distractors": [
+                    "de buik",
+                    "het borststuk"
+                ],
+                "language": "nl",
+                "question": "l'abdomen chez les insectes ?",
+                "question_length": 5,
+                "score": 0.932310749997578
+            },
+            {
+                "answer": "de hartspier",
+                "answer_length": 2,
+                "distractors": [
+                    "de tongspier",
+                    "de ademhalingsspieren"
+                ],
+                "language": "nl",
+                "question": "Welke spier in ons lichaam is dwarsgestreept en toch onwillekeurig ?",
+                "question_length": 11,
+                "score": 0.8086981479465375
+            },
+            {
+                "answer": "fissures",
+                "answer_length": 1,
+                "distractors": [
+                    "ampoules",
+                    "ulceres"
+                ],
+                "language": "fr",
+                "question": "2 points Des crevasses sont des :",
+                "question_length": 7,
+                "score": 0.7918966133109195
+            },
+            {
+                "answer": "eileider",
+                "answer_length": 1,
+                "distractors": [
+                    "eierstok",
+                    "ovarium"
+                ],
+                "language": "fr",
+                "question": "le neerlandais pour 'ovaire ' n'est PAS ...",
+                "question_length": 8,
+                "score": 0.6653078645638575
+            },
+            {
+                "answer": "le dindon",
+                "answer_length": 2,
+                "distractors": [
+                    "le cygne",
+                    "le taureau"
+                ],
+                "language": "fr",
+                "question": "quel animal est dote de caroncules ?",
+                "question_length": 7,
+                "score": 0.6498164434923287
+            },
+            {
+                "answer": "schildklier",
+                "answer_length": 1,
+                "distractors": [
+                    "alvleesklier",
+                    "bijnier",
+                    "speekselklier"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke klier wordt beinvloed door een substitutietherapie van thyroidhormonen ?",
+                "question_length": 17,
+                "score": 0.6050252290959692
+            },
+            {
+                "answer": "Les reins",
+                "answer_length": 2,
+                "distractors": [
+                    "Le gros intestin",
+                    "La peau"
+                ],
+                "language": "fr",
+                "question": "2 points Quel est l'organe qui , a l'etat de repos , est essentiel pour maintenir une quantite d'eau suffisante dans le corps ?",
+                "question_length": 24,
+                "score": 0.5555703325946291
+            },
+            {
+                "answer": "het achterlijf",
+                "answer_length": 2,
+                "distractors": [
+                    "de buik",
+                    "het borststuk"
+                ],
+                "language": "nl",
+                "question": "the abdomen in insects is in Dutch ...",
+                "question_length": 8,
+                "score": 0.5349955283481006
+            },
+            {
+                "answer": "beschadigd haar",
+                "answer_length": 2,
+                "distractors": [
+                    "droog haar",
+                    "vet haar",
+                    "haar met schilfertjes",
+                    "broos haar",
+                    "dof haar"
+                ],
+                "language": "nl",
+                "question": "Ecoute . De quelle sorte de cheveux parle-t-on ?",
+                "question_length": 9,
+                "score": 0.511938579355659
+            },
+            {
+                "answer": "a celle des nerfs mixtes",
+                "answer_length": 5,
+                "distractors": [
+                    "a celle des nerfs sensoriels",
+                    "a celle des nerfs moteurs"
+                ],
+                "language": "fr",
+                "question": "2 points A quelle categorie le nerf trijumeau appartient-il ?",
+                "question_length": 10,
+                "score": 0.4922321926084112
+            }
+        ]
+    }
+}

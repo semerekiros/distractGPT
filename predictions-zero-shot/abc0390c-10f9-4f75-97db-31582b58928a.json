@@ -1,0 +1,5 @@
+{
+    "qid": "abc0390c-10f9-4f75-97db-31582b58928a",
+    "input": "question: Choose the right form . We ca n't buy ... fresh fruit in this shop . They only have tinned and canned food .\nanswer: any\n\nGenerate 20 plausible but inherently incorrect answers: ",
+    "response": "\n\n1. Much\n2. Few\n3. A lot of\n4. Some\n5. Every\n6. All\n7. Most\n8. Enough\n9. Several\n10. Plenty\n11. Certain\n12. Limited\n13. Whole\n14. Organic\n15. Ripe\n16. Local\n17. Frozen\n18. Juicy\n19. Dried\n20. Expensive"
+}

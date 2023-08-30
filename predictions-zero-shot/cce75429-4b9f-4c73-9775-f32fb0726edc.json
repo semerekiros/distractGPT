@@ -1,0 +1,5 @@
+{
+    "qid": "cce75429-4b9f-4c73-9775-f32fb0726edc",
+    "input": "vraag: Wat is de hoofdstad van het Verenigd Koninkrijk?\nantwoord: Londen\n\nGenereer 20 plausibele maar onjuiste antwoorden: ",
+    "response": "\n\n1. Manchester\n2. Edinburgh\n3. Liverpool\n4. Cardiff\n5. Belfast\n6. Dublin\n7. Glasgow\n8. Birmingham\n9. Leeds\n10. Bristol\n11. Oxford\n12. Cambridge\n13. Brighton\n14. York\n15. Canterbury\n16. Newcastle\n17. Plymouth\n18. Southampton\n19. Aberdeen\n20. Norwich"
+}

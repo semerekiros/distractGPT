@@ -1,0 +1,5 @@
+{
+    "qid": "a41b0f2b-c8fd-4c9f-a252-508fa08fbc83",
+    "input": "In welke bergketen ligt de hoogste berg, de Mount Everest, met een hoogte van 8848 m? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. Himalaya\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. Everest\n2. de zwaarteberg\n3. konijnstorm\n4. een zevenhoek\n5. vriesvlakte\n6. meer dan 3000 m\n7. Himalaya\n8. heuvels\n9. valeriaan\n10. steppe"
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "879b679f-1d7b-4dc4-8bed-a8a5cfa9594c",
+    "input": "Tot welk milieu behoort het bloed? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. inwendig\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. uitwendig\n2. zuiver\n3. zacht\n4. zuur\n5. vet\n6. weefsel\n7. melk\n8. cel\n9. milieu\n10. de mens"
+}

@@ -1,0 +1,131 @@
+{
+    "qid": "410e5442-6f28-4175-99a4-1a97766c5238",
+    "response": {
+        "Query": "Wat is een ploeg?",
+        "Result": [
+            {
+                "answer": "drank",
+                "answer_length": 1,
+                "distractors": [
+                    "afweer",
+                    "stootkussen",
+                    "thermoregulatie"
+                ],
+                "language": "nl",
+                "question": "Waarvoor dient het vruchtwater niet ?",
+                "question_length": 6,
+                "score": 0.9276161738492483
+            },
+            {
+                "answer": "een groot gesneden brood",
+                "answer_length": 4,
+                "distractors": [
+                    "een worst",
+                    "groenten",
+                    "kaas"
+                ],
+                "language": "nl",
+                "question": "Choisissez la bonne reponse Wat koop je bij de bakker ?",
+                "question_length": 11,
+                "score": 0.9192921913363532
+            },
+            {
+                "answer": "onoplosbare afvalstoffen in de nieren",
+                "answer_length": 5,
+                "distractors": [
+                    "onverteerd voedsel in de nieren",
+                    "gestold bloed in de nieren",
+                    "onoplosbaar water in de nieren"
+                ],
+                "language": "nl",
+                "question": "Wat zijn nierstenen ?",
+                "question_length": 4,
+                "score": 0.9175193998178144
+            },
+            {
+                "answer": "Ze turnen ",
+                "answer_length": 2,
+                "distractors": [
+                    "Ze koken ",
+                    "Ze zwemmen "
+                ],
+                "language": "nl",
+                "question": "Wat doen de mensen ?",
+                "question_length": 5,
+                "score": 0.9164721004897411
+            },
+            {
+                "answer": "voeding",
+                "answer_length": 1,
+                "distractors": [
+                    "snoep",
+                    "drank"
+                ],
+                "language": "fr",
+                "question": "Ca veut dire quoi ? alimentation",
+                "question_length": 6,
+                "score": 0.8846949467445845
+            },
+            {
+                "answer": "ontsteking",
+                "answer_length": 1,
+                "distractors": [
+                    "hoest",
+                    "korting"
+                ],
+                "language": "nl",
+                "question": "Complete les phrases . Indique la bonne reponse . Hopelijk krijg je door deze kwetsuur geen ... .",
+                "question_length": 18,
+                "score": 0.8710760737833114
+            },
+            {
+                "answer": "bloemen",
+                "answer_length": 1,
+                "distractors": [
+                    "parfum",
+                    "juwelen"
+                ],
+                "language": "nl",
+                "question": "Welk cadeau geven Vlamingen het meest voor Valentijn ?",
+                "question_length": 9,
+                "score": 0.8665081972258726
+            },
+            {
+                "answer": "zaden",
+                "answer_length": 1,
+                "distractors": [
+                    "vruchten",
+                    "bloemen",
+                    "stengels"
+                ],
+                "language": "nl",
+                "question": "Kies het enige juiste antwoord ! Zaadplanten planten zich voort met",
+                "question_length": 11,
+                "score": 0.8560202053824136
+            },
+            {
+                "answer": "Uitgebraakte voedselresten van prooidieren",
+                "answer_length": 4,
+                "distractors": [
+                    "Uitgebraakte voedselresten door zieke roofdieren"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Wat zijn braakballen ?",
+                "question_length": 15,
+                "score": 0.8471528820398682
+            },
+            {
+                "answer": "halal vlees",
+                "answer_length": 2,
+                "distractors": [
+                    "vlees",
+                    "geen vlees"
+                ],
+                "language": "nl",
+                "question": "Kijk en luister naar het fragment . Klik op het juiste antwoord . Anasse is een moslim . Wat eet hij ?",
+                "question_length": 22,
+                "score": 0.8461619391373141
+            }
+        ]
+    }
+}

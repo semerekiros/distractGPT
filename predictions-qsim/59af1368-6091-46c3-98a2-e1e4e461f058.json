@@ -1,0 +1,137 @@
+{
+    "qid": "59af1368-6091-46c3-98a2-e1e4e461f058",
+    "response": {
+        "Query": "Van welke talengroep (van de Kentumtalen) is Latijn de voorouder?",
+        "Result": [
+            {
+                "answer": "Alle bovenstaande",
+                "answer_length": 2,
+                "distractors": [
+                    "Frans",
+                    "Italiaans",
+                    "Reto-romaans"
+                ],
+                "language": "nl",
+                "question": "4 . Welke Romaanse taal ( talen ) wordt ( worden ) er in Zwitserland gesproken naat het Duits ?",
+                "question_length": 20,
+                "score": 0.6423927001137211
+            },
+            {
+                "answer": "Alle bovenstaande",
+                "answer_length": 2,
+                "distractors": [
+                    "Frans",
+                    "Italiaans",
+                    "Retro-romaans"
+                ],
+                "language": "nl",
+                "question": "3 . Welke Romaanse taal ( talen ) wordt ( worden ) er in Zwitserland gesproken naast het Duits ? ( klik na het beantwoorden van de vraag op het icoontje 'Verbetering ' )",
+                "question_length": 34,
+                "score": 0.6305609435316781
+            },
+            {
+                "answer": "streektaal",
+                "answer_length": 1,
+                "distractors": [
+                    "standaardtaal",
+                    "tussentaal",
+                    "vaktaal"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees het volgende stukje tekst aandachtig . De kraai zat aan den kant van eenen put en riep : 'Puit , kruipt eruit ! ' 'Neen , \u201d zei de puit , 'gij zult mij pikken . ' 'Bah , k'en doe , ' zei de kraai . De puit kroop eruit . 'Pakken , ' zei de kraai . ' k Had 't gepeinsd , ' zei de puit . Welke taal kun je in dit fragment herkennen ?",
+                "question_length": 87,
+                "score": 0.5816518321566512
+            },
+            {
+                "answer": "de Slavische talenfamilie",
+                "answer_length": 3,
+                "distractors": [
+                    "de Baltische talenfamilie",
+                    "de Germaanse talenfamilie",
+                    "de Romaanse talenfamilie"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke talenfamilie ontbreekt in onderstaande lijst ? Frans Fries Lets Roemeens Spaans Zweeds",
+                "question_length": 20,
+                "score": 0.45481649509875877
+            },
+            {
+                "answer": "Alle bovenstaande",
+                "answer_length": 2,
+                "distractors": [
+                    "Frans",
+                    "Italiaans",
+                    "Retro-romaans"
+                ],
+                "language": "nl",
+                "question": "3 . Welke Romaanse taal ( talen ) wordt ( worden ) er in Zwitserland gesproken naast het Duits ?",
+                "question_length": 20,
+                "score": 0.447152311131399
+            },
+            {
+                "answer": "Islamrijk",
+                "answer_length": 1,
+                "distractors": [
+                    "Karolingische rijk",
+                    "Byzantijnse rijk"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk van deze drie rijken was rond 800 het grootste en meest uitgestrekte rijk rond de Middellandse Zee ?",
+                "question_length": 25,
+                "score": 0.3948321944257932
+            },
+            {
+                "answer": "Maltees",
+                "answer_length": 1,
+                "distractors": [
+                    "Afrikaans",
+                    "Ijslands",
+                    "Roemeens"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van deze talen behoort niet tot de Indo-Europese taalfamilie ?",
+                "question_length": 18,
+                "score": 0.27064291740190904
+            },
+            {
+                "answer": "vaktaal",
+                "answer_length": 1,
+                "distractors": [
+                    "instructietaal",
+                    "jongerentaal",
+                    "tussentaal"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Lees de volgende zin aandachtig . Bouwer Heijmans verwacht niet dat de nieuwe koers die het bedrijf noodgedwongen gaat varen ten koste gaat van veel banen In ons dagelijks taalgebruik zitten vaak woorden die uit een ander gebied komen . Om welk gebied gaat het in dit geval ?",
+                "question_length": 56,
+                "score": 0.25575973095651755
+            },
+            {
+                "answer": "Brabantse dialecten",
+                "answer_length": 2,
+                "distractors": [
+                    "Friese dialecten",
+                    "Limburgse dialecten",
+                    "West-Vlaamse dialecten"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van de volgende dialecten had de grootste invloed op de totstandkoming van een algemene schrijftaal in de 17de eeuw ?",
+                "question_length": 28,
+                "score": 0.16550342479495686
+            },
+            {
+                "answer": "sociolect",
+                "answer_length": 1,
+                "distractors": [
+                    "regiolect",
+                    "tussentaal",
+                    "vaktaal"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Van welke taalvariant is onderstaand fragment een voorbeeld ?",
+                "question_length": 16,
+                "score": 0.1018184153310674
+            }
+        ]
+    }
+}

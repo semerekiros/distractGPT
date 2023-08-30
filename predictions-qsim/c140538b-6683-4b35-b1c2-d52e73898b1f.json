@@ -1,0 +1,144 @@
+{
+    "qid": "c140538b-6683-4b35-b1c2-d52e73898b1f",
+    "response": {
+        "Query": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . I would like to _______________ our meeting to this Wednesday rather than next week , if that 's alright with you .",
+        "Result": [
+            {
+                "answer": "back up",
+                "answer_length": 2,
+                "distractors": [
+                    "cross off",
+                    "carry out",
+                    "bring forward",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . I would like to _______________ our meeting to this Wednesday rather than next week , if that 's alright with you .",
+                "question_length": 61,
+                "score": 0.9786384232723144
+            },
+            {
+                "answer": "bring forward",
+                "answer_length": 2,
+                "distractors": [
+                    "back up",
+                    "cross off",
+                    "carry out",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . I would like to _______________ our meeting to this Wednesday rather than next week , if that 's alright with you .",
+                "question_length": 64,
+                "score": 0.9703832000496332
+            },
+            {
+                "answer": "would rather",
+                "answer_length": 2,
+                "distractors": [
+                    "am supposed",
+                    "let 's",
+                    "am able",
+                    "I do n't know"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . I _______________ order the parts from Sykes Ltd . They 're more reliable .",
+                "question_length": 53,
+                "score": 0.8893389558219164
+            },
+            {
+                "answer": "would rather",
+                "answer_length": 2,
+                "distractors": [
+                    "am supposed",
+                    "let 's",
+                    "am able",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . I _______________ order the parts from Sykes Ltd . They 're more reliable .",
+                "question_length": 56,
+                "score": 0.8830712852588012
+            },
+            {
+                "answer": "It has now been decided",
+                "answer_length": 5,
+                "distractors": [
+                    "It has now decided",
+                    "It is now decided"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . An excerpt from the business news section of a daily paper : ... to postpone the proposed construction .",
+                "question_length": 34,
+                "score": 0.8717016635796139
+            },
+            {
+                "answer": "whatever",
+                "answer_length": 1,
+                "distractors": [
+                    "however",
+                    "whenever",
+                    "no matter",
+                    "I do n't know"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . If you do n't know , it is better to tick & quot ; I do n't know & quot ; because for each wrong answer half a point will be deduced from your total score . Use _______________ measures you consider necessary to improve turnover .",
+                "question_length": 52,
+                "score": 0.8339431517007914
+            },
+            {
+                "answer": "is thought to be",
+                "answer_length": 4,
+                "distractors": [
+                    "are thought to be",
+                    "is thought",
+                    "is thought to being"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . An excerpt from the business news section of a daily paper : The board ... in favour of a merger .",
+                "question_length": 36,
+                "score": 0.8332722538916901
+            },
+            {
+                "answer": "whatever",
+                "answer_length": 1,
+                "distractors": [
+                    "however",
+                    "whenever",
+                    "no matter",
+                    "I do n't know"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . Use _______________ measures you consider necessary to improve turnover .",
+                "question_length": 49,
+                "score": 0.7891588943139168
+            },
+            {
+                "answer": "It was agreed",
+                "answer_length": 3,
+                "distractors": [
+                    "They were agreeing",
+                    "It will be agreed",
+                    "It is in agreement"
+                ],
+                "language": "en",
+                "question": "Choose the right answer . Choisissez la reponse correcte . Kies het juiste antwoord . An excerpt from the business news section of a daily paper : ... that the share capital should be increased .",
+                "question_length": 36,
+                "score": 0.7166103222215654
+            },
+            {
+                "answer": "have spoken",
+                "answer_length": 2,
+                "distractors": [
+                    "speak",
+                    "am speaking",
+                    "had spoken",
+                    "I do n't know"
+                ],
+                "language": "fr",
+                "question": "Choisissez la bonne reponse en cochant la case . Si vous ne savez pas , il vaut mieux cochez \u00ab I do n't know \u00bb car pour chaque mauvaise reponse un demi point sera deduit de votre total . So far , I _______________ to five potential suppliers , but none of them seem capable of meeting our requirements .",
+                "question_length": 60,
+                "score": 0.7106308351468793
+            }
+        ]
+    }
+}

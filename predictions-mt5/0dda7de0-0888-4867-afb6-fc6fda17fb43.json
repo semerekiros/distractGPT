@@ -1,0 +1,5 @@
+{
+    "qid": "0dda7de0-0888-4867-afb6-fc6fda17fb43",
+    "input": "Cochez la bonne forme du futur simple . Vous ... le train a Nice ou a Cannes ? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. prendrez\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. prenons\n2. prendra\n3. prenez\n4. entrez\n5. plonger\n6. enrouler\n7. emprendre\n8. partir\n9. descendre\n10. prendre"
+}

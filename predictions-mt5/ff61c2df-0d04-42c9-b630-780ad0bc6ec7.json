@@ -1,0 +1,5 @@
+{
+    "qid": "ff61c2df-0d04-42c9-b630-780ad0bc6ec7",
+    "input": "Welk hormoon wordt aangemaakt in de teelbal? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. testosteron\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. amylase\n2. fibula\n3. estriol\n4. prolactine\n5. progestin\n6. adrenaline\n7. adrenalina\n8. melanin 10.\n9. dihydrotestosterone\n10. trisomen"
+}

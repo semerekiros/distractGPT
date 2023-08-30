@@ -1,0 +1,133 @@
+{
+    "qid": "f1a9ec9a-6014-48a9-9bd8-fefcae15cc39",
+    "response": {
+        "Query": "Welke lens van de microscoop zit het dichtst bij het oog?",
+        "Result": [
+            {
+                "answer": "A4G150mm2",
+                "answer_length": 1,
+                "distractors": [
+                    "A4x95mm2"
+                ],
+                "language": "nl",
+                "question": "In de Koning Albertlaan te Lovendegem moet je een nieuwe aansluiting maken ter hoogte van huisnummer 220 . De aansluiting dient te gebeuren op het 400V net . Op welke kabel maak je de aansluiting ?",
+                "question_length": 36,
+                "score": 0.773745060294089
+            },
+            {
+                "answer": "E",
+                "answer_length": 1,
+                "distractors": [
+                    "D",
+                    "F"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk hoek is het kleinst ? klik die hoek aan .",
+                "question_length": 17,
+                "score": 0.7515657425236925
+            },
+            {
+                "answer": "lijn C en E",
+                "answer_length": 4,
+                "distractors": [
+                    "lijn E",
+                    "lijn C",
+                    "lijn A en D"
+                ],
+                "language": "nl",
+                "question": "Welke lijn ( en ) geeft ( geven ) de beweging weer van een voorwerp dat beweegt met een constante , negatieve versnelling ?",
+                "question_length": 24,
+                "score": 0.7270494593226376
+            },
+            {
+                "answer": "Tussen trommelholte en keelholte",
+                "answer_length": 4,
+                "distractors": [
+                    "Tussen gehoorgang en trommelholte",
+                    "Tussen keelholte en gehoorgang",
+                    "Tussen gehoorgang en middenoor"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Tussen welke holten bevindt zich de buis van Eustachius ?",
+                "question_length": 21,
+                "score": 0.7093174720963614
+            },
+            {
+                "answer": "Decubitus Categorie III",
+                "answer_length": 3,
+                "distractors": [
+                    "Decubitus Categorie II",
+                    "Decubitus Categorie IV"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Beoordeel volgend letsel ter hoogte van linker bil .",
+                "question_length": 15,
+                "score": 0.6787670027192774
+            },
+            {
+                "answer": "A",
+                "answer_length": 1,
+                "distractors": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In de figuur gaat een lichtstraal een glazen blokje in . Het glazen blokje wordt omringd door lucht . Welke lijn geeft de uittredende lichstraal het beste weer ?",
+                "question_length": 36,
+                "score": 0.6543414533943839
+            },
+            {
+                "answer": "Tussen voorhoofdslob en wandlob",
+                "answer_length": 4,
+                "distractors": [
+                    "Tussen wandlob en slaaplob",
+                    "Tussen slaaplob en achterhoofdslob",
+                    "Tussen achterhoofdslob en kleine hersenen"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar bevindt zich de groef van Rolando ?",
+                "question_length": 19,
+                "score": 0.6267767556823828
+            },
+            {
+                "answer": "Middelste gang slakkenhuis",
+                "answer_length": 3,
+                "distractors": [
+                    "Vliezig labyrint",
+                    "Benig labyrint",
+                    "Bovenste gang slakkenhuis"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Waar bevinden zich de geluidsreceptoren ?",
+                "question_length": 17,
+                "score": 0.6242072247907916
+            },
+            {
+                "answer": "Semi-powershift",
+                "answer_length": 1,
+                "distractors": [
+                    "Zuiver mechanisch",
+                    "Volledig ( full ) powershift"
+                ],
+                "language": "nl",
+                "question": "Vink het juiste antwoord aan . Welk type versnellingsbak is dit ? Klik op het pdf-icoon om de figuur te zien",
+                "question_length": 21,
+                "score": 0.5893081386451196
+            },
+            {
+                "answer": "b",
+                "answer_length": 1,
+                "distractors": [
+                    "a",
+                    "c",
+                    "d"
+                ],
+                "language": "nl",
+                "question": "Selecteer het juiste antwoord . Welk linkeraanzicht ( als doorsnede ) is juist ?",
+                "question_length": 14,
+                "score": 0.5808731082724867
+            }
+        ]
+    }
+}

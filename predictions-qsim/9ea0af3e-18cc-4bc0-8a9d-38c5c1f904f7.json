@@ -1,0 +1,137 @@
+{
+    "qid": "9ea0af3e-18cc-4bc0-8a9d-38c5c1f904f7",
+    "response": {
+        "Query": "le nom d'un insecte sauteur ?",
+        "Result": [
+            {
+                "answer": "la sauterelle",
+                "answer_length": 2,
+                "distractors": [
+                    "la sauteuse",
+                    "le sauteur"
+                ],
+                "language": "fr",
+                "question": "le nom d'un insecte sauteur ?",
+                "question_length": 6,
+                "score": 0.9017779847886183
+            },
+            {
+                "answer": "australien",
+                "answer_length": 1,
+                "distractors": [
+                    "delicieux",
+                    "interactif"
+                ],
+                "language": "fr",
+                "question": "Indique le bon mot . Duid het goede woord aan . Tu ne connais pas le kangourou ? C'est un animal ...",
+                "question_length": 22,
+                "score": 0.5895193666654448
+            },
+            {
+                "answer": "a Ibo",
+                "answer_length": 2,
+                "distractors": [
+                    "Ibo",
+                    "pour Ibo"
+                ],
+                "language": "fr",
+                "question": "Qu'est-ce que le mot en gras remplace ? Cochez la bonne reponse . Ibo : \u00ab Yves me montre sa nouvelle voiture . \u00bb",
+                "question_length": 24,
+                "score": 0.5543826498722525
+            },
+            {
+                "answer": "le koala",
+                "answer_length": 2,
+                "distractors": [
+                    "le panda",
+                    "le grizzli",
+                    "l'ours",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Quel animal ne fait pas partie de la famille des ursides ?",
+                "question_length": 12,
+                "score": 0.47817986694210446
+            },
+            {
+                "answer": "Bart",
+                "answer_length": 1,
+                "distractors": [
+                    "le tableau",
+                    "David"
+                ],
+                "language": "fr",
+                "question": "Qu'est-ce que le mot en gras remplace ? Cochez la bonne reponse . David : \u00ab Bart , Sophie te regarde toujours en classe . \u00bb",
+                "question_length": 26,
+                "score": 0.4323865644192855
+            },
+            {
+                "answer": "l'empire mongol vers 1200",
+                "answer_length": 4,
+                "distractors": [
+                    "l'empire hittite",
+                    "l'empire perse a son apogee"
+                ],
+                "language": "it",
+                "question": "De quel empire s'agit-il ?",
+                "question_length": 5,
+                "score": 0.3896914256003431
+            },
+            {
+                "answer": "bagages",
+                "answer_length": 1,
+                "distractors": [
+                    "immeuble",
+                    "boulangeries"
+                ],
+                "language": "fr",
+                "question": "Lis les dialogues et indique le ( s ) bon ( s ) mot ( s ) . - Le concierge est la ? degrees Oui , il va t'aider a decharger les ... .",
+                "question_length": 35,
+                "score": 0.3061473949658877
+            },
+            {
+                "answer": "francaise",
+                "answer_length": 1,
+                "distractors": [
+                    "francais",
+                    "belge",
+                    "marocaine"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase . Complete the sentence . Nom : Briand Prenom : Theo Adresse : 25 , rue de l'eglise Code postal : 26570 Ville : Montbrun-les-Bains Pays : France Date de naissance : 4 septembre 1947 Lieu de naissance : Carpentras ( France ) Theo Briand a la nationalite ... .",
+                "question_length": 53,
+                "score": 0.30080864956959735
+            },
+            {
+                "answer": "le 11 novembre ",
+                "answer_length": 3,
+                "distractors": [
+                    "le 24 decembre ",
+                    "le 1 mai "
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne reponse . L'Armistice , c'est ...",
+                "question_length": 9,
+                "score": 0.30045654216984236
+            },
+            {
+                "answer": "Renard",
+                "answer_length": 1,
+                "distractors": [
+                    "Coyote",
+                    "Loup",
+                    "Blaireau",
+                    "Toutes les reponses sont correctes",
+                    "Aucune des reponses n'est correcte",
+                    "Ne souhaite pas repondre"
+                ],
+                "language": "fr",
+                "question": "Quel est l'autre nom du \u00ab goupil \u00bb ?",
+                "question_length": 9,
+                "score": 0.25094419205169183
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "qid": "36f60e19-9d7a-467b-ae45-d04685a0e8c0",
+    "input": "vraag: WAARBZIJN WE\nantwoord: BRUSSEL\nonjuiste antwoorden: \n1. GENT\n\nvraag: Waar ligt Jan Yperman ?\nantwoord: Ieper\nonjuiste antwoorden: \n1. Brugge\n\nvraag: MAak je keuze Waat bevindt VIVES Noord zich ?\nantwoord: Brugge\nonjuiste antwoorden: \n1. Kortrijk\n\nvraag: Hoe heet het gebied van de Etrusken vandaag ?\nantwoord: Toscane\nonjuiste antwoorden: \n1. Umbrie\n2. Vlaanderen\n3. Rome\n\nvraag: Waar bevinden zich de kunstgaleries Pitti en Uffizi ?\nantwoord: Firenze\nonjuiste antwoorden: \n1. Pisa\n2. Rome\n3. Siena\n\nvraag: : Waar ligt je schildklier?\nantwoord: : in je hals\n\nGenereer 20 onjuiste antwoorden: ",
+    "response": "\n\n1. in je elleboog\n2. in je knie\n3. in je oksel\n4. in je neus\n5. in je voet\n6. in je handpalm\n7. in je mond\n8. in je rug\n9. in je schouder\n10. in je oog\n11. in je buik\n12. in je bil\n13. in je enkel\n14. in je wang\n15. in je voorhoofd\n16. in je wenkbrauw\n17. in je onderarm\n18. in je bilnaad\n19. in je borstkas\n20. in je achterhoofd"
+}

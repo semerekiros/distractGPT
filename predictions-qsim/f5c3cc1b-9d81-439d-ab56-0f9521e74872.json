@@ -1,0 +1,132 @@
+{
+    "qid": "f5c3cc1b-9d81-439d-ab56-0f9521e74872",
+    "response": {
+        "Query": "when something is indispensable , ...",
+        "Result": [
+            {
+                "answer": "it 's essential",
+                "answer_length": 3,
+                "distractors": [
+                    "it 's hard to find",
+                    "it 's very expensive"
+                ],
+                "language": "en",
+                "question": "when something is indispensable , ...",
+                "question_length": 6,
+                "score": 0.6041059009986411
+            },
+            {
+                "answer": "the production",
+                "answer_length": 2,
+                "distractors": [
+                    "a garden instrument",
+                    "a kind of shrub"
+                ],
+                "language": "en",
+                "question": "the yield is ...",
+                "question_length": 4,
+                "score": 0.3654915823129529
+            },
+            {
+                "answer": "yield",
+                "answer_length": 1,
+                "distractors": [
+                    "stock",
+                    "bond",
+                    "share"
+                ],
+                "language": "en",
+                "question": "Complete the following sentence In general , ... is the annual rate of return for any investment and is expressed as a percentage .",
+                "question_length": 24,
+                "score": 0.2678955541195476
+            },
+            {
+                "answer": "width",
+                "answer_length": 1,
+                "distractors": [
+                    "distance",
+                    "outline"
+                ],
+                "language": "en",
+                "question": "to measure a volume , you need length , height and ...",
+                "question_length": 12,
+                "score": 0.2661888263879344
+            },
+            {
+                "answer": "to cause",
+                "answer_length": 2,
+                "distractors": [
+                    "to stimulate",
+                    "to bring forward"
+                ],
+                "language": "en",
+                "question": "'to give rise to ' means ...",
+                "question_length": 7,
+                "score": 0.23275990875044228
+            },
+            {
+                "answer": "cyclical/be prepared",
+                "answer_length": 2,
+                "distractors": [
+                    "economical/ready",
+                    "cash/examine",
+                    "cyclic/look"
+                ],
+                "language": "en",
+                "question": "I follow the ... . market to ... . for any ups or downs .",
+                "question_length": 15,
+                "score": 0.1422703432582795
+            },
+            {
+                "answer": "revenus",
+                "answer_length": 1,
+                "distractors": [
+                    "revenu",
+                    "revenue",
+                    "revenues"
+                ],
+                "language": "fr",
+                "question": "Choisissez la forme correcte du participe passe . Papa et maman sont ... hier matin .",
+                "question_length": 16,
+                "score": 0.13771435278580876
+            },
+            {
+                "answer": "correctly",
+                "answer_length": 1,
+                "distractors": [
+                    "nicely",
+                    "cleanly"
+                ],
+                "language": "en",
+                "question": "when something is done properly , it is done ...",
+                "question_length": 10,
+                "score": 0.13233482714818215
+            },
+            {
+                "answer": "Sergeant Jump Test",
+                "answer_length": 3,
+                "distractors": [
+                    "Cooper 's 12-minute run test",
+                    "30-metre sprint test",
+                    "Harvard Step test"
+                ],
+                "language": "en",
+                "question": "Which of the following is a test of power ?",
+                "question_length": 10,
+                "score": 0.1101889474391157
+            },
+            {
+                "answer": "speed",
+                "answer_length": 1,
+                "distractors": [
+                    "part of a beehive",
+                    "advice"
+                ],
+                "language": "en",
+                "question": "'rate ' is ...",
+                "question_length": 4,
+                "score": 0.10048636467009799
+            }
+        ]
+    }
+}

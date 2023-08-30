@@ -1,0 +1,134 @@
+{
+    "qid": "76f5fcab-af6f-4ada-8cef-3ecaa8bcc17a",
+    "response": {
+        "Query": "Welke geneesmiddel is verslavend?",
+        "Result": [
+            {
+                "answer": "metformine",
+                "answer_length": 1,
+                "distractors": [
+                    "aciclovir",
+                    "insuline",
+                    "loperamide"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk actief bestanddeel is aanwezig in onderstaande specialiteit ?",
+                "question_length": 16,
+                "score": 0.89453450476487
+            },
+            {
+                "answer": "B",
+                "answer_length": 1,
+                "distractors": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk geneesmiddel wordt via een transdermaal systeem opgenomen in het lichaam ?",
+                "question_length": 19,
+                "score": 0.8941475290235406
+            },
+            {
+                "answer": "Een afhankelijke ademhalingsbescherming",
+                "answer_length": 3,
+                "distractors": [
+                    "Een onafhankelijke autonome ademhalingsbescherming",
+                    "Een omgevingsonafhankelijke ademhalingsbescherming"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Welk soort ademhalingsbeschermingsmiddel is dit ?",
+                "question_length": 11,
+                "score": 0.8770117233432803
+            },
+            {
+                "answer": "Metformine",
+                "answer_length": 1,
+                "distractors": [
+                    "Glibenclamide",
+                    "Insuline",
+                    "Pioglitazon"
+                ],
+                "language": "nl",
+                "question": "Beantwoord onderstaande meerkeuzevraag . 29 . Welke is de eerste keuze behandeling van zwangerschapsdiabetes",
+                "question_length": 14,
+                "score": 0.875067138338405
+            },
+            {
+                "answer": "vrouwencondoom",
+                "answer_length": 1,
+                "distractors": [
+                    "prikpil",
+                    "periodieke onthouding",
+                    "anticonceptiepleister"
+                ],
+                "language": "nl",
+                "question": "Welk voorbehoedsmiddel beschermt je tegen zwangerschap en soa 's ?",
+                "question_length": 10,
+                "score": 0.8637995549475345
+            },
+            {
+                "answer": "Keuze 1",
+                "answer_length": 2,
+                "distractors": [
+                    "Keuze 2",
+                    "Keuze 3",
+                    "Keuze 4"
+                ],
+                "language": "nl",
+                "question": "Duid de juiste antwoorden aan Welke geneesmiddelensoorten vallen onder de High Risk Medicatie ?",
+                "question_length": 14,
+                "score": 0.8591317486208823
+            },
+            {
+                "answer": "Methadon",
+                "answer_length": 1,
+                "distractors": [
+                    "Dafalgan Codeine",
+                    "Paracetamol",
+                    "Ketamine"
+                ],
+                "language": "nl",
+                "question": "Welk hulpmiddel wordt gebruikt bij de behandeling van heroine verslaafden ?",
+                "question_length": 11,
+                "score": 0.8189340705279069
+            },
+            {
+                "answer": "Poederblusser",
+                "answer_length": 1,
+                "distractors": [
+                    "C02 blusser",
+                    "Schuimblusser"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan Welke blusser gebruik je bij de brand van een computer ?",
+                "question_length": 16,
+                "score": 0.798917385070464
+            },
+            {
+                "answer": "Een onafhankelijke autonome ademhalingsbescherming",
+                "answer_length": 4,
+                "distractors": [
+                    "Een afhankelijke ademhalingsbescherming",
+                    "Een onafhankelijke niet-autonome ademhalingsbescherming"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord . Welk soort ademhalingsbeschermingsmiddel is de meest geschikt om een redding uit te voeren ?",
+                "question_length": 19,
+                "score": 0.7924196817945197
+            },
+            {
+                "answer": "daflgan",
+                "answer_length": 1,
+                "distractors": [
+                    "asperinge 2",
+                    "Keuze 3"
+                ],
+                "language": "nl",
+                "question": "Wat is de meest gebruikte pijnstiller in Belgische zorginstellingen Kies het juiste antwoord",
+                "question_length": 13,
+                "score": 0.7828929250409487
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "qid": "59368283-81b9-4c64-b4d0-38aff41a9a31",
+    "response": {
+        "Query": "lequel signifie 'sans couvercle ' ?",
+        "Result": [
+            {
+                "answer": "a decouvert",
+                "answer_length": 2,
+                "distractors": [
+                    "clos",
+                    "a couvert"
+                ],
+                "language": "fr",
+                "question": "lequel signifie 'sans couvercle ' ?",
+                "question_length": 6,
+                "score": 0.9719169186605688
+            },
+            {
+                "answer": "Bonbek",
+                "answer_length": 1,
+                "distractors": [
+                    "les beaux mecs",
+                    "M aquette"
+                ],
+                "language": "fr",
+                "question": "La nouvelle revue s'appelle ( 1pt )",
+                "question_length": 7,
+                "score": 0.9448367696973938
+            },
+            {
+                "answer": "une charrue",
+                "answer_length": 2,
+                "distractors": [
+                    "une herse",
+                    "un rateau"
+                ],
+                "language": "fr",
+                "question": "le labour est fait avec quel instrument ?",
+                "question_length": 8,
+                "score": 0.9403554905141284
+            },
+            {
+                "answer": "une tannerie",
+                "answer_length": 2,
+                "distractors": [
+                    "une cuirerie",
+                    "un equarrissage"
+                ],
+                "language": "fr",
+                "question": "l'endroit ou on transforme la peau d'animaux en cuir , s'appelle ...",
+                "question_length": 12,
+                "score": 0.9059445209903638
+            },
+            {
+                "answer": "la television",
+                "answer_length": 2,
+                "distractors": [
+                    "l'ordinateur",
+                    "la culture"
+                ],
+                "language": "fr",
+                "question": "Quel est l'ennemi du livre ? ( 1pt )",
+                "question_length": 9,
+                "score": 0.8744545050411592
+            },
+            {
+                "answer": "Paul Bocuse",
+                "answer_length": 2,
+                "distractors": [
+                    "Jean Tournedos",
+                    "Paul Ricard",
+                    "Philipe Bouillabaisse"
+                ],
+                "language": "fr",
+                "question": "Enquete : Vive la France Comment s'appelle le celebre restaurateur francais ?",
+                "question_length": 12,
+                "score": 0.8728283542085076
+            },
+            {
+                "answer": "Vrai",
+                "answer_length": 1,
+                "distractors": [
+                    "Faux"
+                ],
+                "language": "fr",
+                "question": "L'ingredient principal de la sauce bechamel est le lait : COCHEZ la bonne re\u0301ponse .",
+                "question_length": 15,
+                "score": 0.8487673131329946
+            },
+            {
+                "answer": "le fumier",
+                "answer_length": 2,
+                "distractors": [
+                    "l'etalon rouleur",
+                    "le taureau"
+                ],
+                "language": "fr",
+                "question": "lequel est un fertilisant ?",
+                "question_length": 5,
+                "score": 0.8186246652501001
+            },
+            {
+                "answer": "marronnier",
+                "answer_length": 1,
+                "distractors": [
+                    "chataignier",
+                    "chataigne"
+                ],
+                "language": "fr",
+                "question": "'paardenkastanje ' en francais ?",
+                "question_length": 5,
+                "score": 0.7996902403790922
+            },
+            {
+                "answer": "Une nacelle elevatrice non immatriculee",
+                "answer_length": 5,
+                "distractors": [
+                    "Un tracteur de manutention immatricule",
+                    "Un chargeur sur pneus immatricule",
+                    "Un chariot elevateur immatricule"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne reponse . RC auto ou RC entreprise ? Quel vehicule-outil sera couvert , en circulation , par le contrat RC entreprise ?",
+                "question_length": 25,
+                "score": 0.7561693322074629
+            }
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "qid": "20ab008d-999a-4a3a-9dbb-de93bbe70f8c",
+    "response": {
+        "Query": "Welke vrucht heeft het meest zaadjes?",
+        "Result": [
+            {
+                "answer": "bakeliet",
+                "answer_length": 1,
+                "distractors": [
+                    "rubber",
+                    "nylon",
+                    "celluloid"
+                ],
+                "language": "nl",
+                "question": "Een brokje geschiedenis om mee te starten : Welke stof luidde in 1909 het tijdperk in van de synthetische kunststoffen ?",
+                "question_length": 21,
+                "score": 0.7779893815595368
+            },
+            {
+                "answer": "roomkaas",
+                "answer_length": 1,
+                "distractors": [
+                    "eieren",
+                    "frisdrank",
+                    "fruit"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Personen met lactose - intolerantie mijden best een aantal producten . Welke van onderstaande producten is ten zeerste af te raden ?",
+                "question_length": 29,
+                "score": 0.7439489161103122
+            },
+            {
+                "answer": "perdolan-compositum",
+                "answer_length": 1,
+                "distractors": [
+                    "afebryl",
+                    "aspirine",
+                    "tramadol"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In de BCFI staat het volgende te lezen over combinatiepreparaten tegen pijn en koorts : In principe zijn preparaten met een enkel actief bestanddeel te verkiezen . Associeren van hoge doses coffeine ( meer dan 100 mg ) met paracetamol of NSAID 's zou mogelijk een beperkt additief analgetisch effect geven . Toevoegen van ascorbinezuur ( vitamine C ) heeft geen zin . Het associeren van coffeine met acetylsalicylzuur of paracetamol , zou chronisch gebruik en misbruik ervan in de hand werken . Welk preparaat bevat zowel coffeine , paracetamol als acetylsalicylzuur ?",
+                "question_length": 100,
+                "score": 0.743839186421389
+            },
+            {
+                "answer": "Nederland",
+                "answer_length": 1,
+                "distractors": [
+                    "Noorse olievelden",
+                    "Quatar en Abu Dhabi"
+                ],
+                "language": "nl",
+                "question": "Het laagcalorisch aardgas op onze distributienetten is afkomstig van :",
+                "question_length": 10,
+                "score": 0.7366074579790484
+            },
+            {
+                "answer": "banaan",
+                "answer_length": 1,
+                "distractors": [
+                    "plant",
+                    "plataan"
+                ],
+                "language": "nl",
+                "question": "sfsdfsdf",
+                "question_length": 1,
+                "score": 0.7347936001020418
+            },
+            {
+                "answer": "banaan",
+                "answer_length": 1,
+                "distractors": [
+                    "plant",
+                    "plataan"
+                ],
+                "language": "nl",
+                "question": "Wat betekent het Spaanse woord platano ? Duid het juiste antwoord aan .",
+                "question_length": 13,
+                "score": 0.7037427852813436
+            },
+            {
+                "answer": "banaan",
+                "answer_length": 1,
+                "distractors": [
+                    "plant",
+                    "plataan"
+                ],
+                "language": "nl",
+                "question": "Wat betekent het Spaanse woord platano ?",
+                "question_length": 7,
+                "score": 0.7005339748460084
+            },
+            {
+                "answer": "engendrer",
+                "answer_length": 1,
+                "distractors": [
+                    "chatrer",
+                    "emasculer"
+                ],
+                "language": "fr",
+                "question": "quel mot ne signifie PAS 'castrer ' ?",
+                "question_length": 8,
+                "score": 0.6998037097223052
+            },
+            {
+                "answer": "Marihuana ",
+                "answer_length": 1,
+                "distractors": [
+                    "Cafeine",
+                    "Guarana",
+                    "Alcohol"
+                ],
+                "language": "af",
+                "question": "Welke drug is illegaal in Belgie ?",
+                "question_length": 7,
+                "score": 0.6791111285512881
+            },
+            {
+                "answer": "boxing",
+                "answer_length": 1,
+                "distractors": [
+                    "tennis",
+                    "swimming",
+                    "karate",
+                    "skating",
+                    "hockey"
+                ],
+                "language": "en",
+                "question": "Choose the correct sport .",
+                "question_length": 5,
+                "score": 0.6772000194597936
+            }
+        ]
+    }
+}

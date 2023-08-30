@@ -1,0 +1,136 @@
+{
+    "qid": "eeb27bff-004e-473b-8f40-bc34d0f4bba9",
+    "response": {
+        "Query": "Duid aan in welke voedingsmiddelen uit de tabel eiwitten het hoofdbestanddeel zijn.",
+        "Result": [
+            {
+                "answer": "water , spuitwater en thee",
+                "answer_length": 5,
+                "distractors": [
+                    "water , koffie en aquarius",
+                    "water , limonade en fruitsap",
+                    "water , cola en chocolademelk"
+                ],
+                "language": "nl",
+                "question": "Welke reeks van voedingsmiddelen hoort thuis in het vak 'water ' ?",
+                "question_length": 12,
+                "score": 0.6602935024985609
+            },
+            {
+                "answer": "gestoomde voeding",
+                "answer_length": 2,
+                "distractors": [
+                    "gemixte voeding",
+                    "geplette voeding",
+                    "sonde voeding"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke voeding heeft geen afwijkende consistentie ?",
+                "question_length": 14,
+                "score": 0.6590358379852049
+            },
+            {
+                "answer": "Onbeperkt houdbaar",
+                "answer_length": 2,
+                "distractors": [
+                    "Een paar weken houdbaar",
+                    "Een paar maanden houdbaar"
+                ],
+                "language": "nl",
+                "question": "Kies het juiste antwoord Bij het steriliseren van voeding worden alle micro-organismen gedood . Deze voedingsmiddelen zijn :",
+                "question_length": 18,
+                "score": 0.5404286924667638
+            },
+            {
+                "answer": "proteine",
+                "answer_length": 1,
+                "distractors": [
+                    "appel",
+                    "ei",
+                    "magarine"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van de volgende voorbeelden is een voedingsstof ?",
+                "question_length": 16,
+                "score": 0.5224336029918784
+            },
+            {
+                "answer": "granen",
+                "answer_length": 1,
+                "distractors": [
+                    "vis",
+                    "vlees",
+                    "zuivel"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke in de tekst genoemde voedselproducten worden zonder meer beschouwd als gezond en kunnen het gezondheidslabel hebben ?",
+                "question_length": 25,
+                "score": 0.5194889901794538
+            },
+            {
+                "answer": "papier",
+                "answer_length": 1,
+                "distractors": [
+                    "aardappelen",
+                    "mais",
+                    "tabak"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In 1492 ontdekte Christoffel Columbus Amerika . Daardoor kwamen er heel wat nieuwe producten naar Europa . Wat was daar NIET bij ?",
+                "question_length": 30,
+                "score": 0.5014351327136087
+            },
+            {
+                "answer": "groene banaan",
+                "answer_length": 2,
+                "distractors": [
+                    "groene appel",
+                    "witte chocolade"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk voedingsmiddel kan helpen om diarree te stoppen ?",
+                "question_length": 16,
+                "score": 0.49458436078052137
+            },
+            {
+                "answer": "ranzige boter",
+                "answer_length": 2,
+                "distractors": [
+                    "lintworminfectie",
+                    "salmonella",
+                    "zure melk"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wat is een voorbeeld van chemisch bederf bij een voedingsmiddel ?",
+                "question_length": 18,
+                "score": 0.4933065373860399
+            },
+            {
+                "answer": "kiwi",
+                "answer_length": 1,
+                "distractors": [
+                    "aardbei",
+                    "banaan",
+                    "citroen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk fruit levert het meest vet ?",
+                "question_length": 14,
+                "score": 0.492975115104575
+            },
+            {
+                "answer": "mineralen",
+                "answer_length": 1,
+                "distractors": [
+                    "vitaminen",
+                    "voedingsvezels",
+                    "water"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Met welke voedingsstof dient men zeker rekening te houden bij een diabetesdieet ?",
+                "question_length": 20,
+                "score": 0.4921395695749413
+            }
+        ]
+    }
+}

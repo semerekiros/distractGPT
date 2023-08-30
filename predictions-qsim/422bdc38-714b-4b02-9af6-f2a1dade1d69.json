@@ -1,0 +1,129 @@
+{
+    "qid": "422bdc38-714b-4b02-9af6-f2a1dade1d69",
+    "response": {
+        "Query": "Aan welke zijde worden de longen van een pati\u00ebnt door ontstekingsvocht platgedrukt?",
+        "Result": [
+            {
+                "answer": "674 dagen ",
+                "answer_length": 2,
+                "distractors": [
+                    "467 dagen ",
+                    "647 dagen ",
+                    "764 dagen "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . De olifantenbaby werd geboren na ...",
+                "question_length": 13,
+                "score": 0.9359757138797127
+            },
+            {
+                "answer": "Op SATNET",
+                "answer_length": 2,
+                "distractors": [
+                    "Op je bureaublad",
+                    "Bij de kwaliteitscoordinator"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste aan Waar kun je de procedure reanimatie terugvinden ?",
+                "question_length": 12,
+                "score": 0.9262215546544774
+            },
+            {
+                "answer": "Enkelpolige scheiders worden standaard vervangen ",
+                "answer_length": 5,
+                "distractors": [
+                    "Enkelpolige scheiders worden niet vervangen "
+                ],
+                "language": "nl",
+                "question": "Wanneer vervang je enkelpolige scheiders ?",
+                "question_length": 6,
+                "score": 0.8411006952998056
+            },
+            {
+                "answer": "Biodiversiteit op niveau van ecosystemen",
+                "answer_length": 5,
+                "distractors": [
+                    "Biodiversiteit op niveau van soorten",
+                    "Biodiversiteit op niveau van vervuilingsgraad"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Op welk niveau onderzoek je de biodiversiteit als men zegt dat de provincie Limburg zeer veel bossen bevat ?",
+                "question_length": 25,
+                "score": 0.8339164741483556
+            },
+            {
+                "answer": "verheffen van de stem ",
+                "answer_length": 4,
+                "distractors": [
+                    "gebodsbord",
+                    "nooit "
+                ],
+                "language": "nl",
+                "question": "Vanaf wanneer is het aan te raden oorbescherming te dragen ?",
+                "question_length": 11,
+                "score": 0.7359511627601993
+            },
+            {
+                "answer": "Brussel",
+                "answer_length": 1,
+                "distractors": [
+                    "Antwerpen",
+                    "Gent"
+                ],
+                "language": "nl",
+                "question": "geef de juiste keuze aan Geef hoofdstad Belgie",
+                "question_length": 8,
+                "score": 0.7087976767752041
+            },
+            {
+                "answer": "Een afbakeningshek en signalisatieborden ",
+                "answer_length": 4,
+                "distractors": [
+                    "Ijzeren pinnen met rood/wit lint ",
+                    "Blauwe zwaailichten en signalisatieborden "
+                ],
+                "language": "nl",
+                "question": "Rondom de werkput in het voetpad plaats je :",
+                "question_length": 9,
+                "score": 0.6847797342794217
+            },
+            {
+                "answer": "Bij zware lichamelijke schade",
+                "answer_length": 4,
+                "distractors": [
+                    "Bij zware stoffelijke schade ",
+                    "Nooit"
+                ],
+                "language": "nl",
+                "question": "Wanneer wordt , bij een schadegeval veroorzaakt door een niet geidentificeerd voertuig , de stoffelijke schade vergoed door het Belgisch Gemeenschappelijk Waarborgfonds ?",
+                "question_length": 23,
+                "score": 0.6760611146492724
+            },
+            {
+                "answer": "Kleutertijd",
+                "answer_length": 1,
+                "distractors": [
+                    "Peutertijd",
+                    "Schoolleeftijd"
+                ],
+                "language": "nl",
+                "question": "Welke leeftijd wordt vooral gekenmerkt door een spiegelgeweten ?",
+                "question_length": 9,
+                "score": 0.6745896796307458
+            },
+            {
+                "answer": "Als je opnieuw huwt ",
+                "answer_length": 4,
+                "distractors": [
+                    "Als je 45 wordt ",
+                    "Als je feitelijk samenwoont ",
+                    "Als je een beroepsactiviteit uitoefent "
+                ],
+                "language": "nl",
+                "question": "Wanneer verlies je het recht op een overlevingspensioen ?",
+                "question_length": 9,
+                "score": 0.6715327320469611
+            }
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "qid": "ff61c2df-0d04-42c9-b630-780ad0bc6ec7",
+    "response": {
+        "Query": "Welk hormoon wordt aangemaakt in de teelbal?",
+        "Result": [
+            {
+                "answer": "l'huile de coco",
+                "answer_length": 3,
+                "distractors": [
+                    "l'huile d'olive",
+                    "l'huile de germe de ble"
+                ],
+                "language": "fr",
+                "question": "2 points Quelle huile vegetale peut rapidement entrainer une irritation de la peau ?",
+                "question_length": 14,
+                "score": 0.8388186622390673
+            },
+            {
+                "answer": "Chloorhexidine",
+                "answer_length": 1,
+                "distractors": [
+                    "Isobetadine",
+                    "Hibidil"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan ! Welk ontsmettingsmiddel gebruik je best ?",
+                "question_length": 12,
+                "score": 0.7852650117781915
+            },
+            {
+                "answer": "bovenstaande zijn alle 2 juist",
+                "answer_length": 5,
+                "distractors": [
+                    "zenuwuiteinden",
+                    "de hersenen",
+                    "geen van bovenstaande is juist"
+                ],
+                "language": "nl",
+                "question": "Duid aan . Wat zorgt voor de waarneming van pijn ?",
+                "question_length": 11,
+                "score": 0.7220782999418828
+            },
+            {
+                "answer": "bovenstaande zijn alle 2 juist",
+                "answer_length": 5,
+                "distractors": [
+                    "zenuwuiteinden",
+                    "de hersenen",
+                    "geen van bovenstaande is juist"
+                ],
+                "language": "nl",
+                "question": "Wat zorgt voor de waarneming van pijn ? Duid aan .",
+                "question_length": 11,
+                "score": 0.7189346069837029
+            },
+            {
+                "answer": "methionine",
+                "answer_length": 1,
+                "distractors": [
+                    "DNA-polymerase",
+                    "insuline",
+                    "enzym"
+                ],
+                "language": "nl",
+                "question": "Welk van deze stoffen is geen eiwit ?",
+                "question_length": 8,
+                "score": 0.7112586577018121
+            },
+            {
+                "answer": "vitamine P",
+                "answer_length": 2,
+                "distractors": [
+                    "menthol",
+                    "citroen"
+                ],
+                "language": "nl",
+                "question": "2 punten Welke werkstof heeft een bloedvatverstevigende werking ?",
+                "question_length": 9,
+                "score": 0.6576156703229186
+            },
+            {
+                "answer": "opium",
+                "answer_length": 1,
+                "distractors": [
+                    "lood",
+                    "suiker",
+                    "lithium"
+                ],
+                "language": "nl",
+                "question": "Duid aan . Van welke substantie is de pijnstiller morphine afkomstig ?",
+                "question_length": 12,
+                "score": 0.627413100952118
+            },
+            {
+                "answer": "beschermende laag",
+                "answer_length": 2,
+                "distractors": [
+                    "roodbruine stof",
+                    "vochtige lucht"
+                ],
+                "language": "nl",
+                "question": "Wat kan je niet in verband brengen met roest ? Duid het juiste antwoord aan . Er is maar een mogelijkheid .",
+                "question_length": 22,
+                "score": 0.6188380301690076
+            },
+            {
+                "answer": "brandnetel",
+                "answer_length": 1,
+                "distractors": [
+                    "allantoine",
+                    "citroen"
+                ],
+                "language": "nl",
+                "question": "2 punten Welke stof wordt gebruikt vanwege zijn zuiverende eigenschappen ?",
+                "question_length": 11,
+                "score": 0.6083220328427635
+            },
+            {
+                "answer": "Atropine",
+                "answer_length": 1,
+                "distractors": [
+                    "Codeine",
+                    "Morfine",
+                    "Noscapine"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke van onderstaande actieve stoffen komt niet voor in de Papaver somniferum ?",
+                "question_length": 20,
+                "score": 0.6074702243070561
+            }
+        ]
+    }
+}

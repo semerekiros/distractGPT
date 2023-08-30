@@ -1,0 +1,130 @@
+{
+    "qid": "12ede9ae-8dc2-41ec-b4de-8ba71c111704",
+    "response": {
+        "Query": "Waarom heeft de vos een tapetum lucidum?",
+        "Result": [
+            {
+                "answer": "Spintol",
+                "answer_length": 1,
+                "distractors": [
+                    "Tolspin",
+                    "Draaitol"
+                ],
+                "language": "nl",
+                "question": "Waarmee maak je draden ? Bekijk het filmpje . Duid het juiste antwoord aan .",
+                "question_length": 15,
+                "score": 0.9976944093038268
+            },
+            {
+                "answer": "neen",
+                "answer_length": 1,
+                "distractors": [
+                    "ja"
+                ],
+                "language": "nl",
+                "question": "Vind je het antwoord van de onderstaande vraag in de tekst ? Met welke problemen heeft de Kingda Ka vaak te maken ?",
+                "question_length": 23,
+                "score": 0.9976583309698616
+            },
+            {
+                "answer": "Het is de derde keer ",
+                "answer_length": 5,
+                "distractors": [
+                    "Het is de eerste keer ",
+                    "Het is de tweede keer "
+                ],
+                "language": "nl",
+                "question": "Zijn de ouders al naar Mekka gegaan ? Wat is juist ?",
+                "question_length": 12,
+                "score": 0.9973336691796888
+            },
+            {
+                "answer": "vasectomie",
+                "answer_length": 1,
+                "distractors": [
+                    "orgasme",
+                    "erectie",
+                    "ejaculatie"
+                ],
+                "language": "nl",
+                "question": "Wat is niet natuurlijk ?",
+                "question_length": 5,
+                "score": 0.9955726084895796
+            },
+            {
+                "answer": "Een klontje koude boter ",
+                "answer_length": 4,
+                "distractors": [
+                    "E en beetje water "
+                ],
+                "language": "nl",
+                "question": "Meerkeuzeoefening . Wat doe je bij het bakken in boter wanneer de boter iets te bruin wordt of begint te kleuren ? Duid aan :",
+                "question_length": 25,
+                "score": 0.9948645051323424
+            },
+            {
+                "answer": "Belgische Mededingingsautoriteit",
+                "answer_length": 2,
+                "distractors": [
+                    "Belgische Autoriteit Consument en Markt",
+                    "Belgische Bescherming Consument",
+                    "Testaankoop"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Hoe heet de concurrentiewaakhond in Belgie ?",
+                "question_length": 14,
+                "score": 0.9940942507889758
+            },
+            {
+                "answer": "De kabel als hoogspanningskabel beschouwen ",
+                "answer_length": 5,
+                "distractors": [
+                    "De kabel verder ontmantelen "
+                ],
+                "language": "nl",
+                "question": "Wat doe je als er onder de loodmantel zilverpapier zit ?",
+                "question_length": 11,
+                "score": 0.9926570482081877
+            },
+            {
+                "answer": "Naar Mars gaan",
+                "answer_length": 3,
+                "distractors": [
+                    "",
+                    "Een hoofdtransplantatie ondergaan",
+                    "Met een jet vliegen"
+                ],
+                "language": "nl",
+                "question": "Wat wil je in jouw bucketlist zetten ?",
+                "question_length": 8,
+                "score": 0.991872560253707
+            },
+            {
+                "answer": "Eerst lokaliseren en dan identificeren",
+                "answer_length": 5,
+                "distractors": [
+                    "Eerst identificeren en dan lokaliseren",
+                    "De kabel lokaliseren"
+                ],
+                "language": "nl",
+                "question": "Wat moet men doen vooraleer men kan beginnen werken aan papierlood kabels",
+                "question_length": 12,
+                "score": 0.9916673616351432
+            },
+            {
+                "answer": "gladius",
+                "answer_length": 1,
+                "distractors": [
+                    "katapult",
+                    "pugio",
+                    "pilum",
+                    "ballista"
+                ],
+                "language": "nl",
+                "question": "Wat zie je op de afbeelding ?",
+                "question_length": 7,
+                "score": 0.9905550289280033
+            }
+        ]
+    }
+}

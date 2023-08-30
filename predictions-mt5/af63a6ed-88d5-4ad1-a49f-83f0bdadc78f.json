@@ -1,0 +1,5 @@
+{
+    "qid": "af63a6ed-88d5-4ad1-a49f-83f0bdadc78f",
+    "input": "Welke van deze klieren heeft een afvoerbuis? </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. talgklier\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. afvoerklier\n2. slijmklier\n3. visklemmen\n4. vliesklier\n5. stikselkloer\n6. kunststofklier\n7. veeteeltklieren\n8. vezelklier\n9. kliernaan\n10. tandklier"
+}

@@ -1,0 +1,136 @@
+{
+    "qid": "6ef26084-511e-4642-80d5-e7fcc8325ba6",
+    "response": {
+        "Query": "Hoe kan je het volk benoemen dat in dit gebied (Germania) woonde?",
+        "Result": [
+            {
+                "answer": "sociale domein",
+                "answer_length": 2,
+                "distractors": [
+                    "politieke domein",
+                    "economische domein",
+                    "culturele domein"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Bij welk domein hoort de bevolkingsdaling ten gevolge van de pest ?",
+                "question_length": 19,
+                "score": 0.9599356646233131
+            },
+            {
+                "answer": "Keltische volken",
+                "answer_length": 2,
+                "distractors": [
+                    "Turkse immigranten",
+                    "Romeinse burgers",
+                    "ingeweken Grieken"
+                ],
+                "language": "nl",
+                "question": "Wie waren die Belgen die 2 000 jaar geleden in onze streken woonden ? Duid het juiste antwoord aan .",
+                "question_length": 20,
+                "score": 0.9159182907621862
+            },
+            {
+                "answer": "Zuid-Amerika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Azie",
+                    "Afrika",
+                    "Oceanie",
+                    "Noord-Amerika"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk werelddeel herken je op de afbeelding ?",
+                "question_length": 14,
+                "score": 0.883755381002645
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Azie",
+                    "Zuid-Amerika"
+                ],
+                "language": "nl",
+                "question": "Waar komt couscous vandaan ? Bekijk het filmpje . Duid het juiste antwoord aan . Klik hier voor het filmpje",
+                "question_length": 20,
+                "score": 0.8823575036480906
+            },
+            {
+                "answer": "Afrika",
+                "answer_length": 1,
+                "distractors": [
+                    "Europa",
+                    "Azie",
+                    "Oceanie",
+                    "Noord-Amerika",
+                    "Zuid-Amerika"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Welk werelddeel herken je in het midden van de afbeelding ?",
+                "question_length": 17,
+                "score": 0.86178568076549
+            },
+            {
+                "answer": "Forensisch lab",
+                "answer_length": 2,
+                "distractors": [
+                    "Fonetisch lab",
+                    "Fluorlab"
+                ],
+                "language": "nl",
+                "question": "Hoe heet de plaats waar sporen ( bloed , haren , huidschilfers en mogelijk moordwapen ) verder worden onderzocht ? Bekijk het filmpje . Duid het juiste antwoord aan .",
+                "question_length": 30,
+                "score": 0.7864340159866658
+            },
+            {
+                "answer": "Italie",
+                "answer_length": 1,
+                "distractors": [
+                    "italie"
+                ],
+                "language": "nl",
+                "question": "Hoofdletter of niet ? Kies de juiste vorm . Morgen vertrekt ze met haar klas naar ...",
+                "question_length": 17,
+                "score": 0.7705882189148462
+            },
+            {
+                "answer": "fanfare",
+                "answer_length": 1,
+                "distractors": [
+                    "Fanfare"
+                ],
+                "language": "nl",
+                "question": "Hoofdletter of niet ? Kies de juiste vorm . Ze speelt samen met haar pa in de ...",
+                "question_length": 18,
+                "score": 0.7679955180597765
+            },
+            {
+                "answer": "Tu participes ?",
+                "answer_length": 3,
+                "distractors": [
+                    "Informe-toi ",
+                    "Pourquoi pas Julie ?",
+                    "Trop tard "
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Waarover gaat het gesprek tussen Emma en Lucas ? Kies de juiste titel .",
+                "question_length": 21,
+                "score": 0.754410066558863
+            },
+            {
+                "answer": "Italianen , Polen , Turken",
+                "answer_length": 5,
+                "distractors": [
+                    "Italianen , Polen , Zuid-Afrikanen",
+                    "Polen , Turken , Zuid-Afrikanen"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke nationaliteiten vermeldt de oude dame ?",
+                "question_length": 14,
+                "score": 0.7497264781431138
+            }
+        ]
+    }
+}

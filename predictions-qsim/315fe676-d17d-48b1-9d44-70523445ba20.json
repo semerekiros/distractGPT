@@ -1,0 +1,122 @@
+{
+    "qid": "315fe676-d17d-48b1-9d44-70523445ba20",
+    "response": {
+        "Query": "Indiquez la bonne reponse . Celui qui ecrit une piece de theatre",
+        "Result": [
+            {
+                "answer": "le dramaturge",
+                "answer_length": 2,
+                "distractors": [
+                    "l'auteur",
+                    "l'acteur"
+                ],
+                "language": "fr",
+                "question": "Indiquez la bonne reponse . Celui qui ecrit une piece de theatre",
+                "question_length": 12,
+                "score": 0.9966221654619698
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Lisez le document ci-dessous avant de repondre a la question . Il est conseille d'installer le siege-auto dans le siege passager equipe d'un airbag : Cochez la reponse qui convient .",
+                "question_length": 31,
+                "score": 0.9955325342559337
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Lisez le document ci-dessous avant de repondre a la question . Cette offre d'emploi s'adresse aux assistants maternels : Cochez la reponse qui convient .",
+                "question_length": 25,
+                "score": 0.9938597074110394
+            },
+            {
+                "answer": "aura gagne plus d'argent ",
+                "answer_length": 4,
+                "distractors": [
+                    "aura gagne moins d'argent ",
+                    "aura gagne autant d'argent "
+                ],
+                "language": "fr",
+                "question": "Lisez le document et repondez a la question . Lorsque Madame Antoine recevra son nouveau bulletin de paie , elle :",
+                "question_length": 21,
+                "score": 0.9938154118455766
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Lisez le document ci-dessous avant de repondre a la question . Plusieurs enfants peuvent dormir dans le lit : Cochez la reponse qui convient .",
+                "question_length": 25,
+                "score": 0.9911230856701724
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Il est utile d'apporter votre livret de famille lors d'un entretien d'embauche : COCHEZ la bonne re\u0301ponse .",
+                "question_length": 18,
+                "score": 0.9910681091976364
+            },
+            {
+                "answer": "Faux",
+                "answer_length": 1,
+                "distractors": [
+                    "Vrai"
+                ],
+                "language": "fr",
+                "question": "Tick the correct answer . La personne devra travailler comme metallier serrurier et devra se deplacer partout en France .",
+                "question_length": 20,
+                "score": 0.9894095493709875
+            },
+            {
+                "answer": "Les dommages",
+                "answer_length": 2,
+                "distractors": [
+                    "Le fait dommageable",
+                    "La demande"
+                ],
+                "language": "fr",
+                "question": "Lequel des elements suivants doit au minimum avoir lieu pendant la duree du contrat pour etre couvert par une assurance de la responsabilite ?",
+                "question_length": 24,
+                "score": 0.9886108250328368
+            },
+            {
+                "answer": "d'un retard de livraison ",
+                "answer_length": 4,
+                "distractors": [
+                    "d'une marchandise en mauvais etat ",
+                    "d'une prevision de mauvais temps "
+                ],
+                "language": "fr",
+                "question": "Lisez le document et repondez a la question . Michelle doit informer la societe Coudert :",
+                "question_length": 16,
+                "score": 0.9872584462883103
+            },
+            {
+                "answer": "FAUX",
+                "answer_length": 1,
+                "distractors": [
+                    "VRAI"
+                ],
+                "language": "fr",
+                "question": "Choisir la bonne reponse La gestion de l'identite du patient est la seule responsabilite du personnel administratif des admissions .",
+                "question_length": 20,
+                "score": 0.987210563803757
+            }
+        ]
+    }
+}

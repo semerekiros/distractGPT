@@ -1,0 +1,129 @@
+{
+    "qid": "c5d7a5ba-d6d0-42ad-a9ba-e4f6e525366d",
+    "response": {
+        "Query": "Welke herkenningspunten zijn belangrijk voor een referentiekaart van Belgi\u00eb?",
+        "Result": [
+            {
+                "answer": "verzadigde dampfase en vloeibare fase ",
+                "answer_length": 5,
+                "distractors": [
+                    "vaste fase en vloeibare fase ",
+                    "verzadigde dampfase en vaste fase ",
+                    "onverzadigde dampfase en vloeibare fase "
+                ],
+                "language": "nl",
+                "question": "3 . Op de dampspanningslijn kunnen de volgende aggregatietoestanden in evenwicht voorkomen :",
+                "question_length": 13,
+                "score": 0.8525461382940693
+            },
+            {
+                "answer": "Nuva",
+                "answer_length": 1,
+                "distractors": [
+                    "Aqua",
+                    "Amo",
+                    "Stella"
+                ],
+                "language": "nl",
+                "question": "Welke module is een ontspannende meeslepende ervaring voor volwassenen , die zich afspeelt in het bos en in de wolken ? Duid het juiste antwoord aan .",
+                "question_length": 27,
+                "score": 0.7287347024182586
+            },
+            {
+                "answer": "De waarborg BA Gezin",
+                "answer_length": 4,
+                "distractors": [
+                    "De waarborg Rechtsbijstand"
+                ],
+                "language": "nl",
+                "question": "De klant komt binnen met volgend verhaal : Zijn buurman eist vergoeding voor schade aan zijn wagen , die door de kinderen van je klant zou aangebracht zijn . Ze hadden volgens de buurman cowboy en indiaan gespeeld ... Jouw klant kan helemaal niet aannemen dat de schade veroorzaakt werd door zijn kinderen . De klant heeft een familiale verzekering met ook een waarborg rechtsbijstand bij je afgesloten . Welke waarborg ( en ) zal ( zullen ) gebruikt worden ?",
+                "question_length": 81,
+                "score": 0.5981238226861232
+            },
+            {
+                "answer": "Tak 21",
+                "answer_length": 2,
+                "distractors": [
+                    "Tak 23",
+                    "Tak 26"
+                ],
+                "language": "nl",
+                "question": "In welke tak is het product \u201c uitgesteld kapitaal met tegenverzekering \u201d opgenomen ?",
+                "question_length": 14,
+                "score": 0.516787913514473
+            },
+            {
+                "answer": "het zwembad in je tuin ",
+                "answer_length": 5,
+                "distractors": [
+                    "het leger "
+                ],
+                "language": "nl",
+                "question": "Met welk middel kunnen collectieve behoeften niet bevredigd worden ?",
+                "question_length": 10,
+                "score": 0.4064997430391539
+            },
+            {
+                "answer": "Een eigenaar-uitbater",
+                "answer_length": 2,
+                "distractors": [
+                    "Woning met een gedeelte kantoor",
+                    "Een beschermd gebouw"
+                ],
+                "language": "nl",
+                "question": "Welke van de onderstaande risico 's is niet verzekerbaar in het bankkanaal ?",
+                "question_length": 13,
+                "score": 0.25625598217242496
+            },
+            {
+                "answer": "Tak 22",
+                "answer_length": 2,
+                "distractors": [
+                    "Tak 21",
+                    "Tak 23",
+                    "Tak 26"
+                ],
+                "language": "nl",
+                "question": "Tot welke verzekeringstak behoren de bruidsschat en geboorteverzekeringen die niet verbonden zijn met beleggingsfondsen ?",
+                "question_length": 15,
+                "score": 0.16217595967942333
+            },
+            {
+                "answer": "Gebouwen ",
+                "answer_length": 1,
+                "distractors": [
+                    "Terreinen ",
+                    "Voorraden "
+                ],
+                "language": "nl",
+                "question": "Op welke soort van activa kan men altijd een afschrijving boeken ?",
+                "question_length": 12,
+                "score": 0.146879632167974
+            },
+            {
+                "answer": "De waarborg Beroepsaansprakelijkheid",
+                "answer_length": 3,
+                "distractors": [
+                    "De waarborg BA Uitbating",
+                    "De waarborg Rechtsbijstand"
+                ],
+                "language": "nl",
+                "question": "De potentiele verzekeringnemer is een ontwerpbureau met een specifieke knowhow voor het planmatig uitwerken van diverse industriele machines . Zijn activiteit omvat niet de realisatie van de machines zelf , maar hij vreest dat eventuele rekenfouten later schade kunnen veroorzaken bij de machineoperatoren . Welke poliswaarborg ( en ) gaat u hem zeker voorstellen ?",
+                "question_length": 55,
+                "score": 0.12934110330250015
+            },
+            {
+                "answer": "Volledige afkoop ",
+                "answer_length": 2,
+                "distractors": [
+                    "Gedeeltelijke afkoop ",
+                    "Reductie "
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . De stopzetting van de betaling van de premies samen met de terugbetaling van de praktische afkoopwaarde zijn kenmerken van welke verrichting ?",
+                "question_length": 28,
+                "score": 0.10971097380599176
+            }
+        ]
+    }
+}

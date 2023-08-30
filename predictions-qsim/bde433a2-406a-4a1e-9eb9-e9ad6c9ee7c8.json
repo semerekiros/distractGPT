@@ -1,0 +1,129 @@
+{
+    "qid": "bde433a2-406a-4a1e-9eb9-e9ad6c9ee7c8",
+    "response": {
+        "Query": "Welk dier heeft geen klauwen?",
+        "Result": [
+            {
+                "answer": "Dr Denaeghel",
+                "answer_length": 2,
+                "distractors": [
+                    "Dr Boonen",
+                    "Dr Maenhout"
+                ],
+                "language": "nl",
+                "question": "Wie is onze CRA ?",
+                "question_length": 5,
+                "score": 0.9862843519033188
+            },
+            {
+                "answer": "Burgerlijke Aansprakelijkheid",
+                "answer_length": 2,
+                "distractors": [
+                    "Bestuurlijke Aansprakelijkheid",
+                    "Bestuurlijke Afhankelijkheid"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Waar staat BA voor ?",
+                "question_length": 11,
+                "score": 0.9839239673090682
+            },
+            {
+                "answer": "JEBROER",
+                "answer_length": 1,
+                "distractors": [
+                    "Je zus",
+                    "Jezus"
+                ],
+                "language": "de",
+                "question": "Met wie ga je koken ?",
+                "question_length": 6,
+                "score": 0.978651095238551
+            },
+            {
+                "answer": "Vlaming",
+                "answer_length": 1,
+                "distractors": [
+                    "Waal",
+                    "Nederlander",
+                    "Noor",
+                    "Duitser"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Wie nam deze foto ?",
+                "question_length": 11,
+                "score": 0.9730022972025242
+            },
+            {
+                "answer": "de mens",
+                "answer_length": 2,
+                "distractors": [
+                    "goudvis",
+                    "slang"
+                ],
+                "language": "nl",
+                "question": "Welk dier is een zoogdier ?",
+                "question_length": 6,
+                "score": 0.9631281764760001
+            },
+            {
+                "answer": "een veiling in Frankrijk ",
+                "answer_length": 4,
+                "distractors": [
+                    "een congres voor landbouwers "
+                ],
+                "language": "nl",
+                "question": "Meerkeuzevraag ( 1 juist antwoord ) Waar gaat deze reportage over ? Het gaat over :",
+                "question_length": 16,
+                "score": 0.9629188048064247
+            },
+            {
+                "answer": "bruin",
+                "answer_length": 1,
+                "distractors": [
+                    "groen",
+                    "blauw",
+                    "zwart"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welke gordel heeft Vincent in de karatesport ?",
+                "question_length": 15,
+                "score": 0.9609923145181658
+            },
+            {
+                "answer": "Wim",
+                "answer_length": 1,
+                "distractors": [
+                    "Jurgen",
+                    "Liesbeth"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan Wie is er PO vandaag ?",
+                "question_length": 11,
+                "score": 0.9602627202234659
+            },
+            {
+                "answer": "in Australie",
+                "answer_length": 2,
+                "distractors": [
+                    "in Amerika",
+                    "in China"
+                ],
+                "language": "nl",
+                "question": "Zoek in het artikel . Waar woont Peng nu ?",
+                "question_length": 10,
+                "score": 0.9563137366310508
+            },
+            {
+                "answer": "een televisiepresentatrice",
+                "answer_length": 2,
+                "distractors": [
+                    "een radiojournaliste"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Wie is Cecile Djunga ?",
+                "question_length": 12,
+                "score": 0.9551553972518245
+            }
+        ]
+    }
+}

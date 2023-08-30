@@ -1,0 +1,5 @@
+{
+    "qid": "c419370c-d111-412f-abde-d888dc15eddb",
+    "input": "Indiquez la reponse correcte . Les Francais appellent leur pays ... </s> Welke van de volgende zijn onjuiste antwoorden? </s> \n1. l'hexagone\n2. <extra_id_0>\n3. <extra_id_1>\n4. <extra_id_2>\n5. <extra_id_3>\n6. <extra_id_4>\n7. <extra_id_5>\n8. <extra_id_6>\n9. <extra_id_7>\n10. <extra_id_8>\n11. <extra_id_9>",
+    "response": "\n\n1. l'italie\n2. la belgique\n3. la france\n4. l'argentine\n5. le sud\n6. le suede\n7. toutes les reponses sont correctes\n8. le roumain\n9. aucune des reponses n'est correcte\n10. toutes les reponses sont correct"
+}

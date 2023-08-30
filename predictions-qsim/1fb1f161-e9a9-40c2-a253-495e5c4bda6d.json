@@ -1,0 +1,134 @@
+{
+    "qid": "1fb1f161-e9a9-40c2-a253-495e5c4bda6d",
+    "response": {
+        "Query": "Bij een breukschaal van 1 : 100 000 is 1 cm gelijk aan...",
+        "Result": [
+            {
+                "answer": "50 m/s",
+                "answer_length": 2,
+                "distractors": [
+                    "15 m/s",
+                    "30 m/s",
+                    "70 m/s"
+                ],
+                "language": "nl",
+                "question": "Je kan ook de snelheid berekenen van de wagen berekenen . Die is gelijk aan :",
+                "question_length": 16,
+                "score": 0.9570903279394657
+            },
+            {
+                "answer": "4,5 dm",
+                "answer_length": 2,
+                "distractors": [
+                    "450 cm",
+                    "45 mm"
+                ],
+                "language": "nl",
+                "question": "Als de schaal 1:30 is dan is de afstand die op een kaart gelijk is aan 1,5 cm in werkelijkheid gelijk aan ... .",
+                "question_length": 24,
+                "score": 0.9305173654225961
+            },
+            {
+                "answer": "13 cm",
+                "answer_length": 2,
+                "distractors": [
+                    "8,0 m",
+                    "450 cm",
+                    "80 cm"
+                ],
+                "language": "nl",
+                "question": "Op een veer met veerconstante 400 N/m wordt een kracht uitgeoefend van 50 N. De veer wordt dan uitgerekt met een waarde gelijk aan :",
+                "question_length": 25,
+                "score": 0.914249247208663
+            },
+            {
+                "answer": "0,33 m/s",
+                "answer_length": 2,
+                "distractors": [
+                    "0,11 m/s",
+                    "0,23 m/s",
+                    "3,0 m/s"
+                ],
+                "language": "nl",
+                "question": "Een golf wordt beschreven door y ( x , t ) = 8,0 cm sin \u2061 ( 3,0 s -1 t - 9,0 m -1 x ) . Wat is de snelheid van de golf ?",
+                "question_length": 36,
+                "score": 0.8682763067937711
+            },
+            {
+                "answer": "L = 514,29 m",
+                "answer_length": 4,
+                "distractors": [
+                    "L = 1025,58 m",
+                    "L = 207,14 m"
+                ],
+                "language": "nl",
+                "question": "Er moet een draadspoel gewikkeld worden met een geisoleerde koperdraad met een doorsnede van 1,2 mm2 waarvan de weerstand 7,5Omega moet bedragen . Bepaal de lengte .",
+                "question_length": 27,
+                "score": 0.8645742943194773
+            },
+            {
+                "answer": "40 mm",
+                "answer_length": 2,
+                "distractors": [
+                    "45 mm",
+                    "50 mm",
+                    "60 mm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Twee puntladingen P en Q bevinden zich 100 mm van elkaar . X is een punt op de lijn tussen P en Q. Wat is de afstand van P tot X als de potentiaal in X nul is ?",
+                "question_length": 46,
+                "score": 0.8491789847002263
+            },
+            {
+                "answer": "I = 8,364A",
+                "answer_length": 3,
+                "distractors": [
+                    "I = 4,956",
+                    "I = 12,642"
+                ],
+                "language": "nl",
+                "question": "De kookplaat van een elektrisch fornuis voor 230V heeft een weerstand van 27,5Omega . Bereken de opgenomen stroom .",
+                "question_length": 19,
+                "score": 0.8333877954084076
+            },
+            {
+                "answer": "115Omega",
+                "answer_length": 1,
+                "distractors": [
+                    "460Omega",
+                    "11,5Omega"
+                ],
+                "language": "nl",
+                "question": "Als men een broodrooster op een spanning van 230 volt aansluit , en er vloeit een stroom van 2 ampere hoe groot is dan zijn weerstand ?",
+                "question_length": 27,
+                "score": 0.8071039227256197
+            },
+            {
+                "answer": "10 cm",
+                "answer_length": 2,
+                "distractors": [
+                    "15 cm",
+                    "20 cm",
+                    "25 cm"
+                ],
+                "language": "nl",
+                "question": "Het beeld gevormd van een voorwerp op 6,0 cm voor een holle spiegel , wordt gevormd 15 cm achter de spiegel . De brandpuntsafstand van de spiegel is gelijk aan :",
+                "question_length": 31,
+                "score": 0.7977659231486351
+            },
+            {
+                "answer": "8 m",
+                "answer_length": 2,
+                "distractors": [
+                    "4 m",
+                    "16 m",
+                    "2 m"
+                ],
+                "language": "nl",
+                "question": "Duid het juiste antwoord aan . Een balk met een oppervlakte van 290 m 2 heeft een lengte van 11 m en een hoogte van 3 m. Bepaal de breedte van deze balk .",
+                "question_length": 34,
+                "score": 0.7932406638142431
+            }
+        ]
+    }
+}

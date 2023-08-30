@@ -1,0 +1,503 @@
+[
+    {
+        "question": "'degager ' un arome signifie ...",
+        "answer": "le repandre",
+        "language": "nl",
+        "distractors": [
+            "le creer",
+            "le sentir"
+        ],
+        "qid": "1a76f718-2448-4623-bf2f-6ca3926d44dd"
+    },
+    {
+        "question": "Lis les phrases . Indique les mots remplaces par \u00ab en \u00bb . Apres ton match de tennis , tu en veux plusieurs .",
+        "answer": "des boissons fraiches",
+        "language": "nl",
+        "distractors": [
+            "les boissons fraiches"
+        ],
+        "qid": "30808001-7b4a-48f5-a7ae-6a6deed00c99"
+    },
+    {
+        "question": "... est le photopigment present dans les batonnets et les cones de l'oeil .",
+        "answer": "Cis -retinal",
+        "language": "nl",
+        "distractors": [
+            "Carotene",
+            "Photochrome",
+            "Chlorophylle"
+        ],
+        "qid": "7d1c6f15-30a0-4d49-a149-a01707d1703f"
+    },
+    {
+        "question": "Poser sa candidature : choisissez le mot approprie een vacature",
+        "answer": "une vacance",
+        "language": "nl",
+        "distractors": [
+            "une vacation"
+        ],
+        "qid": "9da29b19-6374-4ad2-9a2e-40a0cb28f1f3"
+    },
+    {
+        "question": "Indicatif ou subjonctif ? Choisis le bon verbe . J'exigue que vous m ' ... !",
+        "answer": "aidiez",
+        "language": "nl",
+        "distractors": [
+            "aidez"
+        ],
+        "qid": "49ae99c4-b959-4b5c-99d7-d349fb67de46"
+    },
+    {
+        "question": "Choisis la bonne forme . ... beau cadeau",
+        "answer": "ton",
+        "language": "nl",
+        "distractors": [
+            "ta"
+        ],
+        "qid": "878c87ab-388a-4670-841e-08f015570ae3"
+    },
+    {
+        "question": "Indiquez l'adjectif possessif correct . Il veut battre ... record .",
+        "answer": "son",
+        "language": "nl",
+        "distractors": [
+            "sa",
+            "ses"
+        ],
+        "qid": "aec5e9a4-39ea-465d-91ba-1fe6e4e6556c"
+    },
+    {
+        "question": "Personne n'________________ reserve cette chambre d'hotel .",
+        "answer": "aurait",
+        "language": "nl",
+        "distractors": [
+            "avait",
+            "a"
+        ],
+        "qid": "8106801e-0883-4b36-8c34-8f9da9feba18"
+    },
+    {
+        "question": "Que signifie cette locution latine ? Une reponse est possible . Quel est la traduction litterale de la locution latine et caetera ?",
+        "answer": "Et ainsi continue",
+        "language": "nl",
+        "distractors": [
+            "En comptant bien",
+            "Et les autres choses"
+        ],
+        "qid": "67720129-4b15-4299-a91d-0b94f4433a9d"
+    },
+    {
+        "question": "Devinettes . Qui suis-je ? Mettez une croix . Je suis un nombre pair et j'ai trois chiffres .",
+        "answer": "820",
+        "language": "nl",
+        "distractors": [
+            "111",
+            "78",
+            "569",
+            "66",
+            "1540"
+        ],
+        "qid": "e9db47a4-baa2-49fc-a6d6-be3c8d3e3739"
+    },
+    {
+        "question": "Lis et indique quel temps tu reconnais . Ferme la porte , Alain !",
+        "answer": "Imperatif",
+        "language": "nl",
+        "distractors": [
+            "Indicatif present",
+            "Futur proche",
+            "Passe recent",
+            "Passe compose"
+        ],
+        "qid": "289b80cd-4277-49b1-8c29-cfe03329c988"
+    },
+    {
+        "question": "Choisissez le synonyme du premier mot dans la liste suivante : courtoisie",
+        "answer": "galanterie",
+        "language": "nl",
+        "distractors": [
+            "tranquillite",
+            "disponibilite",
+            "proprete"
+        ],
+        "qid": "0360e0af-bcd5-4e2a-ba26-63b2ba3da746"
+    },
+    {
+        "question": "Choisissez l'article correct . ... glace",
+        "answer": "une",
+        "language": "nl",
+        "distractors": [
+            "un"
+        ],
+        "qid": "a3058b70-5aef-4969-ab76-8881c5a22737"
+    },
+    {
+        "question": "Choisissez la preposition adequate . L'annee derniere , la conference etait organisee ... Rome .",
+        "answer": "a",
+        "language": "nl",
+        "distractors": [
+            "au",
+            "jusqu ' a",
+            "vers"
+        ],
+        "qid": "738fd4c2-9c94-4362-bc57-937afd9d5bf3"
+    },
+    {
+        "question": "Indiquez la reponse correcte . Les Francais appellent leur pays ...",
+        "answer": "l'hexagone ",
+        "language": "nl",
+        "distractors": [
+            "l'octogone",
+            "le decagone"
+        ],
+        "qid": "c419370c-d111-412f-abde-d888dc15eddb"
+    },
+    {
+        "question": "le nom d'un insecte sauteur ?",
+        "answer": "la sauterelle",
+        "language": "nl",
+        "distractors": [
+            "la sauteuse",
+            "le sauteur"
+        ],
+        "qid": "9ea0af3e-18cc-4bc0-8a9d-38c5c1f904f7"
+    },
+    {
+        "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Le mediateur americain a pu reconcilier les ... .. et obtenir en quelques jours un compromis acceptable .",
+        "answer": "parties",
+        "language": "nl",
+        "distractors": [
+            "partis"
+        ],
+        "qid": "93b14ef3-9764-4b09-aad5-42cc50804569"
+    },
+    {
+        "question": "l'alouette en neerlandais ?",
+        "answer": "de leeuwerik",
+        "language": "nl",
+        "distractors": [
+            "de merel",
+            "de kwartel"
+        ],
+        "qid": "0a1adffb-f698-43ab-aaef-522cc3d9f7d6"
+    },
+    {
+        "question": "Adjectif , adverbe ou adjectif employe comme adverbe . Indiquez la bonne reponse . Ces fleurs sentent ...",
+        "answer": "bon ",
+        "language": "nl",
+        "distractors": [
+            "bien"
+        ],
+        "qid": "4ecd0c0c-0726-4d30-a018-96b5e91f5878"
+    },
+    {
+        "question": "Choisis . C'est le passe , le present ou le futur ? Vous ouvrez toujours la fenetre de la cuisine ?",
+        "answer": "present",
+        "language": "nl",
+        "distractors": [
+            "passe",
+            "futur"
+        ],
+        "qid": "77132401-dd69-4d2c-89b9-05385b477c7d"
+    },
+    {
+        "question": "Cochez l'article correct . ... pere",
+        "answer": "un",
+        "language": "nl",
+        "distractors": [
+            "une",
+            "des"
+        ],
+        "qid": "2000e80f-35ff-4571-9b05-d30a45fce092"
+    },
+    {
+        "question": "Completez la citation humoristique de Philippe Bouvard . Cotation en Bourse : possibilite de ... a des gens qu'on ne connait pas un produit qu'ils ignorent .",
+        "answer": "vendre",
+        "language": "nl",
+        "distractors": [
+            "fournir",
+            "donner",
+            "passer"
+        ],
+        "qid": "be30623b-059c-45cf-9367-cab08f41b0e5"
+    },
+    {
+        "question": "Indiquez la bonne reponse . Celui qui ecrit une piece de theatre",
+        "answer": "le dramaturge",
+        "language": "nl",
+        "distractors": [
+            "l'auteur",
+            "l'acteur"
+        ],
+        "qid": "315fe676-d17d-48b1-9d44-70523445ba20"
+    },
+    {
+        "question": "Au camp . Complete par le bon mot . - Julie s'est blessee au pied . degrees Prends du desinfectant dans ... a pharmacie .",
+        "answer": "ma trousse",
+        "language": "nl",
+        "distractors": [
+            "mon sac"
+        ],
+        "qid": "35e5b321-618c-471b-88d4-3a7395a1ab72"
+    },
+    {
+        "question": "Cochez la bonne reponse . [ lang=en ] Tick off the correct answer . [ /lang ] [ lang=nl ] Duid het juiste anwoord aan . [ /lang ] Madame Temouche , Nous vous signalons que le bateau avec vos marchandises est arrive au port de Dakar . Nous avons le plaisir de vous annoncer qu'il s'agit d'une livraison de coton de qualite superieure . Bien cordialement , Maurice Guadelien Qu'est-ce que Madame Temouche a achete ?",
+        "answer": "du coton",
+        "language": "nl",
+        "distractors": [
+            "un bateau",
+            "une livraison",
+            "un port"
+        ],
+        "qid": "8e3f9c1b-a645-41cd-aade-4ede24ccb56b"
+    },
+    {
+        "question": "Cochez la bonne forme du futur simple . Vous ... le train a Nice ou a Cannes ?",
+        "answer": "prendrez",
+        "language": "nl",
+        "distractors": [
+            "prendrai",
+            "prendra",
+            "prendras"
+        ],
+        "qid": "0dda7de0-0888-4867-afb6-fc6fda17fb43"
+    },
+    {
+        "question": "Chaque mercredi pendant votre intervention , vous faites une partie de jeu de societe avec Madame LULU . Cette semaine , vous vous etes rendu compte qu'elle ne se souvient plus des regles du jeu . Que faites-vous ? COCHEZ la bonne re\u0301ponse .",
+        "answer": "J'en parle a la famille",
+        "language": "nl",
+        "distractors": [
+            "J'appelle immediatement le medecin"
+        ],
+        "qid": "fab2715e-1608-4a9d-a783-6d4ae0c26e8a"
+    },
+    {
+        "question": "Completez par la preposition correcte . Ma voisine est tres gentille . Elle dit bonjour ... tout le monde .",
+        "answer": "a",
+        "language": "nl",
+        "distractors": [
+            "en",
+            "depuis"
+        ],
+        "qid": "b0f5d93e-76ec-43d3-a6ac-e5df6462d0c5"
+    },
+    {
+        "question": "Choisis la bonne traduction . Je ne rate pas d'emission sur TF1 .",
+        "answer": "missen",
+        "language": "nl",
+        "distractors": [
+            "opnemen"
+        ],
+        "qid": "726748e6-fc4a-44a0-accb-e7a8cd19f8c6"
+    },
+    {
+        "question": "Choisis la bonne traduction et complete les phrases . regenachtig Nous avons eu une journee ... en Ardenne .",
+        "answer": "pluvieuse",
+        "language": "nl",
+        "distractors": [
+            "variable",
+            "douce"
+        ],
+        "qid": "a12795c6-c6d5-4f04-b8c8-ea552494890d"
+    },
+    {
+        "question": "Indique la bonne traduction . Duid de juiste vertaling aan . Les pompiers arrivent !",
+        "answer": "de brandweer",
+        "language": "nl",
+        "distractors": [
+            "brandweer"
+        ],
+        "qid": "6226bda2-7b57-4a50-90e1-a31cc3fa4ed4"
+    },
+    {
+        "question": "Cochez la reponse correcte . Que signifie l'expression `` Tiens-moi au courant '' , que l'on peut trouver dans un courriel ?",
+        "answer": "Informe-moi ",
+        "language": "nl",
+        "distractors": [
+            "Comment vas-tu ?",
+            "Ne m'oublie pas",
+            "Ne m'en veux pas"
+        ],
+        "qid": "43706816-f0c8-44f9-90c7-2b90343417a3"
+    },
+    {
+        "question": "du pain trop vieux s'appelle ...",
+        "answer": "rassis",
+        "language": "nl",
+        "distractors": [
+            "cassis",
+            "lassis"
+        ],
+        "qid": "0694b972-d25b-45b5-8b3c-a0f2fe635aee"
+    },
+    {
+        "question": "Choisis la bonne reponse . Avant , tu ne ... jamais du piano .",
+        "answer": "jouais",
+        "language": "nl",
+        "distractors": [
+            "jouait",
+            "jouaient"
+        ],
+        "qid": "26064310-1284-427c-a8b5-96aef0541d36"
+    },
+    {
+        "question": "Indiquez les bonnes suites de phrases . Elle a un drole d'accent .",
+        "answer": "Elle vient d'un autre pays ",
+        "language": "nl",
+        "distractors": [
+            "C'est moche",
+            "Elle est comique"
+        ],
+        "qid": "333c8879-d5f1-4417-8ff7-e45c716380eb"
+    },
+    {
+        "question": "Choisis la forme correcte du participe passe . Vous avez ... au restaurant chinois hier soir ?",
+        "answer": "ete",
+        "language": "nl",
+        "distractors": [
+            "etee",
+            "etes",
+            "etees"
+        ],
+        "qid": "2c875d9b-8f12-4c64-ad7d-2db3c984c66a"
+    },
+    {
+        "question": "l'adjectif d'ete ?",
+        "answer": "estival",
+        "language": "nl",
+        "distractors": [
+            "etival",
+            "eteval"
+        ],
+        "qid": "a4e3ff34-bb94-4de7-9bb4-f2030dc210e7"
+    },
+    {
+        "question": "Parmi les propositions suivantes , quel est le synonyme d'acrimonie ?",
+        "answer": "Hargne",
+        "language": "nl",
+        "distractors": [
+            "Envi",
+            "Jalousie",
+            "Regret",
+            "toutes les reponses sont correctes",
+            "aucune reponse n'est correcte"
+        ],
+        "qid": "f36c4855-d030-4623-899e-25b3b0110e95"
+    },
+    {
+        "question": "Indiquez a quel temps les verbes sont conjugues .",
+        "answer": "futur simple",
+        "language": "nl",
+        "distractors": [
+            "imparfait",
+            "conditionnel"
+        ],
+        "qid": "f89e5399-7c69-4812-8718-9b781ed75fc4"
+    },
+    {
+        "question": "Choisis . C'est passe compose , present ou future proche ? Je vais chercher un cadeau pour l'anniversaire de Magali .",
+        "answer": "futur proche",
+        "language": "nl",
+        "distractors": [
+            "passe compose",
+            "present"
+        ],
+        "qid": "85939ee8-cb11-4357-a2b0-19da20f056c5"
+    },
+    {
+        "question": "un paillis est ...",
+        "answer": "une litiere de paille",
+        "language": "nl",
+        "distractors": [
+            "un synonyme de mulching",
+            "un fourrage"
+        ],
+        "qid": "fabd52c1-6876-4c96-bd4f-ca477bc199ea"
+    },
+    {
+        "question": "Indique la bonne reaction . Duid de juiste reactie aan . Tu veux m'aider , Ben ?",
+        "answer": "Avec plaisir ",
+        "language": "nl",
+        "distractors": [
+            "Ca doit etre super",
+            "Mon Dieu"
+        ],
+        "qid": "63568939-6e84-4e1f-a132-d69f429ead3c"
+    },
+    {
+        "question": "Completez la phrase en pointille . Pourquoi me posez-vous toutes ces questions ? Je vous ai deja dit ... ... ... ... ... ... ... ... ... ... ... ... ... ... . .",
+        "answer": "que je n'en savais rien",
+        "language": "nl",
+        "distractors": [
+            "que je n'en saurai rien",
+            "si je n'en savais rien",
+            "si je n'en saurai rien"
+        ],
+        "qid": "7d9bfb0e-73ba-49a4-9439-e47cb778fe5d"
+    },
+    {
+        "question": "lequel signifie 'sans couvercle ' ?",
+        "answer": "a decouvert",
+        "language": "nl",
+        "distractors": [
+            "clos",
+            "a couvert"
+        ],
+        "qid": "59368283-81b9-4c64-b4d0-38aff41a9a31"
+    },
+    {
+        "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . ... .. j'avais ete au courant des negociations preparant le rachat de l'entreprise par les salaries , on aurait pu m'accuser de delit d'initie .",
+        "answer": "Si",
+        "language": "nl",
+        "distractors": [
+            "Quand"
+        ],
+        "qid": "66932636-315f-468a-9503-39cc417dd332"
+    },
+    {
+        "question": "Indique la bonne forme . Duid de juiste vorm aan . On prend des oranges ... des pommes ?",
+        "answer": "ou",
+        "language": "nl",
+        "distractors": [
+            "ou"
+        ],
+        "qid": "75b54a27-be23-45a3-80b3-3bf5f136f65c"
+    },
+    {
+        "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Dans ... .. pays , la loi tolere la bigamie .",
+        "answer": "certains",
+        "language": "nl",
+        "distractors": [
+            "quelques"
+        ],
+        "qid": "31e2819f-d3cf-4fdf-babb-85d18f5a2af8"
+    },
+    {
+        "question": "Ecoute les phrases . Indique le temps du passe que tu reconnais .",
+        "answer": "imparfait",
+        "language": "nl",
+        "distractors": [
+            "passe recent",
+            "passe compose"
+        ],
+        "qid": "2b11f425-8cb0-4b13-899b-a0c49aa04af8"
+    },
+    {
+        "question": "Completez la phrase suivante a l'aide d'un des termes donnes . Choisissez la bonne reponse . Saint-Veran , la commune la plus haute de France , est a 2046 metres [ d'/de ] ... .. .",
+        "answer": "altitude",
+        "language": "nl",
+        "distractors": [
+            "hauteur"
+        ],
+        "qid": "0b914d71-008a-4db8-9ae5-358dc6127f34"
+    },
+    {
+        "question": "Toutes les annees , mes grands-parents ... la ville de Lourdes .",
+        "answer": "visitaient",
+        "language": "nl",
+        "distractors": [
+            "ont visite"
+        ],
+        "qid": "2a9a754d-43e7-4879-b5c6-b99ba2356d07"
+    }
+]

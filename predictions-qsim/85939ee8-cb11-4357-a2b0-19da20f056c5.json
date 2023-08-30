@@ -1,0 +1,135 @@
+{
+    "qid": "85939ee8-cb11-4357-a2b0-19da20f056c5",
+    "response": {
+        "Query": "Choisis . C'est passe compose , present ou future proche ? Je vais chercher un cadeau pour l'anniversaire de Magali .",
+        "Result": [
+            {
+                "answer": "futur proche",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "present"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est passe compose , present ou future proche ? Je vais chercher un cadeau pour l'anniversaire de Magali .",
+                "question_length": 21,
+                "score": 0.9747646980882323
+            },
+            {
+                "answer": "futur proche",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "present"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est passe compose , present ou futur proche ? Je vais chercher un cadeau pour l'anniversaire de Magali .",
+                "question_length": 21,
+                "score": 0.9718549871550857
+            },
+            {
+                "answer": "present",
+                "answer_length": 1,
+                "distractors": [
+                    "passe compose"
+                ],
+                "language": "fr",
+                "question": "Lis les phrases et choisis : passe compose ou present ? Ce soir , on mange des spaghettis .",
+                "question_length": 19,
+                "score": 0.9620678222543746
+            },
+            {
+                "answer": "futur simple",
+                "answer_length": 2,
+                "distractors": [
+                    "imparfait",
+                    "passe recent",
+                    "imperatif",
+                    "conditionnel present",
+                    "futur proche"
+                ],
+                "language": "fr",
+                "question": "Ce verbe se trouve dans quel temps ? Aline parlera avec le prof de francais .",
+                "question_length": 16,
+                "score": 0.9600288188907561
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "imparfait",
+                    "passe recent",
+                    "indicatif present",
+                    "futur proche",
+                    "futur simple"
+                ],
+                "language": "fr",
+                "question": "Lis les phrases suivantes . Tu reconnais quel temps ? Ils ont pris le Thalys pour Lille .",
+                "question_length": 18,
+                "score": 0.9533057729770472
+            },
+            {
+                "answer": "futur proche",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "present"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est passe compose , present ou future proche ? Et toi , qu'est-ce que tu vas prendre ?",
+                "question_length": 20,
+                "score": 0.9524294549781386
+            },
+            {
+                "answer": "passe recent",
+                "answer_length": 2,
+                "distractors": [
+                    "passe compose",
+                    "imparfait",
+                    "imperatif",
+                    "conditionnel present",
+                    "futur proche"
+                ],
+                "language": "fr",
+                "question": "Ce verbe se trouve dans quel temps ? Les enfants viennent de se laver .",
+                "question_length": 15,
+                "score": 0.9507225582408666
+            },
+            {
+                "answer": "imparfait",
+                "answer_length": 1,
+                "distractors": [
+                    "indicatif present",
+                    "futur simple"
+                ],
+                "language": "nl",
+                "question": "Le verbe est a quel temps ? Coche la bonne case . In welke tijd staat het werkwoord ? Kruis het juiste vakje aan . Les enfants n'ecoutaient pas .",
+                "question_length": 30,
+                "score": 0.9470496579430037
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "present"
+                ],
+                "language": "fr",
+                "question": "Lis les phrases et choisis : passe compose ou present ? Le docteur a pris des radios .",
+                "question_length": 18,
+                "score": 0.9451819166549016
+            },
+            {
+                "answer": "passe compose",
+                "answer_length": 2,
+                "distractors": [
+                    "present",
+                    "futur proche"
+                ],
+                "language": "fr",
+                "question": "Choisis . C'est passe compose , present ou future proche ? Ah bon , et qu'est-ce que tu as choisi ?",
+                "question_length": 21,
+                "score": 0.9436131454307665
+            }
+        ]
+    }
+}

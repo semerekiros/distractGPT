@@ -1,0 +1,127 @@
+{
+    "qid": "b0f5d93e-76ec-43d3-a6ac-e5df6462d0c5",
+    "response": {
+        "Query": "Completez par la preposition correcte . Ma voisine est tres gentille . Elle dit bonjour ... tout le monde .",
+        "Result": [
+            {
+                "answer": "a",
+                "answer_length": 1,
+                "distractors": [
+                    "en",
+                    "depuis"
+                ],
+                "language": "fr",
+                "question": "Completez par la preposition correcte . Ma voisine est tres gentille . Elle dit bonjour ... tout le monde .",
+                "question_length": 20,
+                "score": 0.7525713592307098
+            },
+            {
+                "answer": "les exportations vers",
+                "answer_length": 3,
+                "distractors": [
+                    "l'export vers",
+                    "l'envoi vers",
+                    "l'expedition vers"
+                ],
+                "language": "fr",
+                "question": "Completez la phrase . Le gouvernement stimule ... les pays europeens .",
+                "question_length": 12,
+                "score": 0.7008004709243907
+            },
+            {
+                "answer": "temps d'attente",
+                "answer_length": 2,
+                "distractors": [
+                    "retard",
+                    "avance"
+                ],
+                "language": "fr",
+                "question": "Que signifie l'expression `` delai de livraison '' ? Le commerce electronique garantit un delai de livraison maximum de 3 jours .",
+                "question_length": 22,
+                "score": 0.585873732989149
+            },
+            {
+                "answer": "d'emballer",
+                "answer_length": 1,
+                "distractors": [
+                    "de recycler"
+                ],
+                "language": "fr",
+                "question": "Indique la phrase correcte . Madame , est-ce possible ... ce collier ? C'est un petit cadeau pour ma soeur .",
+                "question_length": 21,
+                "score": 0.5783205368769196
+            },
+            {
+                "answer": "s'est inscrit a",
+                "answer_length": 3,
+                "distractors": [
+                    "s'est repandu",
+                    "a laisse en veille"
+                ],
+                "language": "fr",
+                "question": "Indiquez le mot qui convient . Hier , mon frere ... l'universite .",
+                "question_length": 13,
+                "score": 0.5267262751690922
+            },
+            {
+                "answer": "ecoute",
+                "answer_length": 1,
+                "distractors": [
+                    "ecouter"
+                ],
+                "language": "nl",
+                "question": "Attention a l'orthographe ! Indique la forme correcte . Let op voor de schrijfwijze ! Duid de correcte vorm aan . J'ai ... le nouveau CD d'Axelle Red .",
+                "question_length": 29,
+                "score": 0.5152685597371399
+            },
+            {
+                "answer": "du",
+                "answer_length": 1,
+                "distractors": [
+                    "pu",
+                    "su"
+                ],
+                "language": "fr",
+                "question": "Indiquez la traduction du participe passe . Nous avons ... ( moeten ) preparer le repas dans notre gamelle .",
+                "question_length": 20,
+                "score": 0.49933016919503476
+            },
+            {
+                "answer": "inviter",
+                "answer_length": 1,
+                "distractors": [
+                    "accepter",
+                    "refuser"
+                ],
+                "language": "fr",
+                "question": "Complete les phrases . Choisis . Je vais ... mes copains de classe .",
+                "question_length": 14,
+                "score": 0.4987554715982416
+            },
+            {
+                "answer": "calme",
+                "answer_length": 1,
+                "distractors": [
+                    "ici",
+                    "assis"
+                ],
+                "language": "fr",
+                "question": "Pas tous a la fois ! Ecoute et coche ce que tu as entendu . Luister en duid aan wat je gehoord hebt . Reste ... .",
+                "question_length": 27,
+                "score": 0.47436595011272314
+            },
+            {
+                "answer": "s'est poursuivie",
+                "answer_length": 2,
+                "distractors": [
+                    "s'est noyee",
+                    "a trouble"
+                ],
+                "language": "fr",
+                "question": "Indiquez la reponse la plus logique . La discussion entre les ministres concernant les nouveaux impots ... tard dans la nuit .",
+                "question_length": 22,
+                "score": 0.4712921570209104
+            }
+        ]
+    }
+}

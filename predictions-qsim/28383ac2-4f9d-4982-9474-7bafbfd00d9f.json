@@ -1,0 +1,139 @@
+{
+    "qid": "28383ac2-4f9d-4982-9474-7bafbfd00d9f",
+    "response": {
+        "Query": "Welk orgaan is verantwoordelijk voor de tijdelijke opslag van zaadcellen?",
+        "Result": [
+            {
+                "answer": "longblaasje",
+                "answer_length": 1,
+                "distractors": [
+                    "longlob",
+                    "luchtpijptakje",
+                    "long"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! In welk orgaan van het ademhalingsstelsel worden afvalstoffen en overtollige stoffen uit het bloed gehaald ?",
+                "question_length": 27,
+                "score": 0.9139517716798078
+            },
+            {
+                "answer": "slokdarm",
+                "answer_length": 1,
+                "distractors": [
+                    "maag",
+                    "hart",
+                    "lever"
+                ],
+                "language": "nl",
+                "question": "Klik het juiste antwoord aan . Een antwoord is juist ! Welk orgaan bevindt zich zowel in de borstholte als in de buikholte ?",
+                "question_length": 24,
+                "score": 0.9092393323387581
+            },
+            {
+                "answer": "hersenschors",
+                "answer_length": 1,
+                "distractors": [
+                    "lever",
+                    "scheenbeen",
+                    "hart"
+                ],
+                "language": "nl",
+                "question": "Welk lichaamsdeel ontwikkelt zich uit het ectoderm ?",
+                "question_length": 8,
+                "score": 0.9087367392201654
+            },
+            {
+                "answer": "nieren",
+                "answer_length": 1,
+                "distractors": [
+                    "huid",
+                    "dikke darm"
+                ],
+                "language": "nl",
+                "question": "2 punten Welk orgaan is in rust het meest van belang voor de waterhuishouding ?",
+                "question_length": 15,
+                "score": 0.9072560484293226
+            },
+            {
+                "answer": "milt",
+                "answer_length": 1,
+                "distractors": [
+                    "lever",
+                    "nier",
+                    "thymus"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . In welk orgaan van het menselijk lichaam worden enorm veel plasmacellen gevormd uit B-lymfocyten voor de productie van antistoffen ?",
+                "question_length": 27,
+                "score": 0.8964299673216536
+            },
+            {
+                "answer": "luchtpijp",
+                "answer_length": 1,
+                "distractors": [
+                    "maag",
+                    "dikke darm",
+                    "slokdarm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk begrip hoort niet thuis in onderstaande lijst ?",
+                "question_length": 16,
+                "score": 0.8952548990266098
+            },
+            {
+                "answer": "urineblaas",
+                "answer_length": 1,
+                "distractors": [
+                    "dikke darm",
+                    "maag",
+                    "slokdarm"
+                ],
+                "language": "nl",
+                "question": "Duid het enige juiste antwoord aan . Welk begrip hoort NIET thuis in onderstaande lijst ?",
+                "question_length": 16,
+                "score": 0.8952540661950888
+            },
+            {
+                "answer": "dikke darm",
+                "answer_length": 2,
+                "distractors": [
+                    "blindedarm",
+                    "maag",
+                    "dunne darm"
+                ],
+                "language": "nl",
+                "question": "Waar gebeurt de afbraak van plantenvezels bij de mens ?",
+                "question_length": 10,
+                "score": 0.8905226144905606
+            },
+            {
+                "answer": "dorsale hoorn",
+                "answer_length": 2,
+                "distractors": [
+                    "dorsale wortel",
+                    "spinaal ganglion",
+                    "hersenzenuw"
+                ],
+                "language": "nl",
+                "question": "9 Welke structuur behoort niet tot het perifeer zenuwstelsel ?",
+                "question_length": 10,
+                "score": 0.8822854073129527
+            },
+            {
+                "answer": "galblaas",
+                "answer_length": 1,
+                "distractors": [
+                    "maag",
+                    "dikke darm",
+                    "endeldarm",
+                    "appendix",
+                    "dunne darm"
+                ],
+                "language": "nl",
+                "question": "Hoe goed ken jij het spijsverteringsstelsel van een zoogdier ? Welk orgaan staat niet op de afbeelding ?",
+                "question_length": 18,
+                "score": 0.882197867593053
+            }
+        ]
+    }
+}
