@@ -37,7 +37,7 @@ The *predictions-**model_name*** folder contains the predictions from each of th
 
 > pip install -r requirements.txt
 
-#### Train mt5 model from scratch ###
+#### Fine-tune mt5 model from scratch ###
 
 <pre> sh run_mt5.sh
 </pre>
