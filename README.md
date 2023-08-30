@@ -43,10 +43,13 @@ The *predictions-**model_name*** folder contains the predictions from each of th
 </pre>
 
 #### To generate distractors using Zero-shot ChatGPT: run ###
-python zeroshot_chatgpt.py --subject "subject-name" --output_path  "output-folder-name"
+
+<pre> python zeroshot_chatgpt.py --subject "subject-name" --output_path  "output-folder-name" </pre>
 
 #### To generate distractors using Few-shot ChatGPT: run ###
-python fewshot_chatGPT.py --subject "subject-name" --output_path  "output-folder-name"
+
+<pre>python fewshot_chatGPT.py --subject "subject-name" --output_path  "output-folder-name" </pre>
 
 #### To generate distractors using Static-Few-shot ChatGPT: run ###
-python static_fewshot_chatGPT.py --subject "subject-name" --output_path  "output-folder-name"
+
+<pre> python static_fewshot_chatGPT.py --subject "subject-name" --output_path  "output-folder-name" </pre>
