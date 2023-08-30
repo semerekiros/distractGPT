@@ -58,3 +58,5 @@ The *predictions-**model_name*** folder contains the predictions from each of th
 #### Acknowledgement 
 
 We use the Python ChatGPT wrapper from [here](https://github.com/llm-workflow-engine/llm-workflow-engine).
+To install the wrapper:
+<pre> pip install git+https://github.com/mmabrouk/chatgpt-wrapper </pre>
