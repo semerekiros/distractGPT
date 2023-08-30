@@ -1,6 +1,6 @@
 # DistractGPT
 
-This repository contains the code for EduQG:
+This repository contains the code for the following paper:
 
 [Distractor generation for multiple-choice questions with predictive prompting and large language models](https://arxiv.org/abs/2307.16338)
 
