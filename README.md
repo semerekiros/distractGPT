@@ -53,3 +53,8 @@ The *predictions-**model_name*** folder contains the predictions from each of th
 #### To generate distractors using Static-Few-shot ChatGPT: run ###
 
 <pre> python static_fewshot_chatGPT.py --subject "subject-name" --output_path  "output-folder-name" </pre>
+
+
+#### Acknowledgement 
+
+We use the Python ChatGPT wrapper from [here](https://github.com/llm-workflow-engine/llm-workflow-engine).
